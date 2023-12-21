@@ -1,11 +1,19 @@
 local Gangs = {
-    [32325896] = {
-          Nome = 'Tokyo Manji Gang',
-    },
+	[32325896] = {
+		Nome = 'Tokyo Manji Gang',
+		Vida = 2000,
+		Itens = {['Dash'] = 0,['Mikey'] = 0,['Yamato'] = 30,['TacoLucille'] = 150},
+		Roupa = {Tier = 95,Shirt = 6850745796,Pants = 7166106431},
+		Cor = {
+			Nome = 	  {Letra = {0,0,0},Borda = {255,255,255}},
+			Patente = {Letra = {0,0,0},Borda = {255,255,255}},
+			Team =    {Letra = {0,0,0},Borda = {255,255,0}},
+		},
+	},----------------------------------- Gang ---------------------------------------------
 
 
-    
- 
+
+
 }
 
 return Gangs
