@@ -11,6 +11,18 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
+	[33529431] = { --------------------------------
+		Nome = 'Yakuza',
+		Vida = 500,
+		Itens = {['Dash'] = 0,['Mikey'] = 0,['Yamato'] = 30,['TacoLucille'] = 100},
+		Roupa = {Tier = 95,Shirt = 0,Pants = 0},
+		Cor = {
+			Nome = 	  {Letra = {0,0,0},Borda = {255,0,0}},
+			Patente = {Letra = {0,0,0},Borda = {255,0,0}},
+			Team =    {Letra = {0,0,0},Borda = {255,0,0}},
+		},
+	},---
+
 
 
 
