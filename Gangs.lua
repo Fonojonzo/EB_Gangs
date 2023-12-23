@@ -14,7 +14,7 @@ local Gangs = {
 	[33529431] = { 
 		Nome = 'Yakuza',
 		Vida = 500,
-		Itens = {['Mikey'] = 0},
+		Itens = {['Mikey'] = 0,['Dash'] = 0},
 		Roupa = {Tier = 95,Shirt = 0,Pants = 0},
 		Cor = {
 			Nome = 	  {Letra = {0,0,0},Borda = {255,0,0}},
@@ -22,7 +22,18 @@ local Gangs = {
 			Team =    {Letra = {0,0,0},Borda = {255,0,0}},
 		},
 	},----------------------------------- Gang ---------------------------------------------
-
+	
+	[0] = { 
+		Nome = 'Akatsuki The Gang',
+		Vida = 750,
+		Itens = {['Mikey'] = 0},
+		Roupa = {Tier = 95,Shirt = 0,Pants = 0},
+		Cor = {
+			Nome = 	  {Letra = {0,0,0},Borda = {255,255,255}},
+			Patente = {Letra = {0,0,0},Borda = {255,255,255}},
+			Team =    {Letra = {0,0,0},Borda = {255,10,10}},
+		},
+	},----------------------------------- Gang ---------------------------------------------
 
 
 
