@@ -50,7 +50,7 @@ local Gangs = {
 	[33504780] = { 
 		Nome = 'Heiwa Gang',
 		Vida = 800,
-		Itens = {['Mikey'] = 0,['TacoLucille'] = {255,254}},
+		Itens = {['Mikey'] = 0,['TacoLucille'] = {255,100,9,7}},
 		Roupa = {Tier = 95,Shirt = 0,Pants = 0},
 		Cor = {
 			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 255, 255}},
