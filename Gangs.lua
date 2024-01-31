@@ -86,7 +86,7 @@ local Gangs = {
 
 	[33386384] = { 
 		Nome = 'The Gods of Legends',
-		Vida = 850,
+		Vida = 1000,
 		Itens = {['Mikey'] = 0},
 		Roupa = {Tier = 95,Shirt = 0,Pants = 0},
 		Cor = { 
@@ -121,7 +121,7 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 	
-	[33760201] = { 
+	[33760201] = { -- The Gods Of Universe (grupo)
 		Nome = 'Hashiras no Manji Gang',
 		Vida = 500,
 		Itens = {['Josef'] = 0},
