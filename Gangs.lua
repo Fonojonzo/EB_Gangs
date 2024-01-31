@@ -121,15 +121,15 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 	
-	[0] = { -- The Gods Of Universe (grupo)
-		Nome = 'Hashiras no Manji Gang',
+	[0] = { -- The Gods Of Universe (grupo) - Loid e // Rafael (pagou)
+		Nome = 'The Cursed Sorcerers',
 		Vida = 500,
 		Itens = {['Josef'] = 0},
 		Roupa = {Tier = 95,Shirt = 0,Pants = 0},
 		Cor = { 
-			Nome = 	  {Letra = {0, 0, 255},Borda = {102, 0, 204}},
-			Patente = {Letra = {0, 0, 255},Borda = {102, 0, 204}},
-			Team =    {Letra = {0, 0, 255},Borda = {102, 0, 204}},
+			Nome = 	  {Letra = {0, 0, 0},Borda = {153, 0, 0}},
+			Patente = {Letra = {0, 0, 0},Borda = {153, 0, 0}},
+			Team =    {Letra = {0, 0, 0},Borda = {153, 0, 0}},
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
