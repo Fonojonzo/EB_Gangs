@@ -121,7 +121,7 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 	
-	[33760201] = { -- The Gods Of Universe (grupo)
+	[0] = { -- The Gods Of Universe (grupo)
 		Nome = 'Hashiras no Manji Gang',
 		Vida = 500,
 		Itens = {['Josef'] = 0},
