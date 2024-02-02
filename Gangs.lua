@@ -169,7 +169,7 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[0] = { -- supostamente roubada id 33793567 dia 01/02
+	[33793567] = { -- supostamente roubada id  dia 01/02
 		Nome = 'The Hunters',
 		Vida = 750,
 		Itens = {['Mikey'] = 0},
