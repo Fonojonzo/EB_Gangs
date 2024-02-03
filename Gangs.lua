@@ -182,7 +182,7 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 	[33760201] = { 
-		Nome = 'Toman Toji Gang',
+		Nome = 'Hashiras no Manji Gang',
 		Vida = 500,
 		Itens = {['Josef'] = 0},
 		Roupa = {Tier = 95,Shirt = 0,Pants = 0},
