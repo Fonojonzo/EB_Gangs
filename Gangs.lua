@@ -61,14 +61,14 @@
 	},----------------------------------- Gang ---------------------------------------------
 
 	[33504780] = { 
-		Nome = 'Heiwa Gang',
+		Nome = 'Feiticeiros Jujutsu',
 		Vida = 800,
 		Itens = {['Mikey'] = 0,['TacoLucille'] = {255,254,100},['Dash'] = 0,['Yamato'] = 255},
 		Roupa = {Tier = 95,Shirt = 0,Pants = 0},
 		Cor = {
-			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 255, 255}},
-			Patente = {Letra = {0, 0, 0},Borda = {255, 255, 255}},
-			Team =    {Letra = {0, 0, 0},Borda = {255, 85, 0}},
+			Nome = 	  {Letra = {255, 255, 255},Borda = {0, 0, 0}},
+			Patente = {Letra = {255, 255, 255},Borda = {0, 0, 0}},
+			Team =    {Letra = {0, 0, 0},Borda = {255,255,0}},
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
