@@ -199,7 +199,7 @@
 		Nome = 'Máfia da Passione',
 		Vida = 750,
 		Itens = {['Mikey'] = 0,['TacoLucille'] = 248,['Dash'] = 0},
-		Roupa = {Tier = 95,Shirt = 0,Pants = 0},
+		Roupa = {Tier = 255,Shirt = 6495113417,Pants = 258912700},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},Borda = {204, 0, 153}},
 			Patente = {Letra = {0, 0, 0},Borda = {255, 255, 0}},
@@ -212,7 +212,7 @@
 		Nome = 'Cosmic Thunders',
 		Vida = 750,
 		Itens = {['Mikey'] = 0},
-		Roupa = {Tier = 255,Shirt = 6495113417,Pants = 258912700},
+		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},Borda = {0, 255, 255}},
 			Patente = {Letra = {0, 0, 0},Borda = {0, 255, 255}},
