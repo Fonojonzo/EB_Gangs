@@ -36,17 +36,6 @@
 		},
 	},----------------------------------- Gang ---------------------------------------------
 	
-	[33534467] = { 
-		Nome = 'Akatsuki The Gang',
-		Vida = 750,
-		Itens = {['Mikey'] = 0,['Dash'] = 0},
-		Roupa = {Tier = 255,Shirt = 6495113417,Pants = 258912700},
-		Cor = {
-			Nome = 	  {Letra = {0,0,0},Borda = {255,255,255}},
-			Patente = {Letra = {0,0,0},Borda = {255,255,255}},
-			Team =    {Letra = {0,0,0},Borda = {255,10,10}},
-		},
-	},----------------------------------- Gang ---------------------------------------------
 
 	[33524892] = { 
 		Nome = 'Brahman Gang',
@@ -209,7 +198,7 @@
 	[33817647] = { 
 		Nome = 'Máfia da Passione',
 		Vida = 750,
-		Itens = {['Mikey'] = 0,['TacoLucille'] = 248},
+		Itens = {['Mikey'] = 0,['TacoLucille'] = 248,['Dash'] = 0},
 		Roupa = {Tier = 95,Shirt = 0,Pants = 0},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},Borda = {204, 0, 153}},
