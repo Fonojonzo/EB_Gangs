@@ -110,7 +110,7 @@
 	},----------------------------------- Gang ---------------------------------------------
 
 	
-	[0] = { -- The Gods Of Universe (grupo) - Loid e // Rafael (pagou)
+	[33822704] = { -- The Gods Of Universe (grupo) - Loid e // Rafael (pagou)
 		Nome = 'The Cursed Sorcerers',
 		Vida = 500,
 		Itens = {['Josef'] = 0},
