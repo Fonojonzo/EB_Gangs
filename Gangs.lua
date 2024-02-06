@@ -199,7 +199,7 @@
 	[33817647] = { 
 		Nome = 'Máfia da Passione',
 		Vida = 750,
-		Itens = {['Mikey'] = 0,['TacoLucille'] = 248,['Dash'] = 0},
+		Itens = {['Mikey'] = 0,['TacoLucille'] = 248,['Dash'] = 0,['Yamato'] = 200},
 		Roupa = {Tier = 255,Shirt = 7279742828,Pants = 5375274422},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},Borda = {204, 0, 153}},
