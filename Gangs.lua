@@ -200,7 +200,7 @@
 		Nome = 'Máfia da Passione',
 		Vida = 750,
 		Itens = {['Mikey'] = 0,['TacoLucille'] = 248,['Dash'] = 0},
-		Roupa = {Tier = 255,Shirt = 7279742828,Pants = 5375274422},
+		Roupa = {Tier = 255,Shirt = 7279742832,Pants = 5375274460},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},Borda = {204, 0, 153}},
 			Patente = {Letra = {0, 0, 0},Borda = {255, 255, 0}},
