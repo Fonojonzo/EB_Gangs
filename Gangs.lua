@@ -31,7 +31,7 @@ local Gangs = {
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0}, Borda = {255, 255, 255}},
 			Patente = {Letra = {0, 0, 0},Borda = {255, 255, 255}},
-			Team =    {Letra = {0, 0, 0},Borda = {255, 255, 255}},
+			Team =    {Letra = {0, 0, 0},Borda = {100, 0, 0}},
 		},
 	},--
 
