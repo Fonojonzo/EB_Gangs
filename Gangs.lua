@@ -29,7 +29,7 @@
 		Itens = {['Mikey'] = 0},
 		Roupa = {Tier = 95,Shirt = 0,Pants = 0},
 		Cor = { 
-			Nome = 	  {Letra = {255, 255, 255},Borda = {0,0,0}},
+			Nome = 	  {Letra = {0,0,0},Borda = {255, 255, 255}},
 			Patente = {Letra = {107, 37, 1},Borda = {0,0,0}},
 			Team =    {Letra = {107, 37, 1},Borda = {0,0,0}},
 		},
