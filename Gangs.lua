@@ -1,4 +1,4 @@
-	local Gangs = {
+local Gangs = {
 	[32325896] = {
 		Nome = 'Tokyo Manji Gang',
 		Vida = 2000,
