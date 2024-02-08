@@ -23,6 +23,19 @@
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
+	[33838526] = { 
+		Nome = 'A BatFamilia',
+		Vida = 2000,
+		Itens = {['Mikey'] = 0},
+		Roupa = {Tier = 95,Shirt = 0,Pants = 0},
+		Cor = { 
+			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 255, 255}},
+			Patente = {Letra = {0, 0, 0},Borda = {107, 37, 1}},
+			Team =    {Letra = {0, 0, 0},Borda = {107, 37, 1}},
+		},
+	},--
+
+	
 	
 	[33529431] = { -- Dono Satoru_Gojou021
 		Nome = 'Soul Reapers',
