@@ -137,7 +137,7 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 	[33784506] = { 
-		Nome = 'The Shadow 影',
+		Nome = 'Tenjiku Manji Gang',
 		Vida = 750,
 		Itens = {['Mikey'] = 0},
 		Roupa = {Tier = 95,Shirt = 0,Pants = 0},
