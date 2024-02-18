@@ -38,15 +38,15 @@ local Gangs = {
 	
 	
 	[33529431] = { -- Dono Satoru_Gojou021
-		Nome = 'Soul Reapers',
+		Nome = 'Hashiras',
 
 		Vida = 750,
 		Itens = {['Mikey'] = 0,['Dash'] = 0},
 		Roupa = {Tier = 95,Shirt = 0,Pants = 0},
 		Cor = {
-			Nome = 	  {Letra = {255,255,255},Borda = {255,0,0}},
-			Patente = {Letra = {255,255,255},Borda = {255,0,0}},
-			Team =    {Letra = {255,255,255},Borda = {255,0,0}},
+			Nome = 	  {Letra = {0,0,0},Borda = {255,255,5}},
+			Patente = {Letra = {0,0,0},Borda = {255,255,5}},
+			Team =    {Letra = {0,0,0},Borda = {255,255,5}},
 		},
 	},----------------------------------- Gang ---------------------------------------------
 	
