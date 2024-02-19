@@ -151,7 +151,7 @@ local Gangs = {
 	[33784819] = { 
 		Nome = 'The Vortex Gang',
 		Vida = 500,
-		Itens = {['Josef'] = 0},
+		Itens = {['Mikey'] = 0},
 		Roupa = {Tier = 95,Shirt = 0,Pants = 0},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 255, 255}},
