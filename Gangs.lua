@@ -55,7 +55,7 @@ local Gangs = {
 		Nome = 'Brahman Gang',
 		Vida = 1000,
 		Itens = {['Mikey'] = 0},
-		Roupa = {Tier = 255,Shirt = 7061606670,Pants = 8995167282},
+		Roupa = {Tier = 260,Shirt = 7061606670,Pants = 8995167282},
 		Cor = {
 			Nome = 	  {Letra = {255, 255, 255},Borda = {0, 0, 0}},
 			Patente = {Letra = {0,0,0},Borda = {100, 0, 0}},
