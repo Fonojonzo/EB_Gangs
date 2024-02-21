@@ -58,8 +58,8 @@ local Gangs = {
 		Roupa = {Tier = 255,Shirt = 7061606670,Pants = 8995167282},
 		Cor = {
 			Nome = 	  {Letra = {255, 255, 255},Borda = {0, 0, 0}},
-			Patente = {Letra = {102,0,51},Borda = {0, 0, 0}},
-			Team =    {Letra = {102,0,51},Borda = {0, 0, 0}},
+			Patente = {Letra = {0,0,0},Borda = {100, 0, 0}},
+			Team =    {Letra = {0,0,0},Borda = {100, 0, 0}},
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
