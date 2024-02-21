@@ -38,7 +38,7 @@ local Gangs = {
 
 
 	[33529431] = { -- Dono Satoru_Gojou021
-		Nome = 'Hashiras',
+		Nome = 'The Kings',
 
 		Vida = 750,
 		Itens = {['Mikey'] = 0,['Dash'] = 0},
