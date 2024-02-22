@@ -137,14 +137,14 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 	[33784506] = { 
-		Nome = 'Tenjiku Manji Gang',
+		Nome = 'Dragons Strategist',
 		Vida = 750,
 		Itens = {['Mikey'] = 0},
 		Roupa = {Tier = 95,Shirt = 0,Pants = 0},
 		Cor = { 
-			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 255, 255}},
+			Nome = 	  {Letra = {254,238,117},Borda = {0, 0, 0}},
 			Patente = {Letra = {0, 0, 0},Borda = {255, 255, 255}},
-			Team =    {Letra = {187, 0, 0},Borda = {255, 255, 255}},
+			Team =    {Letra = {0, 0, 0},Borda = {255, 255, 255}},
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
