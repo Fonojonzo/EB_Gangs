@@ -76,14 +76,14 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 	[33483361] = { 
-		Nome = 'Revengers Tokyo Blood',
+		Nome = 'Jujutsu Gang',
 		Vida = 500,
 		Itens = {['Josef'] = 0},
 		Roupa = {Tier = 95,Shirt = 0,Pants = 0},
 		Cor = {
-			Nome = 	  {Letra = {249, 250, 246},Borda = {20, 20, 20}},
-			Patente = {Letra = {244, 255, 0},Borda = {20, 20, 20}},
-			Team =    {Letra = {249, 250, 246},Borda = {20, 20, 20}},
+			Nome = 	  {Letra = {255, 255, 255},Borda = {255,255,0}},
+			Patente = {Letra = {255, 255, 255},Borda = {255,255,0}},
+			Team =    {Letra = {249, 250, 246},Borda = {102, 0, 102}},
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
