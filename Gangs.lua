@@ -261,7 +261,7 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 	[33928421] = { 
-		Nome = 'Alfa15',
+		Nome = 'The Berserck',
 		Vida = 500,
 		Itens = {['Josef'] = 0},
 		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
