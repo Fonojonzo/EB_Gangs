@@ -200,14 +200,14 @@ local Gangs = {
 
 
 	[33820952] = { 
-		Nome = 'Cosmic Thunders',
+		Nome = 'Celestiais de Elite',
 		Vida = 750,
 		Itens = {['Mikey'] = 0,['Dash'] = 0},
 		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
 		Cor = { 
-			Nome = 	  {Letra = {0, 0, 0},Borda = {0, 255, 255}},
-			Patente = {Letra = {0, 0, 0},Borda = {0, 255, 255}},
-			Team =    {Letra = {0, 0, 0},Borda = {0, 255, 255}},
+			Nome = 	  {Letra = {255, 255, 255},Borda = {255, 0, 0}},
+			Patente = {Letra = {255, 255, 255},Borda = {255, 0, 0}},
+			Team =    {Letra = {255, 255, 255},Borda = {255, 0, 0}},
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
