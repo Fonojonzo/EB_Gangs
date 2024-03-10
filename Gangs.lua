@@ -308,6 +308,17 @@ local Gangs = {
 			Team =    {Letra = {0, 0, 0},Borda = {0, 170, 255}},
 		},
 	},----------------------------------- Gang ---------------------------------------------
+
+	[17237230] = { 
+	        Nome = "Haiku Gang",
+	        Vida = 1000,
+	        Itens = {['Mikey'] = 0,['Dash'] = 0},
+	        Roupa = {Tier = 255,Shirt = 0,Pants = 0},
+        Cor = { 
+            Nome =    {Letra = {0, 0, 0},Borda = {111, 0, 166}},
+            Patente = {Letra = {0, 0, 0},Borda = {111, 0, 166}},
+            Team =    {Letra = {0, 0, 0},Borda = {111, 0, 166}},
+        },
 	
 
 }
