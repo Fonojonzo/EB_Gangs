@@ -67,7 +67,7 @@ local Gangs = {
 	[33504780] = { 
 		Nome = 'Feiticeiros Jujutsu',
 		Vida = 800,
-		Itens = {['Mikey'] = 0,['TacoLucille'] = {255,254,100},['Dash'] = 0,['Yamato'] = 255},
+		Itens = {['Mikey'] = 0,['TacoLucille'] = {255,254,100},['Dash'] = 0,['Yamato'] = 5},
 		Roupa = {Tier = 95,Shirt = 0,Pants = 0},
 		Cor = {
 			Nome = 	  {Letra = {255, 255, 255},Borda = {0, 0, 0}},
