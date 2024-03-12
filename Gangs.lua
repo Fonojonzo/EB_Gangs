@@ -128,7 +128,7 @@ local Gangs = {
 	[33822704] = { -- The Gods Of Universe (grupo) - Loid e // Rafael (pagou)
 		Nome = 'The Cursed Sorcerers',
 		Vida = 500,
-		Itens = {['Mikey'] = 0},
+		Itens = {['Mikey'] = 0,['TacoLucille'] = 0},
 		Roupa = {Tier = 95,Shirt = 0,Pants = 0},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},Borda = {153, 0, 0}},
@@ -274,8 +274,8 @@ local Gangs = {
 
 	[33969792] = { 
 		Nome = 'Syndicato Cruor',
-		Vida = 500,
-		Itens = {['Josef'] = 0},
+		Vida = 750,
+		Itens = {['Mikey'] = 0},
 		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
 		Cor = { 
 			Nome = 	  {Letra = {0 , 0, 0},Borda = {255, 0, 0}},
