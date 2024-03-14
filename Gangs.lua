@@ -176,7 +176,7 @@ local Gangs = {
 	[33803150] = { 
 		Nome = 'Yamaguchi Gumi',
 		Vida = 750,
-		Itens = {['Mikey'] = 0},
+		Itens = {['Mikey'] = 0},['Dash'] = 0,
 		Roupa = {Tier = 95,Shirt = 0,Pants = 0},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 255},Borda = {0, 0, 0}},
@@ -345,6 +345,17 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
+		[34008520] = { 
+		Nome = "Kiboshin",
+		Vida = 500,
+		Itens = {['Mikey'] = 0},
+		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
+		Cor = { 
+			Nome = 	  {Letra = {75, 151, 75},Borda = {17, 17, 17}},
+			Patente = {Letra = {75, 151, 75,Borda = {17, 17, 17}},
+			Team =    {Letra = {75, 151, 75,Borda = {17, 17, 17}},
+		},
+	},----------------------------------- Gang ---------------------------------------------
 	
 }
 
