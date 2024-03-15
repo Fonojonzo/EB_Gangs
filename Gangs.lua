@@ -3,7 +3,7 @@ local Gangs = {
 	[32325896] = {
 		Nome = 'Tokyo Manji Gang',
 		Vida = 2000,
-		Itens = {['ItachiDash'] = 0,['Mikey'] = 0,['Yamato'] = 30,['TacoLucille'] = 50,['Granada'] = 254},
+		Itens = {['Dash'] = 0,['Mikey'] = 0,['Yamato'] = 30,['TacoLucille'] = 50,['Granada'] = 254},
 		Roupa = {Tier = 95,Shirt = 6850745796,Pants = 7166106431},
 		Cor = {
 			Nome = 	  {Letra = {0,0,0},Borda = {255,255,255}},
@@ -67,7 +67,7 @@ local Gangs = {
 	[33504780] = { 
 		Nome = 'Feiticeiros Jujutsu',
 		Vida = 800,
-		Itens = {['Mikey'] = 0,['TacoLucille'] = {255,254,100},['Dash'] = 0,['Yamato'] = 5},
+		Itens = {['Mikey'] = 0,['TacoLucille'] = {255,254,100},['ItachiDash'] = 0,['Yamato'] = 5},
 		Roupa = {Tier = 95,Shirt = 0,Pants = 0},
 		Cor = {
 			Nome = 	  {Letra = {255, 255, 255},Borda = {0, 0, 0}},
