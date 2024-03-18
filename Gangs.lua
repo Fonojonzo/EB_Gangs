@@ -177,7 +177,7 @@ local Gangs = {
 		Nome = 'Yamaguchi Gumi',
 		Vida = 750,
 		Itens = {['Mikey'] = 0,['Dash'] = 0},
-		Roupa = {Tier = 95,Shirt = 5003141257,Pants = 6936352706},
+		Roupa = {Tier = 255,Shirt = 5003141257,Pants = 6936352706},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 255},Borda = {0, 0, 0}},
 			Patente = {Letra = {0, 0, 255},Borda = {0, 0, 0}},
