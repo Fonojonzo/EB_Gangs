@@ -91,7 +91,7 @@ local Gangs = {
 	[33386384] = { 
 		Nome = 'The Gods of Legends',
 		Vida = 1000,
-		Itens = {['Mikey'] = 0},
+		Itens = {['Mikey'] = 0,['Dash'] = 0},
 		Roupa = {Tier = 95,Shirt = 0,Pants = 0},
 		Cor = { 
 			Nome = 	  {Letra = {2, 2, 2},Borda = {170, 85, 255}},
