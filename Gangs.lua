@@ -381,8 +381,8 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[34070064] = { 
-		Nome = "wagner Group",
+	[0] = { 
+		Nome = "e Group",
 		Vida = 1250,
 		Itens = {['Mikey'] = 0,['Dash'] = 0,['TacoLucille'] = 5},
 		Roupa = {Tier = 255,Shirt = 11622302026,Pants = 11622310795},
