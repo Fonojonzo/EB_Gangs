@@ -385,7 +385,7 @@ local Gangs = {
 		Nome = "Homúnculos",
 		Vida = 1250,
 		Itens = {['Mikey'] = 0,['Dash'] = 0,['TacoLucille'] = 5},
-		Roupa = {Tier = 255,Shirt = 11622302026,Pants = 11622310795},
+		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 255, 255}},
 			Patente = {Letra = {0, 0, 0},Borda = {255, 255, 255}},
