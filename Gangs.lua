@@ -65,7 +65,7 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 	[33504780] = { 
-		Nome = 'Heiwa Gang',
+		Nome = 'Heiwa Empire',
 		Vida = 800,
 		Itens = {['Mikey'] = 0,['TacoLucille'] = {255,254,100},['ItachiDash'] = 0,['Yamato'] = 5},
 		Roupa = {Tier = 95,Shirt = 0,Pants = 0},
