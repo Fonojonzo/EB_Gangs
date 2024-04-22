@@ -200,14 +200,14 @@ local Gangs = {
 
 
 	[33820952] = { 
-		Nome = 'Celestiais de Elite',
+		Nome = 'Demonic Reapers',
 		Vida = 750,
 		Itens = {['Mikey'] = 0,['Dash'] = 0,['TacoLucille'] = 5,['Yamato'] = 175},
 		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
 		Cor = { 
-			Nome = 	  {Letra = {255, 255, 255},Borda = {255, 0, 0}},
-			Patente = {Letra = {255, 255, 255},Borda = {255, 0, 0}},
-			Team =    {Letra = {255, 255, 255},Borda = {255, 0, 0}},
+			Nome = 	  {Letra = {255, 255, 255},Borda = {0, 0, 0}},
+			Patente = {Letra = {255, 255, 255},Borda = {0, 0, 0}},
+			Team =    {Letra = {255, 255, 255},Borda = {255, 85, 0}},
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
