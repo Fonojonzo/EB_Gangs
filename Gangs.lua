@@ -1,4 +1,16 @@
 local Gangs = {
+	[32942292] = { 
+		Nome = 'Luas Superiores',
+		Vida = 2000,
+		Itens = {['PisoLuas'] = 0},
+		Roupa = {Tier = 95,Shirt = 0,Pants = 0},
+		Cor = { 
+			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 255, 255}},
+			Patente = {Letra = {0, 0, 0},Borda = {107, 37, 1}},
+			Team =    {Letra = {0, 0, 0},Borda = {107, 37, 1}},
+		},
+
+	},----------------------------------- Gang ---------------------------------------------
 
 	[32325896] = {
 		Nome = 'Tokyo Manji Gang',
@@ -9,18 +21,6 @@ local Gangs = {
 			Nome = 	  {Letra = {0,0,0},Borda = {255,255,255}},
 			Patente = {Letra = {0,0,0},Borda = {255,255,255}},
 			Team =    {Letra = {0,0,0},Borda = {255,255,0}},
-		},
-	},----------------------------------- Gang ---------------------------------------------
-
-	[32942292] = { 
-		Nome = 'Luas Superiores',
-		Vida = 2000,
-		Itens = {['PisoLuas'] = 0},
-		Roupa = {Tier = 95,Shirt = 0,Pants = 0},
-		Cor = { 
-			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 255, 255}},
-			Patente = {Letra = {0, 0, 0},Borda = {107, 37, 1}},
-			Team =    {Letra = {0, 0, 0},Borda = {107, 37, 1}},
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
