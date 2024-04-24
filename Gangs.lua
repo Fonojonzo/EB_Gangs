@@ -346,7 +346,7 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 	[34008520] = { 
-		Nome = "Kiboshin",
+		Nome = "あshadow slayerぁ",
 		Vida = 500,
 		Itens = {['Mikey'] = 0},
 		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
