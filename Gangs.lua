@@ -1,4 +1,5 @@
 local Gangs = {
+	
 	[32942292] = { 
 		Nome = 'Luas Superiores',
 		Vida = 2000,
