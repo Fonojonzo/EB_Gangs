@@ -395,7 +395,7 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 	
-	[34210174] = { 
+	[0] = { --34210174 venda de rank supostamente
 		Nome = "氷Yami no Geijutsu 花",
 		Vida = 750,
 		Itens = {['Mikey'] = 0},
