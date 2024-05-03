@@ -449,8 +449,8 @@ local Gangs = {
 	[33988163] = { 
 		Nome = "Tenjiku Gang",
 		Vida = 500,
-		Itens = {['Josef'] = 0},
-		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
+		Itens = {['Josef'] = 0,['Dash'] = 0},
+		Roupa = {Tier = 254,Shirt = 8093995408,Pants = 14598691002},
 		Cor = { 
 			Nome = 	  {Letra = {204, 0, 102},Borda = {255, 255, 255}},
 			Patente = {Letra = {204, 0, 102},Borda = {255, 255, 255}},
