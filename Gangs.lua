@@ -423,7 +423,7 @@ local Gangs = {
 	[34223612] = { 
 		Nome = "キ Renegados The Gang キ",
 		Vida = 750,
-		Itens = {['Mikey'] = 0},
+		Itens = {['Mikey'] = 0,['TacoLucille'] = 200},
 		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 255, 255}},
