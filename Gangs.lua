@@ -463,7 +463,7 @@ local Gangs = {
 		Nome = "God's Disciples",
 		Vida = 750,
 		Itens = {['Mikey'] = 0},
-		Roupa = {Tier = 255,Shirt = 8358123882,Pants = 8358045468},
+		Roupa = {Tier = 256,Shirt = 8358123882,Pants = 8358045468},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 255, 255}},
 			Patente = {Letra = {0, 0, 0},Borda = {255, 255, 255}},
