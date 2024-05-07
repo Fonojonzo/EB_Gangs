@@ -188,14 +188,14 @@ local Gangs = {
 
 
 	[33817647] = { 
-		Nome = 'Máfia da Passione',
+		Nome = 'Os Hashiras',
 		Vida = 750,
 		Itens = {['Mikey'] = 0,['TacoLucille'] = 249,['Dash'] = 0,['Yamato'] = 247,['Granada'] = 252},
 		Roupa = {Tier = 255,Shirt = 7279742828,Pants = 5375274422},
 		Cor = { 
-			Nome = 	  {Letra = {0, 0, 0},Borda = {204, 0, 153}},
-			Patente = {Letra = {0, 0, 0},Borda = {255, 255, 0}},
-			Team =    {Letra = {0, 0, 0},Borda = {255, 255, 0}},
+			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 255, 255}},
+			Patente = {Letra = {0, 0, 0},Borda = {9, 0, 133}},
+			Team =    {Letra = {0, 0, 0},Borda = {9, 0, 133}},
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
