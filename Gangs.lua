@@ -221,18 +221,6 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 
-	[33405906] = { 
-		Nome = 'Moebius',
-		Vida = 750,
-		Itens = {['Mikey'] = 0,['Dash'] = 0},
-		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
-		Cor = { 
-			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 0, 0}},
-			Patente = {Letra = {0, 0, 0},Borda = {255, 0, 0}},
-			Team =    {Letra = {0, 0, 0},Borda = {255, 0, 0}},
-		},
-	},----------------------------------- Gang ---------------------------------------------
-
 	[33903684] = { 
 		Nome = 'La Família Cap',
 		Vida = 750,
@@ -394,7 +382,7 @@ local Gangs = {
 	[33632081] = { 
 		Nome = "Moebius Gang",
 		Vida = 750,
-		Itens = {['Mikey'] = 0,['Dash'] = 0},
+		Itens = {['Mikey'] = 0,['Dash'] = 0,['Raio'] = 255},
 		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 255, 255}},
