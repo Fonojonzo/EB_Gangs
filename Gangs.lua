@@ -250,7 +250,7 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 	[33903684] = { 
-		Nome = 'SHIBUYA GANG',
+		Nome = 'La Família Cap',
 		Vida = 750,
 		Itens = {['Mikey'] = 0,['Dash'] = 0},
 		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
