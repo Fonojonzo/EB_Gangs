@@ -37,22 +37,6 @@ local Gangs = {
 		},
 	},--
 
-
-
-	[33529431] = { -- Dono Satoru_Gojou021
-		Nome = 'The Kings',
-
-		Vida = 750,
-		Itens = {['Mikey'] = 0,['Dash'] = 0},
-		Roupa = {Tier = 95,Shirt = 0,Pants = 0},
-		Cor = {
-			Nome = 	  {Letra = {0,0,0},Borda = {255,255,5}},
-			Patente = {Letra = {0,0,0},Borda = {255,255,5}},
-			Team =    {Letra = {0,0,0},Borda = {255,255,5}},
-		},
-	},----------------------------------- Gang ---------------------------------------------
-
-
 	[33524892] = { 
 		Nome = 'Brahman Gang',
 		Vida = 1000,
