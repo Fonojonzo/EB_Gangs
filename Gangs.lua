@@ -64,12 +64,12 @@ local Gangs = {
 	[33483361] = { 
 		Nome = 'Jujutsu Gang',
 		Vida = 500,
-		Itens = {['Josef'] = 0},
+		Itens = {['Mikey'] = 0},
 		Roupa = {Tier = 95,Shirt = 0,Pants = 0},
 		Cor = {
-			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 255, 255}},
-			Patente = {Letra = {0, 0, 0},Borda = {255, 255, 255}},
-			Team =    {Letra = {0, 0, 0},Borda = {96, 0, 128}},
+			Nome = 	  {Letra = {0, 0, 0},Borda = {255,0,0}},
+			Patente = {Letra = {0, 0, 0},Borda = {255,0,0}},
+			Team =    {Letra = {0, 0, 0},Borda = {255,0,0}},
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
