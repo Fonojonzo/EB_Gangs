@@ -16,7 +16,7 @@ local Gangs = {
 	[32325896] = {
 		Nome = 'Tokyo Manji Gang',
 		Vida = 2000,
-		Itens = {['Dash'] = 0,['Mikey'] = 0,['Yamato'] = 30,['TacoLucille'] = 50,['Granada'] = 254,['Rasteira'] = 0,['Raio'] = 254},
+		Itens = {['Dash'] = 0,['KokusenKick'] = 0,['Yamato'] = 30,['TacoLucille'] = 50,['Granada'] = 254,['Rasteira'] = 0,['Raio'] = 254},
 		Roupa = {Tier = 95,Shirt = 6850745796,Pants = 7166106431},
 		Cor = {
 			Nome = 	  {Letra = {0,0,0},Borda = {255,255,255}},
@@ -187,7 +187,7 @@ local Gangs = {
 	[33820952] = { 
 		Nome = 'Demonic Reapers',
 		Vida = 750,
-		Itens = {['Mikey'] = 0,['Dash'] = 0,['TacoLucille'] = 5,['Yamato'] = 175},
+		Itens = {['KokusenKick'] = 0,['Dash'] = 0,['TacoLucille'] = 5,['Yamato'] = 175},
 		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
 		Cor = { 
 			Nome = 	  {Letra = {255, 255, 255},Borda = {0, 0, 0}},
