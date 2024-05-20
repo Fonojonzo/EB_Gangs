@@ -497,7 +497,7 @@ local Gangs = {
 	[34315929] = { --17204687
 		Nome = "嘿 The Gods of Sky 嘿",
 		Vida = 750,
-		Itens = {['Mikey'] = 0},
+		Itens = {['Mikey'] = 0,['Dash'] = 0},
 		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
 		Cor = { 
 			Nome = 	  {Letra = {255, 0, 0},Borda = {0, 0, 255}},
