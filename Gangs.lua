@@ -233,7 +233,7 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[33932468] = { 
+	[0] = { -- 33932468/ desativada pela dona
 		Nome = 'Feiticeiros de Tokyo 毀滅',
 		Vida = 750,
 		Itens = {['Mikey'] = 0},
