@@ -123,7 +123,7 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 	[33784506] = { 
-		Nome = 'Dragons Strategist',
+		Nome = 'Emperior Of Clover',
 		Vida = 750,
 		Itens = {['Mikey'] = 0},
 		Roupa = {Tier = 95,Shirt = 0,Pants = 0},
