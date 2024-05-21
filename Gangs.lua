@@ -52,7 +52,7 @@ local Gangs = {
 	[33504780] = { 
 		Nome = 'Toп Ndrangheta',
 		Vida = 800,
-		Itens = {['Mikey'] = 0,['TacoLucille'] = {255,254,100},['ItachiDash'] = 0,['Yamato'] = 5},
+		Itens = {['KokusenKick'] = 0,['TacoLucille'] = {255,254,100},['ItachiDash'] = 0,['Yamato'] = 5},
 		Roupa = {Tier = 95,Shirt = 0,Pants = 0},
 		Cor = {
 			Nome = 	  {Letra = {255, 255, 255},Borda = {0, 0, 0}},
