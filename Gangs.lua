@@ -380,7 +380,7 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 	[34223612] = { 
-		Nome = "キ Renegados The Gang キ",
+		Nome = "Akatsuki The Gang 2º Geração",
 		Vida = 750,
 		Itens = {['KokusenKick'] = 0,['TacoLucille'] = 192,['Dash'] = 0},
 		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
