@@ -211,7 +211,7 @@ local Gangs = {
 	[33866159] = { 
 		Nome = 'Kimetsu no Yaiba 鬼越 翁亚',
 		Vida = 1250,
-		Itens = {['Mikey'] = 0,['Dash'] = 0},
+		Itens = {['KokusenKick'] = 0,['Dash'] = 0},
 		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 255, 255}},
