@@ -531,7 +531,7 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 	[34356664] = {
-		Nome = "Arcanjos 大天使",
+		Nome = "Grécia Antiga",
 		Vida = 750,
 		Itens = {['Mikey'] = 0},
 		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
