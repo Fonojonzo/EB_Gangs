@@ -369,7 +369,7 @@ local Gangs = {
 	[33632081] = { 
 		Nome = "Moebius Gang",
 		Vida = 750,
-		Itens = {['Mikey'] = 0,['Dash'] = 0,['Raio'] = 255},
+		Itens = {['Mikey'] = 0,['KokusenKick'] = 0,['Dash'] = 0,['Raio'] = 255},
 		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 255, 255}},
