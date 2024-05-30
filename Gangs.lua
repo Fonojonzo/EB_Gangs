@@ -369,8 +369,8 @@ local Gangs = {
 	[33632081] = { 
 		Nome = "Moebius Gang",
 		Vida = 750,
-		Itens = {['KokusenKick'] = 0,['Dash'] = 0,['Raio'] = 255},
-		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
+		Itens = {['KokusenKick'] = 0,['Dash'] = 0,['Raio'] = {254, 253, 252, 251, 249, 247, 245}},
+		Roupa = {Tier = 255,Shirt = 7602845081,Pants = 7602845887},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 255, 255}},
 			Patente = {Letra = {0, 0, 0},Borda = {255, 255, 255}},
@@ -521,7 +521,7 @@ local Gangs = {
 	[34344618] = {
 		Nome = "Shadow Demons",
 		Vida = 500,
-		Itens = {['Josef'] = 0},
+		Itens = {['Mikey'] = 0},
 		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},Borda = {153, 0, 0}},
@@ -539,6 +539,18 @@ local Gangs = {
 			Nome = 	  {Letra = {255, 255, 255},Borda = {102, 204, 255}},
 			Patente = {Letra = {255, 255, 255},Borda = {255, 255, 102}},
 			Team =    {Letra = {255, 255, 255},Borda = {102, 204, 255}},
+			},
+	},----------------------------------- Gang ---------------------------------------------
+
+	[34377119] = {
+		Nome = "The Blue Angels 卢阿",
+		Vida = 500,
+		Itens = {['Josef'] = 0},
+		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
+		Cor = { 
+			Nome = 	  {Letra = {255, 255, 255},Borda = {0, 0, 0}},
+			Patente = {Letra = {255, 255, 255},Borda = {0, 0, 0}},
+			Team =    {Letra = {255, 255, 255},Borda = {0, 0, 0}},
 			},
 	},----------------------------------- Gang ---------------------------------------------
 	
