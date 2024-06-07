@@ -174,7 +174,7 @@ local Gangs = {
 	[33817647] = { 
 		Nome = 'Os Hashiras',
 		Vida = 750,
-		Itens = {['SwordSlash'] = 0,['TacoLucille'] = 249,['Dash'] = 0,['Yamato'] = 247,['Granada'] = 252},
+		Itens = {['SwordSlash'] = 0,['TacoLucille'] = 249,['Dash'] = 0,['Yamato'] = 247,['Granada'] = 252,['Rasteira'] = 0},
 		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 255, 255}},
