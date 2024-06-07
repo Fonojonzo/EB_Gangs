@@ -185,14 +185,14 @@ local Gangs = {
 
 
 	[33820952] = { 
-		Nome = 'Demonic Reapers',
+		Nome = 'Kanto Manji',
 		Vida = 750,
 		Itens = {['KokusenKick'] = 0,['Dash'] = 0,['TacoLucille'] = 5,['Yamato'] = 175},
 		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
 		Cor = { 
-			Nome = 	  {Letra = {255, 255, 255},Borda = {0, 0, 0}},
-			Patente = {Letra = {255, 255, 255},Borda = {0, 0, 0}},
-			Team =    {Letra = {0, 0, 0},Borda = {255, 85, 0}},
+			Nome = 	  {Letra = {0, 0, 0},Borda = {255,255, 255}},
+			Patente = {Letra = {0, 0, 0},Borda = {0, 255, 255}},
+			Team =    {Letra = {0, 0, 0},Borda = {0, 255, 255}},
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
