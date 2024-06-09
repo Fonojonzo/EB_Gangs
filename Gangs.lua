@@ -233,18 +233,6 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[0] = { -- 33932468/ desativada pela dona
-		Nome = 'Feiticeiros de Tokyo 毀滅',
-		Vida = 750,
-		Itens = {['Mikey'] = 0},
-		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
-		Cor = { 
-			Nome = 	  {Letra = {255 , 255, 255},Borda = {255, 255, 255}},
-			Patente = {Letra = {255, 255, 255},Borda = {255, 255, 255}},
-			Team =    {Letra = {0, 0, 0},Borda = {255, 255, 0}},
-		},
-	},----------------------------------- Gang ---------------------------------------------
-
 	[33970113] = { 
 		Nome = "The Seven's Deadly Sin's",
 		Vida = 500,
@@ -293,15 +281,15 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[0] = { -- [32419355] = { 
-		Nome = "Valhalla",
+	[34433571] = { -- [32419355] = { 
+		Nome = "Toп Ndrangheta",
 		Vida = 500,
 		Itens = {['Mikey'] = 0,['Dash'] = 0,['TacoLucille'] = 13,['Yamato'] = 17},
 		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
 		Cor = { 
-			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 255, 255}},
-			Patente = {Letra = {0, 0, 0},Borda = {255, 255, 255}},
-			Team =    {Letra = {255, 255, 255},Borda = {0, 0, 0}},
+			Nome = 	  {Letra = {0, 0, 0},Borda = {153, 0, 153}},
+			Patente = {Letra = {0, 0, 0},Borda = {153, 0, 153}},
+			Team =    {Letra = {0, 0, 0},Borda = {153, 0, 153}},
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
