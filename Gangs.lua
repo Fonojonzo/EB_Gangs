@@ -495,7 +495,7 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 	[33277598] = { --17204687
-		Nome = "DARK ELITE",
+		Nome = "Destroyer's Of Olympus",
 		Vida = 500,
 		Itens = {['KokusenKick'] = 0},
 		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
