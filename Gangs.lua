@@ -197,7 +197,7 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 	[11622572] = { 
-		Nome = 'Shadow Angels',
+		Nome = 'Night Reapers 夜璧',
 		Vida = 750,
 		Itens = {['KokusenKick'] = 0,['Dash'] = 0,['TacoLucille'] = 10},
 		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
