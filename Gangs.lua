@@ -355,7 +355,7 @@ local Gangs = {
 			},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[34223612] = { 
+	[0] = { --34223612 trocou rasteira pela gang
 		Nome = "Akatsuki The Gang 2º Geração",
 		Vida = 750,
 		Itens = {['KokusenKick'] = 0,['TacoLucille'] = 192,['Dash'] = 0},
