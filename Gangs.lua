@@ -318,7 +318,7 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 	
 	[34180762] = { 
-		Nome = "Homúnculos",
+		Nome = "Império Lunar",
 		Vida = 1250,
 		Itens = {['Mikey'] = 0,['Dash'] = 0,['TacoLucille'] = 5},
 		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
