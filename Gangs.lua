@@ -330,7 +330,7 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 	
-	[34210174] = { -- venda de rank aviso 1
+	[0] = { -- venda de rank aviso 2
 		Nome = "氷 Yami no Geijutsu 花",
 		Vida = 750,
 		Itens = {['KokusenKick'] = 0,["Yamato"] = 249},
