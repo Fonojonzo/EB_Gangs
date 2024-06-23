@@ -558,7 +558,7 @@ local Gangs = {
 	[34363616] = {
 		Nome = "NIGHTYMARY'S",
 		Vida = 1000,
-		Itens = {['Josef'] = 0},
+		Itens = {['KokusenKick'] = 0},
 		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},Borda = 	 {255, 255, 255}},
