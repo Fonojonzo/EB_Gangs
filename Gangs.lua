@@ -485,7 +485,7 @@ local Gangs = {
 	[33277598] = { --17204687
 		Nome = "Destroyer's Of Olympus",
 		Vida = 500,
-		Itens = {['KokusenKick'] = 0},
+		Itens = {['KokusenKick'] = 0,['Yamato'] = 0},
 		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 255, 255}},
