@@ -521,7 +521,7 @@ local Gangs = {
 	[34377119] = {
 		Nome = "The Blue Angels 卢阿",
 		Vida = 500,
-		Itens = {['Josef'] = 0},
+		Itens = {['Mikey'] = 0},
 		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
 		Cor = { 
 			Nome = 	  {Letra = {255, 255, 255},Borda = {0, 0, 0}},
