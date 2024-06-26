@@ -447,7 +447,7 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 	[34013723] = { --17204687
-		Nome = "Samurai Z 武タ",
+		Nome = "Berserkers セル",
 		Vida = 750,
 		Itens = {['KokusenKick'] = 0,['Dash'] = 0,['TacoLucille'] = 0,['Yamato'] = {255 , 254 , 253 , 252 , 251}},
 		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
