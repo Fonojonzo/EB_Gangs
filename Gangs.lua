@@ -224,7 +224,7 @@ local Gangs = {
 	[33903684] = { 
 		Nome = 'Sakura no Kansai',
 		Vida = 750,
-		Itens = {['Mikey'] = 0,['Dash'] = 0},
+		Itens = {['Mikey'] = 0,['Dash'] = 0,['KokusenKick']},
 		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
 		Cor = { 
 			Nome = 	  {Letra = {248, 248, 248},Borda = {248, 248, 248}},
