@@ -449,7 +449,7 @@ local Gangs = {
 	[34013723] = { --17204687
 		Nome = "Berserkers セル",
 		Vida = 750,
-		Itens = {['KokusenKick'] = 0,['Dash'] = 0,['TacoLucille'] = 0,['Yamato'] = {255 , 254 , 253 , 252 , 251}},
+		Itens = {['KokusenKick'] = 0,['Dash'] = 0,['TacoLucille'] = 0,['Yamato'] = {255 , 254 , 253 , 252 , 251},['FireKick'] = 0},
 		Roupa = {Tier = 256,Shirt = 18317752391,Pants = 18311837231},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},Borda = {201, 0 ,0}},
