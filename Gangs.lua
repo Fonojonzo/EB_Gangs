@@ -555,18 +555,6 @@ local Gangs = {
 			},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[0] = { --34499257 ban others
-		Nome = "Light Furry Manji",
-		Vida = 500,
-		Itens = {['Josef'] = 0,['TacoLucille'] = 0},
-		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
-		Cor = { 
-			Nome = 	  {Letra = {0, 0, 0},Borda = 	 {153, 0, 153}},
-			Patente = {Letra = {0, 0, 0},Borda = 	 {153, 0, 153}},
-			Team =    {Letra = {0, 0, 0},Borda =     {153, 0, 153}},
-			},
-	},----------------------------------- Gang ---------------------------------------------
-
 	[34524237] = {
 		Nome = "༺ 7 Pecados Capitais ༻",
 		Vida = 500,
