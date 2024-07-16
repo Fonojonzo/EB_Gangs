@@ -567,17 +567,19 @@ local Gangs = {
 			},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[0] = { --34511945
-		Nome = "The Demon Manji Gang",
-		Vida = 500,
-		Itens = {['Josef'] = 0},
-		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
+	[15757244] = { -- [Dono ID: 1569341667]
+		Nome = "侍 Aogiri Tree.",
+		Vida = 1000,
+		Itens = {['KokusenKick'] = 0,['Dash'] = 0,['Yamato'] = 0},
+		Roupa = {Tier = 255,Shirt = 5700555585,Pants = 5700562708},
 		Cor = { 
-			Nome = 	  {Letra = {0, 0, 0},Borda = 	 {255, 0, 0}},
-			Patente = {Letra = {0, 0, 0},Borda = 	 {255, 0, 0}},
+			Nome = 	  {Letra = {0, 0, 0},Borda = 	 {255, 255, 255}},
+			Patente = {Letra = {0, 0, 0},Borda = 	 {255, 255, 255}},
 			Team =    {Letra = {0, 0, 0},Borda =    {255, 0, 0}},
 			},
 	},----------------------------------- Gang ---------------------------------------------
+
+	
 	
 
 }
