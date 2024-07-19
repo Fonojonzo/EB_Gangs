@@ -471,9 +471,9 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 	[33277598] = { --/ ultrapassou limite mas removeu
-		Nome = "Destroyer's Of Olympus",
+		Nome = "Sixty Reapers ثعبان",
 		Vida = 400,
-		Itens = {['KokusenKick'] = 0,['Yamato'] = 0},
+		Itens = {['KokusenKick'] = 0,['Yamato'] = 0,['TacoLucille']},
 		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},Borda = {153, 0, 0}},
