@@ -458,18 +458,6 @@ local Gangs = {
 			},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[0] = { --34315929 < ID GANG / pediu pra desativar
-		Nome = "嘿 The Gods of Sky 嘿",
-		Vida = 750,
-		Itens = {['Mikey'] = 0,['Dash'] = 0},
-		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
-		Cor = { 
-			Nome = 	  {Letra = {255, 0, 0},Borda = {0, 0, 255}},
-			Patente = {Letra = {255, 0, 0},Borda = {0, 0, 255}},
-			Team =    {Letra = {255, 0, 0},Borda = {0, 0, 255}},
-			},
-	},----------------------------------- Gang ---------------------------------------------
-
 	[33277598] = { --/ ultrapassou limite mas removeu
 		Nome = "Sixty Reapers ثعبان",
 		Vida = 400,
