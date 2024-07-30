@@ -21,7 +21,7 @@ local Gangs = {
 		Cor = {
 			Nome = 	  {Letra = {0,0,0},Borda = {255,255,255}},
 			Patente = {Letra = {0,0,0},Borda = {255,255,255}},
-			Team =    {Letra = {0,0,0},Borda = {255,255,0}},
+			Team =    {Letra = {0,0,0},Borda = {255,255,0},RGB = true}},
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
@@ -161,12 +161,12 @@ local Gangs = {
 	[33803150] = { 
 		Nome = 'Yamaguchi Gumi',
 		Vida = 750,
-		Itens = {['KokusenKick'] = 0,['Dash'] = 0,['TacoLucille'] = 0,['Yamato'] = 0},
+		Itens = {['KokusenKick'] = 0,['Dash'] = 0,['TacoLucille'] = 0,['Yamato'] = 0,['Rasteira'] = 0},
 		Roupa = {Tier = 255,Shirt = 2413916203,Pants = 386498921},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 255},Borda = {0, 0, 0}},
 			Patente = {Letra = {0, 0, 255},Borda = {0, 0, 0}},
-			Team =    {Letra = {0, 0, 255},Borda = {0, 0, 0}},
+			Team =    {Letra = {0, 0, 255},Borda = {0, 0, 0},RGB = true},
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
