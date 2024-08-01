@@ -346,7 +346,7 @@ local Gangs = {
 		Nome = "Valhalla",
 		Vida = 750,
 		Itens = {['KokusenKick'] = 0,['Dash'] = 0,['Raio'] = {254, 253, 252, 251, 249, 247, 245, 255},['TacoLucille'] = 0,['Rasteira'] = 0},
-		Roupa = {Tier = 255,Shirt = 7602845081,Pants = 7602845887},
+		Roupa = {Tier = 255,Shirt = 8326276598,Pants = 6938668835},
 		Cor = { 
 			Nome = 	  {Letra = {0,0,0},Borda = {255, 255, 255}},
 			Patente = {Letra = {0, 0, 0},Borda = {255, 255, 255}},
