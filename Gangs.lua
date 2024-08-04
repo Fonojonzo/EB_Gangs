@@ -459,7 +459,7 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 	[33277598] = { --/ ultrapassou limite mas removeu
-		Nome = "Sixty Reapers ثعبان",
+		Nome = "Odyssey Klaw's 乡",
 		Vida = 400,
 		Itens = {['KokusenKick'] = 0,['Yamato'] = 0,['TacoLucille'] = 0,['Rasteira'] = 0},
 		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
