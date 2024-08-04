@@ -269,17 +269,6 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[0] = { --4406722
-		Nome = "Rokuhara Tandai",
-		Vida = 500,
-		Itens = {['Mikey'] = 0},
-		Roupa = {Tier = 255,Shirt = 7409085696,Pants = 7409102544},
-		Cor = { 
-			Nome = 	  {Letra = {0, 0, 0},Borda = {57, 255, 20}},
-			Patente = {Letra = {0, 0, 0},Borda = {57, 255, 20}},
-			Team =    {Letra = {0, 0, 0},Borda = {57, 255, 20}},
-		},
-	},----------------------------------- Gang ---------------------------------------------
 
 	[34433571] = { -- [32419355] = { 
 		Nome = "Toп Ndrangheta",
@@ -329,18 +318,6 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	
-	[0] = { -- venda de rank aviso 2
-		Nome = "氷 Yami no Geijutsu 花",
-		Vida = 750,
-		Itens = {['KokusenKick'] = 0,["Yamato"] = 249},
-		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
-		Cor = { 
-			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 255, 255}},
-			Patente = {Letra = {0, 0, 0},Borda = {255, 255, 255}},
-			Team =    {Letra = {0, 0, 0},Borda = {255, 0, 0}},
-		},
-	},----------------------------------- Gang ---------------------------------------------
 
 	[33632081] = { 
 		Nome = "Valhalla",
@@ -351,19 +328,6 @@ local Gangs = {
 			Nome = 	  {Letra = {0,0,0},Borda = {255, 255, 255}},
 			Patente = {Letra = {0, 0, 0},Borda = {255, 255, 255}},
 			Team =    {Letra = {0, 0, 0},Borda = {255, 255, 255}},
-			
-			},
-	},----------------------------------- Gang ---------------------------------------------
-
-	[0] = { --34223612 trocou rasteira pela gang
-		Nome = "Akatsuki The Gang 2º Geração",
-		Vida = 750,
-		Itens = {['KokusenKick'] = 0,['TacoLucille'] = 192,['Dash'] = 0},
-		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
-		Cor = { 
-			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 255, 255}},
-			Patente = {Letra = {0, 0, 0},Borda = {255, 255, 255}},
-			Team =    {Letra = {0, 0, 0},Borda = {153, 0, 0}},
 			
 			},
 	},----------------------------------- Gang ---------------------------------------------
@@ -381,19 +345,6 @@ local Gangs = {
 			},
 	},----------------------------------- Gang ---------------------------------------------
 	
-	[0] = { 
-		Nome = "Tenjiku Gang",
-		Vida = 500,
-		Itens = {['Mikey'] = 0,['Dash'] = 0},
-		Roupa = {Tier = 254,Shirt = 8093995408,Pants = 14598691002},
-		Cor = { 
-			Nome = 	  {Letra = {204, 0, 102},Borda = {255, 255, 255}},
-			Patente = {Letra = {204, 0, 102},Borda = {255, 255, 255}},
-			Team =    {Letra = {204, 0, 102},Borda = {255, 255, 255}},
-			
-			},
-	},----------------------------------- Gang ---------------------------------------------
-
 	[34246662] = { 
 		Nome = "God's Disciples",
 		Vida = 750,
@@ -403,33 +354,6 @@ local Gangs = {
 			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 255, 255}},
 			Patente = {Letra = {0, 0, 0},Borda = {255, 255, 255}},
 			Team =    {Letra = {0, 0, 0},Borda = {138, 43, 226}},
-			
-			},
-	},----------------------------------- Gang ---------------------------------------------
-
-
-	[0] = { --17204687/34277208
-		Nome = "THE SOLOS",
-		Vida = 1000,
-		Itens = {['Mikey'] = 0,['Dash'] = 0},
-		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
-		Cor = { 
-			Nome = 	  {Letra = {0, 0, 0},Borda = {0, 0, 0}},
-			Patente = {Letra = {0, 0, 0},Borda = {0, 0, 0}},
-			Team =    {Letra = {0, 0, 0},Borda = {255, 0, 0}},
-			
-			},
-	},----------------------------------- Gang ---------------------------------------------
-
-	[0] = { --17204687 / 34283482 venda de ranks
-		Nome = "Cursed Squad 呪われた部隊",
-		Vida = 400,
-		Itens = {['Josef'] = 0},
-		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
-		Cor = { 
-			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 0, 0}},
-			Patente = {Letra = {0, 0, 0},Borda = {255, 0, 0}},
-			Team =    {Letra = {0, 0, 0},Borda = {255, 0, 0}},
 			
 			},
 	},----------------------------------- Gang ---------------------------------------------
@@ -522,19 +446,6 @@ local Gangs = {
 		Nome = "ɲil ܢܓ",
 		Vida = 750,
 		Itens = {['Mikey'] = 0},
-		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
-		Cor = { 
-			Nome = 	  {Letra = {0, 0, 0},Borda = 	 {255, 255, 255}},
-			Patente = {Letra = {0, 0, 0},Borda = 	 {255, 255, 255}},
-			Team =    {Letra = {0, 0, 0},Borda =     {255, 255, 255}},
-			},
-	},----------------------------------- Gang ---------------------------------------------
-
-	
-	[0] = { --34363616
-		Nome = "NIGHTYMARY'S",
-		Vida = 1000,
-		Itens = {['KokusenKick'] = 0},
 		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},Borda = 	 {255, 255, 255}},
