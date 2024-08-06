@@ -50,7 +50,7 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 	[33504780] = { 
-		Nome = 'Toп Ndrangheta',
+		Nome = 'World Government',
 		Vida = 800,
 		Itens = {['KokusenKick'] = 0,['TacoLucille'] = {255,254,100},['ItachiDash'] = 0,['Yamato'] = 5,['FireKick'] = 0},
 		Roupa = {Tier = 95,Shirt = 0,Pants = 0},
