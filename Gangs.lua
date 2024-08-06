@@ -98,7 +98,7 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 	[33765458] = { -- 1 denuncia
-		Nome = 'The Sapphire Serpents',
+		Nome = '樹液 Cilpher Pol Gang 樹液',
 		Vida = 500,
 		Itens = {['Josef'] = 0},
 		Roupa = {Tier = 95,Shirt = 0,Pants = 0},
