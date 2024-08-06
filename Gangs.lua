@@ -484,13 +484,13 @@ local Gangs = {
 		Itens = {['KokusenKick'] = 0},
 		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
 		Cor = { 
-			Nome = 	  {Letra = {255, 255, 255},Borda = {0, 0, 0}},
-			Patente = {Letra = {255, 153, 51},Borda =  {0,0,0}},
-			Team =    {Letra = {153, 0, 153},Borda =   {0,0,0}},
+			Nome = 	  {Letra = {0, 0, 0},Borda = {0, 255, 255}},
+			Patente = {Letra = {0, 0, 0},Borda =  {0,255, 255}},
+			Team =    {Letra = {153, 0, 153},Borda =  {0, 255, 255},RGB = true},
 			},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[34708979] = { -- [Dono ID: 134945304]
+	[34708979] = { -- [Dono ID: 134945304] slot 16
 		Nome = "晓 AKATSUKI",
 		Vida = 1000,
 		Itens = {['KokusenKick'] = 0},
