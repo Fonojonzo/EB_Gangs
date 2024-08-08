@@ -283,14 +283,14 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 	[34008520] = { 
-		Nome = "黒 Jujutsu Kaisen 閃光",
+		Nome = "Odyssey Klaw's II 乡",
 		Vida = 500,
 		Itens = {['KokusenKick'] = 0,['Dash'] = 0,['TacoLucille'] = 0},
 		Roupa = {Tier = 255,Shirt = 15808598116,Pants = 15815194659},
 		Cor = { 
-			Nome = 	  {Letra = {0, 0, 0},Borda = {153, 0, 153}},
-			Patente = {Letra = {0, 0, 0},Borda = {153, 0, 153}},
-			Team =    {Letra = {0, 0, 0},Borda = {153, 0, 153}},
+			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 255, 255}},
+			Patente = {Letra = {0, 0, 0},Borda = {255, 255, 255}},
+			Team =    {Letra = {0, 0, 0},Borda = {255, 255, 0}},
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
