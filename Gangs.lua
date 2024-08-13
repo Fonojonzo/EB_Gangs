@@ -517,7 +517,7 @@ local Gangs = {
 	[16224076] = { -- [Dono ID: 2908712695] slot 15
 		Nome = "The Flaming Dragons",
 		Vida = 500,
-		Itens = {['Josef'] = 0},
+		Itens = {['Mikey'] = 0},
 		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 102, 0}},
