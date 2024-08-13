@@ -494,7 +494,7 @@ local Gangs = {
 		Nome = "晓 AKATSUKI",
 		Vida = 1000,
 		Itens = {['KokusenKick'] = 0},
-		Roupa = {Tier = 255,Shirt = 6890473138,Pants = 109673481250},
+		Roupa = {Tier = 255,Shirt = 6890473138,Pants = 10967348125},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 0, 0}},
 			Patente = {Letra = {0, 0, 0},Borda = {255, 0, 0}},
