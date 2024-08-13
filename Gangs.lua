@@ -97,7 +97,7 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[33765458] = { -- 1 denuncia
+	[0] = { -- 2 denuncia / 33765458 / lider fazendo dark rp
 		Nome = '樹液 Cilpher Pol Gang 樹液',
 		Vida = 500,
 		Itens = {['Josef'] = 0},
