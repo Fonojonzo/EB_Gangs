@@ -540,8 +540,8 @@ local Gangs = {
 
 	[32994778] = { -- [Dono ID: 2582280278] slot 15
 		Nome = "神The God Shadows影",
-		Vida = 750,
-		Itens = {['KokusenKick'] = 0},
+		Vida = 500,
+		Itens = {['Mikey'] = 0},
 		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},Borda = {102, 0, 102}},
