@@ -563,7 +563,7 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 	[34802698] = { -- [Dono ID: 2407844697] slot 15
-		Nome = "Anonymus",
+		Nome = "Anonymous",
 		Vida = 500,
 		Itens = {['Josef'] = 0,['Yamato'] = 0},
 		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
