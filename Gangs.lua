@@ -481,7 +481,7 @@ local Gangs = {
 	[34666520] = { -- [Dono ID: 0]
 		Nome = "The Wizard's",
 		Vida = 500,
-		Itens = {['KokusenKick'] = 0},
+		Itens = {['KokusenKick'] = 0,['Rasteira'] = 0,['Yamato'] = 0},
 		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},Borda = {0, 255, 255}},
