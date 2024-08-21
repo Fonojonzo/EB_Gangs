@@ -199,7 +199,7 @@ local Gangs = {
 	[33476490] = { 
 		Nome = 'Fúria dos Ventos',
 		Vida = 750,
-		Itens = {['KokusenKick'] = 0,['Dash'] = 0,['TacoLucille'] = 10},
+		Itens = {['KokusenKick'] = 0,['Dash'] = 0,['TacoLucille'] = 10,['Rasteira'] = 0},
 		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 255, 255}},
