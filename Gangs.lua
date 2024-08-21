@@ -530,7 +530,7 @@ local Gangs = {
 		Nome = "Demônios Imortais",
 		Vida = 750,
 		Itens = {['KokusenKick'] = 0},
-		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
+		Roupa = {Tier = 255,Shirt = 6515241723,Pants = 6515241723},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 0, 0}},
 			Patente = {Letra = {0, 0, 0},Borda = {255, 0, 0}},
@@ -563,7 +563,19 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 	[34802698] = { -- [Dono ID: 2407844697] slot 15
-		Nome = "Anonymous",
+		Nome = "OS SLAYERS",
+		Vida = 400,
+		Itens = {['Josef'] = 0,['Yamato'] = 0},
+		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
+		Cor = { 
+			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 0, 0}},
+			Patente = {Letra = {0, 0, 0},Borda = {255, 0, 0}},
+			Team =    {Letra = {0, 0, 0},Borda = {255, 0, 0}},
+			},
+	},----------------------------------- Gang ---------------------------------------------
+
+	[000] = { -- [Dono ID: ] slot 15
+		Nome = "Galaxy Universe",
 		Vida = 400,
 		Itens = {['Josef'] = 0,['Yamato'] = 0},
 		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
