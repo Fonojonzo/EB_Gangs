@@ -550,10 +550,10 @@ local Gangs = {
 			},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[0] = { -- [Dono ID: 5588870678] slot 15 / tentando dar golpe com comprovante repetido.
+	[34666434] = { -- [Dono ID: 5588870678] slot 15
 		Nome = "Dark Angels Demo",
-		Vida = 300,
-		Itens = {['Josef'] = 0},
+		Vida = 500,
+		Itens = {['KokusenKick'] = 0},
 		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},Borda = {153, 0, 153}},
