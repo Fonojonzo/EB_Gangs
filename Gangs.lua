@@ -224,7 +224,7 @@ local Gangs = {
 	[33903684] = { 
 		Nome = 'Lá família Maf',
 		Vida = 750,
-		Itens = {['Dash'] = 0,['KokusenKick'] = 0,['Yamato'] = 0},
+		Itens = {['Dash'] = 0,['KokusenKick'] = 0,['Rasteira'] = 0},
 		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},Borda = {0, 255, 255}},
