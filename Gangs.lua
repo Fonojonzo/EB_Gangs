@@ -604,9 +604,9 @@ local Gangs = {
 		Itens = {['KokusenKick'] = 0,['TacoLucille'] = 0},
 		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
 		Cor = { 
-			Nome = 	  {Letra = {0, 0, 0},Borda = {107, 50, 124}},
-			Patente = {Letra = {0, 0, 0},Borda = {107, 50, 124}},
-			Team =    {Letra = {0, 0, 0},Borda = {107, 50, 124}},
+			Nome = 	  {Letra = {0, 0, 0},Borda = {184, 0, 221}},
+			Patente = {Letra = {0, 0, 0},Borda = {184, 0, 221}},
+			Team =    {Letra = {0, 0, 0},Borda = {184, 0, 221}},
 			},
 	},----------------------------------- Gang ---------------------------------------------
 	
