@@ -394,7 +394,7 @@ local Gangs = {
 			},
 	},----------------------------------- Gang ---------------------------------------------
 
-	-- [34344618] = { --/ ultrapassou limite de membros
+	-- [34344618] = { Dono ID:4463991083 --/ ultrapassou limite de membros
 		Nome = "Shadow Demons",
 		Vida = 500,
 		Itens = {['Mikey'] = 0},
