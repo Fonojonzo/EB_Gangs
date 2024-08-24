@@ -392,18 +392,7 @@ local Gangs = {
 			Patente = {Letra = {0, 0, 0},Borda = {255, 255, 255}},
 			Team =    {Letra = {0, 0, 0},Borda = {255, 255, 0}},
 			},
-	},----------------------------------- Gang ---------------------------------------------
 
-	-- [34344618] = { Dono ID:4463991083 --/ ultrapassou limite de membros
-		Nome = "Shadow Demons",
-		Vida = 500,
-		Itens = {['Mikey'] = 0},
-		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
-		Cor = { 
-			Nome = 	  {Letra = {0, 0, 0},Borda = {153, 0, 0}},
-			Patente = {Letra = {0, 0, 0},Borda = {153, 0, 0}},
-			Team =    {Letra = {0, 0, 0},Borda = {153, 0, 0}},
-			},
 	},----------------------------------- Gang ---------------------------------------------
 
 	[34356664] = {
