@@ -25,6 +25,19 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
+	[34839303] = { -- [Dono ID: 128677359 ] slot 15
+		Nome = "Singularity Order",
+		Vida = 3000,
+		Itens = {['KokusenKick'] = 0,['TacoLucille'] = 0},
+		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
+		Cor = { 
+			Nome = 	  {Letra = {0, 0, 0},Borda = {75, 0, 130}},
+			Patente = {Letra = {0, 0, 0},Borda = {75, 0, 130}},
+			Team =    {Letra = {0, 0, 0},Borda = {75, 0, 130}},
+			},
+	
+	},----------------------------------- Gang ---------------------------------------------
+
 	[33838526] = { 
 		Nome = 'A BatFamilia',
 		Vida = 2000,
@@ -37,8 +50,8 @@ local Gangs = {
 		},
 	},--
 
-	[33524892] = { 
-		Nome = 'Brahman Gang',
+	[33524892] = {  -- [Dono ID: ] slot 15
+		Nome = 'Brahman Gang', 
 		Vida = 1000,
 		Itens = {['Mikey'] = 0},
 		Roupa = {Tier = 260,Shirt = 7061606670,Pants = 8995167282},
@@ -49,7 +62,7 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[33504780] = { 
+	[33504780] = {   -- [Dono ID: ] slot 15
 		Nome = 'World Government',
 		Vida = 800,
 		Itens = {['KokusenKick'] = 0,['TacoLucille'] = {255,254,100},['ItachiDash'] = 0,['Yamato'] = 5,['FireKick'] = 0},
@@ -61,7 +74,7 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[33483361] = { 
+	[33483361] = {   -- [Dono ID: ] slot 15
 		Nome = 'Van Der Linde',
 		Vida = 500,
 		Itens = {['Mikey'] = 0},
@@ -73,7 +86,7 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[33386384] = { 
+	[33386384] = {   -- [Dono ID: ] slot 15
 		Nome = 'Clã Uchiha',
 		Vida = 1000,
 		Itens = {['Mikey'] = 0,['Dash'] = 0},
@@ -85,7 +98,7 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[33452794] = { 
+	[33452794] = {   -- [Dono ID: ] slot 15
 		Nome = 'White Dragons',
 		Vida = 500,
 		Itens = {['Mikey'] = 0},
@@ -97,7 +110,7 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[0] = { -- 2 denuncia / 33765458 / lider fazendo dark rp
+	[0] = { -- 2 denuncia / 33765458 / lider fazendo dark rp /slot 15
 		Nome = '樹液 Cilpher Pol Gang 樹液',
 		Vida = 500,
 		Itens = {['Josef'] = 0},
@@ -110,7 +123,7 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 
-	[33822704] = { -- The Gods Of Universe (grupo) - Loid e // Rafael (pagou)
+	[33822704] = { -- The Gods Of Universe (grupo) - Loid e // Rafael (pagou) /slot 15
 		Nome = 'The Cursed Sorcerers',
 		Vida = 500,
 		Itens = {['Mikey'] = 0,['TacoLucille'] = 0},
@@ -122,7 +135,7 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[33784506] = { 
+	[33784506] = {   -- [Dono ID: ] slot 15
 		Nome = 'Emperior Of Clover',
 		Vida = 750,
 		Itens = {['Mikey'] = 0},
@@ -134,7 +147,7 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[33784819] = { 
+	[33784819] = {   -- [Dono ID: ] slot 15
 		Nome = 'The Vortex Gang',
 		Vida = 500,
 		Itens = {['Mikey'] = 0},
@@ -146,7 +159,7 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[33765848] = { 
+	[33765848] = {   -- [Dono ID: ] slot 15
 		Nome = 'Void Gang 帮派',
 		Vida = 500,
 		Itens = {['Josef'] = 0},
@@ -158,7 +171,7 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[33803150] = { 
+	[33803150] = {   -- [Dono ID: ] slot 15
 		Nome = 'Yamaguchi Gumi',
 		Vida = 750,
 		Itens = {['KokusenKick'] = 0,['Dash'] = 0,['TacoLucille'] = 0,['Yamato'] = 0,['Rasteira'] = 0},
@@ -171,7 +184,7 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 
-	[33817647] = { 
+	[33817647] = {   -- [Dono ID: ] slot 15
 		Nome = 'Os Hashiras',
 		Vida = 750,
 		Itens = {['SwordSlash'] = 0,['TacoLucille'] = 230,['Dash'] = 0,['Yamato'] = 230,['Granada'] = 252,['Rasteira'] = 0},
@@ -184,7 +197,7 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 
-	[33820952] = { 
+	[33820952] = {   -- [Dono ID: ] slot 15
 		Nome = 'Os Lordes Demônios',
 		Vida = 750,
 		Itens = {['KokusenKick'] = 0,['Dash'] = 0,['TacoLucille'] = 5,['Yamato'] = 175},
@@ -196,7 +209,7 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[33476490] = { 
+	[33476490] = {   -- [Dono ID: ] slot 15
 		Nome = 'Fúria dos Ventos',
 		Vida = 750,
 		Itens = {['KokusenKick'] = 0,['Dash'] = 0,['TacoLucille'] = 10,['Rasteira'] = 0},
@@ -208,7 +221,7 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[33866159] = { --
+	[33866159] = {  -- [Dono ID: ] slot 15
 		Nome = 'Kimetsu no Yaiba 鬼越 翁亚',
 		Vida = 1250,
 		Itens = {['KokusenKick'] = 0,['Dash'] = 0},
@@ -221,7 +234,7 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 
-	[33903684] = { 
+	[33903684] = {   -- [Dono ID: ] slot 15
 		Nome = 'Lá família Maf',
 		Vida = 750,
 		Itens = {['Dash'] = 0,['KokusenKick'] = 0,['Rasteira'] = 0},
@@ -233,7 +246,7 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[33970113] = { 
+	[33970113] = {   -- [Dono ID: ] slot 15
 		Nome = "The Seven's Deadly Sin's",
 		Vida = 500,
 		Itens = {['KokusenKick'] = 0},
@@ -245,7 +258,7 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[17237230] = { 
+	[17237230] = {   -- [Dono ID: ] slot 15
 		Nome = "Bonten Gang",
 		Vida = 1000,
 		Itens = {['Mikey'] = 0},
@@ -257,7 +270,7 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[33511237] = { 
+	[33511237] = {   -- [Dono ID: ] slot 15
 		Nome = "Haiku Gang",
 		Vida = 750,
 		Itens = {['Mikey'] = 0},
@@ -270,7 +283,7 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 
-	[34433571] = { -- [32419355] = { 
+	[34433571] = { -- [32419355] = {   -- [Dono ID: ] slot 15
 		Nome = "Toп Ndrangheta",
 		Vida = 500,
 		Itens = {['Mikey'] = 0,['Dash'] = 0,['TacoLucille'] = 13,['Yamato'] = 17},
@@ -282,7 +295,7 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[34008520] = { 
+	[34008520] = {   -- [Dono ID: ] slot 15
 		Nome = "Odyssey Klaw's II 乡",
 		Vida = 500,
 		Itens = {['KokusenKick'] = 0,['Dash'] = 0,['TacoLucille'] = 0},
@@ -294,7 +307,7 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[34055226] = { 
+	[34055226] = {   -- [Dono ID: ] slot 15
 		Nome = "the のkηıgнт",
 		Vida = 1000,
 		Itens = {['Mikey'] = 0,['Dash'] = 0},
@@ -306,7 +319,7 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 	
-	[0] = { 
+	[0] = {   -- [Dono ID: ] slot 15
 		Nome = "Império Lunar",
 		Vida = 1250,
 		Itens = {['Mikey'] = 0,['Dash'] = 0,['TacoLucille'] = 5},
@@ -319,7 +332,7 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 
-	[33632081] = { 
+	[33632081] = {   -- [Dono ID: ] slot 15
 		Nome = "Valhalla",
 		Vida = 750,
 		Itens = {['KokusenKick'] = 0,['Dash'] = 0,['Raio'] = {254, 253, 252, 251, 249, 247, 245, 255},['TacoLucille'] = 0,['Rasteira'] = 0},
@@ -332,7 +345,7 @@ local Gangs = {
 			},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[34219212] = { 
+	[34219212] = {   -- [Dono ID: ] slot 15
 		Nome = "Black Dragons",
 		Vida = 750,
 		Itens = {['Mikey'] = 0},
@@ -345,7 +358,7 @@ local Gangs = {
 			},
 	},----------------------------------- Gang ---------------------------------------------
 	
-	[34246662] = { 
+	[34246662] = {   -- [Dono ID: ] slot 15
 		Nome = "God's Disciples",
 		Vida = 750,
 		Itens = {['KokusenKick'] = 0},
@@ -358,7 +371,7 @@ local Gangs = {
 			},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[34013723] = { --17204687
+	[34013723] = { --17204687   -- [Dono ID: ] slot 15
 		Nome = "Kanto Manji Gang",
 		Vida = 750,
 		Itens = {['KokusenKick'] = 0,['Dash'] = 0,['TacoLucille'] = 0,['Yamato'] = {255 , 254 , 253 , 252 , 251},['FireKick'] = 0},
@@ -370,7 +383,7 @@ local Gangs = {
 			},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[33511192] = { --17204687
+	[33511192] = { --17204687   -- [Dono ID: ] slot 15
 		Nome = "The One Punch Gang",
 		Vida = 500,
 		Itens = {['Josef'] = 0},
@@ -382,7 +395,7 @@ local Gangs = {
 			},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[33277598] = { --/ ultrapassou limite mas removeu
+	[33277598] = { --/ ultrapassou limite mas removeu   -- [Dono ID: ] slot 15
 		Nome = "Odyssey Klaw's 乡",
 		Vida = 400,
 		Itens = {['KokusenKick'] = 0,['Yamato'] = 0,['TacoLucille'] = 0,['Rasteira'] = 0},
@@ -395,7 +408,7 @@ local Gangs = {
 
 	},----------------------------------- Gang ---------------------------------------------
 
-	[34356664] = {
+	[34356664] = {  -- [Dono ID: ] slot 15
 		Nome = "Grécia Antiga",
 		Vida = 750,
 		Itens = {['Mikey'] = 0},
@@ -407,7 +420,7 @@ local Gangs = {
 			},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[34377119] = {
+	[34377119] = {  -- [Dono ID: ] slot 15
 		Nome = "The Blue Angels 卢阿",
 		Vida = 500,
 		Itens = {['Mikey'] = 0},
@@ -419,7 +432,7 @@ local Gangs = {
 			},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[34404750] = {
+	[34404750] = {  -- [Dono ID: ] slot 15
 		Nome = "Esquadrão Demoníaco",
 		Vida = 750,
 		Itens = {['KokusenKick'] = 0,['Dash'] = 0},
@@ -431,7 +444,7 @@ local Gangs = {
 			},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[34442432] = {
+	[34442432] = {  -- [Dono ID: ] slot 15
 		Nome = "ɲil ܢܓ",
 		Vida = 750,
 		Itens = {['Mikey'] = 0},
@@ -443,7 +456,7 @@ local Gangs = {
 			},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[34524237] = {
+	[34524237] = {  -- [Dono ID: ] slot 15
 		Nome = "༺ 7 Pecados Capitais ༻",
 		Vida = 500,
 		Itens = {['Josef'] = 0},
@@ -455,7 +468,7 @@ local Gangs = {
 			},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[15757244] = { -- [Dono ID: 1569341667]
+	[15757244] = { -- [Dono ID: 1569341667] slot 15
 		Nome = "侍 Aogiri Tree.",
 		Vida = 1000,
 		Itens = {['KokusenKick'] = 0,['Dash'] = 0,['Yamato'] = 0},
@@ -587,17 +600,6 @@ local Gangs = {
 			},
 	},----------------------------------- Gang ---------------------------------------------
 	
-	[34839303] = { -- [Dono ID: 128677359 ] slot 15
-		Nome = "Singularity Order",
-		Vida = 3000,
-		Itens = {['KokusenKick'] = 0,['TacoLucille'] = 0},
-		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
-		Cor = { 
-			Nome = 	  {Letra = {0, 0, 0},Borda = {75, 0, 130}},
-			Patente = {Letra = {0, 0, 0},Borda = {75, 0, 130}},
-			Team =    {Letra = {0, 0, 0},Borda = {75, 0, 130}},
-			},
-	},----------------------------------- Gang ---------------------------------------------
 	
 	
 
