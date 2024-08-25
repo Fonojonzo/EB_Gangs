@@ -28,7 +28,7 @@ local Gangs = {
 	[34839303] = { -- [Dono ID: 128677359 ] slot 15
 		Nome = "Singularity Order",
 		Vida = 3000,
-		Itens = {['KokusenKick'] = 0,['TacoLucille'] = 0},
+		Itens = {['PisoLuas'] = 0,['TacoLucille'] = 0},
 		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},Borda = {75, 0, 130}},
