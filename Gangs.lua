@@ -215,9 +215,9 @@ local Gangs = {
 		Itens = {['KokusenKick'] = 0,['Dash'] = 0,['TacoLucille'] = 10,['Rasteira'] = 0},
 		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
 		Cor = { 
-			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 255, 255}},
-			Patente = {Letra = {0, 0, 0},Borda = {255, 255, 255}},
-			Team =    {Letra = {0, 0, 0},Borda = {255, 255, 255}},
+			Nome = 	  {Letra = {0, 0, 0},Borda = {77, 0, 0}},
+			Patente = {Letra = {0, 0, 0},Borda = {77, 0, 0}},
+			Team =    {Letra = {0, 0, 0},Borda = {77, 0, 0}},
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
@@ -591,7 +591,7 @@ local Gangs = {
 	[34834114] = { -- [Dono ID:1679011316 ] slot 15
 		Nome = "The Warriors of Sea",
 		Vida = 500,
-		Itens = {['Mikey'] = 0,['TacoLucille'] = 0},
+		Itens = {['Mikey'] = 0,['TacoLucille'] = 0,['KokusenKick'] = 0},
 		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 153},Borda = {255, 255, 255}},
@@ -599,6 +599,19 @@ local Gangs = {
 			Team =    {Letra = {0, 0, 153},Borda = {255, 255, 255}},
 			},
 	},----------------------------------- Gang ---------------------------------------------
+
+	[34834114] = { -- [Dono ID:1679011316 ] slot 15
+		Nome = "Shirokaze Dantai",
+		Vida = 500,
+		Itens = {['Josef'] = 0},
+		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
+		Cor = { 
+			Nome = 	  {Letra = {255, 255, 255},Borda = {0, 0, 0}},
+			Patente = {Letra = {255, 255, 255},Borda = {0, 0, 0}},
+			Team =    {Letra = {255, 255, 255},Borda = {0, 0, 0}},
+			},
+	},----------------------------------- Gang ---------------------------------------------
+	
 	
 	
 	
