@@ -528,7 +528,7 @@ local Gangs = {
 			},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[32994778] = { -- [Dono ID: 2582280278] slot 15
+	[0] = { -- [Dono ID: 2582280278] slot 10 / 32994778 passou limite /
 		Nome = "神The God Shadows影",
 		Vida = 500,
 		Itens = {['Mikey'] = 0},
@@ -564,7 +564,7 @@ local Gangs = {
 			},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[34832091] = { -- [Dono ID:FOSONONJO ] slot 10
+	[34832091] = { -- [Dono ID:3183752159 ] slot 10
 		Nome = "Galaxy Universe",
 		Vida = 500,
 		Itens = {['Josef'] = 0},
@@ -576,7 +576,7 @@ local Gangs = {
 			},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[34834114] = { -- [Dono ID:1679011316 ] slot 10
+	[34834114] = { -- [Dono ID: ] slot 10
 		Nome = "The Warriors of Sea",
 		Vida = 500,
 		Itens = {['Mikey'] = 0,['TacoLucille'] = 0,['KokusenKick'] = 0},
@@ -588,7 +588,7 @@ local Gangs = {
 			},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[0] = { -- [Dono ID:1679011316 ] slot 10
+	[0] = { -- [Dono ID: ] slot 10
 		Nome = "Shirokaze Dantai",
 		Vida = 500,
 		Itens = {['Josef'] = 0},
