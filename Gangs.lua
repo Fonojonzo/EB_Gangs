@@ -235,7 +235,7 @@ local Gangs = {
 
 
 	[33903684] = {   -- [Dono ID:3322067390 ] slot 15
-		Nome = 'Lá família Maf',
+		Nome = 'Yakuza no Kansai',
 		Vida = 750,
 		Itens = {['Dash'] = 0,['KokusenKick'] = 0,['Rasteira'] = 0},
 		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
@@ -492,18 +492,6 @@ local Gangs = {
 			},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[34708979] = { -- [Dono ID: 134945304] slot 16
-		Nome = "晓 AKATSUKI",
-		Vida = 1000,
-		Itens = {['KokusenKick'] = 0},
-		Roupa = {Tier = 255,Shirt = 6890473138,Pants = 10967348125},
-		Cor = { 
-			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 0, 0}},
-			Patente = {Letra = {0, 0, 0},Borda = {255, 0, 0}},
-			Team =    {Letra = {0, 0, 0},Borda = {255,0 , 0}},
-			},
-	},----------------------------------- Gang ---------------------------------------------
-
 	[34747448] = { -- [Dono ID: 2710519623] slot 15
 		Nome = "The Outlast Trials",
 		Vida = 500,
@@ -522,9 +510,9 @@ local Gangs = {
 		Itens = {['Mikey'] = 0},
 		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
 		Cor = { 
-			Nome = 	  {Letra = {226, 32, 22},Borda = {0, 0, 0}},
-			Patente = {Letra = {255, 255, 255},Borda = {0, 0, 0}},
-			Team =    {Letra = {226, 32, 22},Borda = {0, 0, 0}},
+			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 140, 0}},
+			Patente = {Letra = {0, 0, 0},Borda = {255, 140, 0}},
+			Team =    {Letra = {0, 0, 0},Borda = {255, 140, 0}},
 			},
 	},----------------------------------- Gang ---------------------------------------------
 
@@ -564,7 +552,7 @@ local Gangs = {
 			},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[34802698] = { -- [Dono ID: 2407844697] slot 15
+	[34802698] = { -- [Dono ID: 2407844697] slot 10
 		Nome = "Os Slayers",
 		Vida = 400,
 		Itens = {['Josef'] = 0,['Yamato'] = 0},
@@ -576,7 +564,7 @@ local Gangs = {
 			},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[34832091] = { -- [Dono ID:FOSONONJO ] slot 15
+	[34832091] = { -- [Dono ID:FOSONONJO ] slot 10
 		Nome = "Galaxy Universe",
 		Vida = 500,
 		Itens = {['Josef'] = 0},
@@ -588,7 +576,7 @@ local Gangs = {
 			},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[34834114] = { -- [Dono ID:1679011316 ] slot 15
+	[34834114] = { -- [Dono ID:1679011316 ] slot 10
 		Nome = "The Warriors of Sea",
 		Vida = 500,
 		Itens = {['Mikey'] = 0,['TacoLucille'] = 0,['KokusenKick'] = 0},
@@ -600,7 +588,7 @@ local Gangs = {
 			},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[34834114] = { -- [Dono ID:1679011316 ] slot 15
+	[0] = { -- [Dono ID:1679011316 ] slot 10
 		Nome = "Shirokaze Dantai",
 		Vida = 500,
 		Itens = {['Josef'] = 0},
