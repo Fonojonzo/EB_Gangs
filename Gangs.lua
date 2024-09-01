@@ -396,7 +396,7 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 	[33277598] = { --/ ultrapassou limite mas removeu   -- [Dono ID:3790482088 ] slot 15
-		Nome = "Odyssey Klaw's 乡",
+		Nome = "Miyﾑzaki Kage 私",
 		Vida = 400,
 		Itens = {['KokusenKick'] = 0,['Yamato'] = 0,['TacoLucille'] = 0,['Rasteira'] = 0},
 		Roupa = {Tier = 255,Shirt = 7174049481,Pants = 406726579},
