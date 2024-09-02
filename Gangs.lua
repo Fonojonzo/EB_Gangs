@@ -484,7 +484,7 @@ local Gangs = {
 		Nome = "The Wizard's",
 		Vida = 500,
 		Itens = {['KokusenKick'] = 0,['Rasteira'] = 0,['Yamato'] = 0},
-		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
+		Roupa = {Tier = 255,Shirt = 84839200256196,Pants = 90176091050875},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},Borda = {0, 255, 255}},
 			Patente = {Letra = {0, 0, 0},Borda =  {0,255, 255}},
