@@ -3,7 +3,7 @@ local Gangs = {
 	[32942292] = { 
 		Nome = 'Luas Superiores',
 		Vida = 3000,
-		Itens = {['PisoLuas'] = 0},
+		Itens = {['PisoLuas'] = 0,['Colateral'] = 0},
 		Roupa = {Tier = 95,Shirt = 0,Pants = 0},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 255, 255}},
@@ -16,7 +16,7 @@ local Gangs = {
 	[32325896] = {
 		Nome = 'Tokyo Manji Gang',
 		Vida = 3000,
-		Itens = {['Dash'] = 0,['KokusenKick'] = 0,['Yamato'] = 30,['TacoLucille'] = 50,['Granada'] = 254,['Rasteira'] = 0,['Raio'] = 254},
+		Itens = {['Dash'] = 0,['KokusenKick'] = 0,['Yamato'] = 30,['TacoLucille'] = 50,['Granada'] = 254,['Rasteira'] = 0,['Raio'] = 254,['Colateral'] = 0},
 		Roupa = {Tier = 95,Shirt = 6850745796,Pants = 7166106431},
 		Cor = {
 			Nome = 	  {Letra = {0,0,0},Borda = {255,255,255},RGB = false},
