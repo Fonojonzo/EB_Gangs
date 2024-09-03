@@ -286,7 +286,7 @@ local Gangs = {
 	[34433571] = { -- [32419355] = {   -- [Dono ID:7234860312 ] slot 15
 		Nome = "Toп Ndrangheta",
 		Vida = 500,
-		Itens = {['Mikey'] = 0,['Dash'] = 0,['TacoLucille'] = 13,['Yamato'] = 17},
+		Itens = {['KokusenKick'] = 0,['Dash'] = 0,['TacoLucille'] = 13,['Yamato'] = 17},
 		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
 		Cor = { 
 			Nome = 	  {Letra = {255, 255, 255},Borda = {153, 0, 153}},
