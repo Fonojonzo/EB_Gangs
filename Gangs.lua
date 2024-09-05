@@ -13,7 +13,7 @@ local Gangs = {
 
 	},----------------------------------- Gang ---------------------------------------------
 
-	[32325896] = {
+	[0] = {
 		Nome = 'Tokyo Manji Gang',
 		Vida = 3000,
 		Itens = {['Dash'] = 0,['KokusenKick'] = 0,['Yamato'] = 30,['TacoLucille'] = 50,['Granada'] = 254,['Rasteira'] = 0,['Raio'] = 254,['Colateral'] = 0},
