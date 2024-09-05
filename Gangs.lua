@@ -588,22 +588,22 @@ local Gangs = {
 			},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[0] = { -- [Dono ID: ] slot 10
+	[34848694] = { -- [Dono ID: ] slot 10
 		Nome = "Shirokaze Dantai",
 		Vida = 500,
 		Itens = {['Josef'] = 0},
 		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
 		Cor = { 
-			Nome = 	  {Letra = {255, 255, 255},Borda = {0, 0, 0}},
-			Patente = {Letra = {255, 255, 255},Borda = {0, 0, 0}},
-			Team =    {Letra = {255, 255, 255},Borda = {0, 0, 0}},
+			Nome = 	  {Letra = {0, 0, 0},Borda = {0, 0, 255}},
+			Patente = {Letra = {0, 0, 0},Borda = {0, 0, 255}},
+			Team =    {Letra = {0, 0, 0},Borda = {0, 0, 255}},
 			},
 	},----------------------------------- Gang ---------------------------------------------
 
 	[34875717] = { -- [Dono ID: 2934160213] slot 10
 		Nome = "The Dragon's Of Fury",
 		Vida = 500,
-		Itens = {['Josef'] = 0},
+		Itens = {['KokusenKick'] = 0},
 		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 140, 0}},
