@@ -469,14 +469,14 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 	[15757244] = { -- [Dono ID: 1569341667] slot 15
-		Nome = "侍 Aogiri Tree.",
+		Nome = "Shingeki no Kyojin",
 		Vida = 1000,
 		Itens = {['KokusenKick'] = 0,['Dash'] = 0,['Yamato'] = 0},
 		Roupa = {Tier = 255,Shirt = 5700555585,Pants = 5700562708},
 		Cor = { 
-			Nome = 	  {Letra = {0, 0, 0},Borda = 	 {255, 255, 255}},
-			Patente = {Letra = {0, 0, 0},Borda = 	 {255, 255, 255}},
-			Team =    {Letra = {0, 0, 0},Borda =    {255, 0, 0}},
+			Nome = 	  {Letra = {0, 0, 0},Borda = 	      {0, 111, 255}},
+			Patente = {Letra = {0, 0, 0},Borda = 	      {0, 255, 25}},
+			Team =    {Letra = {255, 255, 255},Borda =    {255, 123, 0}},
 			},
 	},----------------------------------- Gang ---------------------------------------------
 
