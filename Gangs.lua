@@ -13,10 +13,22 @@ local Gangs = {
 
 	},----------------------------------- Gang ---------------------------------------------
 
+	[34908951] = {
+		Nome = 'Esquadrão de Caçadores de Onis',
+		Vida = 3000,
+		Itens = {['Dash'] = 0,['SwordSlash'] = 100},
+		Roupa = {Tier = 254,Shirt = 7085831071,Pants = 7085861080},
+		Cor = {
+			Nome = 	  {Letra = {0,0,0},Borda = {255,255,255},RGB = false},
+			Patente = {Letra = {0,0,0},Borda = {255,255,255}},
+			Team =    {Letra = {0,0,0},Borda = {255, 102, 0},RGB = true},
+		},
+	},----------------------------------- Gang ---------------------------------------------
+
 	[0] = {
 		Nome = 'Tokyo Manji Gang',
 		Vida = 3000,
-		Itens = {['Dash'] = 0,['KokusenKick'] = 0,['Yamato'] = 30,['TacoLucille'] = 50,['Granada'] = 254,['Rasteira'] = 0,['Raio'] = 254,['Colateral'] = 0},
+		Itens = {['Dash'] = 0},
 		Roupa = {Tier = 95,Shirt = 6850745796,Pants = 7166106431},
 		Cor = {
 			Nome = 	  {Letra = {0,0,0},Borda = {255,255,255},RGB = false},
