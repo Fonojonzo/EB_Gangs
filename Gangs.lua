@@ -483,8 +483,8 @@ local Gangs = {
 	[15757244] = { -- [Dono ID: 1569341667] slot 15
 		Nome = "Shingeki no Kyojin",
 		Vida = 1000,
-		Itens = {['KokusenKick'] = 0,['Dash'] = 0,['Yamato'] = 0},
-		Roupa = {Tier = 255,Shirt = 5700555585,Pants = 5700562708},
+		Itens = {['KokusenKick'] = 0,['Dash'] = 0,['Yamato'] = 0,['FireKick'] = 0},
+		Roupa = {Tier = 255,Shirt = 11955653813,Pants = 7702801716},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},Borda = 	      {0, 111, 255}},
 			Patente = {Letra = {0, 0, 0},Borda = 	      {0, 255, 25}},
