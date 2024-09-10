@@ -50,18 +50,6 @@ local Gangs = {
 	
 	},----------------------------------- Gang ---------------------------------------------
 
-	[33838526] = { 
-		Nome = 'A BatFamilia',
-		Vida = 2000,
-		Itens = {['Mikey'] = 0,['Dash'] = 0},
-		Roupa = {Tier = 95,Shirt = 0,Pants = 0},
-		Cor = { 
-			Nome = 	  {Letra = {0, 0, 0}, Borda = {255, 255, 255}},
-			Patente = {Letra = {0, 0, 0},Borda = {255, 255, 255}},
-			Team =    {Letra = {0, 0, 0},Borda = {100, 0, 0}},
-		},
-	},--
-
 	[33524892] = {  -- [Dono ID:2623179010 ] slot 15
 		Nome = 'Brahman Gang', 
 		Vida = 1000,
@@ -77,7 +65,7 @@ local Gangs = {
 	[33504780] = {   -- [Dono ID:4035850120 ] slot 15
 		Nome = 'World Government',
 		Vida = 800,
-		Itens = {['KokusenKick'] = 0,['TacoLucille'] = {255,254,100},['ItachiDash'] = 0,['Yamato'] = 5,['FireKick'] = 0},
+		Itens = {['KokusenKick'] = 0,['TacoLucille'] = {255,254,100},['ItachiDash'] = 0,['Yamato'] = 5,['FireKick'] = 0,['DoubleJump'] = 255},
 		Roupa = {Tier = 95,Shirt = 0,Pants = 0},
 		Cor = {
 			Nome = 	  {Letra = {255, 255, 255},Borda = {0,0,153}},
