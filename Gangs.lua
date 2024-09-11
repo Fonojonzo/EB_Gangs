@@ -283,11 +283,11 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 
-	[34433571] = { -- [32419355] = {   -- [Dono ID:7234860312 ] slot 15
+	[34433571] = { -- [Dono ID: 1348463634 ] slot 15
 		Nome = "Toп Ndrangheta",
 		Vida = 500,
 		Itens = {['KokusenKick'] = 0,['Dash'] = 0,['TacoLucille'] = 13,['Yamato'] = 17},
-		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
+		Roupa = {Tier = 255,Shirt = 10035250623,Pants = 10035256299},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},Borda = {253, 253, 245}},
 			Patente = {Letra = {0, 0, 0},Borda = {249,244,7}},
@@ -396,7 +396,7 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 	[33277598] = { --/ ultrapassou limite mas removeu   -- [Dono ID:3790482088 ] slot 15
-		Nome = "Miyﾑzaki Kage 私",
+		Nome = "Os Hokages.",
 		Vida = 400,
 		Itens = {['KokusenKick'] = 0,['Yamato'] = 0,['TacoLucille'] = 0,['Rasteira'] = 0,['FireKick'] = 0},
 		Roupa = {Tier = 255,Shirt = 7174049481,Pants = 406726579},
