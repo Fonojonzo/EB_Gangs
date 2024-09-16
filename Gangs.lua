@@ -603,7 +603,7 @@ local Gangs = {
 	[34875717] = { -- [Dono ID: 2934160213] slot 10
 		Nome = "The Dragon's Of Fury",
 		Vida = 500,
-		Itens = {['KokusenKick'] = 0,['Yamato'] = 0},
+		Itens = {['KokusenKick'] = 0,['FireKick'] = 0},
 		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 140, 0}},
