@@ -335,7 +335,7 @@ local Gangs = {
 	[33632081] = {   -- [Dono ID:3749443355 ] slot 15
 		Nome = "Valhalla",
 		Vida = 750,
-		Itens = {['KokusenKick'] = 0,['Dash'] = 0,['Raio'] = {254, 253, 252, 251, 249, 247, 245, 255},['TacoLucille'] = 0,['Rasteira'] = 0},
+		Itens = {['KokusenKick'] = 0,['Dash'] = 0,['Raio'] = {254, 253, 252, 251, 249, 247, 245, 255, 250, 244, 242, 243},['TacoLucille'] = 0,['Rasteira'] = 0},
 		Roupa = {Tier = 255,Shirt = 8326276598,Pants = 6938668835},
 		Cor = { 
 			Nome = 	  {Letra = {0,0,0},Borda = {255, 255, 255}},
