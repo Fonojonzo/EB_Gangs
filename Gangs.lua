@@ -148,7 +148,7 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 	[33784819] = {   -- [Dono ID:1355358201 ] slot 15
-		Nome = 'The Vortex Gang',
+		Nome = 'Águias De Prata',
 		Vida = 500,
 		Itens = {['Mikey'] = 0},
 		Roupa = {Tier = 95,Shirt = 0,Pants = 0},
