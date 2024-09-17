@@ -151,11 +151,11 @@ local Gangs = {
 		Nome = 'Águias De Prata',
 		Vida = 500,
 		Itens = {['Mikey'] = 0},
-		Roupa = {Tier = 95,Shirt = 0,Pants = 0},
+		Roupa = {Tier = 95,Shirt = 5019845924,Pants = 1530780149},
 		Cor = { 
-			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 255, 255}},
-			Patente = {Letra = {0, 0, 0},Borda = {255, 255, 255}},
-			Team =    {Letra = {0, 0, 0},Borda = {67, 102, 244}},
+			Nome = 	  {Letra = {179, 179, 179},Borda = {255, 255, 255}},
+			Patente = {Letra = {179, 179, 179},Borda = {255, 255, 255}},
+			Team =    {Letra = {179, 179, 179},Borda = {255, 255, 255}},
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
