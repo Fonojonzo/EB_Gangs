@@ -151,7 +151,7 @@ local Gangs = {
 		Nome = 'Águias De Prata',
 		Vida = 500,
 		Itens = {['Mikey'] = 0},
-		Roupa = {Tier = 95,Shirt = 6833810008,Pants = 6833814450},
+		Roupa = {Tier = 95,Shirt = 6833810008,Pants = 6833814443},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 255, 0}},
 			Patente = {Letra = {0, 0, 0},Borda = {255, 255, 0}},
