@@ -399,7 +399,7 @@ local Gangs = {
 		Nome = "Os Hokages.",
 		Vida = 400,
 		Itens = {['KokusenKick'] = 0,['Yamato'] = 0,['TacoLucille'] = 0,['Rasteira'] = 0,['FireKick'] = 0},
-		Roupa = {Tier = 255,Shirt = 7174049481,Pants = 406726579},
+		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 255, 255}},
 			Patente = {Letra = {0, 0, 0},Borda = {255, 255, 255}},
