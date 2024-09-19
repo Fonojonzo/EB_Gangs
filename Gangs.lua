@@ -651,7 +651,7 @@ local Gangs = {
 	[34958167] = { -- [Dono ID: 5858599339] slot 10
 		Nome = "Shadows of Darkness",
 		Vida = 500,
-		Itens = {['Josef'] = 0},
+		Itens = {['Josef'] = 0,['TacoLucille'] = 0},
 		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
 		Cor = { 
 			Nome = 	  {Letra = {255, 255, 255},Borda = {0, 0, 0}},
