@@ -648,7 +648,7 @@ local Gangs = {
 			},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[34958167] = { -- [Dono ID: 5858599339] slot 10
+	[34958167] = { -- [Dono ID: 5858599339] slot 10/ aviso 1/2 de venda
 		Nome = "Shadows of Darkness",
 		Vida = 500,
 		Itens = {['Josef'] = 0,['TacoLucille'] = 0},
