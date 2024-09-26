@@ -671,6 +671,18 @@ local Gangs = {
 			Team =    {Letra = {153, 0, 0},Borda = {255, 255, 0}},
 			},
 	},----------------------------------- Gang ---------------------------------------------
+
+	[34999036] = { -- [Dono ID: 3495283108] slot 10
+		Nome = "Spectral Warriors Heirs of Great Honor",
+		Vida = 500,
+		Itens = {['Josef'] = 0},
+		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
+		Cor = { 
+			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 0, 0}},
+			Patente = {Letra = {0, 0, 0},Borda = {255, 0, 0}},
+			Team =    {Letra = {0, 0, 0},Borda = {255, 0, 0}},
+			},
+	},----------------------------------- Gang ---------------------------------------------
 	
 	
 	
