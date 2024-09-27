@@ -672,7 +672,7 @@ local Gangs = {
 			},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[34999036] = { -- [Dono ID: 3495283108] slot 10
+	[34999036] = { -- [Dono ID: 3605403073] slot 10
 		Nome = "Spectral Warriors Heirs of Great Honor",
 		Vida = 500,
 		Itens = {['Josef'] = 0},
