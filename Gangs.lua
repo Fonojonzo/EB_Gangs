@@ -613,8 +613,8 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 	
 	[33793567] = { -- [Dono ID: 3823029215] slot 10
-		Nome = "The Hunters",
-		Vida = 400,
+		Nome = "Palhaços Amaldiçoados",
+		Vida = 500,
 		Itens = {['Mikey'] = 0},
 		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
 		Cor = { 
