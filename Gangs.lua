@@ -639,7 +639,7 @@ local Gangs = {
 	[34939648] = { -- [Dono ID: 5858599339] slot 10
 		Nome = "The Powerful Demons",
 		Vida = 750,
-		Itens = {['KokusenKick'] = 0},
+		Itens = {['KokusenKick'] = 0,['Rasteira'] = 0,['FireKick'] = 0},
 		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 255, 255}},
