@@ -372,7 +372,7 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 	[34013723] = { --17204687   -- [Dono ID:2002432326 ] slot 15
-		Nome = "Kanto Manji Gang",
+		Nome = "Slayer Corps",
 		Vida = 750,
 		Itens = {['KokusenKick'] = 0,['Dash'] = 0,['TacoLucille'] = 0,['Yamato'] = {255 , 254 , 253 , 252 , 251},['FireKick'] = 0},
 		Roupa = {Tier = 256,Shirt = 14562985927,Pants = 14562993375},
