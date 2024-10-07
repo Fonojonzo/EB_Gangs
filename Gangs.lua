@@ -660,7 +660,7 @@ local Gangs = {
 			},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[34965703] = { -- [Dono ID: 3495283108] slot 10
+	[0] = { -- [Dono ID: 3495283108] slot 10 / 34965703 ID GANG  VENDA CARGO POR NITRO
 		Nome = "Golden Dawn",
 		Vida = 750,
 		Itens = {['KokusenKick'] = 0,['FireKick'] = 0,['Rasteira'] = 0},
