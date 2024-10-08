@@ -246,8 +246,8 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[34427514] = {   -- [Dono ID:4592829229 ] slot 15 /  ID GANG/ matheusprogamer_123 vendendo cargo -- 34008520
-		Nome = "Odyssey Klaw's II 乡",
+	[34427514] = {   -- [Dono ID:4592829229 ] slot 15 /  ID GANG/ matheusprogamer_123 vendendo cargo -- 34008520 Odyssey Klaw's II 乡
+		Nome = "戒め 10 Mandamentos 戒め",
 		Vida = 500,
 		Itens = {['KokusenKick'] = 0,['Dash'] = 0,['TacoLucille'] = 0},
 		Roupa = {Tier = 255,Shirt = 15808598116,Pants = 15815194659},
