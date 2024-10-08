@@ -110,18 +110,6 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[0] = { -- 2 denuncia / 33765458 / lider fazendo dark rp 
-		Nome = '樹液 Cilpher Pol Gang 樹液',
-		Vida = 500,
-		Itens = {['Josef'] = 0},
-		Roupa = {Tier = 95,Shirt = 0,Pants = 0},
-		Cor = { 
-			Nome = 	  {Letra = {0, 0, 0},Borda = {0, 255, 0}},
-			Patente = {Letra = {0, 0, 0},Borda = {0, 255, 0}},
-			Team =    {Letra = {0, 0, 0},Borda = {0, 255, 0}},
-		},
-	},----------------------------------- Gang ---------------------------------------------
-
 
 	[33822704] = { -- The Gods Of Universe (grupo) - Loid e // Rafael (pagou) ID:2606115766
 		Nome = 'The Cursed Sorcerers',
@@ -132,18 +120,6 @@ local Gangs = {
 			Nome = 	  {Letra = {0, 0, 0},Borda = {153, 0, 0}},
 			Patente = {Letra = {0, 0, 0},Borda = {153, 0, 0}},
 			Team =    {Letra = {0, 0, 0},Borda = {153, 0, 0}},
-		},
-	},----------------------------------- Gang ---------------------------------------------
-
-	[33784506] = {   -- [Dono ID:5281575344 ] slot 15
-		Nome = 'Emperior Of Clover',
-		Vida = 750,
-		Itens = {['Mikey'] = 0},
-		Roupa = {Tier = 95,Shirt = 0,Pants = 0},
-		Cor = { 
-			Nome = 	  {Letra = {254,238,117},Borda = {0, 0, 0}},
-			Patente = {Letra = {0, 0, 0},Borda = {255, 255, 255}},
-			Team =    {Letra = {0, 0, 0},Borda = {255, 255, 255}},
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
@@ -233,19 +209,6 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-
-	[33903684] = {   -- [Dono ID:3322067390 ] slot 15
-		Nome = 'Yakuza no Kansai',
-		Vida = 750,
-		Itens = {['Dash'] = 0,['KokusenKick'] = 0,['Rasteira'] = 0},
-		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
-		Cor = { 
-			Nome = 	  {Letra = {0, 0, 0},Borda = {153, 0, 153}},
-			Patente = {Letra = {0, 0, 0},Borda = {255, 0, 0}},
-			Team =    {Letra = {0, 0, 0},Borda = {153, 0, 153}},
-		},
-	},----------------------------------- Gang ---------------------------------------------
-
 	[33970113] = {   -- [Dono ID:3176819923 ] slot 15
 		Nome = "The Seven's Deadly Sin's",
 		Vida = 500,
@@ -255,18 +218,6 @@ local Gangs = {
 			Nome = 	  {Letra = {0 , 0, 0},Borda = {255, 0, 181}},
 			Patente = {Letra = {0, 0, 0},Borda = {255, 0, 181}},
 			Team =    {Letra = {255, 0, 0},Borda = {255, 255, 255}},
-		},
-	},----------------------------------- Gang ---------------------------------------------
-
-	[0] = {   -- [Dono ID:1769799419 ] slot 15
-		Nome = "Bonten Gang",
-		Vida = 1000,
-		Itens = {['Mikey'] = 0},
-		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
-		Cor = { 
-			Nome = 	  {Letra = {0 , 0, 0},Borda = {0, 170, 255}},
-			Patente = {Letra = {0, 0, 0},Borda = {0, 170, 255}},
-			Team =    {Letra = {0, 0, 0},Borda = {0, 170, 255}},
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
@@ -295,7 +246,7 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[34008520] = {   -- [Dono ID:3790482088 ] slot 15 /  ID GANG/ matheusprogamer_123 vendendo cargo
+	[0] = {   -- [Dono ID:3790482088 ] slot 15 /  ID GANG/ matheusprogamer_123 vendendo cargo -- 34008520
 		Nome = "Odyssey Klaw's II 乡",
 		Vida = 500,
 		Itens = {['KokusenKick'] = 0,['Dash'] = 0,['TacoLucille'] = 0},
@@ -319,20 +270,7 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 	
-	[0] = {   -- [Dono ID: ]
-		Nome = "Império Lunar",
-		Vida = 1250,
-		Itens = {['Mikey'] = 0,['Dash'] = 0,['TacoLucille'] = 5},
-		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
-		Cor = { 
-			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 255, 255}},
-			Patente = {Letra = {0, 0, 0},Borda = {255, 255, 255}},
-			Team =    {Letra = {0, 0, 0},Borda = {255, 255, 255}},
-		},
-	},----------------------------------- Gang ---------------------------------------------
-
-
-	[33632081] = {   -- [Dono ID:3749443355 ] slot 15
+	[33632081] = {   -- [Dono ID:3108673472 ] slot 15
 		Nome = "Valhalla",
 		Vida = 750,
 		Itens = {['KokusenKick'] = 0,['Dash'] = 0,['Raio'] = {254, 253, 252, 251, 249, 247, 245, 255, 250, 244, 242, 243},['TacoLucille'] = 0,['Rasteira'] = 0},
@@ -371,7 +309,7 @@ local Gangs = {
 			},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[34013723] = { --17204687   -- [Dono ID:2002432326 ] slot 15
+	[34013723] = { -- [Dono ID:2002432326 ] slot 15
 		Nome = "Slayer Corps",
 		Vida = 750,
 		Itens = {['KokusenKick'] = 0,['Dash'] = 0,['TacoLucille'] = 0,['Yamato'] = {255 , 254 , 253 , 252 , 251},['FireKick'] = 0},
@@ -408,19 +346,7 @@ local Gangs = {
 
 	},----------------------------------- Gang ---------------------------------------------
 
-	[34356664] = {  -- [Dono ID:2987691941 ] slot 15
-		Nome = "Grécia Antiga",
-		Vida = 750,
-		Itens = {['Mikey'] = 0},
-		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
-		Cor = { 
-			Nome = 	  {Letra = {255, 255, 255},Borda = {102, 204, 255}},
-			Patente = {Letra = {255, 255, 255},Borda = {255, 255, 102}},
-			Team =    {Letra = {255, 255, 255},Borda = {102, 204, 255}},
-			},
-	},----------------------------------- Gang ---------------------------------------------
-
-	[34377119] = {  -- [Dono ID:4601833482 ] slot 15
+	[0] = {  -- [Dono ID:4601833482 ] slot 15 / troca de dono? 34377119
 		Nome = "The Blue Angels 卢阿",
 		Vida = 500,
 		Itens = {['Mikey'] = 0},
@@ -453,18 +379,6 @@ local Gangs = {
 			Nome = 	  {Letra = {0, 0, 0},Borda = 	 {255, 255, 255}},
 			Patente = {Letra = {0, 0, 0},Borda = 	 {255, 255, 255}},
 			Team =    {Letra = {0, 0, 0},Borda =     {255, 255, 255}},
-			},
-	},----------------------------------- Gang ---------------------------------------------
-
-	[34524237] = {  -- [Dono ID:5834299153 ] slot 15
-		Nome = "༺ 7 Pecados Capitais ༻",
-		Vida = 500,
-		Itens = {['Josef'] = 0},
-		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
-		Cor = { 
-			Nome = 	  {Letra = {0, 255, 0},Borda = 	 {255, 255, 0}},
-			Patente = {Letra = {0, 255, 0},Borda = 	 {255, 255, 0}},
-			Team =    {Letra = {0, 255, 0},Borda =    {255, 255, 0}},
 			},
 	},----------------------------------- Gang ---------------------------------------------
 
@@ -504,19 +418,7 @@ local Gangs = {
 			},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[16224076] = { -- [Dono ID: 2908712695] slot 15
-		Nome = "The Flaming Dragons",
-		Vida = 500,
-		Itens = {['Mikey'] = 0},
-		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
-		Cor = { 
-			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 140, 0}},
-			Patente = {Letra = {0, 0, 0},Borda = {255, 140, 0}},
-			Team =    {Letra = {0, 0, 0},Borda = {255, 140, 0}},
-			},
-	},----------------------------------- Gang ---------------------------------------------
-
-	[34786743] = { -- [Dono ID: 6213921894] slot 15
+	[0] = { -- [Dono ID: 6213921894] slot 15
 		Nome = "Demônios Imortais",
 		Vida = 750,
 		Itens = {['KokusenKick'] = 0},
@@ -525,18 +427,6 @@ local Gangs = {
 			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 0, 0}},
 			Patente = {Letra = {0, 0, 0},Borda = {255, 0, 0}},
 			Team =    {Letra = {0, 0, 0},Borda = {255, 0, 0}},
-			},
-	},----------------------------------- Gang ---------------------------------------------
-
-	[0] = { -- [Dono ID: 2582280278] slot 10 / 32994778 passou limite /
-		Nome = "神The God Shadows影",
-		Vida = 500,
-		Itens = {['Mikey'] = 0},
-		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
-		Cor = { 
-			Nome = 	  {Letra = {0, 0, 0},Borda = {102, 0, 102}},
-			Patente = {Letra = {0, 0, 0},Borda = {102, 0, 102}},
-			Team =    {Letra = {0, 0, 0},Borda = {102, 0, 102}},
 			},
 	},----------------------------------- Gang ---------------------------------------------
 
@@ -576,7 +466,7 @@ local Gangs = {
 			},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[34834114] = { -- [Dono ID: ] slot 10
+	[34834114] = { -- [Dono ID: 1679011316] slot 10
 		Nome = "The Warriors of Sea",
 		Vida = 500,
 		Itens = {['KokusenKick'] = 0,['TacoLucille'] = 0},
@@ -588,7 +478,7 @@ local Gangs = {
 			},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[34848694] = { -- [Dono ID: ] slot 10
+	[34848694] = { -- [Dono ID: 161871014] slot 10
 		Nome = "Shirokaze Dantai",
 		Vida = 500,
 		Itens = {['Josef'] = 0},
@@ -648,7 +538,7 @@ local Gangs = {
 			},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[34958167] = { -- [Dono ID: 5858599339] slot 10/ aviso 1/2 de venda
+	[34958167] = { -- [Dono ID: 5521224878] slot 10/ aviso 1/2 de venda
 		Nome = "Shadows of Darkness",
 		Vida = 500,
 		Itens = {['Josef'] = 0,['TacoLucille'] = 0},
@@ -719,6 +609,7 @@ local Gangs = {
 			Team =    {Letra = {0 , 0, 0},Borda = {255, 0, 0}},
 			},
 	},----------------------------------- Gang ---------------------------------------------
+
 
 
 	
