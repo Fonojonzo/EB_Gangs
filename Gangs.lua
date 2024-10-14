@@ -383,7 +383,7 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 	[15757244] = { -- [Dono ID: 1569341667] slot 15
-		Nome = "Shingeki no Kyojin",
+		Nome = "Celestial Knights of the Temple",
 		Vida = 1000,
 		Itens = {['KokusenKick'] = 0,['Dash'] = 0,['Yamato'] = 0,['FireKick'] = 0},
 		Roupa = {Tier = 255,Shirt = 11955653813,Pants = 7702801716},
