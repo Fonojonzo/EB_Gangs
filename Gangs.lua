@@ -601,7 +601,7 @@ local Gangs = {
 	[33266426] = { -- [Dono ID: 1256174320] slot 10
 		Nome = "Immortal Angels",
 		Vida = 500,
-		Itens = {['Josef'] = 0},
+		Itens = {['Josef'] = 0,['Yamato'] = 0,['Dash'] = 0},
 		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 0, 0}},
