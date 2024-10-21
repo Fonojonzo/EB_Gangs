@@ -649,7 +649,7 @@ local Gangs = {
 	[35109436] = { -- [Dono ID: 3108673472] slot 10
 		Nome = "Moebius",
 		Vida = 500,
-		Itens = {['ChuteEletrico'] = 0,['Raio'] = 0},
+		Itens = {['ChuteEletrico'] = 0,['Raio'] = 0,['Rasteira'] = 0},
 		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 255, 255}},
