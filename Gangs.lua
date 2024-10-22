@@ -635,7 +635,7 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 	
 	[35044712] = { -- [Dono ID: 5810126054] slot 10
-		Nome = "☯︎ Yin-Yang Poder Oculto ☯︎",
+		Nome = "☯️ Yin-Yang Poder Oculto ☯️",
 		Vida = 500,
 		Itens = {['Josef'] = 0,['YinYang'] = 0},
 		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
