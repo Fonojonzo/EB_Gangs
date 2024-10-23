@@ -65,7 +65,7 @@ local Gangs = {
 	[33504780] = {   -- [Dono ID:4035850120 ] slot 15
 		Nome = 'World Government',
 		Vida = 800,
-		Itens = {['KokusenKick'] = 0,['TacoLucille'] = {255,254,100},['ItachiDash'] = 0,['Yamato'] = 5,['FireKick'] = 0,['DoubleJump'] = 255,['Raio'] = 0},
+		Itens = {['KokusenKick'] = 0,['TacoLucille'] = {255,254,100},['ItachiDash'] = 0,['Yamato'] = 5,['FireKick'] = 0,['DoubleJump'] = 255,['Raio'] = 0,['YinYang'] = 0},
 		Roupa = {Tier = 95,Shirt = 0,Pants = 0},
 		Cor = {
 			Nome = 	  {Letra = {255, 255, 255},Borda = {0,0,153}},
