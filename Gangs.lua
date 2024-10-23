@@ -336,7 +336,7 @@ local Gangs = {
 	[33277598] = { --/ ultrapassou limite mas removeu   -- [Dono ID:3790482088 ] slot 15
 		Nome = "Os Hokages.",
 		Vida = 400,
-		Itens = {['KokusenKick'] = 0,['Yamato'] = 0,['TacoLucille'] = 0,['Rasteira'] = 0,['FireKick'] = 0},
+		Itens = {['KokusenKick'] = 0,['Yamato'] = 0,['TacoLucille'] = 0,['Rasteira'] = 0,['FireKick'] = 0,['YinYang'] = 0},
 		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 255, 255}},
