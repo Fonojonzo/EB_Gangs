@@ -398,11 +398,11 @@ local Gangs = {
 		Nome = "The Wizard's",
 		Vida = 500,
 		Itens = {['KokusenKick'] = 0,['Rasteira'] = 0,['TacoLucille'] = 0,['FireKick'] = 0},
-		Roupa = {Tier = 255,Shirt = 84839200256196,Pants = 90176091050875},
+		Roupa = {Tier = 255,Shirt = 9852565478,Pants = 7506390253},
 		Cor = { 
-			Nome = 	  {Letra = {0, 0, 0},Borda = {0, 255, 255}},
-			Patente = {Letra = {0, 0, 0},Borda =  {0,255, 255}},
-			Team =    {Letra = {153, 0, 153},Borda =  {0, 255, 255},RGB = true},
+			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 255, 255}},
+			Patente = {Letra = {0, 0, 0},Borda =  {255, 255, 0}},
+			Team =    {Letra = {0, 0, 0},Borda =  {255, 255, 0},RGB = true},
 			},
 	},----------------------------------- Gang ---------------------------------------------
 
