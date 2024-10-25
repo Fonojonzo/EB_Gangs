@@ -406,18 +406,6 @@ local Gangs = {
 			},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[34747448] = { -- [Dono ID: 2710519623] slot 15
-		Nome = "The Outlast Trials",
-		Vida = 500,
-		Itens = {['Josef'] = 0},
-		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
-		Cor = { 
-			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 0, 0}},
-			Patente = {Letra = {0, 0, 0},Borda = {255, 0, 0}},
-			Team =    {Letra = {0, 0, 0},Borda = {255, 0, 0}},
-			},
-	},----------------------------------- Gang ---------------------------------------------
-
 	[0] = { -- [Dono ID: 6213921894] slot 15
 		Nome = "Demônios Imortais",
 		Vida = 750,
