@@ -503,7 +503,7 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 	[34939648] = { -- [Dono ID: 5858599339] slot 10
-		Nome = "Kanto Manji",
+		Nome = "Kanto Manji Gang",
 		Vida = 750,
 		Itens = {['KokusenKick'] = 0,['Rasteira'] = 0,['FireKick'] = 0},
 		Roupa = {Tier = 255,Shirt = 16584663506,Pants = 16682328369},
