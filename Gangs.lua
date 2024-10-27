@@ -479,7 +479,7 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 	
 	[33793567] = { -- [Dono ID: 3823029215] slot 10
-		Nome = "Palhaços Amaldiçoados",
+		Nome = "魚ガ Temple Do Uzumaki 魚ガ",
 		Vida = 500,
 		Itens = {['Mikey'] = 0},
 		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
