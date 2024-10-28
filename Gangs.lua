@@ -3,7 +3,7 @@ local Gangs = {
 	[32942292] = { 
 		Nome = 'Luas Superiores',
 		Vida = 3000,
-		Itens = {['PisoLuas'] = 30,['Colateral'] = 30,['Dash'] = 30,['DoubleJump'] = 0},
+		Itens = {['PisoLuas'] = 30,['Colateral'] = 30,['Dash'] = 30,['DemonRegen'] = 0,['DoubleJump'] = 0},
 		Roupa = {Tier = 95,Shirt = 0,Pants = 0},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 255, 255}},
