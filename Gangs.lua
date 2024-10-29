@@ -16,7 +16,7 @@ local Gangs = {
 	[34908951] = {
 		Nome = 'Esquadrão de Caçadores de Onis',
 		Vida = 3000,
-		Itens = {['Dash'] = 0,['SwordSlash'] = 0,['Hinokami_1'] = 100,['MundoTransparente'] = 0,['DoubleJump'] = 0,['SusanooSlap'] = 0,['TacoLucille'] = 0},
+		Itens = {['Dash'] = 0,['SwordSlash'] = 0,['Hinokami_1'] = 100,['MundoTransparente'] = 0,['DoubleJump'] = 0,['SusanooSlap'] = 0},
 		Roupa = {Tier = 254,Shirt = 7085831071,Pants = 7085861080},
 		Cor = {
 			Nome = 	  {Letra = {0,0,0},Borda = {255,255,255},RGB = false},
