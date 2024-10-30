@@ -334,18 +334,6 @@ local Gangs = {
 
 	},----------------------------------- Gang ---------------------------------------------
 
-	[0] = {  -- [Dono ID:4601833482 ] slot 15 / troca de dono? 34377119
-		Nome = "The Blue Angels 卢阿",
-		Vida = 500,
-		Itens = {['Mikey'] = 0},
-		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
-		Cor = { 
-			Nome = 	  {Letra = {255, 255, 255},Borda = {0, 0, 0}},
-			Patente = {Letra = {255, 255, 255},Borda = {0, 0, 0}},
-			Team =    {Letra = {255, 255, 255},Borda = {0, 0, 0}},
-			},
-	},----------------------------------- Gang ---------------------------------------------
-
 	[34404750] = {  -- [Dono ID:3617549185 ] slot 15
 		Nome = "Esquadrão Demoníaco",
 		Vida = 750,
@@ -394,18 +382,6 @@ local Gangs = {
 			},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[0] = { -- [Dono ID: 6213921894] slot 15
-		Nome = "Demônios Imortais",
-		Vida = 750,
-		Itens = {['KokusenKick'] = 0},
-		Roupa = {Tier = 255,Shirt = 6515241723,Pants = 6515241723},
-		Cor = { 
-			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 0, 0}},
-			Patente = {Letra = {0, 0, 0},Borda = {255, 0, 0}},
-			Team =    {Letra = {0, 0, 0},Borda = {255, 0, 0}},
-			},
-	},----------------------------------- Gang ---------------------------------------------
-
 	[34666434] = { -- [Dono ID: 5588870678] slot 15
 		Nome = "Dark Angels Demo",
 		Vida = 500,
@@ -427,18 +403,6 @@ local Gangs = {
 			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 0, 0}},
 			Patente = {Letra = {0, 0, 0},Borda = {255, 0, 0}},
 			Team =    {Letra = {0, 0, 0},Borda = {255, 0, 0}},
-			},
-	},----------------------------------- Gang ---------------------------------------------
-
-	[0] = { -- [Dono ID:3183752159 ] slot 10 / venda gang 34832091
-		Nome = "Galaxy Universe",
-		Vida = 500,
-		Itens = {['Josef'] = 0},
-		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
-		Cor = { 
-			Nome = 	  {Letra = {153, 0, 153},Borda = {255, 255, 255}},
-			Patente = {Letra = {153, 0, 153},Borda = {255, 255, 255}},
-			Team =    {Letra = {153, 0, 153},Borda = {255, 255, 255}},
 			},
 	},----------------------------------- Gang ---------------------------------------------
 
@@ -523,18 +487,6 @@ local Gangs = {
 			Nome = 	  {Letra = {255, 255, 255},Borda = {0, 0, 0}},
 			Patente = {Letra = {255, 255, 255},Borda = {0, 0, 0}},
 			Team =    {Letra = {0, 0, 0},Borda = {255, 255, 153}},
-			},
-	},----------------------------------- Gang ---------------------------------------------
-
-	[0] = { -- [Dono ID: 3495283108] slot 10 / 34965703 ID GANG  VENDA CARGO POR NITRO
-		Nome = "Golden Dawn",
-		Vida = 750,
-		Itens = {['KokusenKick'] = 0,['FireKick'] = 0,['Rasteira'] = 0},
-		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
-		Cor = { 
-			Nome = 	  {Letra = {153, 0, 0},Borda = {255, 255, 0}},
-			Patente = {Letra = {153, 0, 0},Borda = {255, 255, 0}},
-			Team =    {Letra = {153, 0, 0},Borda = {255, 255, 0}},
 			},
 	},----------------------------------- Gang ---------------------------------------------
 
