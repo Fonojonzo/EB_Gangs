@@ -383,14 +383,14 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 	[34666434] = { -- [Dono ID: 5588870678] slot 15
-		Nome = "Dark Angels Demo",
+		Nome = "好 • Jojo's Adventure • 最",
 		Vida = 500,
 		Itens = {['KokusenKick'] = 0},
 		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
 		Cor = { 
-			Nome = 	  {Letra = {0, 0, 0},Borda = {153, 0, 153}},
-			Patente = {Letra = {0, 0, 0},Borda = {153, 0, 153}},
-			Team =    {Letra = {0, 0, 0},Borda = {153, 0, 153}},
+			Nome = 	  {Letra = {0, 0, 0},Borda = {102, 0, 102}},
+			Patente = {Letra = {255, 255, 255},Borda = {102, 0, 102}},
+			Team =    {Letra = {255, 255, 255},Borda = {102, 0, 102}},
 			},
 	},----------------------------------- Gang ---------------------------------------------
 
