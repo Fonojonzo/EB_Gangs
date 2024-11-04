@@ -77,7 +77,7 @@ local Gangs = {
 	[33483361] = {   -- [Dono ID:2885875741 ] slot 15
 		Nome = 'Van Der Linde',
 		Vida = 500,
-		Itens = {['Mikey'] = 0},
+		Itens = {['ChuteEletrico'] = 0,['MundoTransparente'] = 0},
 		Roupa = {Tier = 95,Shirt = 0,Pants = 0},
 		Cor = {
 			Nome = 	  {Letra = {255, 255, 255},Borda = {0,0,0}},
