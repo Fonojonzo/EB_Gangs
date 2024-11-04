@@ -63,7 +63,7 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 	[33504780] = {   -- [Dono ID:4035850120 ] slot 15
-		Nome = '𝖎.𝕵',
+		Nome = 'ⅰ.ل',
 		Vida = 800,
 		Itens = {['KokusenKick'] = 0,['TacoLucille'] = {255,254,100},['ItachiDash'] = 0,['Yamato'] = 5,['FireKick'] = 0,['DoubleJump'] = 255,['Raio'] = {255, 254, 100},['YinYang'] = 0,['SusanooSlap'] = 0,['Rinnegan_Push'] = 0,['Hinokami_1'] = 0},
 		Roupa = {Tier = 95,Shirt = 0,Pants = 0},
