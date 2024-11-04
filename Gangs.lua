@@ -16,7 +16,7 @@ local Gangs = {
 	[34908951] = {
 		Nome = 'Esquadrão de Caçadores de Onis',
 		Vida = 3000,
-		Itens = {['Dash'] = 0,['SwordSlash'] = 0,['Hinokami_1'] = 100,['MundoTransparente'] = 0,['DoubleJump'] = 0,['SusanooSlap'] = 0},
+		Itens = {['Dash'] = 0,['SwordSlash'] = 0,['Hinokami_1'] = 100,['MundoTransparente'] = 0,['DoubleJump'] = 0,['SusanooSlap'] = 0,['Rinnegan_Push'] = 0},
 		Roupa = {Tier = 254,Shirt = 7085831071,Pants = 7085861080},
 		Cor = {
 			Nome = 	  {Letra = {0,0,0},Borda = {255,255,255},RGB = false},
@@ -65,7 +65,7 @@ local Gangs = {
 	[33504780] = {   -- [Dono ID:4035850120 ] slot 15
 		Nome = 'World Government',
 		Vida = 800,
-		Itens = {['KokusenKick'] = 0,['TacoLucille'] = {255,254,100},['ItachiDash'] = 0,['Yamato'] = 5,['FireKick'] = 0,['DoubleJump'] = 255,['Raio'] = 0,['YinYang'] = 0,['SusanooSlap'] = 0},
+		Itens = {['KokusenKick'] = 0,['TacoLucille'] = {255,254,100},['ItachiDash'] = 0,['Yamato'] = 5,['FireKick'] = 0,['DoubleJump'] = 255,['Raio'] = 0,['YinYang'] = 0,['SusanooSlap'] = 0,['Rinnegan_Push'] = 0},
 		Roupa = {Tier = 95,Shirt = 0,Pants = 0},
 		Cor = {
 			Nome = 	  {Letra = {255, 255, 255},Borda = {0,0,153}},
