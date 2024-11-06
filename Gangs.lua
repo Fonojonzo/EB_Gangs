@@ -301,7 +301,7 @@ local Gangs = {
 		Nome = "Slayer Corps",
 		Vida = 750,
 		Itens = {['KokusenKick'] = 0,['Dash'] = 0,['TacoLucille'] = 0,['Yamato'] = {255 , 254 , 253 , 252 , 251},['FireKick'] = 0},
-		Roupa = {Tier = 256,Shirt = 14562985927,Pants = 14562993375},
+		Roupa = {Tier = 256,Shirt = 6109724613,Pants = 6109725511},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 83, 0}},
 			Patente = {Letra = {0, 0, 0},Borda = {255, 83, 0}},
