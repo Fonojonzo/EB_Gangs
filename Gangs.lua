@@ -197,7 +197,7 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[33970113] = {   -- [Dono ID:3176819923 ] slot 15
+	[0] = {   -- [Dono ID:3176819923 ] slot 15 / ID GANG PEDIDO PRA DESATIVAR 33970113
 		Nome = "The Seven's Deadly Sin's",
 		Vida = 500,
 		Itens = {['KokusenKick'] = 0,['FireKick'] = 0},
