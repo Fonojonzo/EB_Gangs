@@ -466,15 +466,15 @@ local Gangs = {
 			},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[34939648] = { -- [Dono ID: 5858599339] slot 10
-		Nome = "Kanto Manji Gang",
+	[34939648] = { -- [Dono ID: 5858599339] slot 10 
+		Nome = "Valhalla", -- Kanto Manji Gang antiga
 		Vida = 750,
 		Itens = {['KokusenKick'] = 0,['Rasteira'] = 0,['FireKick'] = 0,['SusanooSlap'] = 0},
 		Roupa = {Tier = 255,Shirt = 16584663506,Pants = 16682328369},
 		Cor = { 
-			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 255, 255}},
+			Nome = 	  {Letra = {255, 255, 255},Borda = {255, 255, 0}},
 			Patente = {Letra = {0, 0, 0},Borda = {255, 255, 255}},
-			Team =    {Letra = {255, 0, 0},Borda = {255, 255, 153}},
+			Team =    {Letra = {0, 0, 0},Borda = {255, 255, 255}},
 			},
 	},----------------------------------- Gang ---------------------------------------------
 
