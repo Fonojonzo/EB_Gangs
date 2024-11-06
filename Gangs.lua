@@ -385,7 +385,7 @@ local Gangs = {
 	[34666434] = { -- [Dono ID: 5588870678] slot 15
 		Nome = "好 • Jojo's Adventure • 最",
 		Vida = 500,
-		Itens = {['KokusenKick'] = 0},
+		Itens = {['KokusenKick'] = 0,['Yamato'] = 0},
 		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},Borda = {102, 0, 102}},
