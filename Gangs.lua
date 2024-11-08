@@ -148,7 +148,7 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 
-	[33817647] = {   -- [Dono ID:3207378051 ] slot 15
+	[34446220] = {   -- [Dono ID:3207378051 ] slot 15
 		Nome = 'Os Hashiras',
 		Vida = 750,
 		Itens = {['SwordSlash'] = 0,['TacoLucille'] = 230,['Dash'] = 0,['Yamato'] = 230,['Granada'] = 252,['Rasteira'] = 0},
