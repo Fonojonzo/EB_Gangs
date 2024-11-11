@@ -611,7 +611,17 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 
-
+	[0] = {   -- [Dono ID:3322067390 ] slot 10 / 33903684 desativada e reativada troca de dono
+		Nome = 'Yakuza no Kansai',
+		Vida = 750,
+		Itens = {['Dash'] = 0,['KokusenKick'] = 0,['Rasteira'] = 0},
+		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
+		Cor = { 
+			Nome = 	  {Letra = {0, 0, 0},Borda = {153, 0, 153}},
+			Patente = {Letra = {0, 0, 0},Borda = {255, 0, 0}},
+			Team =    {Letra = {0, 0, 0},Borda = {153, 0, 153}},
+		},
+	},----------------------------------- Gang ---------------------------------------------
 	
 	
 	
