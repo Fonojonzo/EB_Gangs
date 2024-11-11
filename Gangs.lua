@@ -445,7 +445,7 @@ local Gangs = {
 	[34939648] = { -- [Dono ID: 5858599339] slot 10 
 		Nome = "Valhalla", -- Kanto Manji Gang antiga
 		Vida = 750,
-		Itens = {['KokusenKick'] = 0,['Rasteira'] = 0,['FireKick'] = 0,['SusanooSlap'] = 0},
+		Itens = {['KokusenKick'] = 0,['Rasteira'] = 0,['FireKick'] = 0,['SusanooSlap'] = 0,['Raio'] = 0},
 		Roupa = {Tier = 255,Shirt = 7356225906,Pants = 7356331291},
 		Cor = { 
 			Nome = 	  {Letra = {255, 255, 255},Borda = {0, 0, 0}},
