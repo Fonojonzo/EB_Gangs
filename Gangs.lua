@@ -406,18 +406,6 @@ local Gangs = {
 			},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[34834114] = { -- [Dono ID: 1679011316] slot 10
-		Nome = "The Warriors of Sea",
-		Vida = 500,
-		Itens = {['KokusenKick'] = 0,['TacoLucille'] = 0},
-		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
-		Cor = { 
-			Nome = 	  {Letra = {0, 0, 153},Borda = {255, 255, 255}},
-			Patente = {Letra = {0, 0, 153},Borda = {255, 255, 255}},
-			Team =    {Letra = {0, 0, 153},Borda = {255, 255, 255}},
-			},
-	},----------------------------------- Gang ---------------------------------------------
-
 	[34848694] = { -- [Dono ID: 161871014] slot 10
 		Nome = "Shirokaze Dantai",
 		Vida = 500,
