@@ -164,7 +164,7 @@ local Gangs = {
 	[33820952] = {   -- [Dono ID:1250373608 ] slot 15
 		Nome = 'Os Lordes Demônios',
 		Vida = 750,
-		Itens = {['KokusenKick'] = 0,['Dash'] = 0,['TacoLucille'] = 5,['Yamato'] = 175,['YinYang'] = 0,['SusanooSlap'] = 0},
+		Itens = {['KokusenKick'] = 0,['Dash'] = 0,['TacoLucille'] = 5,['Yamato'] = 175,['YinYang'] = 0,['SusanooSlap'] = 0,['Raio'] = 0},
 		Roupa = {Tier = 256,Shirt = 14562985927,Pants = 7076268873},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 255, 255}},
@@ -445,7 +445,7 @@ local Gangs = {
 	[34939648] = { -- [Dono ID: 5858599339] slot 10 
 		Nome = "Valhalla", -- Kanto Manji Gang antiga
 		Vida = 750,
-		Itens = {['KokusenKick'] = 0,['Rasteira'] = 0,['FireKick'] = 0,['SusanooSlap'] = 0,['Raio'] = 0},
+		Itens = {['KokusenKick'] = 0,['Rasteira'] = 0,['FireKick'] = 0,['SusanooSlap'] = 0},
 		Roupa = {Tier = 255,Shirt = 7356225906,Pants = 7356331291},
 		Cor = { 
 			Nome = 	  {Letra = {255, 255, 255},Borda = {0, 0, 0}},
