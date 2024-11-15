@@ -624,14 +624,14 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 	[35204003] = {   -- [Dono ID:3021435927 ] slot 10 /
-		Nome = 'Assassins of Darkness中国人',
+		Nome = 'Assassins of Darkness 中国人',
 		Vida = 500,
 		Itens = {['Josef'] = 0},
 		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
 		Cor = { 
-			Nome = 	  {Letra = {204, 0, 153},Borda = {0, 0, 0}},
-			Patente = {Letra = {204, 0, 153},Borda = {0, 0, 0}},
-			Team =    {Letra = {204, 0, 153},Borda = {0, 0, 0}},
+			Nome = 	  {Letra = {102, 0, 102},Borda = {0, 0, 0}},
+			Patente = {Letra = {102, 0, 102},Borda = {0, 0, 0}},
+			Team =    {Letra = {102, 0, 102},Borda = {0, 0, 0}},
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
