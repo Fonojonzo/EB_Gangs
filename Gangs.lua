@@ -515,7 +515,7 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 	[33587566] = { -- [Dono ID: 1613216746] slot 10
-		Nome = "Royal Gods",
+		Nome = "ロクRokuhara Tandaiハラ",
 		Vida = 500,
 		Itens = {['Josef'] = 0},
 		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
