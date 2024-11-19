@@ -151,7 +151,7 @@ local Gangs = {
 	[34446220] = {   -- [Dono ID:3207378051 ] slot 15
 		Nome = 'Akatsuki The Gang',
 		Vida = 750,
-		Itens = {['SwordSlash'] = 0,['TacoLucille'] = 230,['Dash'] = 0,['Yamato'] = 230,['Granada'] = 252,['Rasteira'] = 0},
+		Itens = {['SwordSlash'] = 0,['TacoLucille'] = 230,['Dash'] = 0,['Yamato'] = 230,['Granada'] = 252,['Rasteira'] = 0,['Raio'] = 0},
 		Roupa = {Tier = 255,Shirt = 11275639852,Pants = 6286048722},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 255, 255}},
@@ -638,7 +638,7 @@ local Gangs = {
 	[35206390] = {   -- [Dono ID:1204916120 ] slot 10 /
 		Nome = "戦 The Otsutsuki's 戦",
 		Vida = 500,
-		Itens = {['Josef'] = 0},
+		Itens = {['Josef'] = 0,['Dash'] = 0},
 		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 255, 255}},
