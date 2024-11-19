@@ -40,7 +40,7 @@ local Gangs = {
 	[34839303] = { -- [Dono ID: 128677359 ] slot 15
 		Nome = "Singularity Order",
 		Vida = 3000,
-		Itens = {['PisoLuas'] = 0,['TacoLucille'] = 0},
+		Itens = {['PisoLuas'] = 0,['BuracoNegro'] = 0},
 		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},Borda = {75, 0, 130}},
@@ -646,6 +646,19 @@ local Gangs = {
 			Team =    {Letra = {0, 0, 0},Borda = {255, 0, 0}},
 		},
 	},----------------------------------- Gang ---------------------------------------------
+
+	[35206390] = {   -- [Dono ID:1204916120 ] slot 10 /
+		Nome = "The Legendary Warriors",
+		Vida = 500,
+		Itens = {['Josef'] = 0},
+		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
+		Cor = { 
+			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 255, 255}},
+			Patente = {Letra = {0, 0, 0},Borda = {255, 255, 255}},
+			Team =    {Letra = {0, 0, 0},Borda = {255, 0, 0}},
+		},
+	},----------------------------------- Gang ---------------------------------------------
+	
 	
 	
 	
