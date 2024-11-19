@@ -647,15 +647,15 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[35206390] = {   -- [Dono ID:1204916120 ] slot 10 /
+	[33867640] = {   -- [Dono ID:5189351128 ] slot 10 /
 		Nome = "The Legendary Warriors",
 		Vida = 500,
-		Itens = {['Josef'] = 0},
+		Itens = {['Mikey'] = 0},
 		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
 		Cor = { 
-			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 255, 255}},
-			Patente = {Letra = {0, 0, 0},Borda = {255, 255, 255}},
-			Team =    {Letra = {0, 0, 0},Borda = {255, 0, 0}},
+			Nome = 	  {Letra = {0, 0, 0},Borda = {153, 0, 153}},
+			Patente = {Letra = {0, 0, 0},Borda = {153, 0, 153}},
+			Team =    {Letra = {0, 0, 0},Borda = {153, 0, 153}},
 		},
 	},----------------------------------- Gang ---------------------------------------------
 	
