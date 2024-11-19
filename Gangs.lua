@@ -164,7 +164,7 @@ local Gangs = {
 	[33820952] = {   -- [Dono ID:1250373608 ] slot 15
 		Nome = 'Os Lordes Demônios',
 		Vida = 750,
-		Itens = {['KokusenKick'] = 0,['Dash'] = 0,['TacoLucille'] = 5,['Yamato'] = 175,['YinYang'] = 0,['SusanooSlap'] = 0,['Raio'] = 0},
+		Itens = {['KokusenKick'] = 0,['Dash'] = 0,['TacoLucille'] = 5,['Yamato'] = 175,['YinYang'] = 0,['SusanooSlap'] = 0,['Raio'] = 0,['Rinnegan'] = 0},
 		Roupa = {Tier = 256,Shirt = 14562985927,Pants = 7076268873},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 255, 255}},
