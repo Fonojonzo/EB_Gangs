@@ -623,7 +623,7 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[35204003] = {   -- [Dono ID:3021435927 ] slot 10 /
+	[0] = {   -- [Dono ID:3021435927 ] slot 10 / 35204003 venda de cargo
 		Nome = 'Assassins of Darkness 中国人',
 		Vida = 500,
 		Itens = {['Josef'] = 0},
