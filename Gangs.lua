@@ -309,7 +309,7 @@ local Gangs = {
 			},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[33277598] = { --/ ultrapassou limite mas removeu   -- [Dono ID:3790482088 ] slot 15
+	[33277598] = { -- [Dono ID:3790482088 ou 3790482088 ] slot 15
 		Nome = "Arcanjo's ملائكي",
 		Vida = 400,
 		Itens = {['KokusenKick'] = 0,['Yamato'] = 0,['TacoLucille'] = 0,['Rasteira'] = 0,['FireKick'] = 0,['YinYang'] = 0,['CorteDiabolico'] = 0},
