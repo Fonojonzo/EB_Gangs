@@ -514,7 +514,7 @@ local Gangs = {
 			},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[0] = { -- [Dono ID: 1613216746] slot 10 / enchendo o saco pra reembolso depois de comprar item / quebrou as regras.
+	[0] = { -- [Dono ID: 1613216746] / 33587566 /slot 10 / enchendo o saco pra reembolso depois de comprar item / quebrou as regras.
 		Nome = "ロクRokuhara Tandaiハラ",
 		Vida = 250,
 		Itens = {['Josef'] = 0,['Raio'] = 0},
