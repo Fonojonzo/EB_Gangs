@@ -647,7 +647,7 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[33867640] = {   -- [Dono ID:5189351128 ] slot 10 / 34 membros? - agora 10
+	[0] = {   -- [Dono ID:5189351128 ] slot 10 / 34 membros? - agora 10 adeus 33867640
 		Nome = "The Legendary Warriors",
 		Vida = 500,
 		Itens = {['Mikey'] = 0},
