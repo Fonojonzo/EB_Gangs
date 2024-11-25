@@ -272,7 +272,7 @@ local Gangs = {
 			},
 	},----------------------------------- Gang ---------------------------------------------
 	
-	[34246662] = {   -- [Dono ID:3205885836 ] slot 15
+	[0] = {   -- [Dono ID:3205885836 ] slot 15 / capitão com eb clonada. 34246662
 		Nome = "God's Disciples",
 		Vida = 750,
 		Itens = {['KokusenKick'] = 0},
