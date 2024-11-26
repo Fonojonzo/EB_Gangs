@@ -148,7 +148,7 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 
-	[34446220] = {   -- [Dono ID:3207378051 ] slot 15
+	[0] = {   -- [Dono ID:3207378051 ] slot 15 / excesso 34446220
 		Nome = 'Akatsuki The Gang',
 		Vida = 750,
 		Itens = {['SwordSlash'] = 0,['TacoLucille'] = 230,['Dash'] = 0,['Yamato'] = 230,['Granada'] = 252,['Rasteira'] = 0,['Raio'] = 0,['SusanooSlap'] = 0,['Rinnegan_Push'] = 0},
