@@ -161,7 +161,7 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 
-	[33820952] = {   -- [Dono ID:1250373608 ] slot 15
+	[0] = {   -- [Dono ID:1250373608 ] slot 15 / 33820952 excesso pessoas
 		Nome = 'Os Lordes Demônios',
 		Vida = 750,
 		Itens = {['KokusenKick'] = 0,['Dash'] = 0,['TacoLucille'] = 5,['Yamato'] = 175,['YinYang'] = 0,['SusanooSlap'] = 0,['Raio'] = 0,['Rinnegan_Push'] = 0},
