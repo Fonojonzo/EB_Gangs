@@ -148,7 +148,7 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 
-	[0] = {   -- [Dono ID:3207378051 ] slot 15 / excesso 34446220
+	[34446220] = {   -- [Dono ID:3207378051 ] slot 15 / excesso 
 		Nome = 'Akatsuki The Gang',
 		Vida = 750,
 		Itens = {['SwordSlash'] = 0,['TacoLucille'] = 230,['Dash'] = 0,['Yamato'] = 230,['Granada'] = 252,['Rasteira'] = 0,['Raio'] = 0,['SusanooSlap'] = 0,['Rinnegan_Push'] = 0},
@@ -161,7 +161,7 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 
-	[0] = {   -- [Dono ID:1250373608 ] slot 15 / 33820952 excesso pessoas
+	[33820952] = {   -- [Dono ID:1250373608 ] slot 15 / slot 2 anjo bugado
 		Nome = 'Os Lordes Demônios',
 		Vida = 750,
 		Itens = {['KokusenKick'] = 0,['Dash'] = 0,['TacoLucille'] = 5,['Yamato'] = 175,['YinYang'] = 0,['SusanooSlap'] = 0,['Raio'] = 0,['Rinnegan_Push'] = 0},
