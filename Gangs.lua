@@ -707,7 +707,17 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 	
-	
+	[17368590] = {   -- [Dono ID:4243609984 ] slot 10, gang henrique parcelada em muitas milhões de vezes aguardando pag
+		Nome = 'Disciples Gangster',
+		Vida = 750,
+		Itens = {['Mikey'] = 0,['TacoLucille'] = 230,['Dash'] = 0,['Yamato'] = 230,['Granada'] = 252,['Rasteira'] = 0,['Raio'] = 0,['SusanooSlap'] = 0,['Rinnegan_Push'] = 0},
+		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
+		Cor = { 
+			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 255, 255}},
+			Patente = {Letra = {0, 0, 0},Borda = {255, 255, 255}},
+			Team =    {Letra = {0, 0, 0},Borda = {255, 0, 0}},
+		},
+	},----------------------------------- Gang ---------------------------------------------
 	
 	
 	
