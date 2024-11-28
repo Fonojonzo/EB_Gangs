@@ -49,7 +49,7 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[34839303] = { -- [Dono ID: 128677359 ] slot 15
+	[0] = { -- [Dono ID: 128677359 ] slot 15 34839303
 		Nome = "Singularity Order",
 		Vida = 3000,
 		Itens = {['PisoLuas'] = 0,['BuracoNegro'] = 0},
