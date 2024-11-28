@@ -26,6 +26,18 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 	[0] = {
+		Nome = 'Eternity Order',
+		Vida = 3000,
+		Itens = {['Colateral'] = 210,['Dash'] = 0,['FP_Thunder'] = 0,['DoubleJump'] = 0},['BuracoNegro'] = 250},
+		Roupa = {Tier = 95,Shirt = 6850745796,Pants = 7166106431},
+		Cor = {
+			Nome = 	  {Letra = {102, 0, 204},Borda = {0,0,102}
+			Patente = {Letra = {102, 0, 204},Borda = {0,0,102}},
+			Team =    {Letra = {102, 0, 204},Borda = {0,0,102}
+		},
+	},----------------------------------- Gang ---------------------------------------------
+
+	[0] = {
 		Nome = 'Tokyo Manji Gang',
 		Vida = 3000,
 		Itens = {['Dash'] = 0},
