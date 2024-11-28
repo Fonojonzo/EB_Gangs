@@ -31,9 +31,9 @@ local Gangs = {
 		Itens = {['Colateral'] = 210,['Dash'] = 0,['FP_Thunder'] = 0,['DoubleJump'] = 0,['BuracoNegro'] = 225},
 		Roupa = {Tier = 95,Shirt = 0,Pants = 0},
 		Cor = {
-			Nome = 	  {Letra = {102, 0, 204},Borda = {0,0,102}},
-			Patente = {Letra = {102, 0, 204},Borda = {0,0,102}},
-			Team =    {Letra = {102, 0, 204},Borda = {0,0,102}},
+			Nome = 	  {Letra = {0,0,0},Borda = {227, 196, 255}},
+			Patente = {Letra = {0,0,0},Borda = {227, 196, 255}},
+			Team =    {Letra = {0,0,0},Borda = {227, 196, 255}},
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
