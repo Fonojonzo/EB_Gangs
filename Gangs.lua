@@ -734,7 +734,7 @@ local Gangs = {
 	[35281109] = {   -- [Dono ID:5521224878 ]
 		Nome = 'Lordes Das Furias',
 		Vida = 1000,
-		Itens = {['Mikey'] = 0},
+		Itens = {['Mikey'] = 0,['Yamato'] = 0},
 		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
 		Cor = { 
 			Nome = 	  {Letra = {153, 51, 153},Borda = {0, 0, 0}},
