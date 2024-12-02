@@ -479,7 +479,7 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 	[32367594] = { -- [Dono ID: 3605403073] slot 10
-		Nome = "Spectral Warriors Heirs of Great Honor",
+		Nome = "Kokuryū no Tsuin",
 		Vida = 500,
 		Itens = {['Josef'] = 0},
 		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
