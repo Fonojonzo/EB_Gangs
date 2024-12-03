@@ -161,7 +161,7 @@ local Gangs = {
 
 
 	[34446220] = {   -- [Dono ID:3207378051 ] slot 15 / excesso 
-		Nome = 'Akatsuki The Gang',
+		Nome = 'Ethereal Empire',
 		Vida = 750,
 		Itens = {['SwordSlash'] = 0,['TacoLucille'] = 230,['Dash'] = 0,['Yamato'] = 230,['Granada'] = 252,['Rasteira'] = 0,['Raio'] = 0,['SusanooSlap'] = 0,['Rinnegan_Push'] = 0},
 		Roupa = {Tier = 255,Shirt = 11275639852,Pants = 6286048722},
@@ -284,7 +284,7 @@ local Gangs = {
 			},
 	},----------------------------------- Gang ---------------------------------------------
 	
-	[0] = {   -- [Dono ID:3205885836 ] slot 15 / capitão com eb clonada. 34246662
+	[34246662] = {   -- [Dono ID:3205885836 ] slot 15 / capitão com eb clonada. 
 		Nome = "God's Disciples",
 		Vida = 750,
 		Itens = {['KokusenKick'] = 0},
