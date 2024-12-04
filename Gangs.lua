@@ -28,7 +28,7 @@ local Gangs = {
 	[35259599] = {
 		Nome = 'Eternity Order',
 		Vida = 3000,
-		Itens = {['Colateral'] = 210,['Dash'] = 0,['FP_Thunder'] = 0,['DoubleJump'] = 0,['BuracoNegro'] = 254},
+		Itens = {['Colateral'] = 210,['Dash'] = 0,['ChuteEletrico'] = 0,['FP_Thunder'] = 0,['DoubleJump'] = 0,['BuracoNegro'] = 254},
 		Roupa = {Tier = 95,Shirt = 0,Pants = 0},
 		Cor = {
 			Nome = 	  {Letra = {0,0,0},Borda = {227, 196, 255}},
