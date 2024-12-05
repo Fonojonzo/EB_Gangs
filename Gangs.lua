@@ -149,7 +149,7 @@ local Gangs = {
 
 	[33803150] = {   -- [Dono ID:4700176285 ] slot 15 (HP AUMENTADO)
 		Nome = 'Yamaguchi Gumi',
-		Vida = 1500,
+		Vida = 2000,
 		Itens = {['KokusenKick'] = 0,['Dash'] = 0,['TacoLucille'] = 0,['Yamato'] = 0,['Rasteira'] = 0,['FireKick'] = 0,['ShurikenExplosiva'] = 0},
 		Roupa = {Tier = 255,Shirt = 2413916203,Pants = 386498921},
 		Cor = { 
