@@ -173,7 +173,7 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 
-	[33820952] = {   -- [Dono ID:1250373608 ] slot 15 / slot 2 anjo bugado (HP AUMENTADO)
+	[0] = {   -- [Dono ID:1250373608 ] slot 15 / slot 2 anjo bugado (HP AUMENTADO) 33820952
 		Nome = 'Os Lordes Demônios',
 		Vida = 1500,
 		Itens = {['KokusenKick'] = 0,['Dash'] = 0,['TacoLucille'] = 5,['Yamato'] = 175,['YinYang'] = 0,['SusanooSlap'] = 0,['Raio'] = 0,['Rinnegan_Push'] = 0,['PisoVento'] = 0,['ChuteEletrico'] = 0,['ShurikenExplosiva'] = 0},
