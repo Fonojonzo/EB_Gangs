@@ -210,7 +210,7 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 	[33970113] = {   -- [Dono ID:3176819923 ] slot 15 / ID GANG PEDIDO PRA DESATIVAR  (HP AUMENTADO)
-		Nome = "The Seven's Deadly Sin's",
+		Nome = "Valhalla | Second Generation",
 		Vida = 1000,
 		Itens = {['KokusenKick'] = 0,['FireKick'] = 0},
 		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
