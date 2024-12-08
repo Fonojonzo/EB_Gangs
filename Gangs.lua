@@ -618,7 +618,7 @@ local Gangs = {
 		Nome = "戦 The Otsutsuki's 戦",
 		Vida = 1000,
 		Itens = {['Josef'] = 0,['Dash'] = 0},
-		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
+		Roupa = {Tier = 255,Shirt = 18349364445,Pants = 13201450960},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 255, 255}},
 			Patente = {Letra = {0, 0, 0},Borda = {255, 255, 255}},
@@ -696,6 +696,18 @@ local Gangs = {
 			Nome = 	  {Letra = {153, 51, 153},Borda = {0, 0, 0}},
 			Patente = {Letra = {153, 51, 153},Borda = {0, 0, 0}},
 			Team =    {Letra = {153, 51, 153},Borda = {0, 0, 0}},
+		},
+	},----------------------------------- Gang ---------------------------------------------
+
+	[33091379] = {   -- [Dono ID:3854037081 ](HP AUMENTADO)
+		Nome = 'King of Darkness',
+		Vida = 1000,
+		Itens = {['Josef'] = 0},
+		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
+		Cor = { 
+			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 255, 255}},
+			Patente = {Letra = {0, 0, 0},Borda = {255, 255, 255}},
+			Team =    {Letra = {0, 0, 0},Borda = {0, 0, 0}},
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
