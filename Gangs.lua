@@ -654,7 +654,7 @@ local Gangs = {
 	[35249145] = {   -- [Dono ID: 630337070 ] slot 10 /(HP AUMENTADO)
 		Nome = "襲撃 Shadow Legion 夜",
 		Vida = 1000,
-		Itens = {['Josef'] = 0},
+		Itens = {['Josef'] = 0,['Raio'] = 0},
 		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},    Borda = {255, 255, 255}},
