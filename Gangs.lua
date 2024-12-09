@@ -727,7 +727,7 @@ local Gangs = {
 		Nome = "Máfia da Passione",
 		Vida = 1500,
 		Itens = {['KokusenKick'] = 0,['Dash'] = 0},
-		Roupa = {Tier = 256,Shirt = 12601347767,Pants = 0},
+		Roupa = {Tier = 256,Shirt = 12601347767,Pants = 1083479115},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 0, 0}},
 			Patente = {Letra = {0, 0, 0},Borda = {255, 255, 255}},
