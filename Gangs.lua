@@ -75,7 +75,7 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 	[35276401] = {   -- [Dono ID:7648333286 ] slot 15 (HP AUMENTADO)
-		Nome = 'gotei 13',
+		Nome = 'Gotei 13',
 		Vida = 1000,
 		Itens = {['KokusenKick'] = 0,['TacoLucille'] = {255,254,100},['ItachiDash'] = 0,['Yamato'] = 5,['FireKick'] = 0,['DoubleJump'] = 255,['Raio'] = {255, 254, 100},['YinYang'] = 0,['SusanooSlap'] = 0,['Rinnegan_Push'] = 0,['Hinokami_1'] = 0,['CorteDiabolico'] = 0},
 		Roupa = {Tier = 95,Shirt = 0,Pants = 0},
