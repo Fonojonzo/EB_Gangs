@@ -247,14 +247,14 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 	[34427514] = {   -- [Dono ID:4592829229 ] slot 15 /  ID GANG/ matheusprogamer_123 vendendo cargo -- 34008520 Odyssey Klaw's II 乡 / raio parcelado 11/11 84 reais(HP AUMENTADO)
-		Nome = "Furia Dos Ventos II",
+		Nome = "Renegados das Trevas",
 		Vida = 1000,
 		Itens = {['KokusenKick'] = 0,['Dash'] = 0,['TacoLucille'] = 0,['Rasteira'] = 0,['FireKick'] = 0,['Raio'] = 0},
 		Roupa = {Tier = 255,Shirt = 15808598116,Pants = 15815194659},
 		Cor = { 
-			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 255, 255}},
-			Patente = {Letra = {0, 0, 0},Borda = {255, 255, 255}},
-			Team =    {Letra = {0, 0, 0},Borda = {255, 0, 0}},
+			Nome = 	  {Letra = {0, 0, 0},Borda = 	   {255, 255, 102}},
+			Patente = {Letra = {255, 255, 255},Borda = {255, 255, 102}},
+			Team =    {Letra = {255, 255, 102},Borda = {255, 255, 255}},
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
@@ -623,19 +623,6 @@ local Gangs = {
 			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 255, 255}},
 			Patente = {Letra = {0, 0, 0},Borda = {255, 255, 255}},
 			Team =    {Letra = {0, 0, 0},Borda = {136, 0, 0}},
-		},
-	},----------------------------------- Gang ---------------------------------------------
-
-
-	[33969792] = {   -- [Dono ID:2468759752 ] slot 10 /(HP AUMENTADO)
-		Nome = "E . ل ",
-		Vida = 2000,
-		Itens = {['Mikey'] = 0},
-		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
-		Cor = { 
-			Nome = 	  {Letra = {0, 0, 0},     Borda = {255, 255, 255 }},
-			Patente = {Letra = {0, 255, 225}, Borda = {255, 255, 255}},
-			Team =    {Letra = {205, 26, 255},Borda = {255, 255, 255}},
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
