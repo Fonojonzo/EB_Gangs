@@ -161,7 +161,7 @@ local Gangs = {
 
 
 	[34446220] = {   -- [Dono ID:3207378051 ] slot 15 / excesso  (HP AUMENTADO)
-		Nome = 'Máfia Da Passione',
+		Nome = 'Máfia Italiana',
 		Vida = 1500,
 		Itens = {['SwordSlash'] = 0,['TacoLucille'] = 230,['Dash'] = 0,['Yamato'] = 230,['Granada'] = 252,['Rasteira'] = 0,['Raio'] = 0,['SusanooSlap'] = 0,['Rinnegan_Push'] = 0},
 		Roupa = {Tier = 255,Shirt = 11275639852,Pants = 6286048722},
@@ -711,7 +711,7 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 	[33988163] = {   -- [Dono ID:4118157180 ](HP AUMENTADO)
-		Nome = "Máfia Italiana",
+		Nome = "Máfia da Passione",
 		Vida = 1500,
 		Itens = {['KokusenKick'] = 0,['Dash'] = 0},
 		Roupa = {Tier = 256,Shirt = 12601347767,Pants = 1083479115},
