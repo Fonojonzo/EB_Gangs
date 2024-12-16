@@ -722,6 +722,30 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
+	[35310257] = {   -- [Dono ID:5170861017 ](HP AUMENTADO)
+		Nome = "爱 Dragon Ball Infinity 爱",
+		Vida = 1500,
+		Itens = {['Mikey'] = 0},
+		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
+		Cor = { 
+			Nome = 	  {Letra = {0, 0, 0},Borda = {0, 255, 0}},
+			Patente = {Letra = {0, 0, 0},Borda = {255, 0, 0}},
+			Team =    {Letra = {255, 255, 255},Borda = {0, 0, 0}},
+		},
+	},----------------------------------- Gang ---------------------------------------------
+
+	[35313938] = {   -- [Dono ID:1610967080 ](HP AUMENTADO)
+		Nome = "God Of Speed",
+		Vida = 1500,
+		Itens = {['Mikey'] = 0},
+		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
+		Cor = { 
+			Nome = 	  {Letra = {255, 0, 0},Borda = {0, 0, 0}},
+			Patente = {Letra = {255, 0, 0},Borda = {255, 255, 255}},
+			Team =    {Letra = {255, 0, 0},Borda = {0, 0, 0}},
+		},
+	},----------------------------------- Gang ---------------------------------------------
+
 
 
 	
