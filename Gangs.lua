@@ -701,7 +701,7 @@ local Gangs = {
 	[35286230] = {   -- [Dono ID:7523050446 ](HP AUMENTADO)
 		Nome = "ま King's Of Angels ね",
 		Vida = 1000,
-		Itens = {['Josef'] = 0},
+		Itens = {['Josef'] = 0,['ChuteEletrico'] = 0},
 		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
 		Cor = { 
 			Nome = 	  {Letra = {51, 102, 255},Borda = {255, 255, 255}},
