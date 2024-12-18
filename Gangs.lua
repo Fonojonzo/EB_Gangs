@@ -734,7 +734,7 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[35313938] = {   -- [Dono ID:1610967080 ](HP AUMENTADO)
+	[0] = {   -- [Dono ID:1610967080 ](HP AUMENTADO) /35313938 passou limite
 		Nome = "God Of Speed",
 		Vida = 1500,
 		Itens = {['Mikey'] = 0},
