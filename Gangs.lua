@@ -373,7 +373,7 @@ local Gangs = {
 	[34666520] = { -- [Dono ID:1797067969](HP AUMENTADO)
 		Nome = "Survey Corps",
 		Vida = 1000,
-		Itens = {['KokusenKick'] = 0,['Rasteira'] = 0,['TacoLucille'] = 0,['FireKick'] = 0},
+		Itens = {['KokusenKick'] = 0,['Rasteira'] = 0,['TacoLucille'] = 0,['FireKick'] = 0,['SusanooSlap'] = 0,['ChuteCongelante'] = 0},
 		Roupa = {Tier = 255,Shirt = 9852565478,Pants = 7506390253},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 255, 255}},
