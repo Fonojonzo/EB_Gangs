@@ -641,7 +641,7 @@ local Gangs = {
 	[35249145] = {   -- [Dono ID: 630337070 ] slot 10 /(HP AUMENTADO)
 		Nome = "襲撃 Shadow Legion 夜",
 		Vida = 1000,
-		Itens = {['Josef'] = 0,['Raio'] = 0},
+		Itens = {['Josef'] = 0,['Raio'] = 0,['ChuteCongelante'] = 0,['SusanooSlap'] = 0},
 		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},    Borda = {255, 255, 255}},
@@ -828,6 +828,18 @@ local Gangs = {
 			Nome = 	  {Letra = {153, 0, 153},Borda = {0, 0, 0}},
 			Patente = {Letra = {153, 0, 153},Borda = {0, 0, 0}},
 			Team =    {Letra = {153, 0, 153},Borda = {0, 0, 0}},
+		},
+	},----------------------------------- Gang ---------------------------------------------
+
+	[35355299] = {   -- [Dono ID:4604110304 ](HP AUMENTADO)
+		Nome = "쵸 ㅊThe Gangster Strike ㅊ쵸",
+		Vida = 1500,
+		Itens = {['Mikey'] = 0,['ChuteCongelante'] = 0},
+		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
+		Cor = { 
+			Nome = 	  {Letra = {255, 0, 0},Borda = {255, 255, 255}},
+			Patente = {Letra = {255, 0, 0},Borda = {255, 255, 255}},
+			Team =    {Letra = {0, 0, 0},Borda = {255, 255, 255}},
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
