@@ -65,7 +65,7 @@ local Gangs = {
 	[33524892] = {  -- [Dono ID:2623179010 ] slot 15
 		Nome = 'Brahman Gang', 
 		Vida = 2000,
-		Itens = {['Mikey'] = 0},
+		Itens = {['Mikey'] = 0,['ChuteCongelante'] = 0},
 		Roupa = {Tier = 260,Shirt = 7061606670,Pants = 8995167282},
 		Cor = {
 			Nome = 	  {Letra = {255, 255, 255},Borda = {0, 0, 0}},
