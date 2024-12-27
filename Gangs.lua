@@ -855,7 +855,7 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[35371915] = {   -- [Dono ID:1550831 ] (HP AUMENTADO)
+	[34369773] = {   -- [Dono ID:1550831 ] (HP AUMENTADO)
 		Nome = "ギク Hashiras Supremos キグ",
 		Vida = 1000,
 		Itens = {['Josef'] = 0},
