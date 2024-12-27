@@ -166,9 +166,9 @@ local Gangs = {
 		Itens = {['SwordSlash'] = 0,['TacoLucille'] = 230,['Dash'] = 0,['Yamato'] = 230,['Granada'] = 252,['Rasteira'] = 0,['Raio'] = 0,['SusanooSlap'] = 0,['Rinnegan_Push'] = 0},
 		Roupa = {Tier = 255,Shirt = 11275639852,Pants = 6286048722},
 		Cor = { 
-			Nome = 	  {Letra = {255, 255, 255},Borda = {255, 255, 0}},
-			Patente = {Letra = {0, 0, 0},Borda = {153, 0, 153}},
-			Team =    {Letra = {0, 0, 0},Borda = {255, 255, 0}},
+			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 0, 102}},
+			Patente = {Letra = {0, 0, 0},Borda = {255, 255, 255}},
+			Team =    {Letra = {0, 0, 0},Borda = {0, 204, 0}},
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
@@ -716,9 +716,9 @@ local Gangs = {
 		Itens = {['KokusenKick'] = 0,['Dash'] = 0,['SusanooSlap'] = 0},
 		Roupa = {Tier = 256,Shirt = 12601347767,Pants = 1083479115},
 		Cor = { 
-			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 0, 102}},
-			Patente = {Letra = {0, 0, 0},Borda = {255, 255, 255}},
-			Team =    {Letra = {0, 0, 0},Borda = {0, 204, 0}},
+			Nome = 	  {Letra = {255, 255, 255},Borda = {255, 255, 0}},
+			Patente = {Letra = {0, 0, 0},Borda = {153, 0, 153}},
+			Team =    {Letra = {0, 0, 0},Borda = {255, 255, 0}},
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
@@ -840,6 +840,30 @@ local Gangs = {
 			Nome = 	  {Letra = {255, 0, 0},Borda = {255, 255, 255}},
 			Patente = {Letra = {255, 0, 0},Borda = {255, 255, 255}},
 			Team =    {Letra = {0, 0, 0},Borda = {255, 255, 255}},
+		},
+	},----------------------------------- Gang ---------------------------------------------
+
+	[35371915] = {   -- [Dono ID:1550831 ] (HP AUMENTADO)
+		Nome = "Blue Lock",
+		Vida = 1000,
+		Itens = {['Josef'] = 0},
+		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
+		Cor = { 
+			Nome = 	  {Letra = {0, 0, 0},Borda = {153, 0, 153}},
+			Patente = {Letra = {0, 102, 255},Borda = {255, 255, 255}},
+			Team =    {Letra = {0, 102, 255},Borda = {255, 255, 255}},
+		},
+	},----------------------------------- Gang ---------------------------------------------
+
+	[35371915] = {   -- [Dono ID:1550831 ] (HP AUMENTADO)
+		Nome = "ギク Hashiras Supremos キグ",
+		Vida = 1000,
+		Itens = {['Josef'] = 0},
+		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
+		Cor = { 
+			Nome = 	  {Letra = {0, 0, 0},Borda = {153, 0, 153}},
+			Patente = {Letra = {0, 102, 255},Borda = {255, 255, 255}},
+			Team =    {Letra = {0, 102, 255},Borda = {255, 255, 255}},
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
