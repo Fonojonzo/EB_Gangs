@@ -834,7 +834,7 @@ local Gangs = {
 	[35355299] = {   -- [Dono ID:4604110304 ](HP AUMENTADO)
 		Nome = "쵸 ㅊThe Gangster Strike ㅊ쵸",
 		Vida = 1500,
-		Itens = {['Mikey'] = 0,['ChuteCongelante'] = 0},
+		Itens = {['Mikey'] = 0,['ChuteCongelante'] = 0,['Yamato'] = 0},
 		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
 		Cor = { 
 			Nome = 	  {Letra = {255, 0, 0},Borda = {255, 255, 255}},
