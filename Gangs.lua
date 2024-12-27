@@ -855,15 +855,15 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[34369773] = {   -- [Dono ID:1550831 ] (HP AUMENTADO)
+	[34369773] = {   -- [Dono ID:7424959843 ] (HP AUMENTADO)
 		Nome = "ギク Hashiras Supremos キグ",
 		Vida = 1000,
 		Itens = {['Josef'] = 0},
 		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
 		Cor = { 
-			Nome = 	  {Letra = {0, 0, 0},Borda = {153, 0, 153}},
-			Patente = {Letra = {0, 102, 255},Borda = {255, 255, 255}},
-			Team =    {Letra = {0, 102, 255},Borda = {255, 255, 255}},
+			Nome = 	  {Letra = {0, 0, 255},Borda = {255, 0, 0}},
+			Patente = {Letra = {255, 0, 0},Borda = {255, 255, 0}},
+			Team =    {Letra = {0, 0, 255},Borda = {0, 0, 255}},
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
