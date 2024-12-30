@@ -602,14 +602,14 @@ local Gangs = {
 
 
 	[33903684] = {   -- [Dono ID:3322067390 ] slot 10 / 33903684 desativada e reativada troca de dono(HP AUMENTADO)
-		Nome = 'Yakuza no Kansai',
+		Nome = '㍻ Mushoku Tensei 夜',
 		Vida = 1500,
 		Itens = {['Dash'] = 0,['KokusenKick'] = 0,['Rasteira'] = 0},
 		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
 		Cor = { 
-			Nome = 	  {Letra = {0, 0, 0},Borda = {153, 0, 153}},
-			Patente = {Letra = {0, 0, 0},Borda = {255, 0, 0}},
-			Team =    {Letra = {0, 0, 0},Borda = {153, 0, 153}},
+			Nome = 	  {Letra = {255, 153, 51},Borda = {0, 0, 0}},
+			Patente = {Letra = {255, 153, 51},Borda = {0, 0, 0}},
+			Team =    {Letra = {255, 255, 255},Borda = {255, 255, 255}},
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
