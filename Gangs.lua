@@ -699,7 +699,7 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 	[35286230] = {   -- [Dono ID:7523050446 ](HP AUMENTADO)
-		Nome = "ま King's Of Angels ね",
+		Nome = "襲撃 Palhaços Amaldiçoados 夜",
 		Vida = 1000,
 		Itens = {['Josef'] = 0,['ChuteEletrico'] = 0},
 		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
