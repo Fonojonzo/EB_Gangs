@@ -481,7 +481,7 @@ local Gangs = {
 	[32367594] = { -- [Dono ID: 3605403073] slot 10(HP AUMENTADO)
 		Nome = "Kokuryū no Tsuin",
 		Vida = 1000,
-		Itens = {['Josef'] = 0},
+		Itens = {['Josef'] = 0,['Rasteira'] = 0},
 		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 0, 0}},
