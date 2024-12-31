@@ -831,7 +831,7 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[35355299] = {   -- [Dono ID:4604110304 ](HP AUMENTADO)
+	[34119236] = {   -- [Dono ID:4604110304 ](HP AUMENTADO)
 		Nome = "쵸 ㅊThe Gangster Strike ㅊ쵸",
 		Vida = 1500,
 		Itens = {['Mikey'] = 0,['ChuteCongelante'] = 0,['Yamato'] = 0},
