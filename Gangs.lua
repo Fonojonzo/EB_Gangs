@@ -915,16 +915,28 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-[35405220] = {   -- [Dono ID: ] (HP AUMENTADO)
-		Nome = "The Dark Hunters",
-		Vida = 1000,
-		Itens = {['Josef'] = 0},
-		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
-		Cor = { 
-			Nome = 	  {Letra = {255, 0, 0},Borda = {0, 0, 255}},
-			Patente = {Letra = {0, 0, 0},Borda = {255, 255, 255}},
-			Team =    {Letra = {255, 255, 255},Borda = {0, 0, 0}},
-		},
+	[35405220] = {   -- [Dono ID: ] (HP AUMENTADO)
+			Nome = "The Dark Hunters",
+			Vida = 1000,
+			Itens = {['Josef'] = 0},
+			Roupa = {Tier = 256,Shirt = 0,Pants = 0},
+			Cor = { 
+				Nome = 	  {Letra = {255, 0, 0},Borda = {0, 0, 255}},
+				Patente = {Letra = {0, 0, 0},Borda = {255, 255, 255}},
+				Team =    {Letra = {255, 255, 255},Borda = {0, 0, 0}},
+			},
+	},----------------------------------- Gang ---------------------------------------------
+
+	[32953750] = {   -- [Dono ID: 4208020311 ] (HP AUMENTADO) / sorteio
+			Nome = "氷fúria do gelo氷",
+			Vida = 1000,
+			Itens = {['Mikey'] = 0,['Dash'] = 0,['ChuteEletrico'] = 0,['ChuteCongelante'] = 0},
+			Roupa = {Tier = 256,Shirt = 0,Pants = 0},
+			Cor = { 
+				Nome = 	  {Letra = {0, 0, 204},Borda = {153, 204, 255}},
+				Patente = {Letra = {0, 0, 204},Borda = {153, 204, 255}},
+				Team =    {Letra = {0, 0, 204},Borda = {153, 204, 255}},
+			},
 	},----------------------------------- Gang ---------------------------------------------
 
 
