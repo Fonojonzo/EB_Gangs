@@ -86,7 +86,7 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[33483361] = {   -- [Dono ID:2885875741 ] slot 15 (HP AUMENTADO)
+	[0] = {   -- [Dono ID:2885875741 ] slot 15 (HP AUMENTADO) / pediu desativar 33483361
 		Nome = 'Van Der Linde',
 		Vida = 1000,
 		Itens = {['ChuteEletrico'] = 0,['MundoTransparente'] = 0},
