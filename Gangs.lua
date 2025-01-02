@@ -858,7 +858,7 @@ local Gangs = {
 	[34369773] = {   -- [Dono ID:7424959843 ] (HP AUMENTADO)
 		Nome = "ギク Hashiras Supremos キグ",
 		Vida = 1000,
-		Itens = {['Josef'] = 0},
+		Itens = {['Mikey'] = 0},
 		Roupa = {Tier = 256,Shirt = 12235823739,Pants = 10364991417},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 255},Borda = {255, 0, 0}},
