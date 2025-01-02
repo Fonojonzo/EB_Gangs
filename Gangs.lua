@@ -807,7 +807,7 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 	
-	[33963874] = {   -- [Dono ID:4441246926 ](HP AUMENTADO)
+	[0] = {   -- [Dono ID:4441246926 ](HP AUMENTADO) / pediu desativar 33963874
 		Nome = "ま King's Of Demons ね",
 		Vida = 1000,
 		Itens = {['Josef'] = 0},
