@@ -675,7 +675,7 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 	
 	[35281109] = {   -- [Dono ID:5521224878 ](HP AUMENTADO)
-		Nome = 'Lordes Das Furias',
+		Nome = '★罗Mafia Rusa★',
 		Vida = 2000,
 		Itens = {['Mikey'] = 0,['Yamato'] = 0},
 		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
