@@ -859,7 +859,7 @@ local Gangs = {
 		Nome = "ギク Hashiras Supremos キグ",
 		Vida = 1000,
 		Itens = {['Josef'] = 0},
-		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
+		Roupa = {Tier = 256,Shirt = 12235823739,Pants = 10364991417},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 255},Borda = {255, 0, 0}},
 			Patente = {Letra = {255, 0, 0},Borda = {255, 255, 0}},
