@@ -186,7 +186,7 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 	[33476490] = {   -- [Dono ID:1512929697 ] slot 15 (HP AUMENTADO)
-		Nome = 'Fúria dos Ventos',
+		Nome = 'Soul Society',
 		Vida = 1500,
 		Itens = {['KokusenKick'] = 0,['Dash'] = 0,['TacoLucille'] = 10,['Rasteira'] = 0,['FireKick'] = 0,['PisoVento'] = 0},
 		Roupa = {Tier = 255,Shirt = 14835712865,Pants = 7473725443},
