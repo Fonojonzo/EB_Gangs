@@ -846,7 +846,7 @@ local Gangs = {
 	[35371915] = {   -- [Dono ID:1550831 ] (HP AUMENTADO)
 		Nome = "Blue Lock",
 		Vida = 1000,
-		Itens = {['Josef'] = 0,['Yamato'] = 0,['RinneganPush'] = 0},
+		Itens = {['Josef'] = 0,['Yamato'] = 0,['Rinnegan_Push'] = 0},
 		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},Borda = {153, 0, 153}},
