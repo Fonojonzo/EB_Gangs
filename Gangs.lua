@@ -689,7 +689,7 @@ local Gangs = {
 	[33091379] = {   -- [Dono ID:3854037081 ](HP AUMENTADO)
 		Nome = 'King of Darkness',
 		Vida = 1500,
-		Itens = {['KokusenKick'] = 0,['Yamato'] = 0,['Dash'] = 0,['Rasteira'] = 0,['Raio'] = 0.['Rinnegan_Push'] = 0},
+		Itens = {['KokusenKick'] = 0,['Yamato'] = 0,['Dash'] = 0,['Rasteira'] = 0,['Raio'] = 0,['Rinnegan_Push'] = 0},
 		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},Borda = {153, 0, 204}},
