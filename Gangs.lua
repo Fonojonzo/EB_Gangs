@@ -938,6 +938,18 @@ local Gangs = {
 				Team =    {Letra = {0, 0, 204},Borda = {153, 204, 255}},
 			},
 	},----------------------------------- Gang ---------------------------------------------
+	
+	[0] = {   -- [Dono ID: 4208020311 ] (HP AUMENTADO) / sorteio
+			Nome = "Bleach of Shinigami",
+			Vida = 1500,
+			Itens = {['KokusenKick'] = 0,['Dash'] = 0,['ChuteEletrico'] = 0,['Rasteira'] = 0,['FireKick'] = 0,['SusanooSlap'] = 0,['YinYang'] = 0,['Rinnegan'] = 0,['MundoTransparente'] = 0,['Raio'] = 0,['PisoVento'] = 0},
+			Roupa = {Tier = 256,Shirt = 0,Pants = 0},
+			Cor = { 
+				Nome = 	  {Letra = {0, 0, 204},Borda = {153, 204, 255}},
+				Patente = {Letra = {0, 0, 204},Borda = {153, 204, 255}},
+				Team =    {Letra = {0, 0, 204},Borda = {153, 204, 255}},
+			},
+	},----------------------------------- Gang ---------------------------------------------
 
 
 
