@@ -847,7 +847,7 @@ local Gangs = {
 		Nome = "Blue Lock",
 		Vida = 1000,
 		Itens = {['Josef'] = 0,['Yamato'] = 0,['Rinnegan_Push'] = 0},
-		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
+		Roupa = {Tier = 256,Shirt = 14432366028,Pants = 14432389381},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},Borda = {153, 0, 153}},
 			Patente = {Letra = {0, 102, 255},Borda = {255, 255, 255}},
