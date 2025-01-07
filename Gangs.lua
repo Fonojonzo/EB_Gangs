@@ -359,7 +359,7 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 	[15757244] = { -- [Dono ID: 1569341667] slot 15(HP AUMENTADO)
-		Nome = "Celestial Knights of the Temple",
+		Nome = "Bofurin",
 		Vida = 2000,
 		Itens = {['KokusenKick'] = 0,['Dash'] = 0,['Yamato'] = 0,['FireKick'] = 0},
 		Roupa = {Tier = 255,Shirt = 11955653813,Pants = 7702801716},
@@ -939,7 +939,7 @@ local Gangs = {
 			},
 	},----------------------------------- Gang ---------------------------------------------
 	
-	[7572239] = {   -- [Dono ID: 5507772063 ] (HP AUMENTADO) / sorteio MAX 15
+	[7572239] = {   -- [Dono ID: 5507772063 ] (HP AUMENTADO) /  MAX 15
 			Nome = "星 Bleach of' Shinigami 星 ",
 			Vida = 1500,
 			Itens = {['KokusenKick'] = 0,['Dash'] = 0,['ChuteEletrico'] = 0,['Rasteira'] = 0,['FireKick'] = 0,['SusanooSlap'] = 0,['YinYang'] = 0,['Rinnegan_Push'] = 0,['MundoTransparente'] = 0,['Raio'] = 0,['PisoVento'] = 0},
@@ -950,6 +950,19 @@ local Gangs = {
 				Team =    {Letra = {0,0,0},Borda = {102, 0, 102}},
 			},
 	},----------------------------------- Gang ---------------------------------------------
+
+	[35431110] = {   -- [Dono ID: 1821185214 ] (HP AUMENTADO) / MAX 10
+			Nome = "Yamahat",
+			Vida = 1500,
+			Itens = {['Mikey'] = 0},
+			Roupa = {Tier = 256,Shirt = 0,Pants = 0},
+			Cor = { 
+				Nome = 	  {Letra = {51, 102, 255},Borda = {153, 204, 255}},
+				Patente = {Letra = {0, 204, 255},Borda = {102, 255, 255}},
+				Team =    {Letra = {204, 0, 0},Borda = {255, 51, 0}},
+			},
+	},----------------------------------- Gang ---------------------------------------------
+
 
 
 
