@@ -40,7 +40,7 @@ local Gangs = {
 	[35259599] = {
 		Nome = 'Eternity Order',
 		Vida = 3000,
-		Itens = {['FPColateral'] = 210,['Dash'] = 0,['FP_Thunder'] = 0,['PisoLuas'] = 0,['DemonRegen'] = 0,['MundoTransparente'] = 0,['BuracoNegro'] = {255,250},['DoubleJump'] = 0},
+		Itens = {['FPColateral'] = 210,['Dash'] = 0,['PisoLuas'] = 0,['DemonRegen'] = 0,['MundoTransparente'] = 0,['BuracoNegro'] = {255,250},['DoubleJump'] = 0},
 		Roupa = {Tier = 95,Shirt = 0,Pants = 0},
 		Cor = {
 			Nome = 	  {Letra = {0,0,0},Borda = {227, 196, 255}},
@@ -943,8 +943,10 @@ local Gangs = {
 	
 	[7572239] = {   -- [Dono ID: 5507772063 ] (HP AUMENTADO) /  MAX 15
 			Nome = "星 Bleach of' Shinigami 星 ",
-			Vida = 1500,
-			Itens = {['KokusenKick'] = 0,['Dash'] = 0,['ChuteEletrico'] = 0,['Rasteira'] = 0,['FireKick'] = 0,['SusanooSlap'] = 0,['YinYang'] = 0,['Rinnegan_Push'] = 0,['MundoTransparente'] = 0,['Raio'] = 0,['PisoVento'] = 0},
+			Vida = 3000,
+			Itens = {['KokusenKick'] = 0,['Dash'] = 0,['ChuteEletrico'] = 0,['Rasteira'] = 0,['FireKick'] = 0,['SusanooSlap'] = 0,['YinYang'] = 0,['Rinnegan_Push'] = 0,['MundoTransparente'] = 0,
+			['Raio'] = 0,['PisoVento'] = 0,['ShurikenExplosiva'] = 0,['FP_Thunder'] = 0,['Colateral'] = 0,['ChuteCongelante'] = 0,['Hinokami_1'] = 0,['CorteDiabolico'] = 0,
+			},
 			Roupa = {Tier = 256,Shirt = 11114255653,Pants = 8106347027},
 			Cor = { 
 				Nome = 	  {Letra = {0,0,0},Borda = {102, 0, 102}},
