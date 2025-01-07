@@ -665,7 +665,7 @@ local Gangs = {
 	[35278912] = {   -- [Dono ID:1345097930 ](HP AUMENTADO)
 		Nome = '忠 Valley of Honor 誠',
 		Vida = 2000,
-		Itens = {['Mikey'] = 0,['Rasteira'] = 0},
+		Itens = {['KokusenKick'] = 0,['Rasteira'] = 0,['Dash'] = 0,['SusanooSlap'] = 0,['Raio'] = 0,['Rinnegan_Push'] = 0},
 		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
 		Cor = { 
 			Nome = 	  {Letra = {255, 255, 255},Borda = {0, 0, 0}},
