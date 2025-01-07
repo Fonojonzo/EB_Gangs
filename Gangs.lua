@@ -907,7 +907,7 @@ local Gangs = {
 		Nome = "Helltail",
 		Vida = 1000,
 		Itens = {['Josef'] = 0},
-		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
+		Roupa = {Tier = 256,Shirt = 12549911638,Pants = 11549918485},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 0, 0}},
 			Patente = {Letra = {255, 255, 255},Borda = {0, 0, 255}},
