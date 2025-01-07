@@ -6,9 +6,9 @@ local Gangs = {
 		Itens = {['Dash'] = 0},
 		Roupa = {Tier = 95,Shirt = 6850745796,Pants = 7166106431},
 		Cor = {
-			Nome = 	  {Letra = {0,0,0},Borda = {255,255,255},RGB = false},
+			Nome = 	  {Letra = {0,0,0},Borda = {255,255,255}},
 			Patente = {Letra = {0,0,0},Borda = {255,255,255}},
-			Team =    {Letra = {0,0,0},Borda = {255,255,0},RGB = false},
+			Team =    {Letra = {0,0,0},Borda = {255,255,0}},
 		},
 	},----------------------------------- Gang ---------------------------------------------
 	
