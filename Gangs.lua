@@ -1,4 +1,16 @@
 local Gangs = {
+
+	[32325896] = {
+		Nome = 'Tokyo Manji Gang',
+		Vida = 3000,
+		Itens = {['Dash'] = 0},
+		Roupa = {Tier = 95,Shirt = 6850745796,Pants = 7166106431},
+		Cor = {
+			Nome = 	  {Letra = {0,0,0},Borda = {255,255,255},RGB = false},
+			Patente = {Letra = {0,0,0},Borda = {255,255,255}},
+			Team =    {Letra = {0,0,0},Borda = {255,255,0},RGB = false},
+		},
+	},----------------------------------- Gang ---------------------------------------------
 	
 	[0] = { 
 		Nome = 'Luas Superiores',
@@ -13,7 +25,7 @@ local Gangs = {
 
 	},----------------------------------- Gang ---------------------------------------------
 
-	[34908951] = {
+	[0] = {
 		Nome = 'Esquadrão de Caçadores de Onis',
 		Vida = 3000,
 		Itens = {['Dash'] = 0,['SwordSlash'] = 0,['Hinokami_1'] = 100,['MundoTransparente'] = 0,['DoubleJump'] = 0,['SusanooSlap'] = 0,['Rinnegan_Push'] = 0,['SlayerMark'] = 0,['ChuteCongelante'] = 0},
@@ -37,17 +49,7 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[0] = {
-		Nome = 'Tokyo Manji Gang',
-		Vida = 3000,
-		Itens = {['Dash'] = 0},
-		Roupa = {Tier = 95,Shirt = 6850745796,Pants = 7166106431},
-		Cor = {
-			Nome = 	  {Letra = {0,0,0},Borda = {255,255,255},RGB = false},
-			Patente = {Letra = {0,0,0},Borda = {255,255,255}},
-			Team =    {Letra = {0,0,0},Borda = {255,255,0},RGB = true},
-		},
-	},----------------------------------- Gang ---------------------------------------------
+
 
 	[0] = { -- [Dono ID: 128677359 ] slot 15 34839303
 		Nome = "Singularity Order",
