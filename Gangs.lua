@@ -881,7 +881,7 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[35404452] = {   -- [Dono ID:7281929843 ] (HP AUMENTADO)
+	[0] = {   -- [Dono ID:7281929843 ] (HP AUMENTADO) / 35404452 venda de  cargo
 		Nome = "幫 AVANGERS 幫",
 		Vida = 1000,
 		Itens = {['Josef'] = 0},
