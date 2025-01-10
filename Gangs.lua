@@ -967,7 +967,7 @@ local Gangs = {
 			},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[0] = {   -- [Dono ID: 1821185214 ] (HP AUMENTADO) / MAX 10
+	[35473023] = {   -- [Dono ID: 5118700438 ] (HP AUMENTADO) / MAX 10
 			Nome = "The Jujutsu Academy",
 			Vida = 1000,
 			Itens = {['Mikey'] = 0},
