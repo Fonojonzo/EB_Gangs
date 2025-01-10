@@ -668,7 +668,7 @@ local Gangs = {
 		Nome = '忠 Valley of Honor 誠',
 		Vida = 2000,
 		Itens = {['KokusenKick'] = 0,['Rasteira'] = 0,['Dash'] = 0,['SusanooSlap'] = 0,['Raio'] = 0,['Rinnegan_Push'] = 0},
-		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
+		Roupa = {Tier = 255,Shirt = 7133467807,Pants = 7473725443},
 		Cor = { 
 			Nome = 	  {Letra = {255, 255, 255},Borda = {0, 0, 0}},
 			Patente = {Letra = {255, 255, 255},Borda = {0, 0, 0}},
