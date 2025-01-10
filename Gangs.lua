@@ -981,7 +981,7 @@ local Gangs = {
 
 	[35458801] = {   -- [Dono ID: 3407303579 ] (HP AUMENTADO) / MAX 10
 			Nome = "開始 arrancars 開始",
-			Vida = 1000,
+			Vida = 1750,
 			Itens = {['Mikey'] = 0},
 			Roupa = {Tier = 256,Shirt = 14918550150,Pants = 6385592516},
 			Cor = { 
