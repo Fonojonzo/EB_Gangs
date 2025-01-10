@@ -969,7 +969,7 @@ local Gangs = {
 
 	[0] = {   -- [Dono ID: 1821185214 ] (HP AUMENTADO) / MAX 10
 			Nome = "The Jujutsu Academy",
-			Vida = 1500,
+			Vida = 1000,
 			Itens = {['Mikey'] = 0},
 			Roupa = {Tier = 256,Shirt = 0,Pants = 0},
 			Cor = { 
@@ -979,15 +979,15 @@ local Gangs = {
 			},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[0] = {   -- [Dono ID: 1821185214 ] (HP AUMENTADO) / MAX 10
-			Nome = "The Jujutsu Academy",
-			Vida = 1500,
+	[35458801] = {   -- [Dono ID: 3407303579 ] (HP AUMENTADO) / MAX 10
+			Nome = "開始 arrancars 開始",
+			Vida = 1000,
 			Itens = {['Mikey'] = 0},
 			Roupa = {Tier = 256,Shirt = 0,Pants = 0},
 			Cor = { 
-				Nome = 	  {Letra = {255, 102, 255},Borda = {0, 0, 0}},
-				Patente = {Letra = {255, 0, 0},Borda = {153, 0, 255}},
-				Team =    {Letra = {0, 0, 255},Borda = {255, 255, 255}},
+				Nome = 	  {Letra = {153, 0, 255},Borda = {0, 0, 255}},
+				Patente = {Letra = {255, 255, 255},Borda = {153, 0, 255}},
+				Team =    {Letra = {0, 0, 255},Borda = {153, 0, 255}},
 			},
 	},----------------------------------- Gang ---------------------------------------------
 
