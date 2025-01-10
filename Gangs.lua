@@ -3,7 +3,7 @@ local Gangs = {
 	[32325896] = {
 		Nome = 'Tokyo Manji Gang',
 		Vida = 4000,
-		Itens = {['Dash'] = 0,['Mikey'] = 0,['ImpulsoSombrio'] = 0},
+		Itens = {['Dash'] = 0,['ImpulsoSombrio'] = 0,['SocoEletrico'] = 0},
 		Roupa = {Tier = 95,Shirt = 6850745796,Pants = 7166106431},
 		Cor = {
 			Nome = 	  {Letra = {0,0,0},Borda = {255,255,255}},
@@ -79,7 +79,7 @@ local Gangs = {
 	[35276401] = {   -- [Dono ID:7648333286 ] slot 15 (HP AUMENTADO)
 		Nome = 'Gotei 13',
 		Vida = 1000,
-		Itens = {['KokusenKick'] = 0,['TacoLucille'] = {255,254,100},['ItachiDash'] = 0,['Yamato'] = 5,['FireKick'] = 0,['DoubleJump'] = 255,['Raio'] = {255, 254, 100},['YinYang'] = 0,['SusanooSlap'] = 0,['Rinnegan_Push'] = 0,['Hinokami_1'] = 0,['CorteDiabolico'] = 0,['YinColateral'] = 0},
+		Itens = {['SocoEletrico'] = 0,['TacoLucille'] = {255,254,100},['ItachiDash'] = 0,['Yamato'] = 5,['FireKick'] = 0,['DoubleJump'] = 255,['Raio'] = {255, 254, 100},['YinYang'] = 0,['SusanooSlap'] = 0,['Rinnegan_Push'] = 0,['Hinokami_1'] = 0,['CorteDiabolico'] = 0,['YinColateral'] = 0},
 		Roupa = {Tier = 95,Shirt = 0,Pants = 0},
 		Cor = {
 			Nome = 	  {Letra = {255, 255, 255},Borda = {0,0,0}},
