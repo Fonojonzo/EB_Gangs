@@ -688,9 +688,9 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[33091379] = {   -- [Dono ID:3854037081 ](HP AUMENTADO)
+	[0] = {   -- [Dono ID:3854037081 ](HP AUMENTADO) / tentativa estorno ? 33091379
 		Nome = 'King of Darkness',
-		Vida = 1500,
+		Vida = 1000,
 		Itens = {['KokusenKick'] = 0,['Yamato'] = 0,['Dash'] = 0,['Rasteira'] = 0,['Raio'] = 0,['Rinnegan_Push'] = 0},
 		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
 		Cor = { 
