@@ -983,7 +983,7 @@ local Gangs = {
 			Nome = "開始 arrancars 開始",
 			Vida = 1000,
 			Itens = {['Mikey'] = 0},
-			Roupa = {Tier = 256,Shirt = 0,Pants = 0},
+			Roupa = {Tier = 256,Shirt = 14918550150,Pants = 6385592516},
 			Cor = { 
 				Nome = 	  {Letra = {153, 0, 255},Borda = {0, 0, 255}},
 				Patente = {Letra = {255, 255, 255},Borda = {153, 0, 255}},
