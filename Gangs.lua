@@ -728,7 +728,7 @@ local Gangs = {
 		Nome = "爱 Dragon Ball Infinity 爱",
 		Vida = 1500,
 		Itens = {['Mikey'] = 0,['Rasteira'] = 0},
-		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
+		Roupa = {Tier = 256,Shirt = 14110922975,Pants = 14110926287},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},Borda = {0, 255, 0}},
 			Patente = {Letra = {0, 0, 0},Borda = {255, 0, 0}},
@@ -964,6 +964,18 @@ local Gangs = {
 				Nome = 	  {Letra = {51, 102, 255},Borda = {153, 204, 255}},
 				Patente = {Letra = {0, 204, 255},Borda = {102, 255, 255}},
 				Team =    {Letra = {204, 0, 0},Borda = {255, 51, 0}},
+			},
+	},----------------------------------- Gang ---------------------------------------------
+
+	[0] = {   -- [Dono ID: 1821185214 ] (HP AUMENTADO) / MAX 10
+			Nome = "The Jujutsu Academy",
+			Vida = 1500,
+			Itens = {['Mikey'] = 0},
+			Roupa = {Tier = 256,Shirt = 0,Pants = 0},
+			Cor = { 
+				Nome = 	  {Letra = {255, 102, 255},Borda = {0, 0, 0}},
+				Patente = {Letra = {255, 0, 0},Borda = {153, 0, 255}},
+				Team =    {Letra = {0, 0, 255},Borda = {255, 255, 255}},
 			},
 	},----------------------------------- Gang ---------------------------------------------
 
