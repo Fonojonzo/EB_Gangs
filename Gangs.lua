@@ -40,7 +40,7 @@ local Gangs = {
 	[35259599] = {
 		Nome = 'Eternity Order',
 		Vida = 4000,
-		Itens = {['FPColateral'] = 0,['Dash'] = 0,['PisoLuas'] = 0,['DemonRegen'] = 0,['VoidHole'] = 0,['ImpulsoSombrio'] = {254},['MundoTransparente'] = {205,210,220,225,235,245,251},['BuracoNegro'] = {250},['DoubleJump'] = 0},
+		Itens = {['FPColateral'] = 0,['Dash'] = 0,['PisoLuas'] = 0,['DemonRegen'] = 0,['VoidHole'] = 0,['ImpulsoSombrio'] = {254},['MundoTransparente'] = {205,210,220,225,235,245,251},['BuracoNegro'] = {250},['SocoEletrico'] = {254},['DoubleJump'] = 0},
 		Roupa = {Tier = 95,Shirt = 0,Pants = 0},
 		Cor = {
 			Nome = 	  {Letra = {0,0,0},Borda = {227, 196, 255}},
