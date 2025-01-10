@@ -372,7 +372,7 @@ local Gangs = {
 			},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[34666520] = { -- [Dono ID:1797067969](HP AUMENTADO)
+	[34666520] = { -- [Dono ID:1797067969 e 7627904872](HP AUMENTADO)
 		Nome = "Survey Corps",
 		Vida = 1000,
 		Itens = {['KokusenKick'] = 0,['Rasteira'] = 0,['TacoLucille'] = 0,['FireKick'] = 0,['SusanooSlap'] = 0,['ChuteCongelante'] = 0},
