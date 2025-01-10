@@ -955,7 +955,7 @@ local Gangs = {
 			},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[35431110] = {   -- [Dono ID: 1821185214 ] (HP AUMENTADO) / MAX 10
+	[0] = {   -- [Dono ID: 1821185214 ] (HP AUMENTADO) / MAX 10 35431110 comprovante false
 			Nome = "Yamahat",
 			Vida = 1500,
 			Itens = {['Mikey'] = 0},
