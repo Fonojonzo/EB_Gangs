@@ -532,7 +532,7 @@ local Gangs = {
 	[35080558] = { -- [Dono ID: 5302548408] slot 10(HP AUMENTADO)
 		Nome = "🥶THE ELITE FRIO🥶",
 		Vida = 1000,
-		Itens = {['Josef'] = 0},
+		Itens = {['Josef'] = 0,['FireKick'] = 0},
 		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 255, 255}},
