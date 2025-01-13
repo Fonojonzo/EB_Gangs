@@ -872,7 +872,7 @@ local Gangs = {
 	[35389372] = {   -- [Dono ID:4130321944 ] (HP AUMENTADO)
 		Nome = "你 HASHIRAS",
 		Vida = 1000,
-		Itens = {['Josef'] = 0},
+		Itens = {['KokusenKick'] = 0},
 		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
 		Cor = { 
 			Nome = 	  {Letra = {255, 0, 0},Borda = {255, 0, 0}},
