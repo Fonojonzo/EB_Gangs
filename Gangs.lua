@@ -12,7 +12,7 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 	
-	[0] = { 
+	[32942292] = { 
 		Nome = 'Luas Superiores',
 		Vida = 3000,
 		Itens = {['PisoLuas'] = 0,['Colateral'] = 0,['Dash'] = 0,['DemonRegen'] = 0,['FP_Thunder'] = 0,['Bite'] = 0,['MundoTransparente'] = 0,['DoubleJump'] = 0},
