@@ -1016,7 +1016,7 @@ local Gangs = {
 			},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[35200716] = {   -- [Dono ID: 2000907880 ] (HP AUMENTADO) / MAX 10
+	[35494156 = {   -- [Dono ID: 2000907880 ] (HP AUMENTADO) / MAX 10
 			Nome = "神秘 Mystic Realms 領域",
 			Vida = 1000,
 			Itens = {['Josef'] = 0},
