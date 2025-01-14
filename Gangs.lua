@@ -995,7 +995,7 @@ local Gangs = {
 			Nome = "The Dark God's",
 			Vida = 1000,
 			Itens = {['Mikey'] = 0,['Dash'] = 0},
-			Roupa = {Tier = 256,Shirt = 14918550150,Pants = 6385592516},
+			Roupa = {Tier = 256,Shirt = 0,Pants = 0},
 			Cor = { 
 				Nome = 	  {Letra = {0, 0, 0},Borda = {0, 0, 255}},
 				Patente = {Letra = {255, 255, 255},Borda = {255, 255, 255}},
@@ -1008,13 +1008,26 @@ local Gangs = {
 			Nome = "召喚 Night Red Moon 召喚",
 			Vida = 1000,
 			Itens = {['Josef'] = 0},
-			Roupa = {Tier = 256,Shirt = 14918550150,Pants = 6385592516},
+			Roupa = {Tier = 256,Shirt = 0,Pants = 0},
 			Cor = { 
 				Nome = 	  {Letra = {255, 0, 0},Borda = {204, 0, 0}},
 				Patente = {Letra = {0, 0, 0},Borda = {255, 255, 255}},
 				Team =    {Letra = {0, 0, 0},Borda = {255, 255, 255}},
 			},
 	},----------------------------------- Gang ---------------------------------------------
+
+	[35200716] = {   -- [Dono ID: 2000907880 ] (HP AUMENTADO) / MAX 10
+			Nome = "神秘 Mystic Realms 領域",
+			Vida = 1000,
+			Itens = {['Josef'] = 0},
+			Roupa = {Tier = 256,Shirt = 0,Pants = 0},
+			Cor = { 
+				Nome = 	  {Letra = {153, 0, 204},Borda = {255, 255, 255}},
+				Patente = {Letra = {255, 0, 0},Borda = {255, 255, 255}},
+				Team =    {Letra = {153, 0, 204},Borda = {255, 255, 255}},
+			},
+	},----------------------------------- Gang ---------------------------------------------
+
 
 
 
