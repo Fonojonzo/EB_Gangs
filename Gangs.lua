@@ -1004,7 +1004,7 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 	
-	[35200716] = {   -- [Dono ID: 2692076290 ] (HP AUMENTADO) / MAX 10
+	[0] = {   -- [Dono ID: 2692076290 ] (HP AUMENTADO) / MAX 10 venda cargo limite membro 
 			Nome = "召喚 Night Red Moon 召喚",
 			Vida = 1000,
 			Itens = {['Josef'] = 0},
