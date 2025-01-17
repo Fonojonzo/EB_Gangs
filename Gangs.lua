@@ -898,149 +898,154 @@ local Gangs = {
 		Vida = 1500,
 		Itens = {['KokusenKick'] = 0,['ChuteCongelante'] = 0,['Raio'] = 0,['SusanooSlap'] = 0,['Meteoro'] = 0,
 			['TacoLucille'] = 0,['Rinnegan_Push'] = 0,['MinatoKunai'] = 0,['F1VermelhoExplodir'] = 0,['Colateral'] = 0,['FP_Thunder'] = 0},
-	Roupa = {Tier = 256,Shirt = 0,Pants = 0},
-	Cor = { 
-		Nome = 	  {Letra = {255, 255, 255},Borda = {0, 0, 255}},
-		Patente = {Letra = {0, 0, 255},    Borda = {255, 51, 204}},
-		Team =    {Letra = {255, 51, 204},Borda = {255, 255, 255}},
-	},
-},----------------------------------- Gang ---------------------------------------------
+		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
+		Cor = { 
+			Nome = 	  {Letra = {255, 255, 255},Borda = {0, 0, 255}},
+			Patente = {Letra = {0, 0, 255},    Borda = {255, 51, 204}},
+			Team =    {Letra = {255, 51, 204},Borda = {255, 255, 255}},
+		},
+	},----------------------------------- Gang ---------------------------------------------
 
-[35410335] = {   -- [Dono ID: 5269584428] (HP AUMENTADO)
-	Nome = "Helltail",
-	Vida = 1000,
-	Itens = {['Josef'] = 0},
-	Roupa = {Tier = 256,Shirt = 11549911610,Pants = 11549911610},
-	Cor = { 
-		Nome = 	  {Letra = {0, 0, 0},Borda = {255, 0, 0}},
-		Patente = {Letra = {255, 255, 255},Borda = {0, 0, 255}},
-		Team =    {Letra = {153, 0, 153},Borda = {153, 0, 153}},
-	},
-},----------------------------------- Gang ---------------------------------------------
+	[35410335] = {   -- [Dono ID: 5269584428] (HP AUMENTADO)
+		Nome = "Helltail",
+		Vida = 1000,
+		Itens = {['Josef'] = 0},
+		Roupa = {Tier = 256,Shirt = 11549911610,Pants = 11549911610},
+		Cor = { 
+			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 0, 0}},
+			Patente = {Letra = {255, 255, 255},Borda = {0, 0, 255}},
+			Team =    {Letra = {153, 0, 153},Borda = {153, 0, 153}},
+		},
+	},----------------------------------- Gang ---------------------------------------------
 
-[35405220] = {   -- [Dono ID: ] (HP AUMENTADO)
-	Nome = "The Dark Hunters",
-	Vida = 1000,
-	Itens = {['Josef'] = 0},
-	Roupa = {Tier = 256,Shirt = 0,Pants = 0},
-	Cor = { 
-		Nome = 	  {Letra = {255, 0, 0},Borda = {0, 0, 255}},
-		Patente = {Letra = {0, 0, 0},Borda = {255, 255, 255}},
-		Team =    {Letra = {255, 255, 255},Borda = {0, 0, 0}},
-	},
-},----------------------------------- Gang ---------------------------------------------
+	[35405220] = {   -- [Dono ID: ] (HP AUMENTADO)
+		Nome = "The Dark Hunters",
+		Vida = 1000,
+		Itens = {['Josef'] = 0},
+		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
+		Cor = { 
+			Nome = 	  {Letra = {255, 0, 0},Borda = {0, 0, 255}},
+			Patente = {Letra = {0, 0, 0},Borda = {255, 255, 255}},
+			Team =    {Letra = {255, 255, 255},Borda = {0, 0, 0}},
+		},
+	},----------------------------------- Gang ---------------------------------------------
 
-[32953750] = {   -- [Dono ID: 4208020311 ] (HP AUMENTADO) / sorteio
-	Nome = "氷 Fúria do Gelo 氷",
-	Vida = 1000,
-	Itens = {['Mikey'] = 0,['Dash'] = 0,['ChuteEletrico'] = 0,['ChuteCongelante'] = 0},
-	Roupa = {Tier = 256,Shirt = 0,Pants = 0},
-	Cor = { 
-		Nome = 	  {Letra = {0, 0, 204},Borda = {153, 204, 255}},
-		Patente = {Letra = {0, 0, 204},Borda = {153, 204, 255}},
-		Team =    {Letra = {0, 0, 204},Borda = {153, 204, 255}},
-	},
-},----------------------------------- Gang ---------------------------------------------
+	[32953750] = {   -- [Dono ID: 4208020311 ] (HP AUMENTADO) / sorteio
+		Nome = "氷 Fúria do Gelo 氷",
+		Vida = 1000,
+		Itens = {['Mikey'] = 0,['Dash'] = 0,['ChuteEletrico'] = 0,['ChuteCongelante'] = 0},
+		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
+		Cor = { 
+			Nome = 	  {Letra = {0, 0, 204},Borda = {153, 204, 255}},
+			Patente = {Letra = {0, 0, 204},Borda = {153, 204, 255}},
+			Team =    {Letra = {0, 0, 204},Borda = {153, 204, 255}},
+		},
+	},----------------------------------- Gang ---------------------------------------------
 
-[0] = {   -- [Dono ID: 5507772063 ] (HP AUMENTADO) /  MAX 15 dando ban all, racismo, etc 7572239
-	Nome = "星 Bleach of' Shinigami 星 ",
-	Vida = 3000,
-	Itens = {['KokusenKick'] = 0,['Dash'] = 0,['ChuteEletrico'] = 0,['Rasteira'] = 0,['FireKick'] = 0,['SusanooSlap'] = 0,['YinYang'] = 0,['Rinnegan_Push'] = 0,['MundoTransparente'] = 0,
-		['Raio'] = 0,['PisoVento'] = 0,['ShurikenExplosiva'] = 0,['FP_Thunder'] = 0,['Colateral'] = 0,['ChuteCongelante'] = 0,['Hinokami_1'] = 0,['CorteDiabolico'] = 0,
-	},
-	Roupa = {Tier = 256,Shirt = 11114255653,Pants = 8106347027},
-	Cor = { 
-		Nome = 	  {Letra = {0,0,0},Borda = {102, 0, 102}},
-		Patente = {Letra = {0,0,0},Borda = {102, 0, 102}},
-		Team =    {Letra = {0,0,0},Borda = {102, 0, 102}},
-	},
-},----------------------------------- Gang ---------------------------------------------
+	[0] = {   -- [Dono ID: 5507772063 ] (HP AUMENTADO) /  MAX 15 dando ban all, racismo, etc 7572239
+		Nome = "星 Bleach of' Shinigami 星 ",
+		Vida = 3000,
+		Itens = {['KokusenKick'] = 0,['Dash'] = 0,['ChuteEletrico'] = 0,['Rasteira'] = 0,['FireKick'] = 0,['SusanooSlap'] = 0,['YinYang'] = 0,['Rinnegan_Push'] = 0,['MundoTransparente'] = 0,
+			['Raio'] = 0,['PisoVento'] = 0,['ShurikenExplosiva'] = 0,['FP_Thunder'] = 0,['Colateral'] = 0,['ChuteCongelante'] = 0,['Hinokami_1'] = 0,['CorteDiabolico'] = 0,
+		},
+		Roupa = {Tier = 256,Shirt = 11114255653,Pants = 8106347027},
+		Cor = { 
+			Nome = 	  {Letra = {0,0,0},Borda = {102, 0, 102}},
+			Patente = {Letra = {0,0,0},Borda = {102, 0, 102}},
+			Team =    {Letra = {0,0,0},Borda = {102, 0, 102}},
+		},
+	},----------------------------------- Gang ---------------------------------------------
 
-[0] = {   -- [Dono ID: 1821185214 ] (HP AUMENTADO) / MAX 10 35431110 comprovante false
-	Nome = "Yamahat",
-	Vida = 1500,
-	Itens = {['Mikey'] = 0},
-	Roupa = {Tier = 256,Shirt = 0,Pants = 0},
-	Cor = { 
-		Nome = 	  {Letra = {51, 102, 255},Borda = {153, 204, 255}},
-		Patente = {Letra = {0, 204, 255},Borda = {102, 255, 255}},
-		Team =    {Letra = {204, 0, 0},Borda = {255, 51, 0}},
-	},
-},----------------------------------- Gang ---------------------------------------------
+	[0] = {   -- [Dono ID: 1821185214 ] (HP AUMENTADO) / MAX 10 35431110 comprovante false
+		Nome = "Yamahat",
+		Vida = 1500,
+		Itens = {['Mikey'] = 0},
+		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
+		Cor = { 
+			Nome = 	  {Letra = {51, 102, 255},Borda = {153, 204, 255}},
+			Patente = {Letra = {0, 204, 255},Borda = {102, 255, 255}},
+			Team =    {Letra = {204, 0, 0},Borda = {255, 51, 0}},
+		},
+	},----------------------------------- Gang ---------------------------------------------
 
-[35473023] = {   -- [Dono ID: 5118700438 ] (HP AUMENTADO) / MAX 10
-	Nome = "The Jujutsu Academy",
-	Vida = 1000,
-	Itens = {['Mikey'] = 0},
-	Roupa = {Tier = 256,Shirt = 0,Pants = 0},
-	Cor = { 
-		Nome = 	  {Letra = {255, 102, 255},Borda = {0, 0, 0}},
-		Patente = {Letra = {255, 0, 0},Borda = {153, 0, 255}},
-		Team =    {Letra = {0, 0, 255},Borda = {255, 255, 255}},
-	},
-},----------------------------------- Gang ---------------------------------------------
+	[35473023] = {   -- [Dono ID: 5118700438 ] (HP AUMENTADO) / MAX 10
+		Nome = "The Jujutsu Academy",
+		Vida = 1000,
+		Itens = {['Mikey'] = 0},
+		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
+		Cor = { 
+			Nome = 	  {Letra = {255, 102, 255},Borda = {0, 0, 0}},
+			Patente = {Letra = {255, 0, 0},Borda = {153, 0, 255}},
+			Team =    {Letra = {0, 0, 255},Borda = {255, 255, 255}},
+		},
+	},----------------------------------- Gang ---------------------------------------------
 
-[35458801] = {   -- [Dono ID: 3407303579 ] (HP AUMENTADO) / MAX 10
-	Nome = "開始 arrancars 開始",
-	Vida = 1750,
-	Itens = {['Mikey'] = 0},
-	Roupa = {Tier = 256,Shirt = 14918550150,Pants = 6385592516},
-	Cor = { 
-		Nome = 	  {Letra = {153, 0, 255},Borda = {0, 0, 255}},
-		Patente = {Letra = {255, 255, 255},Borda = {153, 0, 255}},
-		Team =    {Letra = {0, 0, 255},Borda = {153, 0, 255}},
-	},
-},----------------------------------- Gang ---------------------------------------------
+	[35458801] = {   -- [Dono ID: 3407303579 ] (HP AUMENTADO) / MAX 10
+		Nome = "開始 arrancars 開始",
+		Vida = 1750,
+		Itens = {['Mikey'] = 0},
+		Roupa = {Tier = 256,Shirt = 14918550150,Pants = 6385592516},
+		Cor = { 
+			Nome = 	  {Letra = {153, 0, 255},Borda = {0, 0, 255}},
+			Patente = {Letra = {255, 255, 255},Borda = {153, 0, 255}},
+			Team =    {Letra = {0, 0, 255},Borda = {153, 0, 255}},
+		},
+	},----------------------------------- Gang ---------------------------------------------
 
-[35414505] = {   -- [Dono ID: 3407303579 ] (HP AUMENTADO) / MAX 10
-	Nome = "The Dark God's",
-	Vida = 1000,
-	Itens = {['Mikey'] = 0,['Dash'] = 0},
-	Roupa = {Tier = 256,Shirt = 0,Pants = 0},
-	Cor = { 
-		Nome = 	  {Letra = {0, 0, 0},Borda = {0, 0, 255}},
-		Patente = {Letra = {255, 255, 255},Borda = {255, 255, 255}},
-		Team =    {Letra = {0, 0, 0},Borda = {0, 0, 255}},
-	},
-},----------------------------------- Gang ---------------------------------------------
-
-
-[0] = {   -- [Dono ID: 2692076290 ] (HP AUMENTADO) / MAX 10 venda cargo limite membro 
-	Nome = "召喚 Night Red Moon 召喚",
-	Vida = 1000,
-	Itens = {['Josef'] = 0},
-	Roupa = {Tier = 256,Shirt = 0,Pants = 0},
-	Cor = { 
-		Nome = 	  {Letra = {255, 0, 0},Borda = {204, 0, 0}},
-		Patente = {Letra = {0, 0, 0},Borda = {255, 255, 255}},
-		Team =    {Letra = {0, 0, 0},Borda = {255, 255, 255}},
-	},
-},----------------------------------- Gang ---------------------------------------------
-
-[35494156] = {   -- [Dono ID: 2000907880 ] (HP AUMENTADO) / MAX 10
-	Nome = "神秘 Mystic Realms 領域",
-	Vida = 1000,
-	Itens = {['Josef'] = 0,['FireKick'] = 0},
-	Roupa = {Tier = 256,Shirt = 0,Pants = 0},
-	Cor = { 
-		Nome = 	  {Letra = {153, 0, 204},Borda = {255, 255, 255}},
-		Patente = {Letra = {255, 0, 0},Borda = {255, 255, 255}},
-		Team =    {Letra = {153, 0, 204},Borda = {255, 255, 255}},
-	},
-},----------------------------------- Gang ---------------------------------------------
+	[35414505] = {   -- [Dono ID: 3407303579 ] (HP AUMENTADO) / MAX 10
+		Nome = "The Dark God's",
+		Vida = 1000,
+		Itens = {['Mikey'] = 0,['Dash'] = 0},
+		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
+		Cor = { 
+			Nome = 	  {Letra = {0, 0, 0},Borda = {0, 0, 255}},
+			Patente = {Letra = {255, 255, 255},Borda = {255, 255, 255}},
+			Team =    {Letra = {0, 0, 0},Borda = {0, 0, 255}},
+		},
+	},----------------------------------- Gang ---------------------------------------------
 
 
-[35494278] = {   -- [Dono ID: 3497396815 ] (HP AUMENTADO) / MAX 10
-	Nome = "火Darks of Soul水",
-	Vida = 1000,
-	Itens = {['Josef'] = 0},
-	Roupa = {Tier = 256,Shirt = 0,Pants = 0},
-	Cor = { 
-		Nome = 	  {Letra = {0, 0, 0},Borda = {255, 255, 255}},
-		Patente = {Letra = {255, 255, 255},Borda = {0, 0, 0}},
-		Team =    {Letra = {255, 0, 0},Borda = {0, 0, 0}},
-	},
-},----------------------------------- Gang ---------------------------------------------
+	[0] = {   -- [Dono ID: 2692076290 ] (HP AUMENTADO) / MAX 10 venda cargo limite membro 
+		Nome = "召喚 Night Red Moon 召喚",
+		Vida = 1000,
+		Itens = {['Josef'] = 0},
+		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
+		Cor = { 
+			Nome = 	  {Letra = {255, 0, 0},Borda = {204, 0, 0}},
+			Patente = {Letra = {0, 0, 0},Borda = {255, 255, 255}},
+			Team =    {Letra = {0, 0, 0},Borda = {255, 255, 255}},
+		},
+	},----------------------------------- Gang ---------------------------------------------
+
+	[35494156] = {   -- [Dono ID: 2000907880 ] (HP AUMENTADO) / MAX 10
+		Nome = "神秘 Mystic Realms 領域",
+		Vida = 1000,
+		Itens = {['Josef'] = 0,['FireKick'] = 0},
+		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
+		Cor = { 
+			Nome = 	  {Letra = {153, 0, 204},Borda = {255, 255, 255}},
+			Patente = {Letra = {255, 0, 0},Borda = {255, 255, 255}},
+			Team =    {Letra = {153, 0, 204},Borda = {255, 255, 255}},
+		},
+	},----------------------------------- Gang ---------------------------------------------
+
+
+	[35494278] = {   -- [Dono ID: 3497396815 ] (HP AUMENTADO) / MAX 10
+		Nome = "火Darks of Soul水",
+		Vida = 1000,
+		Itens = {['Josef'] = 0},
+		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
+		Cor = { 
+			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 255, 255}},
+			Patente = {Letra = {255, 255, 255},Borda = {0, 0, 0}},
+			Team =    {Letra = {255, 0, 0},Borda = {0, 0, 0}},
+		},
+	},----------------------------------- Gang ---------------------------------------------
+
+
+
+
+
 
 
 
