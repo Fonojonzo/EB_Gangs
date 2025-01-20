@@ -3,7 +3,7 @@ local Gangs = {
 	[32325896] = {
 		Nome = 'Tokyo Manji Gang',
 		Vida = 4000,
-		Itens = {['Dash'] = 0,['ImpulsoSombrio'] = 300,['SocoEletrico'] = 0,['Rinnegan_Push'] = {Size = 15,Voice = 117779581030667,Debounce = 2,Color = {255,0,0}},['DoubleJump'] = 0,['MinatoKunai'] = 0,['SusanooSlap'] = {Color = {0,0,255},Knockback = 86,Debounce = 1,HitSound = 5686379468}},
+		Itens = {['Dash'] = 0,['ImpulsoSombrio'] = 300,['SocoEletrico'] = 0,['Rinnegan_Push'] = {Size = 15,Voice = 117779581030667,Debounce = 2},['DoubleJump'] = 0,['MinatoKunai'] = 0,['SusanooSlap'] = {Color = {0,0,255},Knockback = 86,Debounce = 1,HitSound = 5686379468}},
 		Roupa = {Tier = 95,Shirt = 6850745796,Pants = 7166106431},
 		Cor = {
 			Nome = 	  {Letra = {0,0,0},Borda = {255,255,255}},
@@ -92,7 +92,7 @@ local Gangs = {
 	[35276401] = {   -- [Dono ID:7648333286 ] slot 15 (HP AUMENTADO)
 		Nome = 'Beginning of Disorder',
 		Vida = 2000,
-		Itens = {['SocoEletrico'] = 0,['TacoLucille'] = {255,254,100},['ItachiDash'] = 0,['Yamato'] = 5,['FireKick'] = 0,['DoubleJump'] = 255,['Raio'] = {255, 254, 100},['YinYang'] = 0,['SusanooSlap'] = 0,['Rinnegan_Push'] = {Size = 50},['Hinokami_1'] = 0,['CorteDiabolico'] = 0,['YinColateral'] = 0},
+		Itens = {['SocoEletrico'] = 0,['TacoLucille'] = {255,254,100},['ItachiDash'] = 0,['Yamato'] = 5,['FireKick'] = 0,['DoubleJump'] = 255,['Raio'] = {255, 254, 100},['YinYang'] = 0,['SusanooSlap'] = 0,['Rinnegan_Push'] = {Size = 75,Color = {255,0,0}},['Hinokami_1'] = 0,['CorteDiabolico'] = 0,['YinColateral'] = 0},
 		Roupa = {Tier = 95,Shirt = 0,Pants = 0},
 		Cor = {
 			Nome = 	  {Letra = {0, 102, 102},Borda = {255, 255, 255}},
