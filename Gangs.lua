@@ -92,7 +92,7 @@ local Gangs = {
 	[35276401] = {   -- [Dono ID:7648333286 ] slot 15 (HP AUMENTADO)
 		Nome = 'Beginning of Disorder',
 		Vida = 2000,
-		Itens = {['SocoEletrico'] = 0,['TacoLucille'] = {255,254,100},['ItachiDash'] = 0,['Yamato'] = 5,['FireKick'] = 0,['DoubleJump'] = 255,['Raio'] = {255, 254, 100},['YinYang'] = 0,['SusanooSlap'] = 0,['Rinnegan_Push'] = 0,['Hinokami_1'] = 0,['CorteDiabolico'] = 0,['YinColateral'] = 0},
+		Itens = {['SocoEletrico'] = 0,['TacoLucille'] = {255,254,100},['ItachiDash'] = 0,['Yamato'] = 5,['FireKick'] = 0,['DoubleJump'] = 255,['Raio'] = {255, 254, 100},['YinYang'] = 0,['SusanooSlap'] = 0,['Rinnegan_Push'] = {Size = 50},['Hinokami_1'] = 0,['CorteDiabolico'] = 0,['YinColateral'] = 0},
 		Roupa = {Tier = 95,Shirt = 0,Pants = 0},
 		Cor = {
 			Nome = 	  {Letra = {0, 102, 102},Borda = {255, 255, 255}},
