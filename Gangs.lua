@@ -1043,9 +1043,9 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 	[35078814] = {   -- [Dono ID: 2380558325 ] (HP AUMENTADO) / MAX 10
-		Nome = "--- The Gods ---",
-		Vida = 2000,
-		Itens = {['Mikey'] = 0},
+		Nome = "----- Death's Curse -----",
+		Vida = 1500,
+		Itens = {['KokusenKick'] = 0,['Dash'] = 0,['Rasteira'] = 0},
 		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
 		Cor = { 
 			Nome = 	  {Letra = {128, 0, 0},Borda = {0, 0, 0}},
@@ -1054,6 +1054,18 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
+	
+	[35513399] = {   -- [Dono ID: 2479262469 ] (HP AUMENTADO) / MAX 10
+		Nome = " 凍るFrozen Legacy凍る",
+		Vida = 1000,
+		Itens = {['Josef'] = 0},
+		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
+		Cor = { 
+			Nome = 	  {Letra = {18, 10, 143},Borda = {102, 255, 255}},
+			Patente = {Letra = {255, 255, 255},Borda = {18, 10, 143}},
+			Team =    {Letra = {18, 10, 143},Borda = {102, 255, 255}},
+		},
+	},----------------------------------- Gang ---------------------------------------------
 
 
 
