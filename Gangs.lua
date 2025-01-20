@@ -3,7 +3,7 @@ local Gangs = {
 	[32325896] = {
 		Nome = 'Tokyo Manji Gang',
 		Vida = 4000,
-		Itens = {['Dash'] = 0,['ImpulsoSombrio'] = 300,['SocoEletrico'] = 0,['ChuteVoadorJ7'] = 0,['DoubleJump'] = 0,['MinatoKunai'] = 0,['SusanooSlap'] = {Color = {0,0,255},Knockback = 10,Debounce = 1,HitSound = 5686379468}},
+		Itens = {['Dash'] = 0,['ImpulsoSombrio'] = 300,['SocoEletrico'] = 0,['ChuteVoadorJ7'] = 0,['DoubleJump'] = 0,['MinatoKunai'] = 0,['SusanooSlap'] = {Color = {0,0,255},Knockback = 86,Debounce = 1,HitSound = 5686379468}},
 		Roupa = {Tier = 95,Shirt = 6850745796,Pants = 7166106431},
 		Cor = {
 			Nome = 	  {Letra = {0,0,0},Borda = {255,255,255}},
