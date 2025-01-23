@@ -15,7 +15,7 @@ local Gangs = {
 	[35521381] = { 
 		Nome = 'Amendobobos',
 		Vida = 3000,
-		Itens = {['ChuteEletrico'] = 0,['Colateral'] = 0,['Dash'] = 0,['FP_Thunder'] = 0,['DoubleJump'] = 0,['MinatoKunai'] = 0},
+		Itens = {['ChuteEletrico'] = 0,['Colateral'] = 0,['Dash'] = 0,['Thunder'] = 0,['DoubleJump'] = 0,['MinatoKunai'] = 0},
 		Roupa = {Tier = 95,Shirt = 0,Pants = 0},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 255, 255}},
@@ -28,7 +28,7 @@ local Gangs = {
 	[32942292] = { 
 		Nome = 'Luas Superiores',
 		Vida = 3000,
-		Itens = {['PisoLuas'] = 0,['Colateral'] = 0,['Dash'] = 0,['DemonRegen'] = 0,['FP_Thunder'] = 0,['Bite'] = 0,['MundoTransparente'] = 0,['DoubleJump'] = 0},
+		Itens = {['PisoLuas'] = 0,['Colateral'] = 0,['Dash'] = 0,['DemonRegen'] = 0,['Bite'] = 0,['MundoTransparente'] = 0,['DoubleJump'] = 0},
 		Roupa = {Tier = 95,Shirt = 0,Pants = 0},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 255, 255}},
@@ -53,7 +53,7 @@ local Gangs = {
 	[35259599] = {
 		Nome = 'Eternity Order',
 		Vida = 4000,
-		Itens = {['FPColateral'] = 0,['Dash'] = 0,['PisoLuas'] = 0,['FpScream'] = 0,['FP_Thunder'] = 0,['DemonRegen'] = 0,['VoidHole'] = 0,['MundoTransparente'] = 0,['DoubleJump'] = 0},
+		Itens = {['FPColateral'] = 0,['Dash'] = 0,['PisoLuas'] = 0,['FpScream'] = 0,['Thunder'] = 0,['DemonRegen'] = 0,['VoidHole'] = 0,['MundoTransparente'] = 0,['DoubleJump'] = 0},
 		Roupa = {Tier = 95,Shirt = 0,Pants = 0},
 		Cor = {
 			Nome = 	  {Letra = {0,0,0},Borda = {227, 196, 255}},
