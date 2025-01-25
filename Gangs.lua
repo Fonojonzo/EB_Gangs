@@ -713,7 +713,7 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[35286230] = {   -- [Dono ID:7523050446 ](HP AUMENTADO)
+	[0] = {   -- [Dono ID:7523050446 ](HP AUMENTADO) banido
 		Nome = "襲撃 Palhaços Amaldiçoados 夜",
 		Vida = 1000,
 		Itens = {['Josef'] = 0,['ChuteEletrico'] = 0},
