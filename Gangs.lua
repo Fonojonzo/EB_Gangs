@@ -1095,7 +1095,7 @@ local Gangs = {
 	[35498928] = {   -- [Dono ID: 6101966344 ] (HP AUMENTADO) / MAX 10 
 		Nome = "🐉Midnight Lions🌕",
 		Vida = 1000,
-		Itens = {['Mikey'] = 0},
+		Itens = {['Josef'] = 0},
 		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
 		Cor = { 
 			Nome = 	  {Letra = {255, 0, 0},Borda = {153, 0, 153}},
@@ -1104,6 +1104,17 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
+	[35544694] = {   -- [Dono ID: 4705844738 ] (HP AUMENTADO) / MAX 10 
+		Nome = "THE CURSED WARRIORS",
+		Vida = 1000,
+		Itens = {['Josef'] = 0},
+		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
+		Cor = { 
+			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 255, 255}},
+			Patente = {Letra = {0, 0, 0},Borda = {255, 255, 255}},
+			Team =    {Letra = {0, 0, 0},Borda = {255, 255, 255}},
+		},
+	},----------------------------------- Gang ---------------------------------------------
 
 
 
