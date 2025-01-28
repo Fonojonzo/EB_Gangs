@@ -910,7 +910,7 @@ local Gangs = {
 		Nome = "Crimson Nebula",
 		Vida = 1500,
 		Itens = {['KokusenKick'] = 0,['ChuteCongelante'] = 0,['Raio'] = 0,['SusanooSlap'] = 0,['Meteoro'] = 0,
-			['TacoLucille'] = 0,['Rinnegan_Push'] = 0,['MinatoKunai'] = 0,['F1VermelhoExplodir'] = 0,['Colateral'] = 0,['Thunder'] = 0},
+			['TacoLucille'] = 0,['Rinnegan_Push'] = {Size = 50},['MinatoKunai'] = 0,['F1VermelhoExplodir'] = 0,['Colateral'] = 0,['Thunder'] = 0,['PisoVento'] = 0},
 		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
 		Cor = { 
 			Nome = 	  {Letra = {255, 255, 255},Borda = {0, 0, 255}},
