@@ -740,7 +740,7 @@ local Gangs = {
 	[35310257] = {   -- [Dono ID:5170861017 ](HP AUMENTADO)
 		Nome = "爱 Dragon Ball Infinity 爱",
 		Vida = 1500,
-		Itens = {['Mikey'] = 0,['Rasteira'] = 0},
+		Itens = {['Mikey'] = 0,['Rasteira'] = 0,['SusanooSlap'] = 0},
 		Roupa = {Tier = 256,Shirt = 14110922975,Pants = 14110926287},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},Borda = {0, 255, 0}},
