@@ -1095,7 +1095,7 @@ local Gangs = {
 	[35498928] = {   -- [Dono ID: 6101966344 ] (HP AUMENTADO) / MAX 10 
 		Nome = "🐉Midnight Lions🌕",
 		Vida = 1000,
-		Itens = {['Josef'] = 0},
+		Itens = {['Josef'] = 0,['PisoVento'] = 0},
 		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
 		Cor = { 
 			Nome = 	  {Letra = {255, 0, 0},Borda = {153, 0, 153}},
