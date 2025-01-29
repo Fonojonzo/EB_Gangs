@@ -24,7 +24,7 @@ local Gangs = {
 		},
 
 	},----------------------------------- Gang ---------------------------------------------
-	
+
 	[32942292] = { 
 		Nome = 'Luas Superiores',
 		Vida = 3000,
@@ -911,7 +911,7 @@ local Gangs = {
 		Vida = 1500,
 		Itens = {['KokusenKick'] = 0,['ChuteCongelante'] = 0,['Raio'] = 0,['SusanooSlap'] = 0,['Meteoro'] = 0,
 			['TacoLucille'] = 0,['Rinnegan_Push'] = {Size = 50},['MinatoKunai'] = 0,['F1VermelhoExplodir'] = 0,['Colateral'] = 0,['Thunder'] = 0,['PisoVento'] = 0,
-			['YinYang'] = 0}
+			['YinYang'] = 0},
 		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
 		Cor = { 
 			Nome = 	  {Letra = {255, 255, 255},Borda = {0, 0, 255}},
@@ -1068,7 +1068,7 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	
+
 	[35513399] = {   -- [Dono ID: 2479262469 ] (HP AUMENTADO) / MAX 10
 		Nome = " 凍るFrozen Legacy凍る",
 		Vida = 1000,
@@ -1128,7 +1128,7 @@ local Gangs = {
 			Team =    {Letra = {255, 0, 0},Borda = {255, 153, 51}},
 		},
 	},----------------------------------- Gang ---------------------------------------------
-	
+
 	[35338244] = {   -- [Dono ID: 5028420733 ] (HP AUMENTADO) / MAX 10 
 		Nome = "Yazuk kokusen gang",
 		Vida = 1000,
