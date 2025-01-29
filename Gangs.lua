@@ -1056,7 +1056,7 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[35078814] = {   -- [Dono ID: 2380558325 ] (HP AUMENTADO) / MAX 10
+	[0] = {   -- [Dono ID: 2380558325 ] (HP AUMENTADO) / MAX 10 / 35078814 venda cargos
 		Nome = "----- Death's Curse -----",
 		Vida = 1500,
 		Itens = {['KokusenKick'] = 0,['Dash'] = 0,['Rasteira'] = 0},
