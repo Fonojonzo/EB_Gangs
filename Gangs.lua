@@ -1157,7 +1157,7 @@ local Gangs = {
 		Nome = "名誉DICIPLES OF THE GODS名誉",
 		Vida = 1500,
 		Itens = {['Mikey'] = 0,['Dash'] = 0},
-		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
+		Roupa = {Tier = 256,Shirt = 7801392003,Pants = 12166825438},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 51, 0}},
 			Patente = {Letra = {255, 0, 0},Borda = {0, 0, 0}},
