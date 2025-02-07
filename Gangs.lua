@@ -77,7 +77,7 @@ local Gangs = {
 
 	},----------------------------------- Gang ---------------------------------------------
 
-	[33524892] = {  -- [Dono ID:2623179010 ] slot 15 
+	[0] = {  -- [Dono ID:2623179010 ] slot 15  / 33524892 troca de dono
 		Nome = 'Brahman Gang', 
 		Vida = 2000,
 		Itens = {['Mikey'] = 0,['ChuteCongelante'] = 0,['SusanooSlap'] = 0},
