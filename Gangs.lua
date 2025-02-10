@@ -494,7 +494,7 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 	[32367594] = { -- [Dono ID: 3605403073] slot 10(HP AUMENTADO)
-		Nome = "Kokuryū no Tsuin",
+		Nome = "Moebius | Second Generation",
 		Vida = 1000,
 		Itens = {['KokusenKick'] = 0,['Rasteira'] = 0,['Raio'] = 0},
 		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
@@ -1186,6 +1186,18 @@ local Gangs = {
 			Nome = 	  {Letra = {153, 51, 153},Borda = {0, 0, 0}},
 			Patente = {Letra = {255, 0, 0},Borda = {0, 0, 0}},
 			Team =    {Letra = {153, 51, 153},Borda = {0, 0, 0}},
+		},
+	},----------------------------------- Gang ---------------------------------------------
+
+	[0] = {   -- [Dono ID:  ] (HP AUMENTADO) / MAX 10 
+		Nome = "ゴールデンスター",
+		Vida = 1000,
+		Itens = {['Josef'] = 0},
+		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
+		Cor = { 
+			Nome = 	  {Letra = {255, 255, 255},Borda = {0, 0, 0}},
+			Patente = {Letra = {0, 0, 0},Borda = {255, 255, 255}},
+			Team =    {Letra = {128, 128, 128},Borda = {0, 0, 0}},
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
