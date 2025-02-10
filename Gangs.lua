@@ -446,14 +446,14 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 	[33793567] = { -- [Dono ID: 3823029215] slot 10(HP AUMENTADO)
-		Nome = "魚ガ Temple Do Uzumaki 魚ガ",
+		Nome = "Cobra Kai",
 		Vida = 1000,
 		Itens = {['Mikey'] = 0},
 		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 255, 255}},
 			Patente = {Letra = {0, 0, 0},Borda = {255, 255, 255}},
-			Team =    {Letra = {0, 0, 0},Borda = {153, 0, 153}},
+			Team =    {Letra = {0, 0, 0},Borda = {255, 255, 255}},
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
