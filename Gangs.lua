@@ -433,7 +433,7 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[34875717] = { -- [Dono ID: 2934160213] slot 10(HP AUMENTADO)
+	[0] = { -- [Dono ID: 2934160213] slot 10(HP AUMENTADO) / 34875717 apagando ticket de venda
 		Nome = "The Dragon's Of Fury",
 		Vida = 1000,
 		Itens = {['KokusenKick'] = 0,['FireKick'] = 0},
