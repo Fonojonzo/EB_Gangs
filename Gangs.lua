@@ -1181,11 +1181,11 @@ local Gangs = {
 		Nome = "弗 The Moon 氟",
 		Vida = 1500,
 		Itens = {['Mikey'] = 0},
-		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
+		Roupa = {Tier = 256,Shirt = 3609774932,Pants = 6555794595},
 		Cor = { 
-			Nome = 	  {Letra = {153, 51, 153},Borda = {0, 0, 0}},
-			Patente = {Letra = {255, 0, 0},Borda = {0, 0, 0}},
-			Team =    {Letra = {153, 51, 153},Borda = {0, 0, 0}},
+			Nome = 	  {Letra = {0, 0, 0},Borda = {153, 0, 153}},
+			Patente = {Letra = {0, 0, 0},Borda = {153, 0, 153}},
+			Team =    {Letra = {0, 0, 0},Borda = {153, 0, 153}},
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
