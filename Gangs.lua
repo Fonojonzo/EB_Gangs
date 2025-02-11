@@ -433,18 +433,6 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[0] = { -- [Dono ID: 2934160213] slot 10(HP AUMENTADO) / 34875717 apagando ticket de venda
-		Nome = "The Dragon's Of Fury",
-		Vida = 1000,
-		Itens = {['KokusenKick'] = 0,['FireKick'] = 0},
-		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
-		Cor = { 
-			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 140, 0}},
-			Patente = {Letra = {0, 0, 0},Borda = {255, 140, 0}},
-			Team =    {Letra = {0, 0, 0},Borda = {255, 140, 0}},
-		},
-	},----------------------------------- Gang ---------------------------------------------
-
 	[33793567] = { -- [Dono ID: 3823029215] slot 10(HP AUMENTADO)
 		Nome = "Cobra Kai",
 		Vida = 1000,
