@@ -227,7 +227,7 @@ local Gangs = {
 	[33970113] = {   -- [Dono ID:3176819923 ] slot 15 / ID GANG PEDIDO PRA DESATIVAR  (HP AUMENTADO)
 		Nome = "Order Aogiri",
 		Vida = 1000,
-		Itens = {['KokusenKick'] = 0,['FireKick'] = 0},
+		Itens = {['KokusenKick'] = 0,['FireKick'] = 0,['Dash'] = 0,['Raio'] = {254, 253, 252, 251, 249, 247, 245, 255, 250, 244, 242, 243},['TacoLucille'] = 0,['Rasteira'] = 0},
 		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
 		Cor = { 
 			Nome = 	  {Letra = {0 , 0, 0},Borda = {255, 0, 181}},
@@ -270,19 +270,6 @@ local Gangs = {
 			Nome = 	  {Letra = {80, 0, 0},Borda = 	   {0, 0, 0}},
 			Patente = {Letra = {0, 0, 0},Borda = {80, 0, 0}},
 			Team =    {Letra = {255, 0, 0},Borda = {0, 0, 0}},
-		},
-	},----------------------------------- Gang ---------------------------------------------
-
-	[0] = {   -- [Dono ID:3108673472 ] slot 15(HP AUMENTADO)
-		Nome = "Valhalla New Generation",
-		Vida = 1500,
-		Itens = {['KokusenKick'] = 0,['Dash'] = 0,['Raio'] = {254, 253, 252, 251, 249, 247, 245, 255, 250, 244, 242, 243},['TacoLucille'] = 0,['Rasteira'] = 0},
-		Roupa = {Tier = 255,Shirt = 8326276598,Pants = 6938668835},
-		Cor = { 
-			Nome = 	  {Letra = {0,0,0},Borda =   {255, 255, 255}},
-			Patente = {Letra = {0, 0, 0},Borda = {255, 255, 255}},
-			Team =    {Letra = {0, 0, 0},Borda = {255, 255, 0}},
-
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
