@@ -496,7 +496,7 @@ local Gangs = {
 	[35000398] = { -- [Dono ID: 5537257083] slot 10(HP AUMENTADO)
 		Nome = "King's Of Heavens",
 		Vida = 1000,
-		Itens = {['Josef'] = 0,['FireKick'] = 0,['Rasteira'] = 0,['Raio'] = 0},
+		Itens = {['KokusenKick'] = 0,['FireKick'] = 0,['Rasteira'] = 0,['Raio'] = 0},
 		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 255},Borda = {255, 255, 255}},
