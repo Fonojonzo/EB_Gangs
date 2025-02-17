@@ -1202,7 +1202,7 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 	[35635931] = {   -- [Dono ID: 1250373608 ] (HP AUMENTADO) / MAX 10 / gang levi deven 2 mil
-		Nome = " Cavaleiros do apocalipse",
+		Nome = "Cavaleiros do apocalipse",
 		Vida = 1000,
 		Itens = {['Josef'] = 0},
 		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
@@ -1210,6 +1210,18 @@ local Gangs = {
 			Nome = 	  {Letra = {255, 255, 255},Borda = {0, 0, 0}},
 			Patente = {Letra = {0, 0, 0},Borda = {255, 255, 153}},
 			Team =    {Letra = {0, 0, 0},Borda = {255, 0, 0}},
+		},
+	},----------------------------------- Gang ---------------------------------------------
+
+	[35607222] = {   -- [Dono ID: 1156421687 ] (HP AUMENTADO) / MAX 10 
+		Nome = "Capybaras Verificadas",
+		Vida = 1000,
+		Itens = {['Josef'] = 0},
+		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
+		Cor = { 
+			Nome = 	  {Letra = {255, 102, 0},Borda = {255, 255, 255}},
+			Patente = {Letra = {255, 255, 0},Borda = {255, 255, 153}},
+			Team =    {Letra = {218, 200, 179},Borda = {153, 102, 51}},
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
