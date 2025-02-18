@@ -652,7 +652,7 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[35278912] = {   -- [Dono ID:1345097930 ](HP AUMENTADO) - item estornado steam? ['SusanooSlap'] = {Color = {255, 255, 0},HitSound = 132455786}
+	[0] = {   -- [Dono ID:1345097930 ](HP AUMENTADO) - item estornado steam? ['SusanooSlap'] = {Color = {255, 255, 0},HitSound = 132455786} / 35278912 estorno tudo steam
 		Nome = '忠 Valley of Honor 誠',
 		Vida = 2000,
 		Itens = {['KokusenKick'] = 0,['Rasteira'] = 0,['Dash'] = 0,['Raio'] = 0,['Rinnegan_Push'] = 0},
