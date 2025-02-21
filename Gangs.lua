@@ -628,7 +628,7 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[35249145] = {   -- [Dono ID: 630337070 ] slot 10 /(HP AUMENTADO)
+	[35249145] = {   -- [Dono ID: 630337070 e 992877645 ] slot 10 /(HP AUMENTADO)
 		Nome = "襲撃 Shadow Legion 夜",
 		Vida = 1000,
 		Itens = {['Josef'] = 0,['Raio'] = 0,['ChuteCongelante'] = 0,['SusanooSlap'] = 0,['Rinnegan_Push'] = 0},
