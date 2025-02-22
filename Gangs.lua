@@ -809,7 +809,7 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[7572239] = {   -- [Dono ID:4604110304 ](HP AUMENTADO)
+	[0] = {   -- [Dono ID:4604110304 ](HP AUMENTADO) / reserva 7572239
 		Nome = "星 Bleach of' Shinigami 星",
 		Vida = 1000,
 		Itens = {['Josef'] = 0},
@@ -931,7 +931,7 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[0] = {   -- [Dono ID: 5507772063 ] (HP AUMENTADO) /  MAX 15 dando ban all, racismo, etc 7572239
+	[7572239] = {   -- [Dono ID: 5507772063 ] (HP AUMENTADO) /  MAX 15 dando ban all, racismo, etc 
 		Nome = "星 Bleach of' Shinigami 星 ",
 		Vida = 3000,
 		Itens = {['KokusenKick'] = 0,['Dash'] = 0,['ChuteEletrico'] = 0,['Rasteira'] = 0,['FireKick'] = 0,['SusanooSlap'] = 0,['YinYang'] = 0,['Rinnegan_Push'] = 0,['MundoTransparente'] = 0,
