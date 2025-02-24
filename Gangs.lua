@@ -566,7 +566,7 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[34936615] = { -- [Dono ID: 4235889528] slot 10(HP AUMENTADO)
+	[34936615] = { -- [Dono ID: 4235889528 e weslley456723] slot 10(HP AUMENTADO) NMÃO SABE MANDAR ID 
 		Nome = "夜 • Kyotto Ryûketsu • 夜",
 		Vida = 1500,
 		Itens = {['Mikey'] = 0,['FireKick'] = 0},
