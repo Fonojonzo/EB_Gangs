@@ -1236,8 +1236,8 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[33529431] = {   -- [Dono ID: 4596846156 ] (HP AUMENTADO) / MAX 10 
-		Nome = "GOD ÁFRICA",
+	[35678514] = {   -- [Dono ID: 5643337926] (HP AUMENTADO) / MAX 10 
+		Nome = "👻調 God África 調💀",
 		Vida = 1000,
 		Itens = {['Josef'] = 0},
 		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
