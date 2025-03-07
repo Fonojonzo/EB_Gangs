@@ -1248,7 +1248,7 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[34010818] = {   -- [Dono ID: 2884760622 ] (HP AUMENTADO) / MAX 10 
+	[13992168] = {   -- [Dono ID: 2884760622 ] (HP AUMENTADO) / MAX 10 
 		Nome = "Black Guerilla Family",
 		Vida = 1000,
 		Itens = {['Josef'] = 0},
