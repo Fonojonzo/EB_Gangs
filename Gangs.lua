@@ -53,7 +53,7 @@ local Gangs = {
 	[35259599] = {
 		Nome = 'Eternity Order',
 		Vida = 4000,
-		Itens = {['Dash'] = 0,['FpScream'] = 0,['PisoLuas'] = 0,['DemonBash'] = 0,['DemonRegen'] = 0,['DoubleJump'] = 0},
+		Itens = {['Dash'] = 0,['FpScream'] = 0,['PisoLuas'] = 0,['DemonBash'] = 0,['DemonBash1'] = 255,['DemonRegen'] = 0,['DoubleJump'] = 0},
 		Roupa = {Tier = 95,Shirt = 0,Pants = 0},
 		Cor = {
 			Nome = 	  {Letra = {0,0,0},Borda = {227, 196, 255}},
@@ -1012,9 +1012,9 @@ local Gangs = {
 		Itens = {['Josef'] = 0,['FireKick'] = 0},
 		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
 		Cor = { 
-			Nome = 	  {Letra = {153, 0, 204},Borda = {255, 255, 255}},
-			Patente = {Letra = {255, 0, 0},Borda = {255, 255, 255}},
-			Team =    {Letra = {153, 0, 204},Borda = {255, 255, 255}},
+			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 255, 255}},
+			Patente = {Letra = {102, 0, 102},Borda = {0, 0, 0}},
+			Team =    {Letra = {255, 255, 255},Borda = {102, 0, 102}},
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
@@ -1281,6 +1281,18 @@ local Gangs = {
 			Nome = 	  {Letra = {255, 255, 255},Borda = {0, 0, 0}},
 			Patente = {Letra = {153, 0, 153},Borda = {0, 0, 0}},
 			Team =    {Letra = {153, 0, 153},Borda = {153, 0, 153}},
+		},
+	},----------------------------------- Gang ---------------------------------------------
+
+	[0] = {   -- [Dono ID:  ] (HP AUMENTADO) / MAX 10 
+		Nome = "T. Phantoms",
+		Vida = 1000,
+		Itens = {['Josef'] = 0},
+		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
+		Cor = { 
+			Nome = 	  {Letra = {255, 255, 255},Borda = {0, 0, 0}},
+			Patente = {Letra = {153, 0, 153},Borda = {153, 0, 204}},
+			Team =    {Letra = {255, 255, 255},Borda = {0, 0, 0}},
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
