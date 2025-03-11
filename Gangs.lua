@@ -1284,8 +1284,8 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[0] = {   -- [Dono ID:  ] (HP AUMENTADO) / MAX 10 
-		Nome = "T. Phantoms",
+	[35342250] = {   -- [Dono ID: 3935154481 ] (HP AUMENTADO) / MAX 10 
+		Nome = "The Phantoms",
 		Vida = 1000,
 		Itens = {['Josef'] = 0},
 		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
