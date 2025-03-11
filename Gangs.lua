@@ -1296,8 +1296,8 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[35342250] = {   -- [Dono ID: 5638325487 ] (HP AUMENTADO) / MAX 10 
-		Nome = "Souls Slayers ",
+	[35706714] = {   -- [Dono ID: 5638325487 ] (HP AUMENTADO) / MAX 10 
+		Nome = "Souls Slayers",
 		Vida = 1000,
 		Itens = {['Josef'] = 0},
 		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
