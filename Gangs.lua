@@ -984,7 +984,7 @@ local Gangs = {
 	[35414505] = {   -- [Dono ID: 3407303579 ] (HP AUMENTADO) / MAX 10
 		Nome = "The Dark God's",
 		Vida = 1000,
-		Itens = {['Mikey'] = 0,['Dash'] = 0},
+		Itens = {['Mikey'] = 0,['Dash'] = 0,['FireKick'] = 0},
 		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},Borda = {0, 0, 255}},
