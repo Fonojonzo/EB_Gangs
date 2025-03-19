@@ -934,7 +934,7 @@ local Gangs = {
 	[7572239] = {   -- [Dono ID: 5507772063 ] (HP AUMENTADO) /  MAX 15 dando ban all, racismo, etc 
 		Nome = "星 Bleach of' Shinigami 星 ",
 		Vida = 3000,
-		Itens = {['KokusenKick'] = 0,['Dash'] = 0,['ChuteEletrico'] = 0,['Rasteira'] = 0,['FireKick'] = 0,['SusanooSlap'] = 0,['YinYang'] = 0,['Rinnegan_Push'] = 0,['MundoTransparente'] = 0,
+		Itens = {['KokusenKick'] = 0,['Dash'] = 0,['ChuteEletrico'] = 0,['Rasteira'] = 0,['FireKick'] = 0,['SusanooSlap'] = 0,['YinYang'] = 0,['Rinnegan_Push'] = {Size = 30},['MundoTransparente'] = 0,
 			['Raio'] = 0,['PisoVento'] = 0,['ShurikenExplosiva'] = 0,['Thunder'] = 0,['Colateral'] = 0,['ChuteCongelante'] = 0,['Hinokami_1'] = 0,['CorteDiabolico'] = 0,
 		},
 		Roupa = {Tier = 256,Shirt = 11114255653,Pants = 8106347027},
