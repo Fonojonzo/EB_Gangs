@@ -542,7 +542,7 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 
-	[34012037] = { -- [Dono ID: 3343455115] slot 10(HP AUMENTADO)
+	[0] = { -- [Dono ID: 3343455115] slot 10(HP AUMENTADO) / 34012037 pediu pra desativar
 		Nome = "Hueco Mundo",
 		Vida = 1000,
 		Itens = {['Josef'] = 0},
