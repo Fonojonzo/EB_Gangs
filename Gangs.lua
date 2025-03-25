@@ -1275,7 +1275,7 @@ local Gangs = {
 	[35187838] = {   -- [Dono ID: 4830534535 ] (HP AUMENTADO) / MAX 10 
 		Nome = "Galaxy Black Ofc",
 		Vida = 1000,
-		Itens = {['Josef'] = 0},
+		Itens = {['Josef'] = 0,['Dash'] = 0},
 		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
 		Cor = { 
 			Nome = 	  {Letra = {255, 0, 0},Borda = {0, 0, 0}},
