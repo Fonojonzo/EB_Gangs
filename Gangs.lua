@@ -1179,7 +1179,7 @@ local Gangs = {
 	[35621371] = {   -- [Dono ID: 1303845169 ] (HP AUMENTADO) / MAX 10 
 		Nome = "The New Sun 🉐️🌀",
 		Vida = 1000,
-		Itens = {['Josef'] = 0,['YinYang'] = 0},
+		Itens = {['Josef'] = 0,['YinYang'] = 0,['SusanooSlap'] = 0},
 		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 255},Borda = {0, 0, 0}},
