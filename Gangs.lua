@@ -1239,7 +1239,7 @@ local Gangs = {
 	[35678514] = {   -- [Dono ID: 5643337926] (HP AUMENTADO) / MAX 10 
 		Nome = "👻調 God África 調💀",
 		Vida = 1000,
-		Itens = {['Josef'] = 0},
+		Itens = {['Josef'] = 0,['SusanooSlap'] = 0},
 		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
 		Cor = { 
 			Nome = 	  {Letra = {255, 0, 0},Borda = {0, 0, 255}},
