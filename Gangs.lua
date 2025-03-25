@@ -176,7 +176,7 @@ local Gangs = {
 
 
 	[34446220] = {   -- [Dono ID:3207378051 ] slot 15 / excesso  (HP AUMENTADO)
-		Nome = 'Solo Leveling',
+		Nome = 'Máfia Italiana',
 		Vida = 1500,
 		Itens = {['SwordSlash'] = 0,['TacoLucille'] = 230,['Dash'] = 0,['Yamato'] = 230,['Granada'] = 252,['Rasteira'] = 0,['Raio'] = 0,['SusanooSlap'] = 0,['Rinnegan_Push'] = 0},
 		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
