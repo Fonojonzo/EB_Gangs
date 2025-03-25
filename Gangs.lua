@@ -919,7 +919,7 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[32953750] = {   -- [Dono ID: 4208020311 ] (HP AUMENTADO) / sorteio
+	[0] = {   -- [Dono ID: 4208020311 ] (HP AUMENTADO) / sorteio / 32953750 ban perm
 		Nome = "氷 Fúria do Gelo 氷",
 		Vida = 1000,
 		Itens = {['Mikey'] = 0,['Dash'] = 0,['ChuteEletrico'] = 0,['ChuteCongelante'] = 0},
