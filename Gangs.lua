@@ -384,7 +384,7 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[34666434] = { -- [Dono ID: 5588870678] slot 15(HP AUMENTADO)
+	[34666434] = { -- [Dono ID: 5588870678 ou 5527902705] slot 15(HP AUMENTADO)
 		Nome = "好 • Jojo's Adventure • 最",
 		Vida = 1000,
 		Itens = {['KokusenKick'] = 0,['Yamato'] = 0,['Rasteira'] = 0},
