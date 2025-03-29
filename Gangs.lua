@@ -846,7 +846,7 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 	[34369773] = {   -- [Dono ID:7424959843 ] (HP AUMENTADO)
-		Nome = "ギク Hashiras Supremos キグ",
+		Nome = "Os Hashiras",
 		Vida = 1000,
 		Itens = {['Mikey'] = 0},
 		Roupa = {Tier = 256,Shirt = 12235823739,Pants = 10364991417},
@@ -863,9 +863,9 @@ local Gangs = {
 		Itens = {['KokusenKick'] = 0},
 		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
 		Cor = { 
-			Nome = 	  {Letra = {255, 0, 0},Borda = {255, 0, 0}},
-			Patente = {Letra = {255, 255, 255},Borda = {0, 0, 255}},
-			Team =    {Letra = {0, 0, 255},Borda = {0, 0, 255}},
+			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 255, 255}},
+			Patente = {Letra = {0, 0, 0},Borda = {0, 24, 111}},
+			Team =    {Letra = {0, 0, 0},Borda = {0, 24, 111}},
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
