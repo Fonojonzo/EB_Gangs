@@ -851,13 +851,13 @@ local Gangs = {
 		Itens = {['Mikey'] = 0},
 		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
 		Cor = { 
-			Nome = 	  {Letra = {0, 0, 255},Borda = {255, 255, 255}},
+			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 255, 255}},
 			Patente = {Letra = {0, 0, 0},Borda = {0, 24, 111}},
 			Team =    {Letra = {0, 0, 0},Borda = {0, 24, 111}},
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[35389372] = {   -- [Dono ID:4130321944 ] (HP AUMENTADO)
+	[0] = {   -- [Dono ID:4130321944 ] (HP AUMENTADO)
 		Nome = "你 HASHIRAS",
 		Vida = 1000,
 		Itens = {['KokusenKick'] = 0},
