@@ -849,7 +849,7 @@ local Gangs = {
 		Nome = "Os Hashiras",
 		Vida = 1000,
 		Itens = {['Mikey'] = 0},
-		Roupa = {Tier = 245,Shirt = 4548456870,Pants = 6594655390},
+		Roupa = {Tier = 245,Shirt = 12793861717,Pants = 12793919614},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 255, 255}},
 			Patente = {Letra = {0, 0, 0},Borda = {4, 0, 122}},
