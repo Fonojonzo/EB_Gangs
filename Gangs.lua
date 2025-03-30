@@ -175,7 +175,7 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 
-	[34446220] = {   -- [Dono ID:3207378051 ] slot 15 / excesso  (HP AUMENTADO)
+	[0] = {   -- [Dono ID:3207378051 JAX] slot 15 / excesso  (HP AUMENTADO)
 		Nome = 'Máfia Italiana',
 		Vida = 1500,
 		Itens = {['SwordSlash'] = 0,['TacoLucille'] = 230,['Dash'] = 0,['Yamato'] = 230,['Granada'] = 252,['Rasteira'] = 0,['Raio'] = 0,['SusanooSlap'] = 0,['Rinnegan_Push'] = 0},
