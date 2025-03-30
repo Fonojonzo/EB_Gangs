@@ -845,7 +845,7 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[34369773] = {   -- [Dono ID:7424959843 ] (HP AUMENTADO)
+	[34369773] = {   -- [Dono ID:7424959843 novo dono ID:8221862505 ] (HP AUMENTADO)
 		Nome = "Os Hashiras",
 		Vida = 1000,
 		Itens = {['Mikey'] = 0},
