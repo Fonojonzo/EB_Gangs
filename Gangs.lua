@@ -77,8 +77,8 @@ local Gangs = {
 
 	},----------------------------------- Gang ---------------------------------------------
 
-	[0] = {  -- [Dono ID:2623179010 ] slot 15  / 33524892 troca de dono
-		Nome = 'Brahman Gang', 
+	[33524892] = {  -- [Dono ID:2623179010 ] slot 15  /  troca de dono
+		Nome = 'Máfia Italiana', 
 		Vida = 2000,
 		Itens = {['Mikey'] = 0,['ChuteCongelante'] = 0,['SusanooSlap'] = 0},
 		Roupa = {Tier = 260,Shirt = 7061606670,Pants = 8995167282},
@@ -171,19 +171,6 @@ local Gangs = {
 			Nome = 	  {Letra = {0, 0, 255},Borda = {0, 0, 0},RGB = true},
 			Patente = {Letra = {0, 0, 255},Borda = {0, 0, 0},RGB = true},
 			Team =    {Letra = {0, 0, 255},Borda = {0, 0, 0},RGB = true},
-		},
-	},----------------------------------- Gang ---------------------------------------------
-
-
-	[0] = {   -- [Dono ID:3207378051 JAX] slot 15 / excesso  (HP AUMENTADO)
-		Nome = 'Máfia Italiana',
-		Vida = 1500,
-		Itens = {['SwordSlash'] = 0,['TacoLucille'] = 230,['Dash'] = 0,['Yamato'] = 230,['Granada'] = 252,['Rasteira'] = 0,['Raio'] = 0,['SusanooSlap'] = 0,['Rinnegan_Push'] = 0},
-		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
-		Cor = { 
-			Nome = 	  {Letra = {0, 0, 0},Borda = {99, 70, 156}},
-			Patente = {Letra = {255, 255, 255},Borda = {98, 70, 156}},
-			Team =    {Letra = {0, 0, 0},Borda = {255, 255, 255}},
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
