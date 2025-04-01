@@ -832,10 +832,10 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[34369773] = {   -- [Dono ID:7424959843 novo dono ID:8221862505 ] (HP AUMENTADO) MAX 11
+	[34369773] = {   -- [Dono ID:7424959843 novo dono ID:8221862505 ] (HP AUMENTADO) MAX 11 / katana emprestada do gojo
 		Nome = "Os Hashiras",
 		Vida = 1000,
-		Itens = {['Mikey'] = 0},
+		Itens = {['SwordSlash'] = 0},
 		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 255, 255}},
