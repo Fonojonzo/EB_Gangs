@@ -1343,7 +1343,7 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[1225503] = {   -- [Dono ID:  ] (HP AUMENTADO) / MAX 10 
+	[0] = {   -- [Dono ID:  ] (HP AUMENTADO) / MAX 10 
 		Nome = "Darkness Revenge",
 		Vida = 1000,
 		Itens = {['Josef'] = 0},
