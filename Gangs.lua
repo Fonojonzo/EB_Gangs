@@ -1007,14 +1007,14 @@ local Gangs = {
 
 
 	[35494278] = {   -- [Dono ID: 3497396815 ] (HP AUMENTADO) / MAX 10
-		Nome = "火Darks of Soul水",
+		Nome = "Caçadores De Hashiras",
 		Vida = 1000,
 		Itens = {['Josef'] = 0,['FireKick'] = 0},
 		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 255, 255}},
-			Patente = {Letra = {255, 255, 255},Borda = {0, 0, 0}},
-			Team =    {Letra = {255, 0, 0},Borda = {0, 0, 0}},
+			Patente = {Letra = {0, 0, 0},Borda = {128, 0, 0}},
+			Team =    {Letra = {0, 0, 0},Borda = {128, 0, 0}},
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
@@ -1340,6 +1340,18 @@ local Gangs = {
 			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 0, 0}},
 			Patente = {Letra = {255, 255, 255},Borda = {255, 255, 255}},
 			Team =    {Letra = {0, 0, 0},Borda = {0, 0, 0}},
+		},
+	},----------------------------------- Gang ---------------------------------------------
+
+	[1225503] = {   -- [Dono ID:  ] (HP AUMENTADO) / MAX 10 
+		Nome = "Darkness Revenge",
+		Vida = 1000,
+		Itens = {['Josef'] = 0},
+		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
+		Cor = { 
+			Nome = 	  {Letra = {255, 0, 0},Borda = {255, 255, 255}},
+			Patente = {Letra = {0, 0, 0},Borda = {255, 0, 0}},
+			Team =    {Letra = {0, 0, 0},Borda = {255, 0, 0}},
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
