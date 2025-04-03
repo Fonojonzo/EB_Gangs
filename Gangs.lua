@@ -627,7 +627,7 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[17368590] = {   -- [Dono ID:4243609984 ] slot 10, gang henrique parcelada em muitas milhões de vezes aguardando pag(HP AUMENTADO)
+	[0] = {   -- [Dono ID:4243609984 ] slot 10, gang henrique parcelada em muitas milhões de vezes aguardando pag(HP AUMENTADO)
 		Nome = 'Disciples Gangster',
 		Vida = 1500,
 		Itens = {['Mikey'] = 0,['TacoLucille'] = 230,['Dash'] = 0,['Yamato'] = 230,['Granada'] = 252,['Rasteira'] = 0,['Raio'] = 0,['SusanooSlap'] = 0,['Rinnegan_Push'] = 0},
