@@ -1356,7 +1356,7 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 	[33454826] = {   -- [Dono ID: 2885875741 ] (HP AUMENTADO) / MAX 10 
-		Nome = "?",
+		Nome = "The Winchesters",
 		Vida = 1000,
 		Itens = {['ChuteCongelante'] = 0,['Hinokami_1'] = 0,['ChuteEletrico'] = 0},
 		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
