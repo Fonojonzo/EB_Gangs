@@ -15,7 +15,8 @@ local Gangs = {
 	[35521381] = { 
 		Nome = 'Amendobobos',
 		Vida = 3000,
-		Itens = {['ChuteEletrico'] = 0,['Colateral'] = 0,['Dash'] = 0,['Thunder'] = 0,['DoubleJump'] = 0,['MinatoKunai'] = 0},
+		Itens = {['ChuteEletrico'] = 0,['Colateral'] = 0,['Dash'] = 0,['Thunder'] = 0,['DoubleJump'] = 0,['MinatoKunai'] = 0,['SusanooSlap'] = 0,['Hinokami_1'] = 0,['Foice'] = 0,['Rinnegan_Push'] = 0,
+		['Meteoro'] = 0,['ShurikenExplosiva'] = 0,['PisoVento'] = 0},
 		Roupa = {Tier = 95,Shirt = 0,Pants = 0},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 255, 255}},
