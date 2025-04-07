@@ -77,7 +77,7 @@ local Gangs = {
 
 	},----------------------------------- Gang ---------------------------------------------
 
-	[33524892] = {  -- [Dono ID:2623179010 = 3022604859 ] slot 10  /  troca de dono /tentou trocar gang desativada por raça
+	[0] = {  -- [Dono ID:2623179010 = 3022604859 ] slot 10  /  troca de dono / tentou trocar gang desativada por raça / 33524892
 		Nome = 'Máfia Italiana', 
 		Vida = 2000,
 		Itens = {['Mikey'] = 0,['ChuteCongelante'] = 0,['SusanooSlap'] = 0},
