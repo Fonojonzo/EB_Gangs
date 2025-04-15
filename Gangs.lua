@@ -384,9 +384,9 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[34802698] = { -- [Dono ID: 2407844697] slot 10(HP AUMENTADO)
+	[34802698] = { -- [Dono ID: 2407844697 >> 4633711075] slot 10(HP AUMENTADO)
 		Nome = "SoloCB",
-		Vida = 800,
+		Vida = 4000,
 		Itens = {['Colateral'] = 0,['PisoLuas'] = 0,['Hinokami_1'] = 0,['Thunder'] = 0},
 		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
 		Cor = { 
