@@ -387,7 +387,7 @@ local Gangs = {
 	[34802698] = { -- [Dono ID: 2407844697] slot 10(HP AUMENTADO)
 		Nome = "Os Slayers",
 		Vida = 800,
-		Itens = {['Josef'] = 0,['Yamato'] = 0},
+		Itens = {['Colateral'] = 0,['Hinokami_1'] = 0,['Thunder'] = 0},
 		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 0, 0}},
