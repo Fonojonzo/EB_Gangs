@@ -1152,7 +1152,7 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[34723808] = {   -- [Dono ID: 643178742 ] (HP AUMENTADO) / MAX 10 
+	[0] = {   -- [Dono ID: 643178742 ] (HP AUMENTADO) / MAX 10  / quebrando regras/ vendendo a gang 34723808 ID
 		Nome = "ゴールデンスター",
 		Vida = 1000,
 		Itens = {['Josef'] = 0},
@@ -1413,6 +1413,18 @@ local Gangs = {
 			Nome = 	  {Letra = {255, 255, 255},Borda = {0, 0, 0}},
 			Patente = {Letra = {255, 0, 0},Borda = {0, 0, 0}},
 			Team =    {Letra = {204, 51, 255}, Borda = {0, 0, 0}},
+		},
+	},----------------------------------- Gang ---------------------------------------------
+
+	[35884280] = {   -- [Dono ID: 4511146917 ] (HP AUMENTADO) / MAX 10 
+		Nome = 'KAISER ’ LOOOCKS I AM BLOOCKS  ‘ ‘',
+		Vida = 1000,
+		Itens = {['Mikey'] = 0},
+		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
+		Cor = { 
+			Nome = 	  {Letra = {102, 204, 255},Borda = {51, 51, 204}},
+			Patente = {Letra = {102, 204, 255},Borda = {51, 51, 204}},
+			Team =    {Letra = {102, 204, 255},Borda = {51, 51, 204}},
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
