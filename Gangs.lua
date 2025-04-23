@@ -1416,7 +1416,7 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[0] = {   -- [Dono ID: 4511146917 ] (HP AUMENTADO) / MAX 10 
+	[15285628] = {   -- [Dono ID: 1277968069 ] (HP AUMENTADO) / MAX 10 
 		Nome = 'KAISER ’ LOOOCKS I AM BLOOCKS  ‘ ‘',
 		Vida = 1000,
 		Itens = {['Mikey'] = 0},
