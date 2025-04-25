@@ -4,7 +4,7 @@ local Gangs = {
 		Nome = 'Tokyo Manji Gang',
 		Vida = 4000,
 		Itens = {['ImpulsoSombrio'] = 0,['Hinokami_1'] = 0,['SocoEletrico'] = 0,['Rinnegan_Push'] = {Size = 10,Voice = 117779581030667,Debounce = 5,Knockback = 130},['DoubleJump'] = 0,['MinatoKunai'] = 0,['SusanooSlap'] = {Color = {0,0,255},Knockback = 86,Debounce = 2.5,HitSound = 5686379468}},
-		Roupa = {Tier = 95,Shirt = 6850745796,Pants = 7166106431},
+		Roupa = {Tier = 95,Shirt = 0,Pants = 0},
 		Cor = {
 			Nome = 	  {Letra = {0,0,0},Borda = {255,255,255}},
 			Patente = {Letra = {0,0,0},Borda = {255,255,255}},
