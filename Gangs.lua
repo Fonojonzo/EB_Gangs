@@ -1455,7 +1455,7 @@ local Gangs = {
 	[32579666] = {   -- [Dono ID: 1494038115 ] (HP AUMENTADO) / MAX 10 
 		Nome = "Shinobi Do Cerrado",
 		Vida = 1000,
-		Itens = {['Mikey'] = 0,['Dash'] = 0},
+		Itens = {['Josef'] = 0},
 		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
 		Cor = { 
 			Nome = 	  {Letra = {255, 0, 0},Borda = {128, 128, 128}},
