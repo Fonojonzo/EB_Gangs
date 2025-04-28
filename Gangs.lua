@@ -1335,7 +1335,7 @@ local Gangs = {
 	[35811229] = {   -- [Dono ID: 1539049071 ] (HP AUMENTADO) / MAX 10 
 		Nome = "TDK gang",
 		Vida = 2000,
-		Itens = {['Mikey'] = 0,['Dash'] = 0},
+		Itens = {['Mikey'] = 0,['Dash'] = 0,['FireKick'] = 0},
 		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 0, 0}},
