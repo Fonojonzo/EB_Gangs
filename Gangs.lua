@@ -821,7 +821,7 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[35371915] = {   -- [Dono ID:1550831 ] (HP AUMENTADO)
+	[35371915] = {   -- [Dono ID: 1250373608 ] (HP AUMENTADO)
 		Nome = "Blue Lock",
 		Vida = 1000,
 		Itens = {['Josef'] = 0,['Yamato'] = 0,['Rinnegan_Push'] = 0},
