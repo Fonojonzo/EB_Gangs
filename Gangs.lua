@@ -1212,7 +1212,7 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[35656059] = {   -- [Dono ID: 7778005604 ] (HP AUMENTADO) / MAX 10 
+	[0] = {   -- [Dono ID: 7778005604 ] (HP AUMENTADO) / MAX 10  / 35656059 venda de cargos
 		Nome = "Jujutsu Gang",
 		Vida = 1000,
 		Itens = {['Josef'] = 0},
