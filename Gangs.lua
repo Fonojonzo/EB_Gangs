@@ -373,7 +373,7 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 	[34666434] = { -- [Dono ID: 5588870678 ou 5527902705] slot 15(HP AUMENTADO)
-		Nome = "好 • Jojo's Adventure • 最",
+		Nome = "Valhalla Frstly",
 		Vida = 1000,
 		Itens = {['KokusenKick'] = 0,['Yamato'] = 0,['Rasteira'] = 0},
 		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
