@@ -1081,7 +1081,7 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 	[35538237] = {   -- [Dono ID: 817332216 ] (HP AUMENTADO) / MAX 10 
-		Nome = "黒Kuro Tora虎",
+		Nome = "Anteiku Squad | 白",
 		Vida = 1500,
 		Itens = {['Mikey'] = 0,['SusanooSlap'] = 0,['ChuteEletrico'] = 0,['Rinnegan_Push'] = 0},
 		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
