@@ -1396,7 +1396,7 @@ local Gangs = {
 		Nome = 'Máfia Tonger',
 		Vida = 1000,
 		Itens = {['Mikey'] = 0},
-		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
+		Roupa = {Tier = 256,Shirt = 7274942977,Pants = 7276234664},
 		Cor = { 
 			Nome = 	  {Letra = {102, 153, 255},Borda = {255, 255, 255}},
 			Patente = {Letra = {102, 153, 255},Borda = {255, 255, 255}},
