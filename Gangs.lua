@@ -28,8 +28,8 @@ local Gangs = {
 
 	[32942292] = { 
 		Nome = 'Luas Superiores',
-		Vida = 3000,
-		Itens = {['PisoLuas'] = 0,['FPColateral'] = 0,['FP_Teleport'] = 230,['DemonRegen'] = 0,['Bite'] = 0,['MundoTransparente'] = 0,['DoubleJump'] = 0},
+		Vida = 4000,
+		Itens = {['PisoLuas'] = 0,['FP_Teleport'] = 0,['IceParadise'] = 230,['DemonRegen'] = 0,['Bite'] = 0,['DemonBash'] = 0,['DoubleJump'] = 0},
 		Roupa = {Tier = 95,Shirt = 0,Pants = 0},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 255, 255}},
@@ -51,7 +51,7 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[35259599] = {
+	[0] = {
 		Nome = 'Eternity Order',
 		Vida = 4000,
 		Itens = {['PisoLuas'] = 0,['FP_Run'] = {256},['FP_Teleport'] = 0,['Void'] = 254,['FPColateral'] = 0,['DemonBash'] = 0,['IceParadise'] = 230,['DemonRegen'] = 0,['DoubleJump'] = 0},
