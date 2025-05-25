@@ -1192,7 +1192,7 @@ local Gangs = {
 		Nome = "Capybaras Verificadas",
 		Vida = 1000,
 		Itens = {['Josef'] = 0},
-		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
+		Roupa = {Tier = 256,Shirt = 13959647890,Pants = 13744718530},
 		Cor = { 
 			Nome = 	  {Letra = {255, 102, 0},Borda = {255, 255, 255}},
 			Patente = {Letra = {255, 255, 0},Borda = {255, 255, 153}},
