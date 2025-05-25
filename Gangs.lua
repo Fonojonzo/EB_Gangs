@@ -265,7 +265,7 @@ local Gangs = {
 		Nome = "Kanto Manji†",
 		Vida = 1500,
 		Itens = {['KokusenKick'] = 0,['SusanooSlap'] = 0},
-		Roupa = {Tier = 255,Shirt = 8921564237,Pants = 7392974957},
+		Roupa = {Tier = 256,Shirt = 8921564237,Pants = 7392974957},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 255, 255}},
 			Patente = {Letra = {0, 0, 255},Borda = {0, 0, 0}},
