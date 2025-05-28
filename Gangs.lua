@@ -1,6 +1,6 @@
 local Gangs = {
 
-	[32325896] = {
+	[0] = {
 		Nome = 'Tokyo Manji Gang',
 		Vida = 4000,
 		Itens = {['ImpulsoSombrio'] = 0,['Hinokami_1'] = 0,['SocoEletrico'] = 0,['Rinnegan_Push'] = {Size = 10,Voice = 117779581030667,Debounce = 5,Knockback = 130},['DoubleJump'] = 0,['MinatoKunai'] = 0,['SusanooSlap'] = {Color = {0,0,255},Knockback = 86,Debounce = 2.5,HitSound = 5686379468}},
@@ -39,7 +39,7 @@ local Gangs = {
 
 	},----------------------------------- Gang ---------------------------------------------
 
-	[0] = {
+	[34908951] = {
 		Nome = 'Esquadrão de Caçadores de Onis',
 		Vida = 3000,
 		Itens = {['Dash'] = 0,['SwordSlash'] = 0,['Hinokami_1'] = 100,['MundoTransparente'] = 0,['DoubleJump'] = 0,['SusanooSlap'] = 0,['Rinnegan_Push'] = 0,['SlayerMark'] = 0,['ChuteCongelante'] = 0},
