@@ -1517,7 +1517,7 @@ local Gangs = {
 		Nome = "PQD-Rangers",
 		Vida = 1000,
 		Itens = {['Josef'] = 0,['FireKick'] = 0},
-		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
+		Roupa = {Tier = 256,Shirt = 9915825619,Pants = 9915827096},
 		Cor = { 
 			Nome = 	  {Letra = {0, 255, 255},Borda = {255, 255, 255}},
 			Patente = {Letra = {0, 255, 255},Borda = {255, 255, 255}},
