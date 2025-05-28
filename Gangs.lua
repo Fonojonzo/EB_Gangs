@@ -1516,7 +1516,7 @@ local Gangs = {
 	[36027856] = {   -- [Dono ID: 3053559015 ] (HP AUMENTADO) / MAX 10 
 		Nome = "PQD-Rangers",
 		Vida = 1000,
-		Itens = {['Josef'] = 0},
+		Itens = {['Josef'] = 0,['FireKick'] = 0},
 		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
 		Cor = { 
 			Nome = 	  {Letra = {0, 255, 255},Borda = {255, 255, 255}},
