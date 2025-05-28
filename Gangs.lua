@@ -28,7 +28,7 @@ local Gangs = {
 
 	[32942292] = { 
 		Nome = 'Luas Superiores',
-		Vida = 4000,
+		Vida = 5000,
 		Itens = {['PisoLuas'] = 0,['FP_Teleport'] = 0,['IceParadise'] = 230,['DemonRegen'] = 0,['Bite'] = 0,['DemonBash'] = 0,['DoubleJump'] = 0},
 		Roupa = {Tier = 95,Shirt = 0,Pants = 0},
 		Cor = { 
@@ -41,7 +41,7 @@ local Gangs = {
 
 	[34908951] = {
 		Nome = 'Esquadrão de Caçadores de Onis',
-		Vida = 3000,
+		Vida = 5000,
 		Itens = {['Dash'] = 0,['SwordSlash'] = 0,['Hinokami_1'] = 100,['MundoTransparente'] = 0,['DoubleJump'] = 0,['SusanooSlap'] = 0,['Rinnegan_Push'] = 0,['SlayerMark'] = 0,['ChuteCongelante'] = 0},
 		Roupa = {Tier = 254,Shirt = 7085831071,Pants = 7085861080},
 		Cor = {
