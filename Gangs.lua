@@ -287,7 +287,7 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[34013723] = { -- [Dono ID:2002432326 ] slot 15(HP AUMENTADO)
+	[33793567] = { -- [Dono ID:2002432326 ] slot 15(HP AUMENTADO) / 
 		Nome = "Slayer Corps",
 		Vida = 1500,
 		Itens = {['KokusenKick'] = 0,['Dash'] = 0,['TacoLucille'] = 0,['Yamato'] = {255 , 254 , 253 , 252 , 251},['FireKick'] = 0},
