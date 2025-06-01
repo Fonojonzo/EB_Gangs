@@ -93,7 +93,7 @@ local Gangs = {
 	[35276401] = {   -- [Dono ID:7648333286 ] slot 15 (HP AUMENTADO)
 		Nome = 'Los periquitas',
 		Vida = 2000,
-		Itens = {['SocoEletrico'] = 0,['TacoLucille'] = {255,254,100},['ItachiDash'] = 0,['Yamato'] = 5,['FireKick'] = 0,['DoubleJump'] = 255,['Raio'] = {255, 254, 100},['YinYang'] = 0,['SusanooSlap'] = 0,['Rinnegan_Push'] = {Size = 75,Color = {255,0,0}},['Hinokami_1'] = 0,['CorteDiabolico'] = 0,['YinColateral'] = 0},
+		Itens = {['SocoEletrico'] = 0,['TacoLucille'] = {255,254,100},['ItachiDash'] = 0,['FireKick'] = 0,['DoubleJump'] = 255,['Raio'] = {255, 254, 100},['YinYang'] = 0,['SusanooSlap'] = 0,['Rinnegan_Push'] = {Size = 75,Color = {255,0,0}},['Hinokami_1'] = 0,['CorteDiabolico'] = 0,['YinColateral'] = 0},
 		Roupa = {Tier = 95,Shirt = 0,Pants = 0},
 		Cor = {
 			Nome = 	  {Letra = {0, 102, 102},Borda = {255, 255, 255}},
@@ -1536,6 +1536,20 @@ local Gangs = {
 			Team =    {Letra = {153, 0, 153},Borda = {255, 255, 255}},
 		},
 	},----------------------------------- Gang ---------------------------------------------
+
+	
+	[36058565] = {   -- [Dono ID: 1893938759 ] (HP AUMENTADO) / MAX 10 / sorteio dells (yamato kokusen)
+		Nome = "Revengers Valhalla",
+		Vida = 1000,
+		Itens = {['KokusenKick'] = 0,['Yamato'] = 0},
+		Roupa = {Tier = 256,Shirt = 7936928451,Pants = 7936928451},
+		Cor = { 
+			Nome = 	  {Letra = {255, 255, 255},Borda = {255, 153, 0}},
+			Patente = {Letra = {255, 255, 0},  Borda = {255, 0, 0}},
+			Team =    {Letra = {255, 255, 0},  Borda = {255, 0, 0}},
+		},
+	},----------------------------------- Gang ---------------------------------------------
+
 
 
 
