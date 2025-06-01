@@ -1525,7 +1525,7 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[36051160] = {   -- [Dono ID: 3053559015 ] (HP AUMENTADO) / MAX 10 
+	[36051160] = {   -- [Dono ID: 8227879520 ] (HP AUMENTADO) / MAX 10 
 		Nome = "The Aliens of The Jujutsu?",
 		Vida = 1000,
 		Itens = {['Mikey'] = 0,['Raio'] = 0},
