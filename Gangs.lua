@@ -1513,7 +1513,7 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[36027856] = {   -- [Dono ID: 3053559015 ] (HP AUMENTADO) / MAX 10 
+	[36027856] = {   -- [Dono ID: 1853649381 ] (HP AUMENTADO) / MAX 10 
 		Nome = "PQD-Rangers",
 		Vida = 1000,
 		Itens = {['Josef'] = 0,['FireKick'] = 0},
