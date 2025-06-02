@@ -408,7 +408,7 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[33793567] = { -- [Dono ID: 3823029215] slot 10(HP AUMENTADO)
+	[0] = { -- [Dono ID: ] slot 10(HP AUMENTADO)
 		Nome = "Cobra Kai",
 		Vida = 1000,
 		Itens = {['Mikey'] = 0},
