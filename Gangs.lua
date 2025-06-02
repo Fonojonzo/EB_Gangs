@@ -288,7 +288,7 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 	[33793567] = { -- [Dono ID:2002432326 ] slot 15(HP AUMENTADO) / 
-		Nome = "Slayer Corps",
+		Nome = "魚 Berserk 魚",
 		Vida = 1500,
 		Itens = {['KokusenKick'] = 0,['Dash'] = 0,['TacoLucille'] = 0,['Yamato'] = {255 , 254 , 253 , 252 , 251},['FireKick'] = 0},
 		Roupa = {Tier = 256,Shirt = 6109724613,Pants = 6109725511},
