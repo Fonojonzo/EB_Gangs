@@ -1360,11 +1360,11 @@ local Gangs = {
 		Nome = "Valhalla The Gang",
 		Vida = 1000,
 		Itens = {['ChuteCongelante'] = 0,['Hinokami_1'] = 0,['ChuteEletrico'] = 0},
-		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
+		Roupa = {Tier = 256,Shirt = 8326276598,Pants = 6938668835},
 		Cor = { 
-			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 80, 0}},
-			Patente = {Letra = {0, 0, 0},Borda = {255, 80, 0}},
-			Team =    {Letra = {0, 0, 0},Borda = {255, 80, 0}},
+			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 255, 255}},
+			Patente = {Letra = {0, 0, 0},Borda = {255, 255, 255}},
+			Team =    {Letra = {0, 0, 0},Borda = {255, 255, 255}},
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
