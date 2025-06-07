@@ -1542,11 +1542,23 @@ local Gangs = {
 		Nome = "Revengers Valhalla",
 		Vida = 1000,
 		Itens = {['KokusenKick'] = 0,['Yamato'] = 0},
-		Roupa = {Tier = 256,Shirt = 7936928451,Pants = 7936928451},
+		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
 		Cor = { 
 			Nome = 	  {Letra = {255, 255, 255},Borda = {255, 153, 0}},
 			Patente = {Letra = {255, 255, 0},  Borda = {255, 0, 0}},
 			Team =    {Letra = {255, 255, 0},  Borda = {255, 0, 0}},
+		},
+	},----------------------------------- Gang ---------------------------------------------
+
+	[36077641] = {   -- [Dono ID:  ] (HP AUMENTADO) / MAX 10 
+		Nome = "Mysterious Power",
+		Vida = 1000,
+		Itens = {['Josef'] = 0},
+		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
+		Cor = { 
+			Nome = 	  {Letra = {0, 0, 0},Borda =  {255, 51, 204}},
+			Patente = {Letra = {0, 0, 0},  Borda = {255, 51, 204}},
+			Team =    {Letra = {0, 0, 0},  Borda = {255, 51, 204}},
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
