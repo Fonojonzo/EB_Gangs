@@ -1236,7 +1236,7 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[13992168] = {   -- [Dono ID: 2884760622 ] (HP AUMENTADO) / MAX 10 
+	[0] = {   -- [Dono ID: 2884760622 ] (HP AUMENTADO) / MAX 10 / id 13992168 pediu pra desativar (dono errado também)
 		Nome = "Black Guerilla Family",
 		Vida = 1000,
 		Itens = {['Josef'] = 0},
