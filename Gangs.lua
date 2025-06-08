@@ -1550,7 +1550,7 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[36077641] = {   -- [Dono ID:  ] (HP AUMENTADO) / MAX 10 
+	[36077641] = {   -- [Dono ID: 3609844163 ] (HP AUMENTADO) / MAX 10 
 		Nome = "Mysterious Power",
 		Vida = 1000,
 		Itens = {['Josef'] = 0},
