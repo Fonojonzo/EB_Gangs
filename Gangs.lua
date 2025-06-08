@@ -1432,7 +1432,7 @@ local Gangs = {
 		Nome = "战俘 Shadows Of Here's 战俘",
 		Vida = 1000,
 		Itens = {['Josef'] = 0,['Raio'] = 0},
-		Roupa = {Tier = 256,Shirt = 7211311417,Pants = 7211316993},
+		Roupa = {Tier = 256,Shirt = 17862740015,Pants = 114687233022837},
 		Cor = { 
 			Nome = 	  {Letra = {255, 0, 0},Borda = {255, 255, 255}},
 			Patente = {Letra = {255, 0, 0},Borda = {0, 0, 0}},
