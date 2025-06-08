@@ -188,7 +188,7 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[33476490] = {   -- [Dono ID:1512929697 ] slot 15 (HP AUMENTADO)
+	[33476490] = {   -- [Dono ID: 3360821132 ] slot 15 (HP AUMENTADO)
 		Nome = 'Soul Society',
 		Vida = 1500,
 		Itens = {['KokusenKick'] = 0,['Dash'] = 0,['TacoLucille'] = 10,['Rasteira'] = 0,['FireKick'] = 0,['PisoVento'] = 0},
