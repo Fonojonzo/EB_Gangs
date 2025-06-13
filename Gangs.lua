@@ -213,14 +213,14 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 	[33970113] = {   -- [Dono ID:3176819923 ] slot 15 / ID GANG PEDIDO PRA DESATIVAR  (HP AUMENTADO)
-		Nome = "Void Nexus",
+		Nome = "Valhalla",	
 		Vida = 1000,
 		Itens = {['KokusenKick'] = 0,['Rasteira'] = 0,['FireKick'] = 0,['SusanooSlap'] = 0,['Raio'] = 0},
 		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
 		Cor = { 
-			Nome = 	  {Letra = {0 , 0, 0},Borda = {255, 255, 255}},
-			Patente = {Letra = {100, 100, 100},Borda = {176, 19, 210}},
-			Team =    {Letra = {0, 0, 0},Borda = {123, 73, 224}},
+			Nome = 	  {Letra = {255 , 255, 255},Borda = {0, 0, 0}},
+			Patente = {Letra = {0, 0, 0},Borda = {255, 255, 255}},
+			Team =    {Letra = {0, 0, 0},Borda = {255, 255, 255}},
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
