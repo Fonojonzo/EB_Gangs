@@ -216,7 +216,7 @@ local Gangs = {
 		Nome = "Valhalla",	
 		Vida = 1000,
 		Itens = {['KokusenKick'] = 0,['Rasteira'] = 0,['FireKick'] = 0,['SusanooSlap'] = 0,['Raio'] = 0},
-		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
+		Roupa = {Tier = 255,Shirt = 7535774077,Pants = 7535774954},
 		Cor = { 
 			Nome = 	  {Letra = {255 , 255, 255},Borda = {0, 0, 0}},
 			Patente = {Letra = {0, 0, 0},Borda = {255, 255, 255}},
@@ -1467,7 +1467,7 @@ local Gangs = {
 	[35979959] = {   -- [Dono ID:  ] (HP AUMENTADO) / MAX 10 
 		Nome = "鐵龍「Shadow Curse」鐵龍",
 		Vida = 1000,
-		Itens = {['Mikey'] = 0},
+		Itens = {['Mikey'] = 0,['FireKick'] = 0},
 		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
 		Cor = { 
 			Nome = 	  {Letra = {255, 255, 255},Borda = {0, 0, 0}},
