@@ -290,8 +290,8 @@ local Gangs = {
 	[33793567] = { -- [Dono ID:2002432326 ] slot 15(HP AUMENTADO) / 
 		Nome = "魚 Berserk 魚",
 		Vida = 1500,
-		Itens = {['KokusenKick'] = 0,['Dash'] = 0,['TacoLucille'] = 0,['Yamato'] = {255 , 254 , 253 , 252 , 251},['FireKick'] = 0},
-		Roupa = {Tier = 256,Shirt = 6109724613,Pants = 6109725511},
+		Itens = {['KokusenKick'] = 0,['Dash'] = 0,['FireKick'] = 0}, --['Yamato'] = {255 , 254 , 253 , 252 , 251} ,['TacoLucille'] = 0
+		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 83, 0}},
 			Patente = {Letra = {0, 0, 0},Borda = {255, 83, 0}},
