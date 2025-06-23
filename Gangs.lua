@@ -797,18 +797,6 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[0] = {   -- [Dono ID:4604110304 ](HP AUMENTADO) / reserva 7572239
-		Nome = "星 Bleach of' Shinigami 星",
-		Vida = 1000,
-		Itens = {['Josef'] = 0},
-		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
-		Cor = { 
-			Nome = 	  {Letra = {153, 0, 153},Borda = {0, 0, 0}},
-			Patente = {Letra = {153, 0, 153},Borda = {0, 0, 0}},
-			Team =    {Letra = {153, 0, 153},Borda = {0, 0, 0}},
-		},
-	},----------------------------------- Gang ---------------------------------------------
-
 	[34119236] = {   -- [Dono ID:4604110304 ](HP AUMENTADO)
 		Nome = "쵸 ㅊThe Gangster Strike ㅊ쵸",
 		Vida = 1500,
@@ -922,7 +910,7 @@ local Gangs = {
 	[7572239] = {   -- [Dono ID: 5507772063 ] (HP AUMENTADO) /  MAX 15 dando ban all, racismo, etc 
 		Nome = "星 Bleach of' Shinigami 星 ",
 		Vida = 3000,
-		Itens = {['KokusenKick'] = 0,['Dash'] = 0,['ChuteEletrico'] = 0,['Rasteira'] = 0,['FireKick'] = 0,['SusanooSlap'] = 0,['YinYang'] = 0,['Rinnegan_Push'] = {Size = 30},['MundoTransparente'] = 0,
+		Itens = {['KokusenKick'] = 0,['Dash'] = 0,['ChuteEletrico'] = 0,['Rasteira'] = 0,['FireKick'] = 0,['SusanooSlap'] = {Color = {0,0,0},Knockback = 50},['YinYang'] = 0,['Rinnegan_Push'] = {Size = 30},['MundoTransparente'] = 0,
 			['Raio'] = 0,['PisoVento'] = 0,['ShurikenExplosiva'] = 0,['Thunder'] = 0,['Colateral'] = 0,['ChuteCongelante'] = 0,['Hinokami_1'] = 0,['CorteDiabolico'] = 0,
 		},
 		Roupa = {Tier = 256,Shirt = 11114255653,Pants = 8106347027},
@@ -1584,6 +1572,18 @@ local Gangs = {
 			Nome = 	  {Letra = {255, 255, 255},Borda =  {0, 0, 0}},
 			Patente = {Letra = {204, 51, 255},  Borda = {255, 255, 255}},
 			Team =    {Letra = {102, 0, 102},  Borda = {255, 255, 102}},
+		},
+	},----------------------------------- Gang ---------------------------------------------
+
+	[35705569] = {   -- [Dono ID: 1764391544 ] (HP AUMENTADO) / MAX 10 
+		Nome = "三力 Triforce 三力",
+		Vida = 1000,
+		Itens = {['Josef'] = 0},
+		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
+		Cor = { 
+			Nome = 	  {Letra = {255, 255, 0},Borda =  {204, 204, 0}},
+			Patente = {Letra = {255, 255, 153},  Borda = {230, 230, 0}},
+			Team =    {Letra = {255, 255, 0},  Borda = {204, 204, 0}},
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
