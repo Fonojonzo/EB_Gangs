@@ -166,7 +166,8 @@ local Gangs = {
 	[33803150] = {   -- [Dono ID:4700176285 ] slot 15 (HP AUMENTADO)
 		Nome = 'Yamaguchi Gumi',
 		Vida = 2000,
-		Itens = {['KokusenKick'] = 0,['Dash'] = 0,['TacoLucille'] = 0,['Yamato'] = 0,['Rasteira'] = 0,['FireKick'] = 0,['ShurikenExplosiva'] = 0,['SusanooSlap'] = 0,['ChuteCongelante'] = 0,['ChuteVoadorJ7'] = 0,['Rinnegan_Push'] = {Button = 'R'}},
+		Itens = {['KokusenKick'] = 0,['Dash'] = 0,['TacoLucille'] = 0,['Yamato'] = 0,['Rasteira'] = 0,['FireKick'] = 0,['ShurikenExplosiva'] = 0,['SusanooSlap'] = 0,['ChuteCongelante'] = 0,['ChuteVoadorJ7'] = 0,
+			['Rinnegan_Push'] = {Button = 'R'},['Colateral'] = 0},	
 		Roupa = {Tier = 255,Shirt = 2413916203,Pants = 386498921},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 255},Borda = {0, 0, 0},RGB = true},
