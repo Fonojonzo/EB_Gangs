@@ -1322,14 +1322,14 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 	[35811229] = {   -- [Dono ID: 1539049071 ] (HP AUMENTADO) / MAX 10 
-		Nome = "TDK gang",
+		Nome = "影 Solo Monarch 影",
 		Vida = 2000,
 		Itens = {['Mikey'] = 0,['Dash'] = 0,['FireKick'] = 0},
 		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
 		Cor = { 
-			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 0, 0}},
-			Patente = {Letra = {255, 255, 255},Borda = {255, 255, 255}},
-			Team =    {Letra = {0, 0, 0},Borda = {0, 0, 0}},
+			Nome = 	  {Letra = {0, 0, 0},Borda = {153, 0, 204}},
+			Patente = {Letra = {0, 0, 0},Borda = {153, 0, 204}},
+			Team =    {Letra = {0, 0, 0},Borda = {153, 0, 204}},
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
