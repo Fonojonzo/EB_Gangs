@@ -521,7 +521,7 @@ local Gangs = {
 	[35044712] = { -- [Dono ID: 5810126054] slot 10(HP AUMENTADO)
 		Nome = "☯️ Yin-Yang Poder Oculto ☯️",
 		Vida = 1000,
-		Itens = {['Josef'] = 0,['YinYang'] = 0,['KokusenKick'] = 0,['Rasteira'] = 0,['Rinnegan_Push'] = 0,['Colateral'] = 0},
+		Itens = {['Josef'] = 0,['YinYang'] = 0,['KokusenKick'] = 0,['Rasteira'] = 0,['Rinnegan_Push'] = {Size = 30,Debounce = 5,Knockback = 60},['Colateral'] = 0},
 		Roupa = {Tier = 255,Shirt = 13855813402,Pants = 0},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 255, 255}},
