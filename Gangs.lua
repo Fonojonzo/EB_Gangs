@@ -1588,7 +1588,7 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[394024034] = {   -- [Dono ID:  ] (HP AUMENTADO) / MAX 10 
+	[394024034] = {   -- [Dono ID: 8393978500  ] (HP AUMENTADO) / MAX 10 
 		Nome = "墮落者 The Fallen Angels 尤夫哈",
 		Vida = 1000,
 		Itens = {['Josef'] = 0},
