@@ -1441,18 +1441,6 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[32579666] = {   -- [Dono ID: 1494038115 ] (HP AUMENTADO) / MAX 10 
-		Nome = "Shinobi Do Cerrado",
-		Vida = 1000,
-		Itens = {['Josef'] = 0},
-		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
-		Cor = { 
-			Nome = 	  {Letra = {255, 0, 0},Borda = {128, 128, 128}},
-			Patente = {Letra = {255, 0, 0},Borda = {0, 0, 0}},
-			Team =    {Letra = {255, 0, 0},Borda = {255, 255, 255}},
-		},
-	},----------------------------------- Gang ---------------------------------------------
-
 	[35979959] = {   -- [Dono ID:  ] (HP AUMENTADO) / MAX 10 
 		Nome = "鐵龍「Shadow Curse」鐵龍",
 		Vida = 1000,
