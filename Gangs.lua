@@ -1442,14 +1442,14 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 	[35979959] = {   -- [Dono ID:  ] (HP AUMENTADO) / MAX 10 
-		Nome = "鐵龍「Shadow Curse」鐵龍",
+		Nome = "官幫『Celestial The Gang』官幫",
 		Vida = 1000,
 		Itens = {['Mikey'] = 0,['FireKick'] = 0,['Dash'] = 0,['SusanooSlap'] = {Knockback = 60,Color = {153, 0, 153}}},
-		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
+		Roupa = {Tier = 256,Shirt = 9057723338,Pants = 9097704689},
 		Cor = { 
-			Nome = 	  {Letra = {255, 255, 255},Borda = {0, 0, 0}},
-			Patente = {Letra = {153, 51, 153},Borda = {255, 255, 255}},
-			Team =    {Letra = {153, 51, 153},Borda = {255, 255, 255}},
+			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 255, 255}},
+			Patente = {Letra = {0, 0, 0},Borda = {255, 255, 255}},
+			Team =    {Letra = {0, 0, 0},Borda = {255, 0, 0}},
 		},
 	},----------------------------------- Gang ---------------------------------------------
 	
