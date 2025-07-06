@@ -1564,7 +1564,7 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[35705569] = {   -- [Dono ID: 1764391544 ] (HP AUMENTADO) / MAX 10 
+	[0] = {   -- [Dono ID: 1764391544 ] (HP AUMENTADO) / MAX 10 / raid/ problemas venda de cargos etc 35705569
 		Nome = "三力 Triforce 三力",
 		Vida = 1000,
 		Itens = {['Josef'] = 0},
