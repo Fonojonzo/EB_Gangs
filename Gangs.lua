@@ -262,7 +262,7 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[34219212] = {   -- [Dono ID:1630311008 ] slot 15(HP AUMENTADO)
+	[0] = {   -- [Dono ID:1630311008 ] slot 15(HP AUMENTADO) / troca de donos 34219212
 		Nome = "Kanto Manji†",
 		Vida = 1500,
 		Itens = {['KokusenKick'] = 0,['SusanooSlap'] = 0},
