@@ -824,7 +824,7 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 	[34369773] = {   -- [Dono ID:7424959843 novo dono ID:8221862505 ] (HP AUMENTADO) MAX 11 / katana emprestada do gojo
-		Nome = "Moebius New Generation",
+		Nome = "Moebius New Geration",
 		Vida = 1000,
 		Itens = {['SwordSlash'] = 0},
 		Roupa = {Tier = 256,Shirt = 12793861695,Pants = 12793919575},
