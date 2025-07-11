@@ -581,7 +581,7 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 
-	[33903684] = {   -- [Dono ID:3322067390 ] slot 10 / 33903684 desativada e reativada troca de dono(HP AUMENTADO)
+	[0] = {   -- [Dono ID:3322067390 ] slot 10 / 33903684 desativada e reativada troca de dono(HP AUMENTADO) /33903684 limite membros
 		Nome = '㍻ Mushoku Tensei 夜',
 		Vida = 1500,
 		Itens = {['Dash'] = 0,['KokusenKick'] = 0,['Rasteira'] = 0},
