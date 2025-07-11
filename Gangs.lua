@@ -1370,7 +1370,7 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[35848194] = {   -- [Dono ID: 5552458329 ] (HP AUMENTADO) / MAX 10 
+	[0] = {   -- [Dono ID: 5552458329 ] (HP AUMENTADO) / MAX 10 / 35848194
 		Nome = 'Gang dos Hashiras 🔥💭👑⚡️⚔️',
 		Vida = 1000,
 		Itens = {['Mikey'] = 0,['FireKick'] = 0,['Yamato'] = 0,['Raio'] = 0},
