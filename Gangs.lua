@@ -1552,19 +1552,6 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-
-	[525844634] = {   -- [Dono ID:  ] (HP AUMENTADO) / MAX 10 
-		Nome = "Caçadores de Yami「影」",
-		Vida = 1500,
-		Itens = {['Mikey'] = 0,['Dash'] = 0},
-		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
-		Cor = { 
-			Nome = 	  {Letra = {255, 255, 255},Borda =  {0, 0, 0}},
-			Patente = {Letra = {204, 51, 255},  Borda = {255, 255, 255}},
-			Team =    {Letra = {102, 0, 102},  Borda = {255, 255, 102}},
-		},
-	},----------------------------------- Gang ---------------------------------------------
-
 	[0] = {   -- [Dono ID: 1764391544 ] (HP AUMENTADO) / MAX 10 / raid/ problemas venda de cargos etc 35705569
 		Nome = "三力 Triforce 三力",
 		Vida = 1000,
