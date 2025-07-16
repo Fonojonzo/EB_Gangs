@@ -1418,10 +1418,10 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[35713750] = {   -- [Dono ID: 4574693848 ] (HP AUMENTADO) / MAX 10  passou limite 1x
+	[35713750] = {   -- [Dono ID: 4574693848 ] (HP AUMENTADO) / MAX 10  passou limite 1x / colateral até 22/07
 		Nome = "战俘 Shadows Of Here's 战俘",
 		Vida = 1000,
-		Itens = {['Josef'] = 0,['Raio'] = 0,['ChuteEletrico'] = 0},
+		Itens = {['Josef'] = 0,['Raio'] = 0,['ChuteEletrico'] = 0,['Colateral'] = 0},
 		Roupa = {Tier = 256,Shirt = 17862740015,Pants = 114687233022837},
 		Cor = { 
 			Nome = 	  {Letra = {255, 0, 0},Borda = {255, 255, 255}},
