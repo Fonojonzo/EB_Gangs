@@ -1588,6 +1588,31 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
+	[35789435] = {   -- [Dono ID:  ] (HP AUMENTADO) / MAX 10 
+		Nome = "をぽ Blood Moon ぽを",
+		Vida = 1000,
+		Itens = {['Josef'] = 0,['FireKick'] = 0},
+		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
+		Cor = { 
+			Nome = 	  {Letra = {0, 0, 0},  Borda = {255, 255, 255}},
+			Patente = {Letra = {0, 0, 0},  Borda = {255, 255, 255}},
+			Team =    {Letra = {255, 0, 0},  Borda = {255, 255, 255}},
+		},
+	},----------------------------------- Gang ---------------------------------------------
+
+	[742547426] = {   -- [Dono ID: 3586971992 ] (HP AUMENTADO) / MAX 10 
+		Nome = "Imperial  Singularity",
+		Vida = 1000,
+		Itens = {['Josef'] = 0},
+		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
+		Cor = { 
+			Nome = 	  {Letra = {0, 0, 0},  Borda = {153, 0, 153}},
+			Patente = {Letra = {0, 0, 0},  Borda = {153, 0, 153}},
+			Team =    {Letra = {0, 0, 0},  Borda = {153, 0, 153}},
+		},
+	},----------------------------------- Gang ---------------------------------------------
+
+
 
 	
 }
