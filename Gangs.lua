@@ -1491,8 +1491,8 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[0] = {   -- [Dono ID: 1853649381 ] (HP AUMENTADO) / MAX 10 / 36027856
-		Nome = "PQD-Rangers",
+	[36035923] = {   -- [Dono ID: 7496202385 ] (HP AUMENTADO) / MAX 10 /
+		Nome = "デミKASHIMA OF WATERアカ",
 		Vida = 1000,
 		Itens = {['Josef'] = 0,['FireKick'] = 0},
 		Roupa = {Tier = 256,Shirt = 9915825619,Pants = 9915827096},
