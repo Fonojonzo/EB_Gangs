@@ -264,14 +264,14 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 	[34219212] = {   -- [Dono ID: 7929220830 ] slot 15(HP AUMENTADO) 
-		Nome = "Kanto Manji†",
+		Nome = "Imperial Singularity",
 		Vida = 1500,
 		Itens = {['KokusenKick'] = 0,['SusanooSlap'] = 0},
 		Roupa = {Tier = 256,Shirt = 8921564237,Pants = 7392974957},
 		Cor = { 
-			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 255, 255}},
-			Patente = {Letra = {0, 0, 255},Borda = {0, 0, 0}},
-			Team =    {Letra = {0, 0, 255},Borda = {0, 0, 0}},
+			Nome = 	  {Letra = {153, 0, 153},Borda = {0, 0, 0}},
+			Patente = {Letra = {153, 0, 153},Borda = {0, 0, 0}},
+			Team =    {Letra = {153, 0, 153},Borda = {0, 0, 0}},
 
 		},
 	},----------------------------------- Gang ---------------------------------------------
