@@ -1278,7 +1278,7 @@ local Gangs = {
 		Nome = "Souls Slayers",
 		Vida = 1000,
 		Itens = {['Josef'] = 0},
-		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
+		Roupa = {Tier = 256,Shirt = 7506390253,Pants = 6519827910},
 		Cor = { 
 			Nome = 	  {Letra = {255, 0, 0},Borda = {0, 0, 0}},
 			Patente = {Letra = {0, 0, 0},Borda = {0, 0, 255}},
