@@ -1624,6 +1624,18 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
+	[170570445] = {   -- [Dono ID: 8981810684 ] (HP AUMENTADO) / MAX 10 
+		Nome = "Black Dragons The Seven",
+		Vida = 1000,
+		Itens = {['KokusenKick'] = 0,['YinYang'] = 0},
+		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
+		Cor = { 
+			Nome = 	  {Letra = {0, 0, 0},  Borda = {255, 0, 0}},
+			Patente = {Letra = {0, 0, 0},  Borda = {255, 0, 0}},
+			Team =    {Letra = {0, 0, 0},  Borda = {255, 0, 0}},
+		},
+	},----------------------------------- Gang ---------------------------------------------
+
 
 
 	
