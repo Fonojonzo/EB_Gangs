@@ -1242,7 +1242,7 @@ local Gangs = {
 		Nome = "Crocodiles Gang",
 		Vida = 1000,
 		Itens = {['Josef'] = 0},
-		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
+		Roupa = {Tier = 256,Shirt = 17624072670,Pants = 18104590802},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 0, 0}},
 			Patente = {Letra = {0, 0, 0},Borda = {0, 255, 0}},
@@ -1621,6 +1621,19 @@ local Gangs = {
 			Nome = 	  {Letra = {0, 0, 0},  Borda = {255, 0, 0}},
 			Patente = {Letra = {0, 0, 0},  Borda = {255, 0, 0}},
 			Team =    {Letra = {0, 0, 0},  Borda = {255, 0, 0}},
+		},
+	},----------------------------------- Gang ---------------------------------------------
+
+	
+	[32352281] = {   -- [Dono ID: 2515682546 ] (HP AUMENTADO) / MAX 10 
+		Nome = "Leopardo City ",
+		Vida = 3000,
+		Itens = {['Mikey'] = 0,['Dash'] = 0},
+		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
+		Cor = { 
+			Nome = 	  {Letra = {255, 102, 0},  Borda = {255, 255, 255}},
+			Patente = {Letra = {255, 102, 0},  Borda = {255, 255, 255}},
+			Team =    {Letra = {255, 102, 0},  Borda = {255, 255, 255}},
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
