@@ -1491,7 +1491,7 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[36035923] = {   -- [Dono ID: 7496202385 ] (HP AUMENTADO) / MAX 10 /
+	[36035923] = {   -- [Dono ID: 1562529763 ] (HP AUMENTADO) / MAX 10 /
 		Nome = "デミKASHIMA OF WATERアカ",
 		Vida = 1000,
 		Itens = {['Josef'] = 0,['FireKick'] = 0},
