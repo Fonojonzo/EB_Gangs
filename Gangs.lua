@@ -1639,7 +1639,7 @@ local Gangs = {
 
 	
 	[32352281] = {   -- [Dono ID: 2515682546 ] (HP AUMENTADO) / MAX 10 
-		Nome = "Leopardo City ",
+		Nome = "Leopardo City",
 		Vida = 3000,
 		Itens = {['Mikey'] = 0,['Dash'] = 0},
 		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
@@ -1649,6 +1649,19 @@ local Gangs = {
 			Team =    {Letra = {255, 102, 0},  Borda = {255, 255, 255}},
 		},
 	},----------------------------------- Gang ---------------------------------------------
+
+	[34765514] = {   -- [Dono ID: 2582280278 ] (HP AUMENTADO) / MAX 10 
+		Nome = "你 Zenin Fuutun 他",
+		Vida = 2000,
+		Itens = {['Mikey'] = 0,['Dash'] = 0},
+		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
+		Cor = { 
+			Nome = 	  {Letra = {0, 0, 0},  Borda = {255, 255, 255}},
+			Patente = {Letra = {255, 255, 255},  Borda = {0, 0, 0}},
+			Team =    {Letra = {255, 255, 255},  Borda = {0, 0, 0}},
+		},
+	},----------------------------------- Gang ---------------------------------------------
+
 
 
 	
