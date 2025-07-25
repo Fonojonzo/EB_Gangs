@@ -1010,7 +1010,7 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 
-	[0] = {   -- [Dono ID: 3497396815 ] (HP AUMENTADO) / MAX 10 -- 35494278 20 pessoas
+	[35494278] = {   -- [Dono ID: 3497396815 ] (HP AUMENTADO) / MAX 10 -- 35494278 20 pessoas (pagou voltar gang)
 		Nome = "Caçadores De Hashiras",
 		Vida = 1000,
 		Itens = {['Josef'] = 0,['FireKick'] = 0},
@@ -1649,7 +1649,6 @@ local Gangs = {
 			Team =    {Letra = {255, 102, 0},  Borda = {255, 255, 255}},
 		},
 	},----------------------------------- Gang ---------------------------------------------
-
 
 
 	
