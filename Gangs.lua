@@ -1263,7 +1263,7 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[35187838] = {   -- [Dono ID: 4830534535 ] (HP AUMENTADO) / MAX 10 
+	[0] = {   -- [Dono ID: 4830534535 ] (HP AUMENTADO) / MAX 10 /35187838 pediu pra desativar
 		Nome = "Galaxy Black Ofc",
 		Vida = 1000,
 		Itens = {['Josef'] = 0,['Dash'] = 0},
