@@ -1459,7 +1459,7 @@ local Gangs = {
 		Nome = "官幫『Celestial The Gang』官幫",
 		Vida = 1000,
 		Itens = {['Mikey'] = 0,['FireKick'] = 0,['Dash'] = 0,['SusanooSlap'] = {Knockback = 60,Color = {153, 0, 153}}},
-		Roupa = {Tier = 256,Shirt = 9057723338,Pants = 9097704689},
+		Roupa = {Tier = 256,Shirt = 10606842503,Pants = 12970321065},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 255, 255}},
 			Patente = {Letra = {0, 0, 0},Borda = {255, 255, 255}},
