@@ -1653,7 +1653,7 @@ local Gangs = {
 	[34765514] = {   -- [Dono ID: 2582280278 ] (HP AUMENTADO) / MAX 10 
 		Nome = "你 Zenin Fuutun 他",
 		Vida = 2000,
-		Itens = {['Mikey'] = 0,['Dash'] = 0},
+		Itens = {['KokusenKick'] = 0,['Dash'] = 0},
 		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},  Borda = {255, 255, 255}},
