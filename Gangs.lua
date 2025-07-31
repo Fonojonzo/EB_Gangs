@@ -1639,14 +1639,14 @@ local Gangs = {
 
 	
 	[32352281] = {   -- [Dono ID: 2515682546 ] (HP AUMENTADO) / MAX 10 
-		Nome = "Leopardo City",
+		Nome = "White of Dragon,
 		Vida = 3000,
 		Itens = {['Mikey'] = 0,['Dash'] = 0},
 		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
 		Cor = { 
-			Nome = 	  {Letra = {255, 102, 0},  Borda = {255, 255, 255}},
-			Patente = {Letra = {255, 102, 0},  Borda = {255, 255, 255}},
-			Team =    {Letra = {255, 102, 0},  Borda = {255, 255, 255}},
+			Nome = 	  {Letra = {0, 0, 0},  Borda = {255, 255, 255}},
+			Patente = {Letra = {0, 0, 0},  Borda = {255, 255, 255}},
+			Team =    {Letra = {0, 0, 0},  Borda = {255, 255, 255}},
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
