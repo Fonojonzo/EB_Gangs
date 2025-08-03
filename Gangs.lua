@@ -168,7 +168,7 @@ local Gangs = {
 	[33784819] = {   -- [Dono ID:1355358201 ] slot 15 (HP AUMENTADO)
 		Nome = 'Águias De Prata',
 		Vida = 1000,
-		Itens = {['KokusenKick'] = 0},
+		Itens = {['KokusenKick'] = 0,['SusanooSlap'] = 0},
 		Roupa = {Tier = 95,Shirt = 6833810008,Pants = 6833814443},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 255, 0}},
@@ -1668,3 +1668,4 @@ local Gangs = {
 }
 
 return Gangs
+
