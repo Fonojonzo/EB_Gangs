@@ -472,14 +472,14 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 	[32367594] = { -- [Dono ID: 3605403073] slot 10(HP AUMENTADO)
-		Nome = "Suddenly Egyptian",
+		Nome = "NoCraK",
 		Vida = 1000,
 		Itens = {['KokusenKick'] = 0,['Rasteira'] = 0,['Raio'] = 0},
 		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 255, 255}},
 			Patente = {Letra = {0, 0, 0},Borda = {255, 255, 255}},
-			Team =    {Letra = {0, 0, 0},Borda = {255, 255, 0}},
+			Team =    {Letra = {0, 0, 0},Borda = {85, 0, 0}},
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
@@ -1668,4 +1668,5 @@ local Gangs = {
 }
 
 return Gangs
+
 
