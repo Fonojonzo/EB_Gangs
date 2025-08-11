@@ -227,7 +227,7 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[33970113] = {   -- [Dono ID:3176819923 ] slot 15 / ID GANG PEDIDO PRA DESATIVAR  (HP AUMENTADO)
+	[33970113] = {   -- [Dono ID: 3022604859 ] slot 15 / ID GANG PEDIDO PRA DESATIVAR  (HP AUMENTADO)
 		Nome = "Valhalla",	
 		Vida = 1000,
 		Itens = {['KokusenKick'] = 0,['Rasteira'] = 0,['FireKick'] = 0,['SusanooSlap'] = 0,['Raio'] = 0},
@@ -1668,5 +1668,6 @@ local Gangs = {
 }
 
 return Gangs
+
 
 
