@@ -1131,10 +1131,10 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[35581930] = {   -- [Dono ID: 7566805800 ] (HP AUMENTADO) / MAX 10 
+	[35581930] = {   -- [Dono ID: 7566805800 ] (HP AUMENTADO) / MAX 10 / ['Yamato'] = 0
 		Nome = "👺🩸Escape The Matrix 🩸 👺",
 		Vida = 1000,
-		Itens = {['KokusenKick'] = 0,['Yamato'] = 0},
+		Itens = {['KokusenKick'] = 0},
 		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 0, 0}},
@@ -1668,6 +1668,7 @@ local Gangs = {
 }
 
 return Gangs
+
 
 
 
