@@ -447,10 +447,10 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[34939648] = { -- [Dono ID: 3176819923] slot 10 (HP AUMENTADO)
+	[34939648] = { -- [Dono ID: 3176819923] slot 10 (HP AUMENTADO) - susanoo evento  25/08
 		Nome = "Valhalla", -- Kanto Manji Gang antiga
 		Vida = 1500,
-		Itens = {['KokusenKick'] = 0},
+		Itens = {['KokusenKick'] = 0,['Susanoo2Swords'] = 0},
 		Roupa = {Tier = 255,Shirt = 7356225906,Pants = 7356331291},
 		Cor = { 
 			Nome = 	  {Letra = {255, 255, 255},Borda = {0, 0, 0}},
@@ -1668,6 +1668,7 @@ local Gangs = {
 }
 
 return Gangs
+
 
 
 
