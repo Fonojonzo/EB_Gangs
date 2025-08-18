@@ -327,8 +327,8 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 	[33277598] = { -- [Dono ID:3790482088 ou 3790482088 ] slot 15(HP AUMENTADO)
-		Nome = "Arcanjo's ملائكي",
-		Vida = 800,
+		Nome = "SoledBy",
+		Vida = 1000,
 		Itens = {['KokusenKick'] = 0,['Yamato'] = 0,['TacoLucille'] = 0,['Rasteira'] = 0,['FireKick'] = 0,['YinYang'] = 0,['CorteDiabolico'] = 0},
 		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
 		Cor = { 
@@ -1668,6 +1668,7 @@ local Gangs = {
 }
 
 return Gangs
+
 
 
 
