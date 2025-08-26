@@ -227,7 +227,7 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[33970113] = {   -- [Dono ID: 3022604859 ] slot 15 / ID GANG PEDIDO PRA DESATIVAR  (HP AUMENTADO) -- ['KokusenKick'] = 0 / ['FireKick'] = 0 evento 02/09
+	[33970113] = {   -- [Dono ID: 3022604859 ] slot 15 / ID GANG PEDIDO PRA DESATIVAR  (HP AUMENTADO) -- ['KokusenKick'] = 0 / ['FireKick'] = 0 / susanoo evento 02/09
 		Nome = "Valhalla",	
 		Vida = 1000,
 		Itens = {['Rinnegan_Push'] = 0,['Rasteira'] = 0,['SusanooSlap'] = 0,['Raio'] = 0,['Susanoo2Swords'] = 0},
@@ -447,7 +447,7 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[34939648] = { -- [Dono ID: 3176819923] slot 10 (HP AUMENTADO) - susanoo evento  25/08
+	[34939648] = { -- [Dono ID: 3176819923] slot 10 (HP AUMENTADO) 
 		Nome = "Valhalla", -- Kanto Manji Gang antiga
 		Vida = 1500,
 		Itens = {['KokusenKick'] = 0},
@@ -1431,10 +1431,10 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[35713750] = {   -- [Dono ID: 4574693848 ] (HP AUMENTADO) / MAX 10  passou limite 1x / colateral até 22/07 EVENTO
+	[35713750] = {   -- [Dono ID: 4574693848 ] (HP AUMENTADO) / MAX 10  passou limite 1x 
 		Nome = "战俘 Shadows Of Here's 战俘",
 		Vida = 1000,
-		Itens = {['Josef'] = 0,['Raio'] = 0,['ChuteEletrico'] = 0,['Colateral'] = 0,['SusanooSlap'] = 0},
+		Itens = {['Josef'] = 0,['Raio'] = 0,['ChuteEletrico'] = 0,['SusanooSlap'] = 0},
 		Roupa = {Tier = 256,Shirt = 8876551891,Pants = 8876551891},
 		Cor = { 
 			Nome = 	  {Letra = {255, 0, 0},Borda = {255, 255, 255}},
@@ -1680,6 +1680,7 @@ local Gangs = {
 	}
 
 	return Gangs
+
 
 
 
