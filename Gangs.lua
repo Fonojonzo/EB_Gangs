@@ -345,9 +345,9 @@ local Gangs = {
 		Itens = {['KokusenKick'] = 0,['Dash'] = 0},
 		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
 		Cor = { 
-			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 0, 0}},
-			Patente = {Letra = {0, 0, 0},Borda = {255, 0, 0}},
-			Team =    {Letra = {0, 0, 0},Borda = {255, 0, 0}},
+			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 255, 255}},
+			Patente = {Letra = {0, 0, 0},Borda = {255, 255, 255}},
+			Team =    {Letra = {0, 0, 0},Borda = {45, 0, 0}},
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
@@ -1604,7 +1604,7 @@ local Gangs = {
 	[35789435] = {   -- [Dono ID:  ] (HP AUMENTADO) / MAX 10 
 		Nome = "をぽ Blood Moon ぽを",
 		Vida = 1000,
-		Itens = {['Josef'] = 0,['FireKick'] = 0},
+		Itens = {['Josef'] = 0,['FireKick'] = 0,['Raio'] = 0},
 		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},  Borda = {255, 255, 255}},
@@ -1641,7 +1641,7 @@ local Gangs = {
 	[32352281] = {   -- [Dono ID: 2515682546 ] (HP AUMENTADO) / MAX 10 
 		Nome = "White of Dragon",
 		Vida = 3000,
-		Itens = {['Mikey'] = 0,['Dash'] = 0},
+		Itens = {['Mikey'] = 0,['Dash'] = 0,['SusanooSlap'] = 0},
 		Roupa = {Tier = 256,Shirt = 9850534940,Pants = 9853009803},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},  Borda = {0, 0, 0}},
@@ -1680,6 +1680,7 @@ local Gangs = {
 }
 
 return Gangs
+
 
 
 
