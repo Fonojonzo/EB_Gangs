@@ -1434,7 +1434,7 @@ local Gangs = {
 	[35713750] = {   -- [Dono ID: 4574693848 ] (HP AUMENTADO) / MAX 10  passou limite 1x 
 		Nome = "战俘 Shadows Of Here's 战俘",
 		Vida = 1000,
-		Itens = {['Josef'] = 0,['Raio'] = 0,['ChuteEletrico'] = 0,['SusanooSlap'] = 0},
+		Itens = {['Josef'] = 0,['Raio'] = 0,['ChuteEletrico'] = 0},
 		Roupa = {Tier = 256,Shirt = 8876551891,Pants = 8876551891},
 		Cor = { 
 			Nome = 	  {Letra = {255, 0, 0},Borda = {255, 255, 255}},
@@ -1691,6 +1691,7 @@ local Gangs = {
 }
 
 return Gangs
+
 
 
 
