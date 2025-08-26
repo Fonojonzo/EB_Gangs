@@ -30,7 +30,7 @@ local Gangs = {
 		Nome = 'Amendobobos',
 		Vida = 3000,
 		Itens = {['ChuteEletrico'] = 0,['Colateral'] = 0,['Dash'] = 0,['Thunder'] = 0,['DoubleJump'] = 0,['MinatoKunai'] = 0,['SusanooSlap'] = 0,['Hinokami_1'] = 0,['Foice'] = 0,['Rinnegan_Push'] = 0,
-		['Meteoro'] = 0,['ShurikenExplosiva'] = 0,['PisoVento'] = 0},
+			['Meteoro'] = 0,['ShurikenExplosiva'] = 0,['PisoVento'] = 0},
 		Roupa = {Tier = 95,Shirt = 0,Pants = 0},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 255, 255}},
@@ -1466,7 +1466,7 @@ local Gangs = {
 			Team =    {Letra = {0, 0, 0},Borda = {255, 255, 255}},
 		},
 	},----------------------------------- Gang ---------------------------------------------
-	
+
 	[35949953 ] = {   -- [Dono ID: 5533120591 ] (HP AUMENTADO) / MAX 10 
 		Nome = "As 12 Inferiores",
 		Vida = 1000,
@@ -1528,7 +1528,7 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	
+
 	[36058565] = {   -- [Dono ID: 1893938759 ] (HP AUMENTADO) / MAX 10 / sorteio dells (yamato kokusen)
 		Nome = "Revengers Valhalla",
 		Vida = 1000,
@@ -1616,70 +1616,71 @@ local Gangs = {
 	[34021982] = {   -- [Dono ID: 5150614508 ] (HP AUMENTADO) / MAX 10 
 		Nome = "Fabio Friends",
 		Vida = 1500,
-		Itens = {['Mikey'] = 0,['SusanooSlap'] = {Color = {255,255,0},Knockback = 40},
-		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
-		Cor = { 
-			Nome = 	  {Letra = {153, 204, 255},  Borda = {255, 0, 0}},
-			Patente = {Letra = {255, 255, 0},  Borda = {0, 255, 0}},
-			Team =    {Letra = {0, 255, 255},  Borda = {0, 0, 0}},
-		},
-	},----------------------------------- Gang ---------------------------------------------
+		Itens = {['Mikey'] = 0,['SusanooSlap'] = {Color = {255,255,0},Knockback = 40}},
+			Roupa = {Tier = 256,Shirt = 0,Pants = 0},
+			Cor = { 
+				Nome = 	  {Letra = {153, 204, 255},  Borda = {255, 0, 0}},
+				Patente = {Letra = {255, 255, 0},  Borda = {0, 255, 0}},
+				Team =    {Letra = {0, 255, 255},  Borda = {0, 0, 0}},
+			},
+		},----------------------------------- Gang ---------------------------------------------
 
-	[170570445] = {   -- [Dono ID: 8981810684 ] (HP AUMENTADO) / MAX 10 
-		Nome = "Black Dragons The Seven",
-		Vida = 1000,
-		Itens = {['KokusenKick'] = 0,['YinYang'] = 0},
-		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
-		Cor = { 
-			Nome = 	  {Letra = {0, 0, 0},  Borda = {255, 0, 0}},
-			Patente = {Letra = {0, 0, 0},  Borda = {255, 0, 0}},
-			Team =    {Letra = {0, 0, 0},  Borda = {255, 0, 0}},
-		},
-	},----------------------------------- Gang ---------------------------------------------
-
-	
-	[32352281] = {   -- [Dono ID: 2515682546 ] (HP AUMENTADO) / MAX 10 
-		Nome = "White of Dragon",
-		Vida = 3000,
-		Itens = {['FireKick'] = 0,['Dash'] = 0,['SusanooSlap'] = 0},
-		Roupa = {Tier = 256,Shirt = 9850534940,Pants = 9853009803},
-		Cor = { 
-			Nome = 	  {Letra = {0, 0, 0},  Borda = {0, 0, 0}},
-			Patente = {Letra = {255, 255, 255},  Borda = {255, 255, 255}},
-			Team =    {Letra = {0, 0, 0},  Borda = {0, 0, 0}},
-		},
-	},----------------------------------- Gang ---------------------------------------------
-
-	[34765514] = {   -- [Dono ID: 2582280278 ] (HP AUMENTADO) / MAX 10 
-		Nome = "你 Zenin Fuutun 他",
-		Vida = 2000,
-		Itens = {['KokusenKick'] = 0,['Dash'] = 0},
-		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
-		Cor = { 
-			Nome = 	  {Letra = {0, 0, 0},  Borda = {255, 255, 255}},
-			Patente = {Letra = {255, 255, 255},  Borda = {0, 0, 0}},
-			Team =    {Letra = {255, 255, 255},  Borda = {0, 0, 0}},
-		},
-	},----------------------------------- Gang ---------------------------------------------
-
-	[313867337] = {   -- [Dono ID: 5084914166 ] (HP AUMENTADO) / MAX 10 
-		Nome = " 名 Rolls Comunity 名",
-		Vida = 1000,
-		Itens = {['Mikey'] = 0},
-		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
-		Cor = { 
-			Nome = 	  {Letra = {0, 0, 0},  Borda = {255, 255, 255}},
-			Patente = {Letra = {0, 0, 0},  Borda = {255, 255, 255}},
-			Team =    {Letra = {0, 0, 0},  Borda = {255, 255, 255}},
-		},
-	},----------------------------------- Gang ---------------------------------------------
+		[170570445] = {   -- [Dono ID: 8981810684 ] (HP AUMENTADO) / MAX 10 
+			Nome = "Black Dragons The Seven",
+			Vida = 1000,
+			Itens = {['KokusenKick'] = 0,['YinYang'] = 0},
+			Roupa = {Tier = 256,Shirt = 0,Pants = 0},
+			Cor = { 
+				Nome = 	  {Letra = {0, 0, 0},  Borda = {255, 0, 0}},
+				Patente = {Letra = {0, 0, 0},  Borda = {255, 0, 0}},
+				Team =    {Letra = {0, 0, 0},  Borda = {255, 0, 0}},
+			},
+		},----------------------------------- Gang ---------------------------------------------
 
 
+		[32352281] = {   -- [Dono ID: 2515682546 ] (HP AUMENTADO) / MAX 10 
+			Nome = "White of Dragon",
+			Vida = 3000,
+			Itens = {['FireKick'] = 0,['Dash'] = 0,['SusanooSlap'] = 0},
+			Roupa = {Tier = 256,Shirt = 9850534940,Pants = 9853009803},
+			Cor = { 
+				Nome = 	  {Letra = {0, 0, 0},  Borda = {0, 0, 0}},
+				Patente = {Letra = {255, 255, 255},  Borda = {255, 255, 255}},
+				Team =    {Letra = {0, 0, 0},  Borda = {0, 0, 0}},
+			},
+		},----------------------------------- Gang ---------------------------------------------
 
-	
-}
+		[34765514] = {   -- [Dono ID: 2582280278 ] (HP AUMENTADO) / MAX 10 
+			Nome = "你 Zenin Fuutun 他",
+			Vida = 2000,
+			Itens = {['KokusenKick'] = 0,['Dash'] = 0},
+			Roupa = {Tier = 256,Shirt = 0,Pants = 0},
+			Cor = { 
+				Nome = 	  {Letra = {0, 0, 0},  Borda = {255, 255, 255}},
+				Patente = {Letra = {255, 255, 255},  Borda = {0, 0, 0}},
+				Team =    {Letra = {255, 255, 255},  Borda = {0, 0, 0}},
+			},
+		},----------------------------------- Gang ---------------------------------------------
 
-return Gangs
+		[313867337] = {   -- [Dono ID: 5084914166 ] (HP AUMENTADO) / MAX 10 
+			Nome = " 名 Rolls Comunity 名",
+			Vida = 1000,
+			Itens = {['Mikey'] = 0},
+			Roupa = {Tier = 256,Shirt = 0,Pants = 0},
+			Cor = { 
+				Nome = 	  {Letra = {0, 0, 0},  Borda = {255, 255, 255}},
+				Patente = {Letra = {0, 0, 0},  Borda = {255, 255, 255}},
+				Team =    {Letra = {0, 0, 0},  Borda = {255, 255, 255}},
+			},
+		},----------------------------------- Gang ---------------------------------------------
+
+
+
+
+	}
+
+	return Gangs
+
 
 
 
