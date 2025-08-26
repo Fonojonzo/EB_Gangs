@@ -227,10 +227,10 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[33970113] = {   -- [Dono ID: 3022604859 ] slot 15 / ID GANG PEDIDO PRA DESATIVAR  (HP AUMENTADO) -- ['KokusenKick'] = 0 / ['FireKick'] = 0
+	[33970113] = {   -- [Dono ID: 3022604859 ] slot 15 / ID GANG PEDIDO PRA DESATIVAR  (HP AUMENTADO) -- ['KokusenKick'] = 0 / ['FireKick'] = 0 evento 02/09
 		Nome = "Valhalla",	
 		Vida = 1000,
-		Itens = {['Rinnegan_Push'] = 0,['Rasteira'] = 0,['SusanooSlap'] = 0,['Raio'] = 0},
+		Itens = {['Rinnegan_Push'] = 0,['Rasteira'] = 0,['SusanooSlap'] = 0,['Raio'] = 0,['Susanoo2Swords'] = 0},
 		Roupa = {Tier = 255,Shirt = 7535774077,Pants = 7535774954},
 		Cor = { 
 			Nome = 	  {Letra = {255 , 255, 255},Borda = {0, 0, 0}},
@@ -450,7 +450,7 @@ local Gangs = {
 	[34939648] = { -- [Dono ID: 3176819923] slot 10 (HP AUMENTADO) - susanoo evento  25/08
 		Nome = "Valhalla", -- Kanto Manji Gang antiga
 		Vida = 1500,
-		Itens = {['KokusenKick'] = 0,['Susanoo2Swords'] = 0},
+		Itens = {['KokusenKick'] = 0},
 		Roupa = {Tier = 255,Shirt = 7356225906,Pants = 7356331291},
 		Cor = { 
 			Nome = 	  {Letra = {255, 255, 255},Borda = {0, 0, 0}},
@@ -1680,6 +1680,7 @@ local Gangs = {
 	}
 
 	return Gangs
+
 
 
 
