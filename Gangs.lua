@@ -1674,12 +1674,24 @@ local Gangs = {
 			},
 		},----------------------------------- Gang ---------------------------------------------
 
+		[266082414] = {   -- [Dono ID: ed3 ] (HP AUMENTADO) / MAX 10 
+			Nome = "Ordem do Horizonte",
+			Vida = 2000,
+			Itens = {['Mikey'] = 0,['Dash'] = 0},
+			Roupa = {Tier = 256,Shirt = 0,Pants = 0},
+			Cor = { 
+				Nome = 	  {Letra = {255, 255, 255},  Borda = {0, 228, 255}},
+				Patente = {Letra = {255, 255, 255},  Borda = {0, 228, 255}},
+				Team =    {Letra = {0, 228, 255},    Borda = {255, 255, 255}},
+			},
+		},----------------------------------- Gang ---------------------------------------------
 
 
 
-	}
+}
 
-	return Gangs
+return Gangs
+
 
 
 
