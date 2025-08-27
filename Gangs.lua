@@ -872,12 +872,12 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[35407574] = {   -- [Dono ID: 5426598347] (HP AUMENTADO) MAX 15 PLAYER
+	[35407574] = {   -- [Dono ID: 5426598347] (HP AUMENTADO) MAX 15 PLAYER evento 02/09
 		Nome = "Crimson Nebula",
 		Vida = 1500,
 		Itens = {['KokusenKick'] = 0,['ChuteCongelante'] = 0,['Raio'] = 0,['SusanooSlap'] = 0,['Meteoro'] = 0,
 			['TacoLucille'] = 0,['Rinnegan_Push'] = {Size = 50},['MinatoKunai'] = 0,['F1VermelhoExplodir'] = 0,['FPColateral'] = 0,['Thunder'] = 0,['PisoVento'] = 0,
-			['YinYang'] = 0},
+			['YinYang'] = 0,['Susanoo2Swords'] = 0},
 		Roupa = {Tier = 256,Shirt = 91217645786438,Pants = 106389957824052},
 		Cor = { 
 			Nome = 	  {Letra = {255, 255, 255},Borda = {0, 0, 255}},
@@ -1691,6 +1691,7 @@ local Gangs = {
 }
 
 return Gangs
+
 
 
 
