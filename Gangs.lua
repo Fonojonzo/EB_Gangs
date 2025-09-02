@@ -521,7 +521,7 @@ local Gangs = {
 
 
 	[35080558] = { -- [Dono ID: 5302548408] slot 10(HP AUMENTADO) / dash e mikey evento
-		Nome = "🥶THE ELITE FRIO🥶",
+		Nome = "Noprime",
 		Vida = 1000,
 		Itens = {['Mikey'] = 0,['FireKick'] = 0,['Dash'] = 0},
 		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
@@ -1703,6 +1703,7 @@ local Gangs = {
 }
 
 return Gangs
+
 
 
 
