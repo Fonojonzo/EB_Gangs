@@ -643,30 +643,6 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[0] = {   -- [Dono ID:4243609984 ] slot 10, gang henrique parcelada em muitas milhões de vezes aguardando pag(HP AUMENTADO)
-		Nome = 'Disciples Gangster',
-		Vida = 1500,
-		Itens = {['Mikey'] = 0,['TacoLucille'] = 230,['Dash'] = 0,['Yamato'] = 230,['Granada'] = 252,['Rasteira'] = 0,['Raio'] = 0,['SusanooSlap'] = 0,['Rinnegan_Push'] = 0},
-		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
-		Cor = { 
-			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 255, 255}},
-			Patente = {Letra = {0, 0, 0},Borda = {255, 255, 255}},
-			Team =    {Letra = {0, 0, 0},Borda = {255, 0, 0}},
-		},
-	},----------------------------------- Gang ---------------------------------------------
-
-	[0] = {   -- [Dono ID:1345097930 ](HP AUMENTADO) - item estornado steam? ['SusanooSlap'] = {Color = {255, 255, 0},HitSound = 132455786} / 35278912 estorno tudo steam
-		Nome = '忠 Valley of Honor 誠',
-		Vida = 2000,
-		Itens = {['KokusenKick'] = 0,['Rasteira'] = 0,['Dash'] = 0,['Raio'] = 0,['Rinnegan_Push'] = 0},
-		Roupa = {Tier = 255,Shirt = 7133467807,Pants = 7473725443},
-		Cor = { 
-			Nome = 	  {Letra = {255, 255, 255},Borda = {0, 0, 0}},
-			Patente = {Letra = {255, 255, 255},Borda = {0, 0, 0}},
-			Team =    {Letra = {255, 255, 255},Borda = {0, 0, 0}},
-		},
-	},----------------------------------- Gang ---------------------------------------------
-
 	[0] = {   -- [Dono ID:5521224878 ](HP AUMENTADO) / 35281109
 		Nome = '★罗Mafia Russa★',
 		Vida = 2000,
@@ -676,30 +652,6 @@ local Gangs = {
 			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 255, 255}},
 			Patente = {Letra = {0, 0, 0},Borda = {255, 255, 255}},
 			Team =    {Letra = {0, 0, 0},Borda = {255, 255, 255}},
-		},
-	},----------------------------------- Gang ---------------------------------------------
-
-	[0] = {   -- [Dono ID:3854037081 ](HP AUMENTADO) / tentativa estorno ? 33091379
-		Nome = 'King of Darkness',
-		Vida = 1000,
-		Itens = {['KokusenKick'] = 0,['Yamato'] = 0,['Dash'] = 0,['Rasteira'] = 0,['Raio'] = 0,['Rinnegan_Push'] = 0},
-		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
-		Cor = { 
-			Nome = 	  {Letra = {0, 0, 0},Borda = {153, 0, 204}},
-			Patente = {Letra = {0, 0, 0},Borda = {153, 0, 204}},
-			Team =    {Letra = {0, 0, 0},Borda = {153, 0, 204}},
-		},
-	},----------------------------------- Gang ---------------------------------------------
-
-	[0] = {   -- [Dono ID:7523050446 ](HP AUMENTADO) banido
-		Nome = "襲撃 Palhaços Amaldiçoados 夜",
-		Vida = 1000,
-		Itens = {['Josef'] = 0,['ChuteEletrico'] = 0},
-		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
-		Cor = { 
-			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 255, 255}},
-			Patente = {Letra = {0, 0, 0},Borda = {255, 255, 255}},
-			Team =    {Letra = {0, 0, 0},Borda = {153, 0, 204}},
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
@@ -872,10 +824,10 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[35407574] = {   -- [Dono ID: 5426598347] (HP AUMENTADO) MAX 15 PLAYER evento 02/09
+	[35407574] = {   -- [Dono ID: 5426598347] (HP AUMENTADO) MAX 15 PLAYER / susanoo2s evento 02/09
 		Nome = "Crimson Nebula",
 		Vida = 1500,
-		Itens = {['KokusenKick'] = 0,['ChuteCongelante'] = 0,['Raio'] = 0,['SusanooSlap'] = 0,['Meteoro'] = 0,
+		Itens = {['KokusenKick'] = 0,['ChuteCongelante'] = 0,['Raio'] = 0,['SusanooSlap'] = {Color = {179, 0, 89},Knockback = 65},['Meteoro'] = 0,
 			['TacoLucille'] = 0,['Rinnegan_Push'] = {Size = 50},['MinatoKunai'] = 0,['F1VermelhoExplodir'] = 0,['FPColateral'] = 0,['Thunder'] = 0,['PisoVento'] = 0,
 			['YinYang'] = 0,['Susanoo2Swords'] = 0},
 		Roupa = {Tier = 256,Shirt = 91217645786438,Pants = 106389957824052},
@@ -1435,7 +1387,7 @@ local Gangs = {
 		Nome = "战俘 Shadows Of Here's 战俘",
 		Vida = 1000,
 		Itens = {['Josef'] = 0,['Raio'] = 0,['ChuteEletrico'] = 0},
-		Roupa = {Tier = 256,Shirt = 8876551891,Pants = 8876551891},
+		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
 		Cor = { 
 			Nome = 	  {Letra = {255, 0, 0},Borda = {255, 255, 255}},
 			Patente = {Letra = {255, 0, 0},Borda = {0, 0, 0}},
@@ -1703,6 +1655,7 @@ local Gangs = {
 }
 
 return Gangs
+
 
 
 
