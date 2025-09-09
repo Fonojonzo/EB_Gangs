@@ -227,10 +227,10 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[33970113] = {   -- [Dono ID: 3022604859 ] slot 15 / ID GANG PEDIDO PRA DESATIVAR  (HP AUMENTADO) -- ['KokusenKick'] = 0 / ['FireKick'] = 0 / susanoo evento 02/09
+	[33970113] = {   -- [Dono ID: 3022604859 ] slot 15 / ID GANG PEDIDO PRA DESATIVAR  (HP AUMENTADO) -- ['KokusenKick'] = 0 / ['FireKick'] = 0
 		Nome = "Valhalla",	
 		Vida = 1000,
-		Itens = {['Rinnegan_Push'] = 0,['Rasteira'] = 0,['SusanooSlap'] = 0,['Raio'] = 0,['Susanoo2Swords'] = 0},
+		Itens = {['Rinnegan_Push'] = 0,['Rasteira'] = 0,['SusanooSlap'] = 0,['Raio'] = 0},
 		Roupa = {Tier = 255,Shirt = 7535774077,Pants = 7535774954},
 		Cor = { 
 			Nome = 	  {Letra = {255 , 255, 255},Borda = {0, 0, 0}},
@@ -471,10 +471,10 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[32367594] = { -- [Dono ID: 3605403073] slot 10(HP AUMENTADO)
+	[32367594] = { -- [Dono ID: 3605403073] slot 10(HP AUMENTADO) /; 16/09 meteoro evento
 		Nome = "NoCraK",
 		Vida = 1000,
-		Itens = {['KokusenKick'] = 0,['Rasteira'] = 0,['Raio'] = 0},
+		Itens = {['KokusenKick'] = 0,['Rasteira'] = 0,['Raio'] = 0,['Meteoro'] = 0},
 		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 255, 255}},
@@ -812,24 +812,12 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[0] = {   -- [Dono ID:7281929843 ] (HP AUMENTADO) / 35404452 venda de  cargo
-		Nome = "幫 AVANGERS 幫",
-		Vida = 1000,
-		Itens = {['Josef'] = 0},
-		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
-		Cor = { 
-			Nome = 	  {Letra = {153, 0, 153},Borda = {255, 0, 0}},
-			Patente = {Letra = {153, 0, 153},Borda = {0, 0, 0}},
-			Team =    {Letra = {255, 255, 255},Borda = {0, 0, 0}},
-		},
-	},----------------------------------- Gang ---------------------------------------------
-
-	[35407574] = {   -- [Dono ID: 5426598347] (HP AUMENTADO) MAX 15 PLAYER / susanoo2s evento 02/09
+	[35407574] = {   -- [Dono ID: 5426598347] (HP AUMENTADO) MAX 15 PLAYER 
 		Nome = "Crimson Nebula",
 		Vida = 1500,
 		Itens = {['KokusenKick'] = 0,['ChuteCongelante'] = 0,['Raio'] = 0,['SusanooSlap'] = {Color = {179, 0, 89},Knockback = 65},['Meteoro'] = 0,
 			['TacoLucille'] = 0,['Rinnegan_Push'] = {Size = 50},['MinatoKunai'] = 0,['F1VermelhoExplodir'] = 0,['FPColateral'] = 0,['Thunder'] = 0,['PisoVento'] = 0,
-			['YinYang'] = 0,['Susanoo2Swords'] = 0},
+			['YinYang'] = 0},
 		Roupa = {Tier = 256,Shirt = 91217645786438,Pants = 106389957824052},
 		Cor = { 
 			Nome = 	  {Letra = {255, 255, 255},Borda = {0, 0, 255}},
@@ -1667,6 +1655,7 @@ local Gangs = {
 }
 
 return Gangs
+
 
 
 
