@@ -1341,9 +1341,9 @@ local Gangs = {
 		Itens = {['Mikey'] = 0,['SusanooSlap'] = 0,['FireKick'] = 0,['Rinnegan_Push'] = {Size = 35},['Colateral'] = 0},
 		Roupa = {Tier = 256,Shirt = 7274942977,Pants = 7276234664},
 		Cor = { 
-			Nome = 	  {Letra = {0, 0, 0},Borda = {128, 0, 0}},
-			Patente = {Letra = {255, 140, 26},Borda = {255, 128, 0}},
-			Team =    {Letra = {0, 0, 0}, Borda = {255, 0, 0}},
+			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 255, 255}},
+			Patente = {Letra = {0, 0, 0},Borda = {255, 255, 255}},
+			Team =    {Letra = {0, 0, 0},Borda = {255,255,0}},
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
@@ -1655,6 +1655,7 @@ local Gangs = {
 }
 
 return Gangs
+
 
 
 
