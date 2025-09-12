@@ -302,7 +302,7 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[33793567] = { -- [Dono ID:2002432326 ] slot 15(HP AUMENTADO) / 
+	[0] = { -- [Dono ID:2002432326 ] slot 15 / 33793567 limite membros
 		Nome = "魚LUAS IMPERATIVAS 🌙",
 		Vida = 1500,
 		Itens = {['KokusenKick'] = 0,['Dash'] = 0,['FireKick'] = 0,['TacoLucille'] = 0}, --['Yamato'] = {255 , 254 , 253 , 252 , 251} ,
@@ -448,7 +448,7 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 	[34939648] = { -- [Dono ID: 3176819923] slot 10 (HP AUMENTADO) 
-		Nome = "Valhalla", -- Kanto Manji Gang antiga
+		Nome = "Valhalla || ", -- Kanto Manji Gang antiga
 		Vida = 1500,
 		Itens = {['KokusenKick'] = 0},
 		Roupa = {Tier = 255,Shirt = 7356225906,Pants = 7356331291},
@@ -1655,6 +1655,7 @@ local Gangs = {
 }
 
 return Gangs
+
 
 
 
