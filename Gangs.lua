@@ -1641,7 +1641,7 @@ local Gangs = {
 		[841162416] = {   -- [Dono ID: 4016113843 ] (HP AUMENTADO) / MAX 10 
 			Nome = "是~The Lunars~ 度",
 			Vida = 1000,
-			Itens = {['Josef'] = 0},
+			Itens = {['Josef'] = 0,['FireKick'] = 0},
 			Roupa = {Tier = 256,Shirt = 0,Pants = 0},
 			Cor = { 
 				Nome = 	  {Letra = {0, 0, 0},  Borda = {230, 0, 230}},
@@ -1655,6 +1655,7 @@ local Gangs = {
 }
 
 return Gangs
+
 
 
 
