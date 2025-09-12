@@ -1578,15 +1578,15 @@ local Gangs = {
 		},----------------------------------- Gang ---------------------------------------------
 
 
-		[32352281] = {   -- [Dono ID: 2515682546 ] (HP AUMENTADO) / MAX 10 
+		[32352281] = {   -- [Dono ID: 2515682546 ] (HP AUMENTADO) / MAX 10 / 2 buff rinnegan
 			Nome = "White of Dragon",
 			Vida = 3000,
 			Itens = {['FireKick'] = 0,['Dash'] = 0,['SusanooSlap'] = 0,['Raio'] = 0,['Rinnegan_Push'] = {Knockback = 60}},
 			Roupa = {Tier = 256,Shirt = 9850534940,Pants = 9853009803},
 			Cor = { 
-				Nome = 	  {Letra = {0, 0, 0},  Borda = {0, 0, 0}},
-				Patente = {Letra = {255, 255, 255},  Borda = {255, 255, 255}},
-				Team =    {Letra = {0, 0, 0},  Borda = {0, 0, 0}},
+				Nome = 	  {Letra = {0, 0, 0},  Borda = {255, 255, 255}},
+				Patente = {Letra = {0, 0, 0},  Borda = {255, 255, 255}},
+				Team =    {Letra = {0, 0, 0},  Borda = {255, 0, 0}},
 			},
 		},----------------------------------- Gang ---------------------------------------------
 
@@ -1655,6 +1655,7 @@ local Gangs = {
 }
 
 return Gangs
+
 
 
 
