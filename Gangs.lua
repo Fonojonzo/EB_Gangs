@@ -1335,7 +1335,7 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[35595693] = {   -- [Dono ID: 7856828708 ] (HP AUMENTADO) / MAX 10  san
+	[0] = {   -- [Dono ID: 7856828708 ] (HP AUMENTADO) / MAX 10  san 35595693 limite
 		Nome = 'Goten',
 		Vida = 2000,
 		Itens = {['Mikey'] = 0,['SusanooSlap'] = 0,['FireKick'] = 0,['Rinnegan_Push'] = {Size = 35},['Colateral'] = 0},
@@ -1655,6 +1655,7 @@ local Gangs = {
 }
 
 return Gangs
+
 
 
 
