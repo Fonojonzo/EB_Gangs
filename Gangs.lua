@@ -302,7 +302,7 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[0] = { -- [Dono ID:2002432326 ] slot 15 / 33793567 limite membros
+	[33793567] = { -- [Dono ID:2002432326 ] slot 15 /  limite membros
 		Nome = "魚LUAS IMPERATIVAS 🌙",
 		Vida = 1500,
 		Itens = {['KokusenKick'] = 0,['Dash'] = 0,['FireKick'] = 0,['TacoLucille'] = 0}, --['Yamato'] = {255 , 254 , 253 , 252 , 251} ,
@@ -1667,6 +1667,7 @@ local Gangs = {
 }
 
 return Gangs
+
 
 
 
