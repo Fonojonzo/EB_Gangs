@@ -1024,7 +1024,7 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 	[35538237] = {   -- [Dono ID: 817332216 ] (HP AUMENTADO) / MAX 10 
-		Nome = "Unreal",
+		Nome = "Anteiku Squad",
 		Vida = 1500,
 		Itens = {['Mikey'] = 0,['SusanooSlap'] = 0,['ChuteEletrico'] = 0,['Rinnegan_Push'] = 0,['MinatoKunai'] = 0,['Raio'] = 0},
 		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
@@ -1667,6 +1667,7 @@ local Gangs = {
 }
 
 return Gangs
+
 
 
 
