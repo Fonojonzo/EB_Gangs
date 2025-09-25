@@ -1444,7 +1444,7 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[36035923] = {   -- [Dono ID: 1562529763 ] (HP AUMENTADO) / MAX 10 /
+	[36035923] = {   -- [Dono ID: 3780234061 ] (HP AUMENTADO) / MAX 10 /
 		Nome = "デミKASHIMA OF WATERアカ",
 		Vida = 1000,
 		Itens = {['Josef'] = 0,['FireKick'] = 0},
@@ -1493,7 +1493,7 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[36053519] = {   -- [Dono ID: 1392227478 ] (HP AUMENTADO) / MAX 10 
+	[36053519] = {   -- [Dono ID: 7139675815 ] (HP AUMENTADO) / MAX 10 
 		Nome = "THE SHINIGAMIS",
 		Vida = 1000,
 		Itens = {['Mikey'] = 0},
@@ -1505,18 +1505,7 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[0] = {   -- [Dono ID: 1764391544 ] (HP AUMENTADO) / MAX 10 / raid/ problemas venda de cargos etc 35705569
-		Nome = "三力 Triforce 三力",
-		Vida = 1000,
-		Itens = {['Josef'] = 0},
-		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
-		Cor = { 
-			Nome = 	  {Letra = {255, 255, 0},Borda =  {204, 204, 0}},
-			Patente = {Letra = {255, 255, 153},  Borda = {230, 230, 0}},
-			Team =    {Letra = {255, 255, 0},  Borda = {204, 204, 0}},
-		},
-	},----------------------------------- Gang ---------------------------------------------
-
+	
 	[394024034] = {   -- [Dono ID: 8393978500  ] (HP AUMENTADO) / MAX 10 
 		Nome = "墮落者 The Fallen Angels 尤夫哈",
 		Vida = 1000,
@@ -1591,7 +1580,7 @@ local Gangs = {
 		},----------------------------------- Gang ---------------------------------------------
 
 		[34765514] = {   -- [Dono ID: 2582280278 ] (HP AUMENTADO) / MAX 10 
-			Nome = "你 Zenin Fuutun 他",
+			Nome = "愛☯𝚃𝚎𝚗𝚓𝚒𝚔𝚞 𝙶𝚊𝚗𝚐愛☯",
 			Vida = 2000,
 			Itens = {['KokusenKick'] = 0,['Dash'] = 0,['SusanooSlap'] = 0},
 			Roupa = {Tier = 256,Shirt = 0,Pants = 0},
@@ -1691,6 +1680,7 @@ local Gangs = {
 }
 
 return Gangs
+
 
 
 
