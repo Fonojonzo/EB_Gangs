@@ -1275,7 +1275,7 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[35811229] = {   -- [Dono ID: 1539049071 ] (HP AUMENTADO) / MAX 10 
+	[0] = {   -- [Dono ID: 1539049071 ] (HP AUMENTADO) / MAX 10 45 membros id 35811229
 		Nome = "影 Solo Monarch 影",
 		Vida = 2000,
 		Itens = {['Mikey'] = 0,['Dash'] = 0,['FireKick'] = 0},
@@ -1680,6 +1680,7 @@ local Gangs = {
 }
 
 return Gangs
+
 
 
 
