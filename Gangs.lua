@@ -1580,7 +1580,7 @@ local Gangs = {
 		},----------------------------------- Gang ---------------------------------------------
 
 		[34765514] = {   -- [Dono ID: 2582280278 ] (HP AUMENTADO) / MAX 10 
-			Nome = "愛☯𝚃𝚎𝚗𝚓𝚒𝚔𝚞 𝙶𝚊𝚗𝚐愛☯",
+			Nome = "Zenin Furt",
 			Vida = 2000,
 			Itens = {['KokusenKick'] = 0,['Dash'] = 0,['SusanooSlap'] = 0},
 			Roupa = {Tier = 256,Shirt = 0,Pants = 0},
@@ -1680,6 +1680,7 @@ local Gangs = {
 }
 
 return Gangs
+
 
 
 
