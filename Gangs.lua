@@ -190,21 +190,8 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-
-	[0] = {   -- [Dono ID:1250373608 ] slot 15 / slot 2 anjo bugado (HP AUMENTADO) 33820952 / devendo varios milhões/vend de cargo
-		Nome = 'Os Lordes Demônios',
-		Vida = 1500,
-		Itens = {['KokusenKick'] = 0,['Dash'] = 0,['TacoLucille'] = 5,['Yamato'] = 175,['YinYang'] = 0,['SusanooSlap'] = 0,['Raio'] = 0,['Rinnegan_Push'] = 0,['PisoVento'] = 0,['ChuteEletrico'] = 0,['ShurikenExplosiva'] = 0},
-		Roupa = {Tier = 256,Shirt = 14562985927,Pants = 7076268873},
-		Cor = { 
-			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 255, 255}},
-			Patente = {Letra = {0, 0, 0},Borda = {125, 10, 255}},
-			Team =    {Letra = {0, 0, 0},Borda = {125, 10, 255}},
-		},
-	},----------------------------------- Gang ---------------------------------------------
-
-	[33476490] = {   -- [Dono ID: 3360821132 ] slot 15 (HP AUMENTADO)
-		Nome = 'Soul Society',
+	[33476490] = {   -- [Dono ID: 7400006582 ] slot 15 (HP AUMENTADO)
+		Nome = 'Fúria dos Ventos',
 		Vida = 1500,
 		Itens = {['KokusenKick'] = 0,['Dash'] = 0,['TacoLucille'] = 10,['Rasteira'] = 0,['FireKick'] = 0,['PisoVento'] = 0},
 		Roupa = {Tier = 255,Shirt = 14835712865,Pants = 7473725443},
@@ -1680,6 +1667,7 @@ local Gangs = {
 }
 
 return Gangs
+
 
 
 
