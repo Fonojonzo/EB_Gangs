@@ -190,7 +190,7 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[33476490] = {   -- [Dono ID: 7400006582 ] slot 15 (HP AUMENTADO)
+	[34137261] = {   -- [Dono ID: 7400006582 ] slot 15 (HP AUMENTADO)
 		Nome = 'Fúria dos Ventos',
 		Vida = 1500,
 		Itens = {['KokusenKick'] = 0,['Dash'] = 0,['TacoLucille'] = 10,['Rasteira'] = 0,['FireKick'] = 0,['PisoVento'] = 0},
@@ -837,17 +837,6 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[0] = {   -- [Dono ID: 4208020311 ] (HP AUMENTADO) / sorteio / 32953750 ban perm
-		Nome = "氷 Fúria do Gelo 氷",
-		Vida = 1000,
-		Itens = {['Mikey'] = 0,['Dash'] = 0,['ChuteEletrico'] = 0,['ChuteCongelante'] = 0},
-		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
-		Cor = { 
-			Nome = 	  {Letra = {0, 0, 204},Borda = {153, 204, 255}},
-			Patente = {Letra = {0, 0, 204},Borda = {153, 204, 255}},
-			Team =    {Letra = {0, 0, 204},Borda = {153, 204, 255}},
-		},
-	},----------------------------------- Gang ---------------------------------------------
 
 	[7572239] = {   -- [Dono ID: 5507772063 ] (HP AUMENTADO) /  MAX 15 dando ban all, racismo, etc 
 		Nome = "星 Bleach of' Shinigami 星 ", -- ['Rinnegan_Push'] = {Size = 10,Voice = 117779581030667,Debounce = 5,}
@@ -863,29 +852,6 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[0] = {   -- [Dono ID: 1821185214 ] (HP AUMENTADO) / MAX 10 35431110 comprovante false
-		Nome = "Yamahat",
-		Vida = 1500,
-		Itens = {['Mikey'] = 0},
-		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
-		Cor = { 
-			Nome = 	  {Letra = {51, 102, 255},Borda = {153, 204, 255}},
-			Patente = {Letra = {0, 204, 255},Borda = {102, 255, 255}},
-			Team =    {Letra = {204, 0, 0},Borda = {255, 51, 0}},
-		},
-	},----------------------------------- Gang ---------------------------------------------
-
-	[0] = {   -- [Dono ID: 5118700438 ] (HP AUMENTADO) / MAX 10
-		Nome = "The Jujutsu Academy",
-		Vida = 1000,
-		Itens = {['Mikey'] = 0},
-		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
-		Cor = { 
-			Nome = 	  {Letra = {255, 102, 255},Borda = {0, 0, 0}},
-			Patente = {Letra = {255, 0, 0},Borda = {153, 0, 255}},
-			Team =    {Letra = {0, 0, 255},Borda = {255, 255, 255}},
-		},
-	},----------------------------------- Gang ---------------------------------------------
 
 	[35458801] = {   -- [Dono ID: 3407303579 ] (HP AUMENTADO) / MAX 10
 		Nome = "開始 arrancars 開始",
@@ -911,18 +877,6 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-
-	[0] = {   -- [Dono ID: 2692076290 ] (HP AUMENTADO) / MAX 10 venda cargo limite membro 
-		Nome = "召喚 Night Red Moon 召喚",
-		Vida = 1000,
-		Itens = {['Josef'] = 0},
-		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
-		Cor = { 
-			Nome = 	  {Letra = {255, 0, 0},Borda = {204, 0, 0}},
-			Patente = {Letra = {0, 0, 0},Borda = {255, 255, 255}},
-			Team =    {Letra = {0, 0, 0},Borda = {255, 255, 255}},
-		},
-	},----------------------------------- Gang ---------------------------------------------
 
 	[35494156] = {   -- [Dono ID: 2000907880 ] (HP AUMENTADO) / MAX 10
 		Nome = "神秘 Mystic Realms 領域",
@@ -1679,6 +1633,7 @@ local Gangs = {
 }
 
 return Gangs
+
 
 
 
