@@ -1662,11 +1662,24 @@ local Gangs = {
 			},
 		},----------------------------------- Gang ---------------------------------------------
 
+		[0] = {   -- [Dono ID: x ] (HP AUMENTADO) / MAX 10 
+			Nome = "🐉 Dragões Lunares🐉",
+			Vida = 1000,
+			Itens = {['Josef'] = 0},
+			Roupa = {Tier = 256,Shirt = 0,Pants = 0},
+			Cor = { 
+				Nome = 	  {Letra = {0, 0, 0},  Borda = {204, 0, 153}},
+				Patente = {Letra = {0, 0, 0},  Borda = {204, 0, 153}},
+				Team =    {Letra = {0, 0, 0},  Borda = {204, 0, 153}},
+			},
+		},----------------------------------- Gang ---------------------------------------------
+
 
 
 }
 
 return Gangs
+
 
 
 
