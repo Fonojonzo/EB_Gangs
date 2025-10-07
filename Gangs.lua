@@ -928,7 +928,7 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[33087206] = {   -- [Dono ID: 3602148039 ] (HP AUMENTADO) / MAX 10 sorteio gang 2 item
+	[0] = {   -- [Dono ID: 3602148039 ] (HP AUMENTADO) / MAX 10 sorteio gang 2 item / 33087206 pediu pra desativar mt gente raid
 		Nome = "Space Disorder",
 		Vida = 1500,
 		Itens = {['Mikey'] = 0,['Rinnegan_Push'] = 0,['SusanooSlap'] = 0},
@@ -1633,6 +1633,7 @@ local Gangs = {
 }
 
 return Gangs
+
 
 
 
