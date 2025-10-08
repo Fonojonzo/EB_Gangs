@@ -1434,7 +1434,7 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[36053519] = {   -- [Dono ID: 7139675815 ] (HP AUMENTADO) / MAX 10 
+	[36053519] = {   -- [Dono ID: 2026209493 ] (HP AUMENTADO) / MAX 10 
 		Nome = "THE SHINIGAMIS",
 		Vida = 1000,
 		Itens = {['Mikey'] = 0},
@@ -1633,6 +1633,7 @@ local Gangs = {
 }
 
 return Gangs
+
 
 
 
