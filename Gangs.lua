@@ -1616,7 +1616,7 @@ local Gangs = {
 			},
 		},----------------------------------- Gang ---------------------------------------------
 
-		[0] = {   -- [Dono ID: x ] (HP AUMENTADO) / MAX 10 
+		[34948573] = {   -- [Dono ID: 2407965814 ] (HP AUMENTADO) / MAX 10 
 			Nome = "🐉 Dragões Lunares🐉",
 			Vida = 1000,
 			Itens = {['Josef'] = 0},
@@ -1633,6 +1633,7 @@ local Gangs = {
 }
 
 return Gangs
+
 
 
 
