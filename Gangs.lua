@@ -1486,7 +1486,7 @@ local Gangs = {
 	[34021982] = {   -- [Dono ID: 5150614508 ] (HP AUMENTADO) / MAX 10 
 		Nome = "Fabio Friends",
 		Vida = 1500,
-		Itens = {['Mikey'] = 0,['SusanooSlap'] = {Color = {30,255,30},Knockback = 60}},
+		Itens = {['Mikey'] = 0,['SusanooSlap'] = {Color = {30,255,30},Knockback = 60},['Rasteira'] = 0},
 			Roupa = {Tier = 256,Shirt = 115960027223409,Pants = 98025257875084},
 			Cor = { 
 				Nome = 	  {Letra = {153, 204, 255},  Borda = {255, 0, 0}},
@@ -1633,6 +1633,7 @@ local Gangs = {
 }
 
 return Gangs
+
 
 
 
