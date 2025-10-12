@@ -1229,7 +1229,7 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 	[35822394] = {   -- [Dono ID: 5568805464 ] (HP AUMENTADO) / MAX 10 
-		Nome = "Darkness Revenge",
+		Nome = "衛星Luas-Crimson衛星",
 		Vida = 1000,
 		Itens = {['Josef'] = 0},
 		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
@@ -1633,6 +1633,7 @@ local Gangs = {
 }
 
 return Gangs
+
 
 
 
