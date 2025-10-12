@@ -1595,7 +1595,7 @@ local Gangs = {
 		[348893799] = {   -- [Dono ID: 2599454333 ] (HP AUMENTADO) / MAX 10 
 			Nome = "Black of Dragons",
 			Vida = 1000,
-			Itens = {['Mikey'] = 0,['SusanooSlap'] = 0,['Raio'] = 0},
+			Itens = {['Mikey'] = 0,['SusanooSlap'] = 0,['Raio'] = 0,['Rinnegan_Push'] = 0},
 			Roupa = {Tier = 256,Shirt = 0,Pants = 0},
 			Cor = { 
 				Nome = 	  {Letra = {255, 255, 255},  Borda = {0, 0, 0}},
@@ -1633,6 +1633,7 @@ local Gangs = {
 }
 
 return Gangs
+
 
 
 
