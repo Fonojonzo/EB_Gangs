@@ -202,18 +202,6 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[33866159] = {  -- [Dono ID:5135149009 ] slot 15 (HP AUMENTADO)
-		Nome = 'Kimetsu no Yaiba 鬼越 翁亚',
-		Vida = 2000,
-		Itens = {['KokusenKick'] = 0,['Dash'] = 0},
-		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
-		Cor = { 
-			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 255, 255}},
-			Patente = {Letra = {221, 12, 165},Borda = {23, 3, 33}},
-			Team =    {Letra = {0, 0, 0},Borda = {255, 255, 255}},
-		},
-	},----------------------------------- Gang ---------------------------------------------
-
 	[33970113] = {   -- [Dono ID: 3022604859 ] slot 15 / ID GANG PEDIDO PRA DESATIVAR  (HP AUMENTADO) -- ['KokusenKick'] = 0 / ['FireKick'] = 0
 		Nome = "Valhalla",	
 		Vida = 1000,
@@ -593,18 +581,6 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-
-	[35206390] = {   -- [Dono ID:1204916120 ] slot 10 /(HP AUMENTADO)
-		Nome = "戦 The Otsutsuki's 戦",
-		Vida = 1000,
-		Itens = {['Josef'] = 0,['Dash'] = 0},
-		Roupa = {Tier = 255,Shirt = 18349364445,Pants = 13201450960},
-		Cor = { 
-			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 255, 255}},
-			Patente = {Letra = {0, 0, 0},Borda = {255, 255, 255}},
-			Team =    {Letra = {0, 0, 0},Borda = {136, 0, 0}},
-		},
-	},----------------------------------- Gang ---------------------------------------------
 
 	[35235649] = {   -- [Dono ID: 2384251315 ] slot 10 /(HP AUMENTADO)
 		Nome = "TOП ح.र",
@@ -1633,6 +1609,7 @@ local Gangs = {
 }
 
 return Gangs
+
 
 
 
