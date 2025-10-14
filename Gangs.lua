@@ -1210,9 +1210,9 @@ local Gangs = {
 		Itens = {['Josef'] = 0},
 		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
 		Cor = { 
-			Nome = 	  {Letra = {255, 0, 0},Borda = {255, 255, 255}},
-			Patente = {Letra = {0, 0, 0},Borda = {255, 0, 0}},
-			Team =    {Letra = {0, 0, 0},Borda = {255, 0, 0}},
+			Nome = 	  {Letra = {255, 102, 0},Borda = {0, 0, 0}},
+			Patente = {Letra = {255, 102, 0},Borda = {0, 0, 0}},
+			Team =    {Letra = {255, 102, 0},Borda = {0, 0, 0}},
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
@@ -1604,11 +1604,24 @@ local Gangs = {
 			},
 		},----------------------------------- Gang ---------------------------------------------
 
+		[353462248] = {   -- [Dono ID: 9714948461 ] (HP AUMENTADO) / MAX 10 
+			Nome = "Los Titan",
+			Vida = 1000,
+			Itens = {['Josef'] = 0},
+			Roupa = {Tier = 256,Shirt = 0,Pants = 0},
+			Cor = { 
+				Nome = 	  {Letra = {0, 0, 0},  Borda = {255, 255, 255}},
+				Patente = {Letra = {0, 0, 0},  Borda = {255, 255, 255}},
+				Team =    {Letra = {0, 0, 0},  Borda = {255, 255, 255}},
+			},
+		},----------------------------------- Gang ---------------------------------------------
+
 
 
 }
 
 return Gangs
+
 
 
 
