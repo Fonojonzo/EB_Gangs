@@ -1618,8 +1618,8 @@ local Gangs = {
 
 		[653731889] = {   -- [Dono ID: 9572877873 ] (HP AUMENTADO) / MAX 10 
 			Nome = "爱Angels Syndicate爱",
-			Vida = 1000,
-			Itens = {['Josef'] = 0},
+			Vida = 2000,
+			Itens = {['Mikey'] = 0},
 			Roupa = {Tier = 256,Shirt = 0,Pants = 0},
 			Cor = { 
 				Nome = 	  {Letra = {0, 0, 0},  Borda = {255, 255, 255}},
@@ -1633,6 +1633,7 @@ local Gangs = {
 }
 
 return Gangs
+
 
 
 
