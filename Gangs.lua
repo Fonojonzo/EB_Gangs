@@ -280,7 +280,7 @@ local Gangs = {
 	[33793567] = { -- [Dono ID:2002432326 ] slot 15 /  limite membros
 		Nome = "魚LUAS IMPERATIVAS 🌙",
 		Vida = 1500,
-		Itens = {['KokusenKick'] = 0,['Dash'] = 0,['FireKick'] = 0,['TacoLucille'] = 0}, --['Yamato'] = {255 , 254 , 253 , 252 , 251} ,
+		Itens = {['FireKick'] = 0,['TacoLucille'] = 0,['SusanooSlap'] = 0}, --['Yamato'] = {255 , 254 , 253 , 252 , 251} ,
 		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 255, 102}},
@@ -1485,14 +1485,14 @@ local Gangs = {
 
 
 		[32352281] = {   -- [Dono ID: 2515682546 ] (HP AUMENTADO) / MAX 10 / 1 buff susanoo
-			Nome = "ExtVT",
+			Nome = "SoloXv",
 			Vida = 3000,
-			Itens = {['FireKick'] = 0,['Dash'] = 0,['SusanooSlap'] = {Knockback = 65},['Raio'] = 0,['Rinnegan_Push'] = 0},
+			Itens = {['FireKick'] = 0,['Dash'] = 0,['SusanooSlap'] = {Knockback = 65},['Raio'] = 0,['Rinnegan_Push'] = 0,['YinYang'] = 0},
 			Roupa = {Tier = 256,Shirt = 5933383402,Pants = 5115954271},
 			Cor = { 
 				Nome = 	  {Letra = {0, 0, 0},  Borda = {255, 255, 255}},
 				Patente = {Letra = {0, 0, 0},  Borda = {255, 255, 255}},
-				Team =    {Letra = {0, 0, 0},  Borda = {0, 0, 0}},
+				Team =    {Letra = {0, 0, 0},  Borda = {85, 0, 0}},
 			},
 		},----------------------------------- Gang ---------------------------------------------
 
@@ -1633,6 +1633,7 @@ local Gangs = {
 }
 
 return Gangs
+
 
 
 
