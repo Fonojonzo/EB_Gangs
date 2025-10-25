@@ -65,9 +65,9 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[0] = {
+	[35259599] = {
 		Nome = 'Eternity Order',
-		Vida = 4000,
+		Vida = 5000,
 		Itens = {['PisoLuas'] = 0,['FP_Run'] = {256},['FP_Teleport'] = 0,['Void'] = 254,['FPColateral'] = 0,['DemonBash'] = 0,['IceParadise'] = 230,['DemonRegen'] = 0,['DoubleJump'] = 0},
 		Roupa = {Tier = 95,Shirt = 0,Pants = 0},
 		Cor = {
@@ -1633,6 +1633,7 @@ local Gangs = {
 }
 
 return Gangs
+
 
 
 
