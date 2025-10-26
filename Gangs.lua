@@ -96,7 +96,7 @@ local Gangs = {
 		Nome = 'Scarlet Syndicate', 
 		Vida = 2000,
 		Itens = {['Mikey'] = 0,['ChuteCongelante'] = 0,['SusanooSlap'] = 0},
-		Roupa = {Tier = 260,Shirt = 7061606670,Pants = 8995167282},
+		Roupa = {Tier = 260,Shirt = 17332995945,Pants = 12216582717},
 		Cor = {
 			Nome = 	  {Letra = {255, 255, 255},Borda = {128, 128, 128}},
 			Patente = {Letra = {255, 255, 255},Borda = {128, 128, 128}},
@@ -1646,6 +1646,7 @@ local Gangs = {
 }
 
 return Gangs
+
 
 
 
