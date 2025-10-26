@@ -54,9 +54,9 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 	[34908951] = {
-		Nome = 'Esquadrão de Caçadores de Onis',
+		Nome = 'Demon Slayer Corps',
 		Vida = 5000,
-		Itens = {['Dash'] = 0,['SwordSlash'] = 0,['Hinokami_1'] = 100,['MundoTransparente'] = 0,['DoubleJump'] = 0,['SusanooSlap'] = 0,['Rinnegan_Push'] = 0,['SlayerMark'] = 0,['ChuteCongelante'] = 0},
+		Itens = {['Dash'] = 0,['SwordSlash'] = 0,['Hinokami_1'] = 100,['MundoTransparente'] = 0,['DoubleJump'] = 0,['SlayerMark'] = 0},
 		Roupa = {Tier = 254,Shirt = 7085831071,Pants = 7085861080},
 		Cor = {
 			Nome = 	  {Letra = {0,0,0},Borda = {255,255,255},RGB = false},
@@ -1633,6 +1633,7 @@ local Gangs = {
 }
 
 return Gangs
+
 
 
 
