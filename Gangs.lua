@@ -1487,7 +1487,7 @@ local Gangs = {
 		[32352281] = {   -- [Dono ID: 2515682546 ] (HP AUMENTADO) / MAX 10 / 1 buff susanoo
 			Nome = "SoloXv",
 			Vida = 3000,
-			Itens = {['FireKick'] = 0,['Dash'] = 0,['SusanooSlap'] = {Knockback = 65},['Raio'] = 0,['Rinnegan_Push'] = 0,['YinYang'] = 0},
+			Itens = {['FireKick'] = 0,['Dash'] = 0,['SusanooSlap'] = {Knockback = 65},['Raio'] = 0,['Rinnegan_Push'] = 0,['YinYang'] = 0,['Colateral'] = 0},
 			Roupa = {Tier = 256,Shirt = 13062982935,Pants = 18386095441},
 			Cor = { 
 				Nome = 	  {Letra = {0, 0, 0},  Borda = {255, 255, 255}},
@@ -1633,6 +1633,7 @@ local Gangs = {
 }
 
 return Gangs
+
 
 
 
