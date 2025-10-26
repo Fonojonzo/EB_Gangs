@@ -1491,8 +1491,8 @@ local Gangs = {
 			Roupa = {Tier = 256,Shirt = 13062982935,Pants = 18386095441},
 			Cor = { 
 				Nome = 	  {Letra = {0, 0, 0},  Borda = {255, 255, 255}},
-				Patente = {Letra = {0, 0, 0},  Borda = {255, 255, 255}},
-				Team =    {Letra = {85, 0, 0},  Borda = {255, 255, 255}},
+				Patente = {Letra = {0, 0, 0},  Borda = {153, 0, 153}},
+				Team =    {Letra = {0, 0, 0},  Borda = {153, 0, 153}},
 			},
 		},----------------------------------- Gang ---------------------------------------------
 
@@ -1646,6 +1646,7 @@ local Gangs = {
 }
 
 return Gangs
+
 
 
 
