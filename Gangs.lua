@@ -1598,9 +1598,9 @@ local Gangs = {
 			Itens = {['Josef'] = 0},
 			Roupa = {Tier = 256,Shirt = 0,Pants = 0},
 			Cor = { 
-				Nome = 	  {Letra = {0, 0, 0},  Borda = {204, 0, 153}},
-				Patente = {Letra = {0, 0, 0},  Borda = {204, 0, 153}},
-				Team =    {Letra = {0, 0, 0},  Borda = {204, 0, 153}},
+				Nome = 	  {Letra = {255, 0, 0},  Borda = {0, 0, 0}},
+				Patente = {Letra = {246, 123, 0},  Borda = {111, 111, 111}},
+				Team =    {Letra = {255, 0, 0},  Borda = {255, 255, 255}},
 			},
 		},----------------------------------- Gang ---------------------------------------------
 
@@ -1646,6 +1646,7 @@ local Gangs = {
 }
 
 return Gangs
+
 
 
 
