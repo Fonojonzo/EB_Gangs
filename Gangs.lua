@@ -202,7 +202,7 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[33970113] = {   -- [Dono ID: 3022604859 ] slot 15 / ID GANG PEDIDO PRA DESATIVAR  (HP AUMENTADO) -- ['KokusenKick'] = 0 / ['FireKick'] = 0
+	[33970113] = {   -- [Dono ID: 3018498013 ] slot 15 / ID GANG PEDIDO PRA DESATIVAR  (HP AUMENTADO) -- ['KokusenKick'] = 0 / ['FireKick'] = 0
 		Nome = "Valhalla",	
 		Vida = 1000,
 		Itens = {['Rinnegan_Push'] = 0,['Rasteira'] = 0,['SusanooSlap'] = 0,['Raio'] = 0},
@@ -1636,8 +1636,8 @@ local Gangs = {
 			Roupa = {Tier = 256,Shirt = 0,Pants = 0},
 			Cor = { 
 				Nome = 	  {Letra = {255, 0, 0},  Borda = {0, 0, 0}},
-				Patente = {Letra = {255, 0, 0},  Borda = {0, 0, 0}},
-				Team =    {Letra = {255, 0, 0},  Borda = {0, 0, 0}},
+				Patente = {Letra = {0, 0, 0},  Borda = {255, 0, 0}},
+				Team =    {Letra = {0, 0, 0},  Borda = {255, 0, 0}},
 			},
 		},----------------------------------- Gang ---------------------------------------------
 
@@ -1646,6 +1646,7 @@ local Gangs = {
 }
 
 return Gangs
+
 
 
 
