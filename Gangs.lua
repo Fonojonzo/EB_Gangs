@@ -1619,9 +1619,9 @@ local Gangs = {
 			},
 		},----------------------------------- Gang ---------------------------------------------
 
-		[313867337] = {   -- [Dono ID: 5084914166 ] (HP AUMENTADO) / MAX 10 
+		[313867337] = {   -- [Dono ID: 4706357886 ] (HP AUMENTADO) / MAX 10 
 			Nome = " 名 Rolls Comunity 名",
-			Dono = 5084914166,
+			Dono = 4706357886,
 			Vida = 1000,
 			Itens = {['Mikey'] = 0,['Dash'] = 0,['SusanooSlap'] = 0,['Rinnegan_Push'] = 0},
 			Roupa = {Tier = 256,Shirt = 0,Pants = 0},
@@ -1766,6 +1766,7 @@ local Gangs = {
 }
 
 return Gangs
+
 
 
 
