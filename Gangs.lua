@@ -1598,11 +1598,11 @@ local Gangs = {
 			Dono = 2515682546,
 			Vida = 3000,
 			Itens = {['FireKick'] = 0,['Dash'] = 0,['SusanooSlap'] = {Knockback = 65},['Raio'] = 0,['Rinnegan_Push'] = 0,['YinYang'] = 0,['Colateral'] = 0},
-			Roupa = {Tier = 256,Shirt = 7466034115,Pants = 6490506149},
+			Roupa = {Tier = 256,Shirt = 0,Pants = 0},
 			Cor = { 
 				Nome = 	  {Letra = {0, 0, 0},  Borda = {255, 255, 255}},
-				Patente = {Letra = {0, 0, 0},  Borda = {153, 0, 153}},
-				Team =    {Letra = {0, 0, 0},  Borda = {153, 0, 153}},
+				Patente = {Letra = {0, 0, 0},  Borda = {85, 0, 0}},
+				Team =    {Letra = {0, 0, 0},  Borda = {85, 0, 0}},
 			},
 		},----------------------------------- Gang ---------------------------------------------
 
@@ -1766,6 +1766,7 @@ local Gangs = {
 }
 
 return Gangs
+
 
 
 
