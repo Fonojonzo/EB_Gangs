@@ -1684,15 +1684,15 @@ local Gangs = {
 		},----------------------------------- Gang ---------------------------------------------
 
 		[348893799] = {   -- [Dono ID: 2599454333 ] (HP AUMENTADO) / MAX 10 
-			Nome = "Black of Dragons",
+			Nome = "Eternity Dragons",
 			Dono = 2599454333,
 			Vida = 1000,
 			Itens = {['Mikey'] = 0,['SusanooSlap'] = 0,['Raio'] = 0,['Rinnegan_Push'] = 0,['YinYang'] = 0},
 			Roupa = {Tier = 256,Shirt = 0,Pants = 0},
 			Cor = { 
-				Nome = 	  {Letra = {255, 255, 255},  Borda = {0, 0, 0}},
-				Patente = {Letra = {255, 255, 255},  Borda = {0, 0, 0}},
-				Team =    {Letra = {0, 0, 0},  Borda = {255, 255, 255}},
+				Nome = 	  {Letra = {102, 255, 255},  Borda = {0, 0, 255}},
+				Patente = {Letra = {102, 255, 255},  Borda = {0, 0, 255}},
+				Team =    {Letra = {102, 255, 255},  Borda = {102, 204, 255}},
 			},
 		},----------------------------------- Gang ---------------------------------------------
 
@@ -1779,6 +1779,7 @@ local Gangs = {
 }
 
 return Gangs
+
 
 
 
