@@ -806,7 +806,7 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 	[33304042] = {   -- [Dono ID: san 5551458487 ] (HP AUMENTADO) MAX 11 / katana emprestada do gojo / colateral/rinnegan/raio/susanoo emprestado para o san
-		Nome = "Moebius New Geration",
+		Nome = "Goten",
 		Vida = 1000,
 		Itens = {['SwordSlash'] = 0,['Colateral'] = 0,['Rinnegan_Push'] = {Size = 30},['Raio'] = 0,['SusanooSlap'] = {Color = {160, 120, 89}}},
 		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
@@ -1762,10 +1762,24 @@ local Gangs = {
 			},
 		},----------------------------------- Gang ---------------------------------------------
 
+		[572430128] = {   --
+			Nome = "Zeladores",
+			Dono = 5084914166,
+			Vida = 1000,
+			Itens = {['Josef'] = 0},
+			Roupa = {Tier = 256,Shirt = 0,Pants = 0},
+			Cor = { 
+				Nome = 	  {Letra = {0, 0, 0},  Borda = {255, 255, 255}},
+				Patente = {Letra = {0, 0, 0},  Borda = {255, 255, 255}},
+				Team =    {Letra = {102, 255, 51},  Borda = {0, 0, 0}},
+			},
+		},----------------------------------- Gang ---------------------------------------------
+
 
 }
 
 return Gangs
+
 
 
 
