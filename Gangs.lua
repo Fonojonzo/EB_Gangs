@@ -1710,15 +1710,15 @@ local Gangs = {
 		},----------------------------------- Gang ---------------------------------------------
 
 		[34948573] = {   -- [Dono ID: 2407965814 ] (HP AUMENTADO) / MAX 10 
-			Nome = "🐉 Dragões Lunares🐉",
+			Nome = "Shadow Blades",
 			Dono = 2407965814,
 			Vida = 1000,
 			Itens = {['Josef'] = 0},
 			Roupa = {Tier = 256,Shirt = 0,Pants = 0},
 			Cor = { 
-				Nome = 	  {Letra = {255, 0, 0},  Borda = {0, 0, 0}},
-				Patente = {Letra = {246, 123, 0},  Borda = {111, 111, 111}},
-				Team =    {Letra = {255, 0, 0},  Borda = {255, 255, 255}},
+				Nome = 	  {Letra = {255, 51, 204},  Borda = {0, 0, 0}},
+				Patente = {Letra = {223, 128, 255},  Borda = {255, 255, 255}},
+				Team =    {Letra = {0, 0, 102},  Borda = {102, 0, 102}},
 			},
 		},----------------------------------- Gang ---------------------------------------------
 
@@ -1807,6 +1807,7 @@ local Gangs = {
 }
 
 return Gangs
+
 
 
 
