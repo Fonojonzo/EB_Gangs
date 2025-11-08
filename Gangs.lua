@@ -93,7 +93,7 @@ local Gangs = {
 
 	},----------------------------------- Gang ---------------------------------------------
 
-	[33524892] = {  -- [Dono ID:2623179010 = 3022604859 ] slot 10  /  troca de dono / tentou trocar gang desativada por raça / 
+	[0] = {  -- [Dono ID:2623179010 = 3022604859 ] slot 10  /  troca de dono / tentou trocar gang desativada por raça / 33524892 excesso membros / troca de donos
 		Nome = 'Scarlet Syndicate', 
 		Dono = 2623179010,
 		Vida = 2000,
@@ -1807,6 +1807,7 @@ local Gangs = {
 }
 
 return Gangs
+
 
 
 
