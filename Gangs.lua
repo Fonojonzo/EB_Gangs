@@ -319,9 +319,9 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[33277598] = { -- [Dono ID:3790482088 ou 3790482088 ] slot 15(HP AUMENTADO)
+	[33277598] = { -- [Dono ID: 7158525435 ] slot 15(HP AUMENTADO)
 		Nome = "SoledBy",
-		Dono = 3790482088,
+		Dono = 7158525435,
 		Vida = 1000,
 		Itens = {['KokusenKick'] = 0,['Yamato'] = 0,['TacoLucille'] = 0,['Rasteira'] = 0,['FireKick'] = 0,['YinYang'] = 0,['CorteDiabolico'] = 0},
 		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
@@ -1255,9 +1255,9 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[35747596] = {   -- [Dono ID: 7996045735 ] (HP AUMENTADO) / MAX 10 
+	[35747596] = {   -- [Dono ID: 9058912085 ] (HP AUMENTADO) / MAX 10 
 		Nome = "Yagyo Douji",
-		Dono = 7996045735,
+		Dono = 9058912085,
 		Vida = 1000,
 		Itens = {['Mikey'] = 0,['FireKick'] = 0},
 		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
@@ -1307,9 +1307,9 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[33454826] = {   -- [Dono ID: 2885875741 ] (HP AUMENTADO) / MAX 10 
+	[33454826] = {   -- [Dono ID: 7158525435 ] (HP AUMENTADO) / MAX 10 
 		Nome = "Valhalla The Gang",
-		Dono = 2885875741,
+		Dono = 7158525435,
 		Vida = 1000,
 		Itens = {['ChuteCongelante'] = 0,['Hinokami_1'] = 0,['ChuteEletrico'] = 0},
 		Roupa = {Tier = 256,Shirt = 8326276598,Pants = 6938668835},
@@ -1808,6 +1808,7 @@ local Gangs = {
 }
 
 return Gangs
+
 
 
 
