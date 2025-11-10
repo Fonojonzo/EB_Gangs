@@ -293,9 +293,9 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[33793567] = { -- [Dono ID:2002432326 ] slot 15 /  limite membros
+	[33793567] = { -- [Dono ID:3965828102 ] slot 15 /  limite membros
 		Nome = "魚LUAS IMPERATIVAS 🌙",
-		Dono = 2002432326,
+		Dono = 3965828102,
 		Vida = 1500,
 		Itens = {['FireKick'] = 0,['TacoLucille'] = 0,['SusanooSlap'] = 0}, --['Yamato'] = {255 , 254 , 253 , 252 , 251} ,
 		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
@@ -1099,9 +1099,9 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[35621371] = {   -- [Dono ID: 1303845169 ] (HP AUMENTADO) / MAX 10 
+	[35621371] = {   -- [Dono ID: 4422049102 ] (HP AUMENTADO) / MAX 10 
 		Nome = "The New Sun 🉐️🌀",
-		Dono = 1303845169,
+		Dono = 4422049102,
 		Vida = 1000,
 		Itens = {['Josef'] = 0,['YinYang'] = 0,['SusanooSlap'] = 0},
 		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
@@ -1808,6 +1808,7 @@ local Gangs = {
 }
 
 return Gangs
+
 
 
 
