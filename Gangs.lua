@@ -57,7 +57,7 @@ local Gangs = {
 	[34908951] = {
 		Nome = 'Demon Slayer Corps',
 		Vida = 5000,
-		Efeito = 'FireStroke',
+		Efeito = {Type = 'FireStroke',Speed = 1,Size = 2}
 		Itens = {['Dash'] = 0,['SwordSlash'] = 0,['Hinokami_1'] = 100,['MundoTransparente'] = 0,['DoubleJump'] = 0,['SlayerMark'] = 0},
 		Roupa = {Tier = 254,Shirt = 7085831071,Pants = 7085861080},
 		Cor = {
@@ -1836,6 +1836,7 @@ local Gangs = {
 }
 
 return Gangs
+
 
 
 
