@@ -1714,7 +1714,7 @@ local Gangs = {
 			Nome = "Shadow Blades",
 			Dono = 2407965814,
 			Vida = 1000,
-			Itens = {['Josef'] = 0},
+			Itens = {['Josef'] = 0,['Raio'] = 0},
 			Roupa = {Tier = 256,Shirt = 0,Pants = 0},
 			Cor = { 
 				Nome = 	  {Letra = {255, 51, 204},  Borda = {0, 0, 0}},
@@ -1808,6 +1808,7 @@ local Gangs = {
 }
 
 return Gangs
+
 
 
 
