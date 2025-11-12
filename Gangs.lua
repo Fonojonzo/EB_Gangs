@@ -16,6 +16,7 @@ local Gangs = {
 	[34720826] = {
 		Nome = 'Akatsuki',
 		Vida = 5000,
+		Efeito = 'FireStroke',
 		Itens = {['Rinnegan_Push'] = {Size = 10,Voice = 117779581030667,Debounce = 5,Knockback = 130},['DoubleJump'] = 0,['MinatoKunai'] = 0,['Susanoo2Swords'] = {Color = {0,0,255},Knockback = 86,Debounce = 2.5,Sound = 5686379468}
 			,['Clones'] = 0,['FPColateral'] = 0},
 		Roupa = {Tier = 95,Shirt = 0,Pants = 0},
@@ -1835,6 +1836,7 @@ local Gangs = {
 }
 
 return Gangs
+
 
 
 
