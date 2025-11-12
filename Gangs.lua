@@ -479,7 +479,7 @@ local Gangs = {
 
 	[32367594] = { -- [Dono ID: 3605403073] slot 10(HP AUMENTADO) /
 		Nome = "NoCraK",
-		Dono = 3605403073,
+		Dono = 528259445,
 		Vida = 1000,
 		Itens = {['KokusenKick'] = 0,['Rasteira'] = 0,['Raio'] = 0},
 		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
@@ -1836,6 +1836,7 @@ local Gangs = {
 }
 
 return Gangs
+
 
 
 
