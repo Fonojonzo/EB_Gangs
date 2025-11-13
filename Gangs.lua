@@ -243,7 +243,7 @@ local Gangs = {
 
 	[34433571] = { -- [Dono ID: 1475317855 ] slot 15(HP AUMENTADO)
 		Nome = "Toп Ndrangheta",
-		Dono = 1475317855,
+		Dono = 4798477991,
 		Vida = 1000,
 		Itens = {['KokusenKick'] = 0,['Dash'] = 0,['TacoLucille'] = 13,['Rasteira'] = 0},
 		Roupa = {Tier = 255,Shirt = 10035250623,Pants = 10035256299},
@@ -1467,7 +1467,7 @@ local Gangs = {
 
 	[36035923] = {   -- [Dono ID: 5793099708 ] (HP AUMENTADO) / MAX 10 /
 		Nome = "デミKASHIMA OF WATERアカ",
-		Dono = 5793099708,
+		Dono = 3021327995,
 		Vida = 1000,
 		Itens = {['Josef'] = 0,['FireKick'] = 0},
 		Roupa = {Tier = 256,Shirt = 9915825619,Pants = 9915827096},
@@ -1837,6 +1837,7 @@ local Gangs = {
 }
 
 return Gangs
+
 
 
 
