@@ -808,11 +808,11 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[33304042] = {   -- [Dono ID: san 5551458487 ] (HP AUMENTADO) MAX 11 / katana emprestada do gojo / colateral/rinnegan/raio/susanoo emprestado para o san
+	[33304042] = {   -- [Dono ID: san 5551458487 ] (HP AUMENTADO) MAX 11 / katana emprestada do gojo / colateral/rinnegan/raio/susanoo emprestado para o san hinokami até 16/12
 		Nome = "Goten",
 		Dono = 5551458487,
 		Vida = 1000,
-		Itens = {['SwordSlash'] = 0,['Colateral'] = 0,['Rinnegan_Push'] = {Size = 30},['Raio'] = 0,['SusanooSlap'] = {Color = {160, 120, 89}}},
+		Itens = {['SwordSlash'] = 0,['Colateral'] = 0,['Rinnegan_Push'] = {Size = 30},['Raio'] = 0,['SusanooSlap'] = {Color = {160, 120, 89}},['Hinokami_1'] = 0},
 		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 255, 255}},
@@ -1837,6 +1837,7 @@ local Gangs = {
 }
 
 return Gangs
+
 
 
 
