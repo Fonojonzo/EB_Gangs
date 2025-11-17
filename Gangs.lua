@@ -1456,7 +1456,7 @@ local Gangs = {
 		Nome = "笑-Tokyo Dragons Gang-笑",
 		Dono = 3053559015,
 		Vida = 1500,
-		Itens = {['Mikey'] = 0},
+		Itens = {['KokusenKick'] = 0,['Raio'] = 0},
 		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 255, 255}},
@@ -1598,7 +1598,7 @@ local Gangs = {
 
 
 		[32352281] = {   -- [Dono ID: 2515682546 ] (HP AUMENTADO) / MAX 10 / 1 buff susanoo
-			Nome = "SoloXv",
+			Nome = "ㅊ Hunters ㅊ",
 			Dono = 2515682546,
 			Vida = 3000,
 			Itens = {['FireKick'] = 0,['Dash'] = 0,['SusanooSlap'] = {Knockback = 65},['Raio'] = 0,['Rinnegan_Push'] = 0,['YinYang'] = 0,['Colateral'] = 0},
@@ -1624,7 +1624,7 @@ local Gangs = {
 		},----------------------------------- Gang ---------------------------------------------
 
 		[313867337] = {   -- [Dono ID: 4706357886 ] (HP AUMENTADO) / MAX 10 
-			Nome = " 名 Rolls Comunity 名",
+			Nome = "Hakaishin's",
 			Dono = 4706357886,
 			Vida = 1000,
 			Itens = {['Mikey'] = 0,['Dash'] = 0,['SusanooSlap'] = 0,['Rinnegan_Push'] = 0},
@@ -1837,6 +1837,7 @@ local Gangs = {
 }
 
 return Gangs
+
 
 
 
