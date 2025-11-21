@@ -1623,11 +1623,11 @@ local Gangs = {
 			},
 		},----------------------------------- Gang ---------------------------------------------
 
-		[313867337] = {   -- [Dono ID: 4706357886 ] (HP AUMENTADO) / MAX 10 
+		[313867337] = {   -- [Dono ID: 4706357886 ] (HP AUMENTADO) / MAX 10 ( temp evento 20/12 hinokami )
 			Nome = "Hakaishin's",
 			Dono = 4706357886,
 			Vida = 1000,
-			Itens = {['Mikey'] = 0,['Dash'] = 0,['SusanooSlap'] = 0,['Rinnegan_Push'] = 0},
+			Itens = {['Mikey'] = 0,['Dash'] = 0,['SusanooSlap'] = 0,['Rinnegan_Push'] = 0,['Hinokami_1'] = 0},
 			Roupa = {Tier = 256,Shirt = 0,Pants = 0},
 			Cor = { 
 				Nome = 	  {Letra = {0, 0, 0},  Borda = {153, 0, 153}},
@@ -1837,6 +1837,7 @@ local Gangs = {
 }
 
 return Gangs
+
 
 
 
