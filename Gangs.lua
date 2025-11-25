@@ -374,7 +374,7 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[34666520] = { -- grupo 34666520 -- [Dono ID: 1797067969](HP AUMENTADO) / 15 max
+	[805519450] = { -- grupo 805519450 -- [Dono ID: 1797067969](HP AUMENTADO) / 15 max
 		Nome = "Survey Corps",
 		Dono = 1797067969,
 		Vida = 1000,
@@ -1837,6 +1837,7 @@ local Gangs = {
 }
 
 return Gangs
+
 
 
 
