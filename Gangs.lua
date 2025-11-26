@@ -1676,7 +1676,7 @@ local Gangs = {
 
 		[33479641] = {   -- [Dono ID: 33479641 ] (HP AUMENTADO) / MAX 10 
 			Nome = "Caçadores de Hashiras ハシラハンター",
-			Dono = 33479641,
+			Dono = 5274304169,
 			Vida = 1000,
 			Itens = {['Josef'] = 0},
 			Roupa = {Tier = 256,Shirt = 0,Pants = 0},
@@ -1837,6 +1837,7 @@ local Gangs = {
 }
 
 return Gangs
+
 
 
 
