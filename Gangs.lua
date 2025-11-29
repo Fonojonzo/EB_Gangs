@@ -3,6 +3,7 @@ local Gangs = {
 	[32325896] = {
 		Nome = 'Tokyo Manji Gang',
 		Vida = 4000,
+		Aura = 'Dells',
 		Itens = {['ImpulsoSombrio'] = 0,['Hinokami_1'] = 0,['SocoEletrico'] = 0,['Rinnegan_Push'] = {Size = 10,Voice = 117779581030667,Debounce = 5,Knockback = 130},['DoubleJump'] = 0,['MinatoKunai'] = 0,['Susanoo2Swords'] = {Color = {0,0,255},Knockback = 86,Debounce = 2.5,Sound = 5686379468}
 			,['Clones'] = 0	},
 		Roupa = {Tier = 95,Shirt = 0,Pants = 0},
@@ -1837,6 +1838,7 @@ local Gangs = {
 }
 
 return Gangs
+
 
 
 
