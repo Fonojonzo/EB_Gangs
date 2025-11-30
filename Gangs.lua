@@ -1666,8 +1666,8 @@ local Gangs = {
 			Nome = "是~The Lunars~ 度",
 			Dono = 4016113843,
 			Vida = 1000,
-			Itens = {['Josef'] = 0,['FireKick'] = 0},
-			Roupa = {Tier = 256,Shirt = 0,Pants = 0},
+			Itens = {['Josef'] = 0,['FireKick'] = 0,['YinYang'] = 0},
+			Roupa = {Tier = 256,Shirt = 2896576373,Pants = 1458771381},
 			Cor = { 
 				Nome = 	  {Letra = {0, 0, 0},  Borda = {230, 0, 230}},
 				Patente = {Letra = {0, 0, 0},  Borda = {230, 0, 230}},
@@ -1881,6 +1881,7 @@ local Gangs = {
 }
 
 return Gangs
+
 
 
 
