@@ -1055,7 +1055,7 @@ local Gangs = {
 		Nome = "名誉DICIPLES OF THE GODS名誉",
 		Dono = 7681280367,
 		Vida = 1500,
-		Itens = {['Mikey'] = 0,['Dash'] = 0},
+		Itens = {['KokusenKick'] = 0,['Dash'] = 0,['SusanooSlap'] = 0},
 		Roupa = {Tier = 256,Shirt = 7801392003,Pants = 12166825438},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 51, 0}},
@@ -1881,6 +1881,7 @@ local Gangs = {
 }
 
 return Gangs
+
 
 
 
