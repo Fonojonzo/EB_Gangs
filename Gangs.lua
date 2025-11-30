@@ -1316,11 +1316,11 @@ local Gangs = {
 		Dono = 7158525435,
 		Vida = 1000,
 		Itens = {['ChuteCongelante'] = 0,['Hinokami_1'] = 0,['ChuteEletrico'] = 0},
-		Roupa = {Tier = 256,Shirt = 8326276598,Pants = 6938668835},
+		Roupa = {Tier = 254,Shirt = 8993037046,Pants = 4879416725},
 		Cor = { 
-			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 255, 255}},
-			Patente = {Letra = {0, 0, 0},Borda = {255, 255, 255}},
-			Team =    {Letra = {0, 0, 0},Borda = {255, 255, 255}},
+			Nome = 	  {Letra = {0, 0, 0},Borda = {153, 0, 153}},
+			Patente = {Letra = {0, 0, 0},Borda = {255, 255, 0}},
+			Team =    {Letra = {0, 0, 0},Borda = {255, 255, 0}},
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
@@ -1854,6 +1854,7 @@ local Gangs = {
 }
 
 return Gangs
+
 
 
 
