@@ -1312,7 +1312,7 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 	[33454826] = {   -- [Dono ID: 7158525435 ] (HP AUMENTADO) / MAX 10 
-		Nome = "Valhalla The Gang",
+		Nome = "Máfia da Passione",
 		Dono = 7158525435,
 		Vida = 1000,
 		Itens = {['ChuteCongelante'] = 0,['Hinokami_1'] = 0,['ChuteEletrico'] = 0},
@@ -1854,6 +1854,7 @@ local Gangs = {
 }
 
 return Gangs
+
 
 
 
