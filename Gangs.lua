@@ -1825,7 +1825,7 @@ local Gangs = {
 			Dono = 7681638701,
 			Vida = 1000,
 			Itens = {['Mikey'] = 0},
-			Roupa = {Tier = 256,Shirt = 0,Pants = 0},
+			Roupa = {Tier = 256,Shirt = 0,Pants = 0},	
 			Cor = { 
 				Nome = 	  {Letra = {0, 0, 0},  Borda = {255, 204, 0}},
 				Patente = {Letra = {0, 0, 0},  Borda = {255, 204, 0}},
@@ -1848,12 +1848,28 @@ local Gangs = {
 			},
 		},----------------------------------- Gang ---------------------------------------------
 
+		[308629618] = {  
+			Nome = "SoloyWss",
+			Dono = 8923133188,
+			Vida = 1000,
+			Aura = 'Dells',
+			Itens = {['Mikey'] = 0},
+			Roupa = {Tier = 256,Shirt = 0,Pants = 0},
+			Cor = { 
+				Nome = 	  {Letra = {0, 0, 0},  Borda = {255, 255, 255}},
+				Patente = {Letra = {0, 0, 0},  Borda = {255, 255, 255}},
+				Team =    {Letra = {255, 0, 0},  Borda = {0, 0, 0}},
+			},
+		},----------------------------------- Gang ---------------------------------------------
+
+
 
 
 
 }
 
 return Gangs
+
 
 
 
