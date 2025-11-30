@@ -1838,6 +1838,7 @@ local Gangs = {
 			Nome = "Samurai",
 			Dono = 7648333286,
 			Vida = 1000,
+			Aura = 'Dells',
 			Itens = {['Mikey'] = 0},
 			Roupa = {Tier = 256,Shirt = 0,Pants = 0},
 			Cor = { 
@@ -1853,59 +1854,6 @@ local Gangs = {
 }
 
 return Gangs
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
