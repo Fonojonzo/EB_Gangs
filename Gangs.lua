@@ -1863,7 +1863,7 @@ local Gangs = {
 
 		[360105145] = {  
 			Nome = "有 • The Seven Deadly Sins • 有",
-			Dono = 8923133188,
+			Dono = 5797408926,
 			Vida = 1000,
 			Itens = {['Mikey'] = 0},
 			Roupa = {Tier = 256,Shirt = 0,Pants = 0},
@@ -1874,6 +1874,20 @@ local Gangs = {
 			},
 		},----------------------------------- Gang ---------------------------------------------
 
+	
+		[740521745] = {  
+			Nome = "Astral Legion",
+			Dono = 5325771322,
+			Vida = 1000,
+			Itens = {['Mikey'] = 0},
+			Roupa = {Tier = 256,Shirt = 0,Pants = 0},
+			Cor = { 
+				Nome = 	  {Letra = {0, 0, 0},  Borda = {184, 255, 202}},
+				Patente = {Letra = {0, 0, 0},  Borda = {184, 255, 202}},
+				Team =    {Letra = {0, 0, 0},  Borda = {184, 255, 202}},
+			},
+		},----------------------------------- Gang ---------------------------------------------
+
 
 
 
@@ -1881,6 +1895,7 @@ local Gangs = {
 }
 
 return Gangs
+
 
 
 
