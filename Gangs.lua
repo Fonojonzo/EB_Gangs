@@ -1852,13 +1852,25 @@ local Gangs = {
 			Nome = "SoloyWss",
 			Dono = 8923133188,
 			Vida = 1000,
-			Aura = 'Dells',
 			Itens = {['Mikey'] = 0},
 			Roupa = {Tier = 256,Shirt = 0,Pants = 0},
 			Cor = { 
 				Nome = 	  {Letra = {0, 0, 0},  Borda = {255, 255, 255}},
 				Patente = {Letra = {0, 0, 0},  Borda = {255, 255, 255}},
 				Team =    {Letra = {255, 0, 0},  Borda = {0, 0, 0}},
+			},
+		},----------------------------------- Gang ---------------------------------------------
+
+		[360105145] = {  
+			Nome = "有 • The Seven Deadly Sins • 有",
+			Dono = 8923133188,
+			Vida = 1000,
+			Itens = {['Mikey'] = 0},
+			Roupa = {Tier = 256,Shirt = 0,Pants = 0},
+			Cor = { 
+				Nome = 	  {Letra = {0, 0, 0},  Borda = {38, 38, 38}},
+				Patente = {Letra = {255, 255, 153},  Borda = {38, 38, 38}},
+				Team =    {Letra = {0, 0, 0},  Borda = {38, 38, 38}},
 			},
 		},----------------------------------- Gang ---------------------------------------------
 
@@ -1869,6 +1881,7 @@ local Gangs = {
 }
 
 return Gangs
+
 
 
 
