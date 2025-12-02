@@ -1329,7 +1329,7 @@ local Gangs = {
 		Dono = 4123916333,
 		Vida = 1000,
 		Itens = {['KokusenKick'] = 0},
-		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
+		Roupa = {Tier = 256,Shirt = 123900184797346,Pants = 12970321065},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},Borda = {0, 255, 255}},
 			Patente = {Letra = {0, 0, 0},Borda = {255, 204, 0}},
@@ -1895,6 +1895,7 @@ local Gangs = {
 }
 
 return Gangs
+
 
 
 
