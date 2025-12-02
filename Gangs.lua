@@ -167,7 +167,7 @@ local Gangs = {
 		Dono = 3589122928,
 		Vida = 1000,
 		Itens = {['Mikey'] = 0,['TacoLucille'] = 0},
-		Roupa = {Tier = 95,Shirt = 0,Pants = 0},
+		Roupa = {Tier = 95,Shirt = 6499302106,Pants = 14787443998},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},Borda = {153, 0, 0}},
 			Patente = {Letra = {0, 0, 0},Borda = {153, 0, 0}},
@@ -1895,6 +1895,7 @@ local Gangs = {
 }
 
 return Gangs
+
 
 
 
