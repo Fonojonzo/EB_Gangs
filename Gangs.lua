@@ -1767,7 +1767,7 @@ local Gangs = {
 		},----------------------------------- Gang ---------------------------------------------
 
 		[572430128] = {   --
-			Nome = "Zeladores",
+			Nome = "Crimson Order",
 			Dono = 5084914166,
 			Vida = 1000,
 			Itens = {['Josef'] = 0},
@@ -1894,6 +1894,7 @@ local Gangs = {
 }
 
 return Gangs
+
 
 
 
