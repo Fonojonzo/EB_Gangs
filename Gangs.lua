@@ -1688,15 +1688,15 @@ local Gangs = {
 		},----------------------------------- Gang ---------------------------------------------
 
 		[348893799] = {   -- [Dono ID: 2599454333 ] (HP AUMENTADO) / MAX 10 
-			Nome = "Eternity Dragons",
+			Nome = "Zero World",
 			Dono = 2599454333,
 			Vida = 1000,
 			Itens = {['Mikey'] = 0,['SusanooSlap'] = 0,['Raio'] = 0,['Rinnegan_Push'] = 0,['YinYang'] = 0},
-			Roupa = {Tier = 256,Shirt = 0,Pants = 0},
+			Roupa = {Tier = 256,Shirt = 112199752405125,Pants = 13261383162},
 			Cor = { 
-				Nome = 	  {Letra = {102, 255, 255},  Borda = {0, 0, 255}},
-				Patente = {Letra = {102, 255, 255},  Borda = {0, 0, 255}},
-				Team =    {Letra = {102, 255, 255},  Borda = {102, 204, 255}},
+				Nome = 	  {Letra = {227, 196, 255},  Borda = {0, 0, 0}},
+				Patente = {Letra = {227, 196, 255},  Borda = {0, 0, 0}},
+				Team =    {Letra = {227, 196, 255},  Borda = {0, 0, 0}},
 			},
 		},----------------------------------- Gang ---------------------------------------------
 
@@ -1900,6 +1900,19 @@ local Gangs = {
 			},
 		},----------------------------------- Gang ---------------------------------------------
 
+		[9942185] = {  
+			Nome = "specters",
+			Dono = 1813688196,
+			Vida = 1000,
+			Itens = {['Mikey'] = 0},
+			Roupa = {Tier = 256,Shirt = 0,Pants = 0},
+			Cor = { 
+				Nome = 	  {Letra = {0, 0, 255},  Borda = {0, 0, 0}},
+				Patente = {Letra = {0, 0, 255},  Borda = {0, 0, 0}},
+				Team =    {Letra = {0, 0, 255},  Borda = {0, 0, 0}},
+			},
+		},----------------------------------- Gang ---------------------------------------------
+
 
 
 
@@ -1910,6 +1923,7 @@ local Gangs = {
 return Gangs
 
 
+	
 
 
 
