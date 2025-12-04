@@ -1325,7 +1325,7 @@ local Gangs = {
 
 	[35842847] = {   -- [Dono ID: 4123916333 ] (HP AUMENTADO) / MAX 10 
 		Nome = '传说"dark legends"传说',
-		Dono = 4123916333,
+		Dono = 3798908173,
 		Vida = 1000,
 		Itens = {['KokusenKick'] = 0},
 		Roupa = {Tier = 256,Shirt = 123900184797346,Pants = 12970321065},
@@ -1894,6 +1894,7 @@ local Gangs = {
 }
 
 return Gangs
+
 
 
 
