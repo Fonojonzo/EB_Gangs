@@ -1688,7 +1688,7 @@ local Gangs = {
 		},----------------------------------- Gang ---------------------------------------------
 
 		[348893799] = {   -- [Dono ID: 2599454333 ] (HP AUMENTADO) / MAX 10 
-			Nome = "Zero World",
+			Nome = "NoCB",
 			Dono = 2599454333,
 			Vida = 1000,
 			Itens = {['Mikey'] = 0,['SusanooSlap'] = 0,['Raio'] = 0,['Rinnegan_Push'] = 0,['YinYang'] = 0},
@@ -1924,6 +1924,7 @@ return Gangs
 
 
 	
+
 
 
 
