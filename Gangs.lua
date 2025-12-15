@@ -1694,9 +1694,9 @@ local Gangs = {
 			Itens = {['Mikey'] = 0,['Susanoo2Swords'] = 0,['Raio'] = 0,['Rinnegan_Push'] = 0,['YinYang'] = 0},
 			Roupa = {Tier = 256,Shirt = 112199752405125,Pants = 13261383162},
 			Cor = { 
-				Nome = 	  {Letra = {227, 196, 255},  Borda = {0, 0, 0}},
-				Patente = {Letra = {227, 196, 255},  Borda = {0, 0, 0}},
-				Team =    {Letra = {227, 196, 255},  Borda = {0, 0, 0}},
+				Nome = 	  {Letra = {0, 0, 0},  Borda = {255, 255, 0}},
+				Patente = {Letra = {0, 0, 0},  Borda = {255, 255, 0}},
+				Team =    {Letra = {0, 0, 0},  Borda = {255, 255, 0}},
 			},
 		},----------------------------------- Gang ---------------------------------------------
 
@@ -1913,6 +1913,19 @@ local Gangs = {
 			},
 		},----------------------------------- Gang ---------------------------------------------
 
+		[34910138] = {  
+			Nome = "The Dark Knight’s– 実冥闇",
+			Dono = 5032292144,
+			Vida = 1000,
+			Itens = {['Mikey'] = 0},
+			Roupa = {Tier = 256,Shirt = 0,Pants = 0},
+			Cor = { 
+				Nome = 	  {Letra = {0, 0, 0},  Borda = {153, 0, 204}},
+				Patente = {Letra = {0, 0, 0},  Borda = {153, 0, 204}},
+				Team =    {Letra = {0, 0, 0},  Borda = {153, 0, 204}},
+			},
+		},----------------------------------- Gang ---------------------------------------------
+
 
 
 
@@ -1924,6 +1937,7 @@ return Gangs
 
 
 	
+
 
 
 
