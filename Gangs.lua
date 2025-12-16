@@ -1,4 +1,4 @@
-local Gangs = {
+local Gangs = { 
 
 	[32325896] = {
 		Nome = 'Tokyo Manji Gang',
@@ -1466,15 +1466,15 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 	[36035923] = {   -- [Dono ID: 5793099708 ] (HP AUMENTADO) / MAX 10 /
-		Nome = "デミKASHIMA OF WATERアカ",
+		Nome = "嘿这PHARAOH GODFALL嘿这",
 		Dono = 3021327995,
 		Vida = 1000,
 		Itens = {['Josef'] = 0,['FireKick'] = 0},
 		Roupa = {Tier = 256,Shirt = 9915825619,Pants = 9915827096},
 		Cor = { 
-			Nome = 	  {Letra = {0, 255, 255},Borda = {255, 255, 255}},
-			Patente = {Letra = {0, 255, 255},Borda = {255, 255, 255}},
-			Team =    {Letra = {0, 0, 255},Borda = {0, 255, 0}},
+			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 209, 26}},
+			Patente = {Letra = {0, 0, 0},Borda = {255, 209, 26}},
+			Team =    {Letra = {0, 0, 0},Borda = {255, 209, 26}},
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
@@ -1937,6 +1937,7 @@ return Gangs
 
 
 	
+
 
 
 
