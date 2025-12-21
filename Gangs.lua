@@ -1794,7 +1794,7 @@ local Gangs = {
 
 	
 		[33760201] = {   --
-			Nome = "Arcanjo's",
+			Nome = "Yagyo Catalyst",
 			Dono = 9828582963,
 			Vida = 1000,
 			Itens = {['Mikey'] = 0},
@@ -1937,6 +1937,7 @@ return Gangs
 
 
 	
+
 
 
 
