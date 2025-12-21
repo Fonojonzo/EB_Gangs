@@ -1928,7 +1928,7 @@ local Gangs = {
 
 		[501361938] = {  
 			Nome = "盎 • Dragon' s Blade's • 盎",
-			Dono = 0,
+			Dono = 3706008519,
 			Vida = 1000,
 			Itens = {['Mikey'] = 0},
 			Roupa = {Tier = 256,Shirt = 0,Pants = 0},
@@ -1963,6 +1963,7 @@ return Gangs
 
 
 	
+
 
 
 
