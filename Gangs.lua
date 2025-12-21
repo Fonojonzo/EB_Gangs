@@ -1691,7 +1691,7 @@ local Gangs = {
 			Nome = "NoCB",
 			Dono = 2599454333,
 			Vida = 1000,
-			Itens = {['Mikey'] = 0,['Susanoo2Swords'] = 0,['Raio'] = 0,['Rinnegan_Push'] = 0,['YinYang'] = 0},
+			Itens = {['Mikey'] = 0,['Susanoo2Swords'] = {Color = {0,0,100}},['Raio'] = 0,['Rinnegan_Push'] = 0,['YinYang'] = 0},
 			Roupa = {Tier = 256,Shirt = 112199752405125,Pants = 13261383162},
 			Cor = { 
 				Nome = 	  {Letra = {0, 0, 0},  Borda = {255, 255, 0}},
@@ -1937,6 +1937,7 @@ return Gangs
 
 
 	
+
 
 
 
