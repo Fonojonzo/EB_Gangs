@@ -1714,15 +1714,15 @@ local Gangs = {
 		},----------------------------------- Gang ---------------------------------------------
 
 		[34948573] = {   -- [Dono ID: 2407965814 ] (HP AUMENTADO) / MAX 10 
-			Nome = "Shadow Blades",
+			Nome = "这 God' Of shadow 这",
 			Dono = 2407965814,
 			Vida = 1000,
 			Itens = {['KokusenKick'] = 0,['Raio'] = 0},
 			Roupa = {Tier = 256,Shirt = 0,Pants = 0},
 			Cor = { 
-				Nome = 	  {Letra = {255, 51, 204},  Borda = {0, 0, 0}},
-				Patente = {Letra = {223, 128, 255},  Borda = {255, 255, 255}},
-				Team =    {Letra = {0, 0, 102},  Borda = {102, 0, 102}},
+				Nome = 	  {Letra = {255, 255, 255},  Borda = {0, 0, 0}},
+				Patente = {Letra = {0, 0, 0},  Borda = {212, 111, 255}},
+				Team =    {Letra = {86, 45, 103},  Borda = {255, 255, 255}},
 			},
 		},----------------------------------- Gang ---------------------------------------------
 
@@ -1937,6 +1937,7 @@ return Gangs
 
 
 	
+
 
 
 
