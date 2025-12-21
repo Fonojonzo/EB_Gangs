@@ -1,5 +1,5 @@
 local Gangs = { 
-
+	
 	[32325896] = {
 		Nome = 'Tokyo Manji Gang',
 		Vida = 4000,
@@ -1050,8 +1050,8 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[35571368] = {   -- [Dono ID: 7681280367 ] (HP AUMENTADO) / MAX 10 
-		Nome = "名誉DICIPLES OF THE GODS名誉",
+	[828909181] = {   -- [Dono ID: 7681280367 ] (HP AUMENTADO) / MAX 10 
+		Nome = "味 Revolt of the Majin 後",
 		Dono = 7681280367,
 		Vida = 1500,
 		Itens = {['KokusenKick'] = 0,['Dash'] = 0,['SusanooSlap'] = 0},
@@ -1963,6 +1963,7 @@ return Gangs
 
 
 	
+
 
 
 
