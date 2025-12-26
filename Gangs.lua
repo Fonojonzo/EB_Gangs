@@ -1052,7 +1052,7 @@ local Gangs = {
 
 	[828909181] = {   -- [Dono ID: 7681280367 ] (HP AUMENTADO) / MAX 10 
 		Nome = "味 Revolt of the Majin 後",
-		Dono = 7681280367,
+		Dono = 5190930643,
 		Vida = 1500,
 		Itens = {['KokusenKick'] = 0,['Dash'] = 0,['SusanooSlap'] = 0},
 		Roupa = {Tier = 256,Shirt = 7801392003,Pants = 12166825438},
@@ -1939,7 +1939,7 @@ local Gangs = {
 			},
 		},----------------------------------- Gang ---------------------------------------------
 
-		[799861868] = {  
+		[35808299] = {  
 			Nome = "死神 👾NIGHT REAPER 👾夜",
 			Dono = 7266154789,
 			Vida = 1000,
@@ -1963,6 +1963,7 @@ return Gangs
 
 
 	
+
 
 
 
