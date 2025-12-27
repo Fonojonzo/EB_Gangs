@@ -1757,7 +1757,7 @@ local Gangs = {
 			Nome = " 一族 Kai's Gojo Clan 族一",
 			Dono = 4454840614,
 			Vida = 1000,
-			Itens = {['Josef'] = 0},
+			Itens = {['Josef'] = 0,['FireKick'] = 0},
 			Roupa = {Tier = 256,Shirt = 0,Pants = 0},
 			Cor = { 
 				Nome = 	  {Letra = {255, 0, 0},  Borda = {0, 0, 0}},
@@ -1963,6 +1963,7 @@ return Gangs
 
 
 	
+
 
 
 
