@@ -1456,7 +1456,7 @@ local Gangs = {
 		Nome = "笑-Tokyo Dragons Gang-笑",
 		Dono = 3053559015,
 		Vida = 1500,
-		Itens = {['KokusenKick'] = 0,['Raio'] = 0},
+		Itens = {['KokusenKick'] = 0,['Raio'] = 0,['Susanoo2Swords'] = 0},
 		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 255, 255}},
@@ -1976,6 +1976,7 @@ return Gangs
 
 
 	
+
 
 
 
