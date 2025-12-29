@@ -1054,7 +1054,7 @@ local Gangs = {
 		Nome = "味 Revolt of the Majin 後",
 		Dono = 5190930643,
 		Vida = 1500,
-		Itens = {['KokusenKick'] = 0,['Dash'] = 0,['SusanooSlap'] = 0},
+		Itens = {['KokusenKick'] = 0,['Dash'] = 0,['SusanooSlap'] = 0,['Raio'] = 0},
 		Roupa = {Tier = 256,Shirt = 7801392003,Pants = 12166825438},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 51, 0}},
@@ -1976,6 +1976,7 @@ return Gangs
 
 
 	
+
 
 
 
