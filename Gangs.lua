@@ -1941,7 +1941,7 @@ local Gangs = {
 
 		[35808299] = {  
 			Nome = "死神 👾NIGHT REAPER 👾夜",
-			Dono = 7266154789,
+			Dono = 5690140075,
 			Vida = 1000,
 			Itens = {['Mikey'] = 0},
 			Roupa = {Tier = 256,Shirt = 0,Pants = 0},
@@ -1954,7 +1954,7 @@ local Gangs = {
 
 		[106730497] = {  
 			Nome = "Shadow Garden",
-			Dono = 0,
+			Dono = 7489888113,
 			Vida = 1000,
 			Itens = {['Mikey'] = 0},
 			Roupa = {Tier = 256,Shirt = 0,Pants = 0},
@@ -1976,6 +1976,7 @@ return Gangs
 
 
 	
+
 
 
 
