@@ -322,15 +322,15 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 	[33277598] = { -- [Dono ID: 7158525435 ] slot 15(HP AUMENTADO)
-		Nome = "SoledBy",
+		Nome = "Luas Inferiores",
 		Dono = 7158525435,
 		Vida = 1000,
 		Itens = {['KokusenKick'] = 0,['Yamato'] = 0,['TacoLucille'] = 0,['Rasteira'] = 0,['FireKick'] = 0,['YinYang'] = 0,['CorteDiabolico'] = 0},
 		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 255, 255}},
-			Patente = {Letra = {0, 0, 0},Borda = {255, 255, 255},RGB = true},
-			Team =    {Letra = {0, 0, 0},Borda = {45, 0, 0}},
+			Patente = {Letra = {0, 0, 0},Borda = {255, 0, 0},RGB = true},
+			Team =    {Letra = {0, 0, 0},Borda = {255, 0, 0}},
 		},
 
 	},----------------------------------- Gang ---------------------------------------------
@@ -1976,6 +1976,7 @@ return Gangs
 
 
 	
+
 
 
 
