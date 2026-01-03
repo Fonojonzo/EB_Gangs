@@ -1891,7 +1891,7 @@ local Gangs = {
 			Nome = "噸~Império The Sombras~噸👑",
 			Dono = 4693466988,
 			Vida = 1000,
-			Itens = {['Mikey'] = 0,['Yamato'] = 0},
+			Itens = {['Mikey'] = 0,['Yamato'] = 0,['Raio'] = 0},
 			Roupa = {Tier = 256,Shirt = 0,Pants = 0},
 			Cor = { 
 				Nome = 	  {Letra = {0, 0, 0},  Borda = {153, 0, 204}},
@@ -1976,6 +1976,7 @@ return Gangs
 
 
 	
+
 
 
 
