@@ -1604,8 +1604,8 @@ local Gangs = {
 			Itens = {['FireKick'] = 0,['Dash'] = 0,['SusanooSlap'] = {Knockback = 65,Color = {0,0,0}},['Raio'] = 0,['Rinnegan_Push'] = 0,['YinYang'] = 0,['Colateral'] = 0},
 			Roupa = {Tier = 256,Shirt = 0,Pants = 0},
 			Cor = { 
-				Nome = 	  {Letra = {0, 0, 0},  Borda = {77, 77, 77}},
-				Patente = {Letra = {0, 0, 0},  Borda = {77, 77, 77}},
+				Nome = 	  {Letra = {255, 255, 255},  Borda = {0, 0, 0}},
+				Patente = {Letra = {77, 77, 77},  Borda = {0, 0, 0}},
 				Team =    {Letra = {77, 77, 77},  Borda = {0, 0, 0}},
 			},
 		},----------------------------------- Gang ---------------------------------------------
@@ -1976,6 +1976,7 @@ return Gangs
 
 
 	
+
 
 
 
