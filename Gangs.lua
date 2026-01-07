@@ -255,15 +255,15 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 	[34427514] = {   -- [Dono ID:2468759752 ] slot 15 /  ID GANG/ matheusprogamer_123 vendendo cargo -- 34008520 Odyssey Klaw's II 乡 / raio parcelado 11/11 84 reais(HP AUMENTADO) /  venda de cargo dnv
-		Nome = "Eclipse Syndicate",
+		Nome = "炎 Os Hashiras",
 		Dono = 2468759752,
 		Vida = 1000,
 		Itens = {['KokusenKick'] = 0,['Dash'] = 0,['TacoLucille'] = 0,['Rasteira'] = 0,['FireKick'] = 0,['Raio'] = 0,['MundoTransparente'] = 0,['Susanoo2Swords'] = 0,['Rinnegan_Push'] = 0},
-		Roupa = {Tier = 255,Shirt = 15808598116,Pants = 15815194659},
+		Roupa = {Tier = 255,Shirt = 13440136090,Pants = 7506390253},
 		Cor = { 
-			Nome = 	  {Letra = {80, 0, 0},Borda = 	   {0, 0, 0}},
-			Patente = {Letra = {0, 0, 0},Borda = {80, 0, 0}},
-			Team =    {Letra = {255, 0, 0},Borda = {0, 0, 0}},
+			Nome = 	  {Letra = {0, 0, 0},Borda = {0, 51, 102}},
+			Patente = {Letra = {0, 0, 0},Borda = {0, 51, 102}},
+			Team =    {Letra = {0, 0, 0},Borda = {0, 51, 102}},
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
@@ -1976,6 +1976,7 @@ return Gangs
 
 
 	
+
 
 
 
