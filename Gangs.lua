@@ -1904,7 +1904,7 @@ local Gangs = {
 			Nome = "⚡🗡️ Golden Reapers 🗡️⚡",
 			Dono = 1813688196,
 			Vida = 1000,
-			Itens = {['Mikey'] = 0},
+			Itens = {['Mikey'] = 0,['Raio'] = 0},
 			Roupa = {Tier = 256,Shirt = 0,Pants = 0},
 			Cor = { 
 				Nome = 	  {Letra = {0, 0, 0},  Borda = {255, 255, 255}},
@@ -1976,6 +1976,7 @@ return Gangs
 
 
 	
+
 
 
 
