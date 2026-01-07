@@ -258,7 +258,8 @@ local Gangs = {
 		Nome = "炎 Os Hashiras",
 		Dono = 2468759752,
 		Vida = 1000,
-		Itens = {['KokusenKick'] = 0,['Dash'] = 0,['TacoLucille'] = 0,['Rasteira'] = 0,['FireKick'] = 0,['Raio'] = 0,['MundoTransparente'] = 0,['Susanoo2Swords'] = 0,['Rinnegan_Push'] = 0},
+		Itens = {['KokusenKick'] = 0,['Dash'] = 0,['TacoLucille'] = 0,['Rasteira'] = 0,['FireKick'] = 0,['Raio'] = 0,['MundoTransparente'] = 0,['Susanoo2Swords'] = 0,['Rinnegan_Push'] = 0,
+		['ChuteEletrico'] = 0},
 		Roupa = {Tier = 255,Shirt = 13440136090,Pants = 7506390253},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},Borda = {0, 51, 102}},
@@ -1976,6 +1977,7 @@ return Gangs
 
 
 	
+
 
 
 
