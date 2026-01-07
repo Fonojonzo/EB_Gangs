@@ -1601,7 +1601,7 @@ local Gangs = {
 			Nome = "ㅊ Hunters ㅊ",
 			Dono = 2515682546,
 			Vida = 3000,
-			Itens = {['FireKick'] = 0,['Dash'] = 0,['SusanooSlap'] = {Knockback = 65,Color = {0,0,0}},['Raio'] = 0,['Rinnegan_Push'] = 0,['YinYang'] = 0,['Colateral'] = 0},
+			Itens = {['FireKick'] = 0,['Dash'] = 0,['SusanooSlap'] = {Knockback = 65,Color = {0,0,0}},['Raio'] = 0,['Rinnegan_Push'] = 0,['YinYang'] = 0,['Colateral'] = 0,['FP_Thunder'] = 0},
 			Roupa = {Tier = 256,Shirt = 0,Pants = 0},
 			Cor = { 
 				Nome = 	  {Letra = {77, 77, 77},  Borda = {0, 0, 0}},
@@ -1976,6 +1976,7 @@ return Gangs
 
 
 	
+
 
 
 
