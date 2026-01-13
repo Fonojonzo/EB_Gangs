@@ -1771,7 +1771,7 @@ local Gangs = {
 			Nome = "Crimson Disorder",
 			Dono = 5084914166,
 			Vida = 1000,
-			Itens = {['Josef'] = 0},
+			Itens = {['Mikey'] = 0,['Rasteira'] = 0,['Raio'] = 0},
 			Roupa = {Tier = 256,Shirt = 0,Pants = 0},
 			Cor = { 
 				Nome = 	  {Letra = {0, 0, 0},  Borda = {255, 255, 255}},
@@ -1990,6 +1990,7 @@ return Gangs
 
 
 	
+
 
 
 
