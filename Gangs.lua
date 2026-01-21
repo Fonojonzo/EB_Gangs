@@ -1968,14 +1968,27 @@ local Gangs = {
 
 		[205876960] = {  
 			Nome = "黒 Yamikuzu Black Dragons 黒",
-			Dono = 0,
+			Dono = 3235802349,
 			Vida = 1000,
-			Itens = {['Mikey'] = 0},
+			Itens = {['Mikey'] = 0,['Susanoo_Slap'] = 0},
 			Roupa = {Tier = 256,Shirt = 10332854578,Pants = 10330371294},
 			Cor = { 
 				Nome = 	  {Letra = {255, 0, 0},  Borda = {0, 0, 0}},
 				Patente = {Letra = {0, 0, 0},    Borda = {255, 0, 0}},
 				Team =    {Letra = {0,0,0},  	 Borda = {0, 0, 0}},
+			},
+		},----------------------------------- Gang ---------------------------------------------
+
+		[452941729] = {  
+			Nome = "Lâmina Vermelha",
+			Dono = 0,
+			Vida = 1000,
+			Itens = {['Mikey'] = 0},
+			Roupa = {Tier = 256,Shirt = 10332854578,Pants = 10330371294},
+			Cor = { 
+				Nome = 	  {Letra = {255, 0, 0},    Borda = {0, 0, 0}},
+				Patente = {Letra = {255, 0, 0},    Borda = {0, 0, 0}},
+				Team =    {Letra = {255,0,  0},  	Borda = {0, 0, 0}},
 			},
 		},----------------------------------- Gang ---------------------------------------------
 
@@ -1990,6 +2003,7 @@ return Gangs
 
 
 	
+
 
 
 
