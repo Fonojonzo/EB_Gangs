@@ -1605,9 +1605,9 @@ local Gangs = {
 			Itens = {['FireKick'] = 0,['Dash'] = 0,['SusanooSlap'] = {Knockback = 65,Color = {0,0,0}},['Raio'] = 0,['Rinnegan_Push'] = 0,['YinYang'] = 0,['Colateral'] = 0,['FP_Thunder'] = 0},
 			Roupa = {Tier = 256,Shirt = 0,Pants = 0},
 			Cor = { 
-				Nome = 	  {Letra = {255, 255, 255},  Borda = {255, 0, 255}},
-				Patente = {Letra = {255, 255, 255},  Borda = {255, 0, 255}},
-				Team =    {Letra = {255, 255, 255},  Borda = {255, 0, 255}},
+				Nome = 	  {Letra = {255, 255, 255},  Borda = {128, 128, 128}},
+				Patente = {Letra = {255, 255, 255},  Borda = {128, 128, 128}},
+				Team =    {Letra = {255, 255, 255},  Borda = {128, 128, 128}},
 			},
 		},----------------------------------- Gang ---------------------------------------------
 
@@ -1902,11 +1902,11 @@ local Gangs = {
 		},----------------------------------- Gang ---------------------------------------------
 
 		[9942185] = {  
-			Nome = "⚡🗡️ Golden Reapers 🗡️⚡",
+			Nome = "As branquela",
 			Dono = 1813688196,
 			Vida = 1000,
 			Itens = {['Mikey'] = 0,['Raio'] = 0},
-			Roupa = {Tier = 256,Shirt = 0,Pants = 0},
+			Roupa = {Tier = 256,Shirt = 11914339622,Pants = 14132142432},
 			Cor = { 
 				Nome = 	  {Letra = {0, 0, 0},  Borda = {255, 255, 255}},
 				Patente = {Letra = {0, 0, 0},  Borda = {255, 255, 255}},
@@ -1990,6 +1990,7 @@ return Gangs
 
 
 	
+
 
 
 
