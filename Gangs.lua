@@ -1970,7 +1970,7 @@ local Gangs = {
 			Nome = "黒 Yamikuzu Black Dragons 黒",
 			Dono = 3235802349,
 			Vida = 1000,
-			Itens = {['Mikey'] = 0,['Susanoo_Slap'] = 0},
+			Itens = {['Mikey'] = 0,['SusanooSlap'] = 0},
 			Roupa = {Tier = 256,Shirt = 10332854578,Pants = 10330371294},
 			Cor = { 
 				Nome = 	  {Letra = {255, 0, 0},  Borda = {0, 0, 0}},
@@ -2003,6 +2003,7 @@ return Gangs
 
 
 	
+
 
 
 
