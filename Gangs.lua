@@ -1328,7 +1328,7 @@ local Gangs = {
 		Nome = '传说"dark legends"传说',
 		Dono = 3798908173,
 		Vida = 1000,
-		Itens = {['KokusenKick'] = 0},
+		Itens = {['Josef'] = 0},
 		Roupa = {Tier = 256,Shirt = 123900184797346,Pants = 12970321065},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},Borda = {0, 255, 255}},
@@ -1986,6 +1986,7 @@ return Gangs
 
 
 	
+
 
 
 
