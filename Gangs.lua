@@ -17,8 +17,7 @@ local Gangs = {
 		Nome = 'Akatsuki',
 		Vida = 5000,
 		Efeito = 'FireStroke',
-		Itens = {['Rinnegan_Push'] = {Size = 10,Voice = 117779581030667,Debounce = 5,Knockback = 130},['DoubleJump'] = 0,['PerfectSusanoo'] = 0,['MinatoKunai'] = 0,['Susanoo2Swords'] = {Color = {0,0,255},Knockback = 86,Debounce = 2.5,Sound = 5686379468}
-			,['Clones'] = 0,['FPColateral'] = 0},
+		Itens = {['KokusenPunch'] = 0}
 		Roupa = {Tier = 95,Shirt = 0,Pants = 0},
 		Cor = {
 			Nome = 	  {Letra = {0,0,0},Borda = {255,255,255}},
@@ -1986,6 +1985,7 @@ return Gangs
 
 
 	
+
 
 
 
