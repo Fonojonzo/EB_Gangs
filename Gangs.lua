@@ -17,7 +17,7 @@ local Gangs = {
 		Nome = 'Akatsuki',
 		Vida = 5000,
 		Efeito = 'FireStroke',
-		Itens = {['KokusenPunch'] = 0},
+		Itens = {['KokusenPunch'] = 0,['BasicDash'] = 0},
 		Roupa = {Tier = 95,Shirt = 0,Pants = 0},
 		Cor = {
 			Nome = 	  {Letra = {0,0,0},Borda = {255,255,255}},
@@ -1985,6 +1985,7 @@ return Gangs
 
 
 	
+
 
 
 
