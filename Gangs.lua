@@ -1649,7 +1649,7 @@ local Gangs = {
 		},----------------------------------- Gang ---------------------------------------------
 
 		[35085279] = {   -- [Dono ID: 1928591559 ] (HP AUMENTADO) / MAX 10 
-			Nome = "Knights of the Moon",
+			Nome = "憎 Black Dragons New Gen 憎",
 			Dono = 1928591559,
 			Vida = 1000,
 			Itens = {['Josef'] = 0,['FireKick'] = 0},
@@ -1985,6 +1985,7 @@ return Gangs
 
 
 	
+
 
 
 
