@@ -94,10 +94,10 @@ local Gangs = {
 
 	},----------------------------------- Gang ---------------------------------------------
 
-	[0] = {  -- [Dono ID:2623179010 = 3022604859 ] slot 10  /  troca de dono / tentou trocar gang desativada por raça / 33524892 excesso membros / troca de donos
+	[33524892] = {  -- [Dono ID:6077295188 = 3022604859 ] slot 10  /  troca de dono / tentou trocar gang desativada por raça /  excesso membros / troca de donos/ reativado yasmin pra comprar itens
 		Nome = 'Scarlet Syndicate', 
-		Dono = 2623179010,
-		Vida = 2000,
+		Dono = 6077295188,
+		Vida = 1000,
 		Itens = {['Mikey'] = 0,['ChuteCongelante'] = 0,['SusanooSlap'] = 0},
 		Roupa = {Tier = 260,Shirt = 17332995945,Pants = 12216582717},
 		Cor = {
@@ -1999,6 +1999,7 @@ return Gangs
 
 
 	
+
 
 
 
