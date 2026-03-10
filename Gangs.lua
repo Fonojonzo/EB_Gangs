@@ -1983,7 +1983,7 @@ local Gangs = {
 			Dono = 0,
 			Vida = 1000,
 			Itens = {['Mikey'] = 0},
-			Roupa = {Tier = 256,Shirt = 10332854578,Pants = 10330371294},
+			Roupa = {Tier = 256,Shirt = 0,Pants = 0},
 			Cor = { 
 				Nome = 	  {Letra = {0, 102, 255},  Borda = {0, 0, 102} },
 				Patente = {Letra = {0, 0, 102},    Borda = {0, 0, 0}},
@@ -1991,6 +1991,18 @@ local Gangs = {
 			},
 		},----------------------------------- Gang ---------------------------------------------
 
+		[727311609] = {  
+			Nome = "Os Desempregados",
+			Dono = 3657271029,
+			Vida = 1000,
+			Itens = {['Mikey'] = 0,['Dash'] = 0,['Susanoo_Slap'] = 0},
+			Roupa = {Tier = 256,Shirt = 0,Pants = 0},
+			Cor = { 
+				Nome = 	  {Letra = {0, 0, 0},  Borda = {51, 204, 204} },
+				Patente = {Letra = {0, 0, 0},    Borda = {51, 204, 204}},
+				Team =    {Letra = {0, 0, 0},  	 Borda = {51, 204, 204}},
+			},
+		},----------------------------------- Gang ---------------------------------------------
 
 
 }
@@ -1999,6 +2011,7 @@ return Gangs
 
 
 	
+
 
 
 
