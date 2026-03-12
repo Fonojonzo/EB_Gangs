@@ -94,16 +94,15 @@ local Gangs = {
 
 	},----------------------------------- Gang ---------------------------------------------
 
-	[33524892] = {  -- [Dono ID:6077295188 = 3022604859 ] slot 10  /  troca de dono / tentou trocar gang desativada por raça /  excesso membros / troca de donos/ reativado yasmin pra comprar itens
-		Nome = 'Scarlet Syndicate', 
-		Dono = 6077295188,
-		Vida = 1000,
+	[33524892] = {  -- [Dono ID:2623179010 = 3022604859 ] slot 10  / yasmin piu
+		Nome = 'Máfia Italiana', 
+		Vida = 2000,
 		Itens = {['Mikey'] = 0,['ChuteCongelante'] = 0,['SusanooSlap'] = 0},
-		Roupa = {Tier = 260,Shirt = 17332995945,Pants = 12216582717},
+		Roupa = {Tier = 260,Shirt = 7061606670,Pants = 8995167282},
 		Cor = {
-			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 255, 255}},
-			Patente = {Letra = {0, 0, 0},Borda = {255, 255, 255}},
-			Team =    {Letra = {0, 0, 0},Borda = {255, 0, 0}},
+			Nome = 	  {Letra = {255, 255, 255},Borda = {128, 128, 128}},
+			Patente = {Letra = {255, 255, 255},Borda = {128, 128, 128}},
+			Team =    {Letra = {0, 0, 0},Borda = {128, 128, 128}},
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
@@ -2011,6 +2010,7 @@ return Gangs
 
 
 	
+
 
 
 
