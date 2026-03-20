@@ -334,7 +334,7 @@ local Gangs = {
 
 	},----------------------------------- Gang ---------------------------------------------
 
-	[34404750] = {  -- [Dono ID:3617549185 ] slot 15(HP AUMENTADO)
+	[0] = {  -- [Dono ID:3617549185 ] slot 15(HP AUMENTADO) / 36 membros -34404750
 		Nome = "Esquadrão Demoníaco",
 		Dono = 3617549185,
 		Vida = 1500,
