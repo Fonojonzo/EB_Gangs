@@ -971,7 +971,7 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[0] = {   -- [Dono ID: 3602148039 ] (HP AUMENTADO) / MAX 10 sorteio gang 2 item / 33087206 pediu pra desativar mt gente raid
+	[33087206] = {   -- [Dono ID: 3602148039 ] (HP AUMENTADO) / MAX 10 sorteio gang 2 item /  pediu pra desativar mt gente raid
 		Nome = "Space Disorder",
 		Dono = 3602148039,
 		Vida = 1500,
