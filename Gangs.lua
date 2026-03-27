@@ -547,7 +547,7 @@ local Gangs = {
 		Dono = 5810126054,
 		Efeito = {Type = 'Zebra',Speed = .4,Size = 1},
 		Vida = 1000,
-		Itens = {['KokusenKick'] = 0,['YinYang'] = 0,['Rasteira'] = 0,['Rinnegan_Push'] = {Size = 30,Debounce = 5,Knockback = 60},['Colateral'] = 0,['SusanooSlap'] = 0},
+		Itens = {['KokusenKick'] = 0,['YinYang'] = 0,['Rasteira'] = 0,['Rinnegan_Push'] = {Size = 30,Debounce = 5,Knockback = 60},['Colateral'] = 0,['SusanooSlap'] = 0,['Foice'] = 0},
 		Roupa = {Tier = 255,Shirt = 13855813402,Pants = 0},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 255, 255}},
