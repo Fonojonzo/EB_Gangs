@@ -715,9 +715,9 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[33228188] = {   -- [Dono ID:979715847 ](HP AUMENTADO)
+	[35412187] = {   -- [Dono ID:979715847 ](HP AUMENTADO)
 		Nome = "los ghost",
-		Dono = 979715847,
+		Dono = 3357575273,
 		Vida = 1000,
 		Itens = {['Josef'] = 0},
 		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
