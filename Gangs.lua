@@ -294,9 +294,9 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[1026700681] = { -- [Dono ID:3965828102 ] slot 15 /  limite membros
+	[1026700681] = { -- [Dono ID:2935826979 ] slot 15 /  limite membros 
 		Nome = "魚LUAS IMPERATIVAS 🌙",
-		Dono = 3965828102,
+		Dono = 2935826979,
 		Vida = 1500,
 		Itens = {['FireKick'] = 0,['TacoLucille'] = 0,['SusanooSlap'] = 0,['Dash'] = 0}, --['Yamato'] = {255 , 254 , 253 , 252 , 251} ,
 		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
