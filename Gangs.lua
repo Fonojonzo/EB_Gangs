@@ -298,7 +298,7 @@ local Gangs = {
 		Nome = "魚LUAS IMPERATIVAS 🌙",
 		Dono = 2935826979,
 		Vida = 1500,
-		Itens = {['FireKick'] = 0,['TacoLucille'] = 0,['SusanooSlap'] = 0,['Dash'] = 0}, --['Yamato'] = {255 , 254 , 253 , 252 , 251} ,
+		Itens = {['FireKick'] = 0,['Susanoo2Swords'] = 0}, --['Yamato'] = {255 , 254 , 253 , 252 , 251} ,
 		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 255, 102}},
