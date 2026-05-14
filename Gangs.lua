@@ -294,16 +294,16 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[1026700681] = { -- [Dono ID:2935826979 ] slot 15 /  limite membros 
-		Nome = "魚LUAS IMPERATIVAS 🌙",
+	[1026700681] = { -- [Dono ID:2935826979 ] slot 15 /  limite membros  luas imperativas
+		Nome = "Universal Demonic",
 		Dono = 2935826979,
 		Vida = 1500,
 		Itens = {['FireKick'] = 0,['Susanoo2Swords'] = 0}, --['Yamato'] = {255 , 254 , 253 , 252 , 251} ,
 		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
 		Cor = { 
-			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 255, 102}},
-			Patente = {Letra = {0, 0, 0},Borda = {255, 255, 102}},
-			Team =    {Letra = {0, 0, 0},Borda = {255, 255, 102}},
+			Nome = 	  {Letra = {255, 255, 255},Borda = {0, 0, 0}},
+			Patente = {Letra = {255, 255, 255},Borda = {255, 0, 0}},
+			Team =    {Letra = {0, 0, 0},Borda = {255, 255, 200}},
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
