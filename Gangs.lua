@@ -1114,7 +1114,7 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[35635931] = {   -- [Dono ID: 1494038115 ] (HP AUMENTADO) / MAX 10 / gang levi deven 2 mil
+	[35635931] = {   -- [Dono ID: 1494038115 ] (HP AUMENTADO) / MAX 10 / gang levi deven 2 mil | koku, fpthunder dash e rinn pra bater os valores
 		Nome = "Cavaleiros do Apocalipse",
 		Dono = 1494038115,
 		Vida = 1000,
