@@ -1114,9 +1114,9 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[35635931] = {   -- [Dono ID: 1494038115 ] (HP AUMENTADO) / MAX 10 / gang levi deven 2 mil | koku, fpthunder dash e rinn pra bater os valores
+	[1250373608] = {   -- [Dono ID: 33820952 ] | GANG LEVI | DEVENDO -1.430 | BLOQUEADO TROCA DE DONOS
 		Nome = "Cavaleiros do Apocalipse",
-		Dono = 1494038115,
+		Dono = 33820952,
 		Vida = 1000,
 		Itens = {['KokusenKick'] = 0,['Rinnegan_Push'] = 0,['FP_Thunder'] = 0,['Dash'] = 0,['Raio'] = 0},
 		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
