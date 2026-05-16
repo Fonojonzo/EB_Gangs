@@ -295,15 +295,15 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 	[1026700681] = { -- [Dono ID:2935826979 ] slot 15 /  limite membros  luas imperativas
-		Nome = "Universal Demonic II",
+		Nome = "Cosmic Demon",
 		Dono = 2935826979,
 		Vida = 1500,
 		Itens = {['FireKick'] = 0,['Susanoo2Swords'] = 0}, --['Yamato'] = {255 , 254 , 253 , 252 , 251} ,
 		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
 		Cor = { 
-			Nome = 	  {Letra = {255, 255, 255},Borda = {0, 0, 0}},
-			Patente = {Letra = {255, 255, 255},Borda = {255, 0, 0}},
-			Team =    {Letra = {0, 0, 0},Borda = {255, 0, 0}},
+			Nome = 	  {Letra = {0, 0, 0},Borda = {105, 0, 255}},
+			Patente = {Letra = {255, 255, 255},Borda = {rgba(106, 2, 255)}},
+			Team =    {Letra = {255, 255, 255},Borda = {0, 0, 0}},
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
