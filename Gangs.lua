@@ -1118,7 +1118,7 @@ local Gangs = {
 		Nome = "Cavaleiros do Apocalipse",
 		Dono = 1494038115,
 		Vida = 1000,
-		Itens = {['KokusenKick'] = 0,['Rinnegan_Push'] = 0,['FP_Thunder'] = 0,['Dash'] = 0,['SusanooSlap'] = 0},
+		Itens = {['KokusenKick'] = 0,['Rinnegan_Push'] = 0,['FP_Thunder'] = 0,['Dash'] = 0,['Raio'] = 0},
 		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
 		Cor = { 
 			Nome = 	  {Letra = {255, 255, 255},Borda = {0, 0, 0}},
