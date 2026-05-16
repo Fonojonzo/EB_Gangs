@@ -1114,9 +1114,9 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[1250373608] = {   -- [Dono ID: 33820952 ] | GANG LEVI | DEVENDO -1.430 | BLOQUEADO TROCA DE DONOS
-		Nome = "Cavaleiros do Apocalipse",
-		Dono = 33820952,
+	[33820952] = {   -- [Dono ID: 1250373608 ] | GANG LEVI | DEVENDO -1.430 | BLOQUEADO TROCA DE DONOS
+		Nome = "Os Lords Demônios",
+		Dono = 1250373608,
 		Vida = 1000,
 		Itens = {['KokusenKick'] = 0,['Rinnegan_Push'] = 0,['FP_Thunder'] = 0,['Dash'] = 0,['Raio'] = 0},
 		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
