@@ -1115,10 +1115,10 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 	[35635931] = {   -- [Dono ID: 1494038115 ] (HP AUMENTADO) / MAX 10 / gang levi deven 2 mil
-		Nome = "Cavaleiros do apocalipse",
+		Nome = "Cavaleiros do Apocalipse",
 		Dono = 1494038115,
 		Vida = 1000,
-		Itens = {['Josef'] = 0,['Rinnegan_Push'] = 0},
+		Itens = {['KokusenKick'] = 0,['Rinnegan_Push'] = 0,['FP_Thunder'] = 0,['Dash'] = 0},
 		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
 		Cor = { 
 			Nome = 	  {Letra = {255, 255, 255},Borda = {0, 0, 0}},
