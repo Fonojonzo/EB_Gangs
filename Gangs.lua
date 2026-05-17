@@ -302,7 +302,7 @@ local Gangs = {
 		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},Borda = {105, 0, 255}},
-			Patente = {Letra = {255, 255, 255},Borda = {rgba(106, 2, 255)}},
+			Patente = {Letra = {255, 255, 255},Borda = {106, 2, 255}},
 			Team =    {Letra = {255, 255, 255},Borda = {0, 0, 0}},
 		},
 	},----------------------------------- Gang ---------------------------------------------
