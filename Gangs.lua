@@ -1115,15 +1115,15 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 	[33820952] = {   -- [Dono ID: 1250373608 ] | GANG LEVI | DEVENDO -1.430 | BLOQUEADO TROCA DE DONOS
-		Nome = "Os Lords Demônios",
+		Nome = "Os Lordes Demônios",
 		Dono = 1250373608,
 		Vida = 1000,
 		Itens = {['KokusenKick'] = 0,['Rinnegan_Push'] = 0,['FP_Thunder'] = 0,['Dash'] = 0,['Raio'] = 0},
 		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
 		Cor = { 
-			Nome = 	  {Letra = {255, 255, 255},Borda = {0, 0, 0}},
-			Patente = {Letra = {0, 0, 0},Borda = {255, 255, 153}},
-			Team =    {Letra = {0, 0, 0},Borda = {255, 0, 0}},
+			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 255, 255}},
+			Patente = {Letra = {0, 0, 0},Borda = {153, 51, 153}},
+			Team =    {Letra = {0, 0, 0},Borda = {153, 51, 153}},
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
