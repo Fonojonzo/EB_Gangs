@@ -321,7 +321,7 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 	[33277598] = { -- [Dono ID: 7158525435 ] slot 15(HP AUMENTADO)
-		Nome = "Luas Inferiores",
+		Nome = "Universal Demonic",
 		Dono = 7158525435,
 		Vida = 1000,
 		Itens = {['KokusenKick'] = 0,['Yamato'] = 0,['TacoLucille'] = 0,['Rasteira'] = 0,['FireKick'] = 0,['YinYang'] = 0,['CorteDiabolico'] = 0},
@@ -543,7 +543,7 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 	[35044712] = { -- [Dono ID: 5810126054] slot 10(HP AUMENTADO) 
-		Nome = "Yin-Yang Poder Oculto",
+		Nome = "Cosmic Demon",
 		Dono = 5810126054,
 		Efeito = {Type = 'Zebra',Speed = .4,Size = 1},
 		Vida = 1000,
