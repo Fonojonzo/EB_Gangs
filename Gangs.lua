@@ -294,8 +294,8 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[1026700681] = { -- [Dono ID:2935826979 ] slot 15 /  limite membros  luas imperativas
-		Nome = "Cosmic Demon",
+	[1026700681] = { -- [Dono ID:2935826979 ] slot 15 /  limite membros  
+		Nome = "Luas Imperativas",
 		Dono = 2935826979,
 		Vida = 1500,
 		Itens = {['FireKick'] = 0,['Susanoo2Swords'] = 0}, --['Yamato'] = {255 , 254 , 253 , 252 , 251} ,
