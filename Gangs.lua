@@ -1953,7 +1953,7 @@ local Gangs = {
 
 		[386414658] = {  
 			Nome = "Shadow Garden",
-			Dono = 7489888113,
+			Dono = 10339014930,
 			Vida = 1000,
 			Itens = {['Mikey'] = 0},
 			Roupa = {Tier = 256,Shirt = 0,Pants = 0},
