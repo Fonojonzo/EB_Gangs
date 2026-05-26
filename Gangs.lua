@@ -1348,7 +1348,7 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[959654990] = {   -- [Dono ID: 7856828708 ] (HP AUMENTADO) / MAX 10 | san / rafael  / 35595693 Goten antiga
+	[0] = {   -- [Dono ID: 7856828708 ] (HP AUMENTADO) / MAX 10 | san / rafael  / 35595693 Goten antiga / 959654990 troca de donos
 		Nome = 'カKanto Manji カ',
 		Dono = 4033109285,
 		Vida = 2000,
