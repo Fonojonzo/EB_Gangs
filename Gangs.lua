@@ -3,7 +3,6 @@ local Gangs = {
 	[32325896] = {
 		Nome = 'Tokyo Manji Gang',
 		Vida = 4000,
-		Animations = {Idle = 104082559959129,Walk = 12433634045,Run = 12433634045},
 		Itens = {['ImpulsoSombrio'] = 0,['Hinokami_1'] = 0,['SocoEletrico'] = 0,['Rinnegan_Push'] = {Size = 10,Voice = 117779581030667,Debounce = 5,Knockback = 130},['DoubleJump'] = 0,['MinatoKunai'] = 0,['Susanoo2Swords'] = {Color = {0,0,255},Knockback = 86,Debounce = 2.5,Sound = 5686379468}
 			,['Clones'] = 0	},
 		Roupa = {Tier = 95,Shirt = 0,Pants = 0},
@@ -812,6 +811,7 @@ local Gangs = {
 		Nome = "Goten",
 		Dono = 5551458487,
 		Vida = 1000,
+		Animations = {Idle = 104082559959129,Walk = 12433634045,Run = 12433634045},
 		Itens = {['SwordSlash'] = 0,['Colateral'] = 0,['Rinnegan_Push'] = {Size = 30},['Raio'] = 0,['SusanooSlap'] = {Color = {160, 120, 89}},['ImpulsoSombrio'] = 0},
 		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
 		Cor = { 
