@@ -808,7 +808,7 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 	[33304042] = {   -- [Dono ID: san 5551458487 ] (HP AUMENTADO) MAX 11 / katana emprestada do gojo / colateral/rinnegan/raio/susanoo emprestado para o san hinokami até 16/12
-		Nome = "Goten",
+		Nome = "Overlord's",
 		Dono = 5551458487,
 		Vida = 1000,
 		Animations = {Idle = 104082559959129,Walk = 12433634045,Run = 12433634045},
