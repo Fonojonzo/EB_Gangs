@@ -815,9 +815,9 @@ local Gangs = {
 		Itens = {['SwordSlash'] = 0,['Colateral'] = 0,['Rinnegan_Push'] = {Size = 30},['Raio'] = 0,['SusanooSlap'] = {Color = {160, 120, 89}},['ImpulsoSombrio'] = 0},
 		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
 		Cor = { 
-			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 255, 255}},
-			Patente = {Letra = {0, 0, 0},Borda = {4, 0, 122}},
-			Team =    {Letra = {0, 0, 0},Borda = {4, 0, 122}},
+			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 255, 255	}},
+			Patente = {Letra = {0, 0, 0},Borda = {255, 255, 255}},
+			Team =    {Letra = {0, 0, 0},Borda = {55, 5, 3}},
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
