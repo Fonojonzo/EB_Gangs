@@ -1887,8 +1887,8 @@ local Gangs = {
 			},
 		},----------------------------------- Gang ---------------------------------------------
 
-		[0] = {  	
-			Nome = "噸~Império The Sombras~噸👑", -- 215623204 tentando dar golpe no rafael
+		[215623204] = {  	
+			Nome = "噸~Império The Sombras~噸👑", --  tentando dar golpe no rafael
 			Dono = 4693466988,
 			Vida = 1000,
 			Itens = {['Mikey'] = 0,['Yamato'] = 0,['Raio'] = 0},
