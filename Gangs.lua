@@ -1349,11 +1349,11 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[959654990] = {   -- [Dono ID: 4033109285 ] (HP AUMENTADO) / MAX 10 | san / rafael  / 35595693 Goten antiga /  troca de donos | ['Colateral'] = 0 |
+	[959654990] = {   -- [Dono ID: 4033109285 ] (HP AUMENTADO) / MAX 10 | san / rafael  / 35595693 Goten antiga /  troca de donos |  |
 		Nome = 'カKanto Manji カ',
 		Dono = 4033109285,
 		Vida = 2000,
-		Itens = {['Mikey'] = 0,['SusanooSlap'] = 0,['FireKick'] = 0},
+		Itens = {['Mikey'] = 0,['SusanooSlap'] = 0,['FireKick'] = 0,['Colateral'] = 0},
 		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 255, 255}},
