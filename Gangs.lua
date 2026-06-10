@@ -1,5 +1,5 @@
 local Gangs = { 
-	
+
 	[32325896] = {
 		Nome = 'Tokyo Manji Gang',
 		Vida = 4000,
@@ -119,18 +119,6 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[0] = {   -- [Dono ID:2885875741 ] slot 15 (HP AUMENTADO) / pediu desativar 33483361
-		Nome = 'Van Der Linde',
-		Dono = 2885875741,
-		Vida = 1000,
-		Itens = {['ChuteEletrico'] = 0,['MundoTransparente'] = 0},
-		Roupa = {Tier = 95,Shirt = 0,Pants = 0},
-		Cor = {
-			Nome = 	  {Letra = {255, 255, 255},Borda = {0,0,0}},
-			Patente = {Letra = {0, 0, 0},Borda = {139, 0, 0}},
-			Team =    {Letra = {0, 0, 0},Borda = {139, 0, 0}},
-		},
-	},----------------------------------- Gang ---------------------------------------------
 
 	[33386384] = {   -- [Dono ID:2948781812 ] slot 15 (HP AUMENTADO)
 		Nome = 'Clã Uchiha',
@@ -257,7 +245,7 @@ local Gangs = {
 		Dono = 2468759752,
 		Vida = 1000,
 		Itens = {['KokusenKick'] = 0,['Dash'] = 0,['TacoLucille'] = 0,['Rasteira'] = 0,['FireKick'] = 0,['Raio'] = 0,['MundoTransparente'] = 0,['Susanoo2Swords'] = 0,['Rinnegan_Push'] = 0,
-		['ChuteEletrico'] = 0},
+			['ChuteEletrico'] = 0},
 		Roupa = {Tier = 255,Shirt = 13440136090,Pants = 7506390253},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},Borda = {0, 51, 102}},
@@ -266,20 +254,7 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[0] = {   -- [Dono ID: 7929220830 ] slot 15(HP AUMENTADO) / 34219212 pediu desativar 
-		Nome = "Imperial Singularity",
-		Dono = 7929220830,
-		Vida = 1500,
-		Itens = {['KokusenKick'] = 0,['SusanooSlap'] = 0},
-		Roupa = {Tier = 256,Shirt = 8921564237,Pants = 7392974957},
-		Cor = { 
-			Nome = 	  {Letra = {153, 0, 153},Borda = {0, 0, 0}},
-			Patente = {Letra = {153, 0, 153},Borda = {0, 0, 0}},
-			Team =    {Letra = {153, 0, 153},Borda = {0, 0, 0}},
 
-		},
-	},----------------------------------- Gang ---------------------------------------------
-	
 	[34246662] = {   -- [Dono ID:3205885836 ] slot 15 / capitão com eb clonada. (HP AUMENTADO)
 		Nome = "God's Disciples",
 		Dono = 3205885836,
@@ -334,18 +309,6 @@ local Gangs = {
 
 	},----------------------------------- Gang ---------------------------------------------
 
-	[0] = {  -- [Dono ID:3617549185 ] slot 15(HP AUMENTADO) / 36 membros -34404750
-		Nome = "Esquadrão Demoníaco",
-		Dono = 3617549185,
-		Vida = 1500,
-		Itens = {['KokusenKick'] = 0,['Dash'] = 0},
-		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
-		Cor = { 
-			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 255, 255}},
-			Patente = {Letra = {0, 0, 0},Borda = {255, 255, 255}},
-			Team =    {Letra = {0, 0, 0},Borda = {45, 0, 0}},
-		},
-	},----------------------------------- Gang ---------------------------------------------
 
 	[34442432] = {  -- [Dono ID:911884355 ] slot 15(HP AUMENTADO)
 		Nome = "ɲil ܢܓ",
@@ -425,17 +388,6 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[0] = { -- [Dono ID: ] slot 10(HP AUMENTADO)
-		Nome = "Cobra Kai",
-		Vida = 1000,
-		Itens = {['Mikey'] = 0},
-		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
-		Cor = { 
-			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 255, 255}},
-			Patente = {Letra = {0, 0, 0},Borda = {255, 255, 255}},
-			Team =    {Letra = {0, 0, 0},Borda = {255, 255, 255}},
-		},
-	},----------------------------------- Gang ---------------------------------------------
 
 	[34917154] = { -- [Dono ID: 2016528021] slot 10(HP AUMENTADO)
 		Nome = "Ice Brown",
@@ -460,19 +412,6 @@ local Gangs = {
 			Nome = 	  {Letra = {255, 255, 255},Borda = {0, 0, 0}},
 			Patente = {Letra = {0, 0, 0},Borda = {255, 255, 255}},
 			Team =    {Letra = {0, 0, 0},Borda = {255, 255, 255}},
-		},
-	},----------------------------------- Gang ---------------------------------------------
-
-	[0] = { -- [Dono ID: 5521224878] slot 10/ aviso 1/2 de venda(HP AUMENTADO)
-		Nome = "Shadows of Darkness",
-		Dono = 5521224878,
-		Vida = 1000,
-		Itens = {['Josef'] = 0,['TacoLucille'] = 0},
-		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
-		Cor = { 
-			Nome = 	  {Letra = {255, 255, 255},Borda = {0, 0, 0}},
-			Patente = {Letra = {255, 255, 255},Borda = {0, 0, 0}},
-			Team =    {Letra = {0, 0, 0},Borda = {255, 255, 153}},
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
@@ -557,19 +496,6 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 
-	[0] = { -- [Dono ID: 3343455115] slot 10(HP AUMENTADO) / 34012037 pediu pra desativar
-		Nome = "Hueco Mundo",
-		Dono = 3343455115,
-		Vida = 1000,
-		Itens = {['Josef'] = 0},
-		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
-		Cor = { 
-			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 255, 255}},
-			Patente = {Letra = {0, 0, 0},Borda = {255, 255, 255}},
-			Team =    {Letra = {0, 0, 0},Borda = {255, 255, 255}},
-		},
-	},----------------------------------- Gang ---------------------------------------------
-
 	[35176490] = { -- [Dono ID: 1186506415] slot 10(HP AUMENTADO)
 		Nome = "あ Hiriu Tatsumaki あ",
 		Dono = 1186506415,
@@ -609,21 +535,6 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-
-	[0] = {   -- [Dono ID: 3322067390 ] slot 10 / 33903684 desativada e reativada troca de dono(HP AUMENTADO) / limite membros desativada 0/9 para tirar desban conta lobinha_vr (apagar gang logo)
-		Nome = '㍻ Mushoku Tensei 夜',
-		Dono = 3322067390,
-		Vida = 1500,
-		Itens = {['Dash'] = 0,['KokusenKick'] = 0,['Rasteira'] = 0},
-		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
-		Cor = { 
-			Nome = 	  {Letra = {0, 0, 0},Borda = {204, 0, 153}},
-			Patente = {Letra = {0, 0, 0},Borda = {0, 0, 255}},
-			Team =    {Letra = {255, 255, 255},Borda = {255, 255, 255}},
-		},
-	},----------------------------------- Gang ---------------------------------------------
-
-
 	[35235649] = {   -- [Dono ID: 2384251315 ] slot 10 /(HP AUMENTADO)
 		Nome = "TOП ح.र",
 		Dono = 2384251315,
@@ -650,19 +561,6 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[0] = {   -- [Dono ID:5521224878 ](HP AUMENTADO) / 35281109
-		Nome = '★罗Mafia Russa★',
-		Dono = 5521224878,
-		Vida = 2000,
-		Itens = {['Mikey'] = 0,['Yamato'] = 0},
-		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
-		Cor = { 
-			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 255, 255}},
-			Patente = {Letra = {0, 0, 0},Borda = {255, 255, 255}},
-			Team =    {Letra = {0, 0, 0},Borda = {255, 255, 255}},
-		},
-	},----------------------------------- Gang ---------------------------------------------
-
 	[33988163] = {   -- [Dono ID:4118157180 ](HP AUMENTADO)
 		Nome = "Máfia da Passione",
 		Dono = 4118157180,
@@ -686,19 +584,6 @@ local Gangs = {
 			Nome = 	  {Letra = {0, 0, 0},Borda = {0, 255, 0}},
 			Patente = {Letra = {0, 0, 0},Borda = {255, 0, 0}},
 			Team =    {Letra = {255, 255, 255},Borda = {0, 0, 0}},
-		},
-	},----------------------------------- Gang ---------------------------------------------
-
-	[0] = {   -- [Dono ID:1610967080 ](HP AUMENTADO) / passou limite e att / 35313938 +18 no dc
-		Nome = "God Of Speed",
-		Dono = 1610967080,
-		Vida = 1500,
-		Itens = {['KokusenKick'] = 0},
-		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
-		Cor = { 
-			Nome = 	  {Letra = {255, 0, 0},Borda = {0, 0, 0}},
-			Patente = {Letra = {255, 0, 0},Borda = {255, 255, 255}},
-			Team =    {Letra = {255, 0, 0},Borda = {0, 0, 0}},
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
@@ -768,19 +653,6 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 
-	[0] = {   -- [Dono ID:4441246926 ](HP AUMENTADO) / pediu desativar 33963874
-		Nome = "ま King's Of Demons ね",
-		Dono = 4441246926,
-		Vida = 1000,
-		Itens = {['Josef'] = 0},
-		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
-		Cor = { 
-			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 255, 255}},
-			Patente = {Letra = {0, 0, 0},Borda = {255, 255, 255}},
-			Team =    {Letra = {0, 0, 0},Borda = {255, 0, 0}},
-		},
-	},----------------------------------- Gang ---------------------------------------------
-
 	[34119236] = {   -- [Dono ID:4604110304 ](HP AUMENTADO)
 		Nome = "쵸 ㅊThe Gangster Strike ㅊ쵸",
 		Dono = 4604110304,
@@ -821,18 +693,6 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[0] = {   -- [Dono ID:4130321944 ] (HP AUMENTADO)
-		Nome = "你 HASHIRAS",
-		Dono = 4130321944,
-		Vida = 1000,
-		Itens = {['KokusenKick'] = 0},
-		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
-		Cor = { 
-			Nome = 	  {Letra = {0, 0, 0},Borda = {255, 255, 255}},
-			Patente = {Letra = {0, 0, 0},Borda = {0, 24, 111}},
-			Team =    {Letra = {0, 0, 0},Borda = {0, 24, 111}},
-		},
-	},----------------------------------- Gang ---------------------------------------------
 
 	[35407574] = {   -- [Dono ID: 5426598347] (HP AUMENTADO) MAX 15 PLAYER 
 		Nome = "Crimson Nebula",
@@ -944,20 +804,6 @@ local Gangs = {
 			Team =    {Letra = {0, 0, 0},Borda = {128, 0, 0}},
 		},
 	},----------------------------------- Gang ---------------------------------------------
-
-	[0] = {   -- [Dono ID: 2380558325 ] (HP AUMENTADO) / MAX 10 /  venda cargos / 35078814 limite de membro
-		Nome = "----- Death's Curse -----",
-		Dono = 2380558325,
-		Vida = 1500,
-		Itens = {['KokusenKick'] = 0,['Dash'] = 0,['Rasteira'] = 0},
-		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
-		Cor = { 
-			Nome = 	  {Letra = {128, 0, 0},Borda = {0, 0, 0}},
-			Patente = {Letra = {128, 0, 0},Borda = {255, 255, 255}},
-			Team =    {Letra = {255, 0, 0},Borda = {0, 0, 0}},
-		},
-	},----------------------------------- Gang ---------------------------------------------
-
 
 	[35513399] = {   -- [Dono ID: 2479262469 ] (HP AUMENTADO) / MAX 10
 		Nome = " 凍るFrozen Legacy凍る",
@@ -1089,18 +935,6 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[0] = {   -- [Dono ID: 643178742 ] (HP AUMENTADO) / MAX 10  / quebrando regras/ vendendo a gang 34723808 ID
-		Nome = "ゴールデンスター",
-		Dono = 643178742,
-		Vida = 1000,
-		Itens = {['Josef'] = 0},
-		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
-		Cor = { 
-			Nome = 	  {Letra = {255, 255, 255},Borda = {0, 0, 0}},
-			Patente = {Letra = {0, 0, 0},Borda = {255, 255, 255}},
-			Team =    {Letra = {128, 128, 128},Borda = {0, 0, 0}},
-		},
-	},----------------------------------- Gang ---------------------------------------------
 
 	[643133494] = {   -- [Dono ID: 4422049102 ] (HP AUMENTADO) / MAX 10 
 		Nome = "The New Sun 🉐️🌀",
@@ -1154,18 +988,6 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[0] = {   -- [Dono ID: 7778005604 ] (HP AUMENTADO) / MAX 10  / 35656059 venda de cargos
-		Nome = "Jujutsu Gang",
-		Dono = 7778005604,
-		Vida = 1000,
-		Itens = {['Josef'] = 0},
-		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
-		Cor = { 
-			Nome = 	  {Letra = {255, 0, 0},Borda = {255, 255, 255}},
-			Patente = {Letra = {0, 0, 0},Borda = {255, 0, 0}},
-			Team =    {Letra = {255, 0, 0},Borda = {255, 255, 255}},
-		},
-	},----------------------------------- Gang ---------------------------------------------
 
 	[35678514] = {   -- [Dono ID: 5643337926] (HP AUMENTADO) / MAX 10 
 		Nome = "👻調 God África 調💀",
@@ -1180,18 +1002,6 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[0] = {   -- [Dono ID: 2884760622 ] (HP AUMENTADO) / MAX 10 / id 13992168 pediu pra desativar (dono errado também)
-		Nome = "Black Guerilla Family",
-		Dono = 2884760622,
-		Vida = 1000,
-		Itens = {['Josef'] = 0},
-		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
-		Cor = { 
-			Nome = 	  {Letra = {0, 0, 255},Borda = {0, 0, 0}},
-			Patente = {Letra = {255, 255, 255},Borda = {0, 0, 0}},
-			Team =    {Letra = {0, 0, 0},Borda = {0, 255, 0}},
-		},
-	},----------------------------------- Gang ---------------------------------------------
 
 	[35661149] = {   -- [Dono ID: 3421740551 ] (HP AUMENTADO) / MAX 10 
 		Nome = "Crocodiles Gang",
@@ -1206,18 +1016,6 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[0] = {   -- [Dono ID: 4830534535 ] (HP AUMENTADO) / MAX 10 /35187838 pediu pra desativar
-		Nome = "Galaxy Black Ofc",
-		Dono = 4830534535,
-		Vida = 1000,
-		Itens = {['Josef'] = 0,['Dash'] = 0},
-		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
-		Cor = { 
-			Nome = 	  {Letra = {255, 0, 0},Borda = {0, 0, 0}},
-			Patente = {Letra = {255, 0, 0},Borda = {0, 0, 0}},
-			Team =    {Letra = {102, 0, 102},Borda = {0, 0, 0}},
-		},
-	},----------------------------------- Gang ---------------------------------------------
 
 	[35342250] = {   -- [Dono ID: 3935154481 ] (HP AUMENTADO) / MAX 10 
 		Nome = "The Phantoms",
@@ -1284,19 +1082,6 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[0] = {   -- [Dono ID: 1539049071 ] (HP AUMENTADO) / MAX 10 45 membros id 35811229
-		Nome = "影 Solo Monarch 影",
-		Dono = 1539049071,
-		Vida = 2000,
-		Itens = {['Mikey'] = 0,['Dash'] = 0,['FireKick'] = 0},
-		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
-		Cor = { 
-			Nome = 	  {Letra = {0, 0, 0},Borda = {153, 0, 204}},
-			Patente = {Letra = {0, 0, 0},Borda = {153, 0, 204}},
-			Team =    {Letra = {0, 0, 0},Borda = {153, 0, 204}},
-		},
-	},----------------------------------- Gang ---------------------------------------------
-
 	[35822394] = {   -- [Dono ID: 5568805464 ] (HP AUMENTADO) / MAX 10 
 		Nome = "衛星Luas-Crimson衛星",
 		Dono = 5568805464,
@@ -1336,18 +1121,6 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[0] = {   -- [Dono ID: 5552458329 ] (HP AUMENTADO) / MAX 10 / 35848194
-		Nome = 'Gang dos Hashiras 🔥💭👑⚡️⚔️',
-		Dono = 5552458329,
-		Vida = 1000,
-		Itens = {['Mikey'] = 0,['FireKick'] = 0,['Yamato'] = 0,['Raio'] = 0},
-		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
-		Cor = { 
-			Nome = 	  {Letra = {255, 153, 51},Borda = {255, 102, 0}},
-			Patente = {Letra = {255, 153, 51},Borda = {255, 102, 0}},
-			Team =    {Letra = {255, 255, 0}, Borda = {255, 255, 102}},
-		},
-	},----------------------------------- Gang ---------------------------------------------
 
 	[959654990] = {   -- [Dono ID: 4033109285 ] (HP AUMENTADO) / MAX 10 | san / rafael  / 35595693 Goten antiga /  troca de donos |  |
 		Nome = 'カKanto Manji カ',
@@ -1362,18 +1135,6 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[0] = {   -- [Dono ID: 4511146917 ] (HP AUMENTADO) / MAX 10 / excesso membros 35884280
-		Nome = '众神 Gods of curse 诅咒',
-		Dono = 4511146917,
-		Vida = 1000,
-		Itens = {['Mikey'] = 0},
-		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
-		Cor = { 
-			Nome = 	  {Letra = {255, 255, 255},Borda = {0, 0, 0}},
-			Patente = {Letra = {255, 0, 0},Borda = {0, 0, 0}},
-			Team =    {Letra = {204, 51, 255}, Borda = {0, 0, 0}},
-		},
-	},----------------------------------- Gang ---------------------------------------------
 
 	[15285628] = {   -- [Dono ID: 1277968069 ] (HP AUMENTADO) / MAX 10 
 		Nome = 'KAISER ’ LOOOCKS I AM BLOOCKS  ‘ ‘',
@@ -1388,18 +1149,6 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[0] = {   -- [Dono ID: 4574693848 ] (HP AUMENTADO) / MAX 10  passou limite 1x 35713750 venda de cargos
-		Nome = "战俘 Shadows Of Here's 战俘",
-		Dono = 4574693848,
-		Vida = 1000,
-		Itens = {['Josef'] = 0,['Raio'] = 0,['ChuteEletrico'] = 0},
-		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
-		Cor = { 
-			Nome = 	  {Letra = {255, 0, 0},Borda = {255, 255, 255}},
-			Patente = {Letra = {255, 0, 0},Borda = {0, 0, 0}},
-			Team =    {Letra = {255, 0, 0},Borda = {255, 25, 255}},
-		},
-	},----------------------------------- Gang ---------------------------------------------
 
 	[32329565] = {   -- [Dono ID: 1392515870 ] (HP AUMENTADO) / MAX 10 
 		Nome = "simpsons",
@@ -1531,7 +1280,7 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	
+
 	[394024034] = {   -- [Dono ID: 8393978500  ] (HP AUMENTADO) / MAX 10 
 		Nome = "墮落者 The Fallen Angels 尤夫哈",
 		Dono = 8393978500,
@@ -1575,471 +1324,442 @@ local Gangs = {
 		Dono = 5150614508,
 		Vida = 1500,
 		Itens = {['Mikey'] = 0,['SusanooSlap'] = {Color = {30,255,30},Knockback = 60},['Rasteira'] = 0},
-			Roupa = {Tier = 256,Shirt = 115960027223409,Pants = 98025257875084},
-			Cor = { 
-				Nome = 	  {Letra = {153, 204, 255},  Borda = {255, 0, 0}},
-				Patente = {Letra = {255, 255, 0},  Borda = {0, 255, 0}},
-				Team =    {Letra = {0, 255, 255},  Borda = {0, 0, 0}},
-			},
-		},----------------------------------- Gang ---------------------------------------------
+		Roupa = {Tier = 256,Shirt = 115960027223409,Pants = 98025257875084},
+		Cor = { 
+			Nome = 	  {Letra = {153, 204, 255},  Borda = {255, 0, 0}},
+			Patente = {Letra = {255, 255, 0},  Borda = {0, 255, 0}},
+			Team =    {Letra = {0, 255, 255},  Borda = {0, 0, 0}},
+		},
+	},----------------------------------- Gang ---------------------------------------------
 
-		[170570445] = {   -- [Dono ID: 8981810684 ] (HP AUMENTADO) / MAX 10 
-			Nome = "Black Dragons The Seven",
-			Dono = 8981810684,
-			Vida = 1000,
-			Itens = {['KokusenKick'] = 0,['YinYang'] = 0},
-			Roupa = {Tier = 256,Shirt = 0,Pants = 0},
-			Cor = { 
-				Nome = 	  {Letra = {0, 0, 0},  Borda = {255, 0, 0}},
-				Patente = {Letra = {0, 0, 0},  Borda = {255, 0, 0}},
-				Team =    {Letra = {0, 0, 0},  Borda = {255, 0, 0}},
-			},
-		},----------------------------------- Gang ---------------------------------------------
+	[170570445] = {   -- [Dono ID: 8981810684 ] (HP AUMENTADO) / MAX 10 
+		Nome = "Black Dragons The Seven",
+		Dono = 8981810684,
+		Vida = 1000,
+		Itens = {['KokusenKick'] = 0,['YinYang'] = 0},
+		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
+		Cor = { 
+			Nome = 	  {Letra = {0, 0, 0},  Borda = {255, 0, 0}},
+			Patente = {Letra = {0, 0, 0},  Borda = {255, 0, 0}},
+			Team =    {Letra = {0, 0, 0},  Borda = {255, 0, 0}},
+		},
+	},----------------------------------- Gang ---------------------------------------------
 
 
-		[32352281] = {   -- [Dono ID: 2515682546 ] (HP AUMENTADO) / MAX 10 / 1 buff susanoo / ['FireKick'] = 0 pediu pra tirar atrapalhando
-			Nome = "ㅊ Hunters ㅊ",
-			Dono = 2515682546,
-			Vida = 3000,
-			Itens = {['Dash'] = 0,['SusanooSlap'] = {Knockback = 65,Color = {0,0,0}},['Raio'] = 0,['Rinnegan_Push'] = 0,['YinYang'] = 0,['Colateral'] = 0,['FP_Thunder'] = 0},
-			Roupa = {Tier = 256,Shirt = 0,Pants = 0},
-			Cor = { 
-				Nome = 	  {Letra = {255, 255, 255},  Borda = {255, 0, 0}},
-				Patente = {Letra = {255, 255, 255},  Borda = {255, 0, 0}},
-				Team =    {Letra = {255, 255, 255},  Borda = {255, 0, 0}},
-			},
-		},----------------------------------- Gang ---------------------------------------------
+	[32352281] = {   -- [Dono ID: 2515682546 ] (HP AUMENTADO) / MAX 10 / 1 buff susanoo / ['FireKick'] = 0 pediu pra tirar atrapalhando
+		Nome = "ㅊ Hunters ㅊ",
+		Dono = 2515682546,
+		Vida = 3000,
+		Itens = {['Dash'] = 0,['SusanooSlap'] = {Knockback = 65,Color = {0,0,0}},['Raio'] = 0,['Rinnegan_Push'] = 0,['YinYang'] = 0,['Colateral'] = 0,['FP_Thunder'] = 0},
+		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
+		Cor = { 
+			Nome = 	  {Letra = {255, 255, 255},  Borda = {255, 0, 0}},
+			Patente = {Letra = {255, 255, 255},  Borda = {255, 0, 0}},
+			Team =    {Letra = {255, 255, 255},  Borda = {255, 0, 0}},
+		},
+	},----------------------------------- Gang ---------------------------------------------
 
-		[34765514] = {   -- [Dono ID: 2582280278 ] (HP AUMENTADO) / MAX 10 
-			Nome = "☯ Tenjiku Gang ☯",
-			Dono = 2582280278,
-			Vida = 2000,
-			Itens = {['KokusenKick'] = 0,['Dash'] = 0,['SusanooSlap'] = 0},
-			Roupa = {Tier = 256,Shirt = 0,Pants = 0},
-			Cor = { 
-				Nome = 	  {Letra = {0, 0, 0},  Borda = {255, 255, 255}},
-				Patente = {Letra = {255, 255, 255},  Borda = {0, 0, 0}},
-				Team =    {Letra = {255, 255, 255},  Borda = {0, 0, 0}},
-			},
-		},----------------------------------- Gang ---------------------------------------------
+	[34765514] = {   -- [Dono ID: 2582280278 ] (HP AUMENTADO) / MAX 10 
+		Nome = "☯ Tenjiku Gang ☯",
+		Dono = 2582280278,
+		Vida = 2000,
+		Itens = {['KokusenKick'] = 0,['Dash'] = 0,['SusanooSlap'] = 0},
+		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
+		Cor = { 
+			Nome = 	  {Letra = {0, 0, 0},  Borda = {255, 255, 255}},
+			Patente = {Letra = {255, 255, 255},  Borda = {0, 0, 0}},
+			Team =    {Letra = {255, 255, 255},  Borda = {0, 0, 0}},
+		},
+	},----------------------------------- Gang ---------------------------------------------
 
-		[313867337] = {   -- [Dono ID: 4706357886 ] (HP AUMENTADO) / MAX 10 ( temp evento 20/12 hinokami )
-			Nome = "Hakaishin's",
-			Dono = 4706357886,
-			Vida = 1000,
-			Itens = {['Mikey'] = 0,['Dash'] = 0,['SusanooSlap'] = 0,['Rinnegan_Push'] = 0},
-			Roupa = {Tier = 256,Shirt = 0,Pants = 0},
-			Cor = { 
-				Nome = 	  {Letra = {0, 0, 0},  Borda = {153, 0, 153}},
-				Patente = {Letra = {0, 0, 0},  Borda = {153, 0, 153}},
-				Team =    {Letra = {0, 0, 0},  Borda = {153, 0, 153}},
-			},
-		},----------------------------------- Gang ---------------------------------------------
+	[313867337] = {   -- [Dono ID: 4706357886 ] (HP AUMENTADO) / MAX 10 ( temp evento 20/12 hinokami )
+		Nome = "Hakaishin's",
+		Dono = 4706357886,
+		Vida = 1000,
+		Itens = {['Mikey'] = 0,['Dash'] = 0,['SusanooSlap'] = 0,['Rinnegan_Push'] = 0},
+		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
+		Cor = { 
+			Nome = 	  {Letra = {0, 0, 0},  Borda = {153, 0, 153}},
+			Patente = {Letra = {0, 0, 0},  Borda = {153, 0, 153}},
+			Team =    {Letra = {0, 0, 0},  Borda = {153, 0, 153}},
+		},
+	},----------------------------------- Gang ---------------------------------------------
 
-		[266082414] = {   -- [Dono ID: ed3 ] (HP AUMENTADO) / MAX 10 
-			Nome = "Ordem do Horizonte",
-			Vida = 2000,
-			Itens = {['Mikey'] = 0,['Dash'] = 0},
-			Roupa = {Tier = 256,Shirt = 0,Pants = 0},
-			Cor = { 
-				Nome = 	  {Letra = {255, 255, 255},  Borda = {0, 228, 255}},
-				Patente = {Letra = {255, 255, 255},  Borda = {0, 228, 255}},
-				Team =    {Letra = {0, 228, 255},    Borda = {255, 255, 255}},
-			},
-		},----------------------------------- Gang ---------------------------------------------
+	[266082414] = {   -- [Dono ID: ed3 ] (HP AUMENTADO) / MAX 10 
+		Nome = "Ordem do Horizonte",
+		Vida = 2000,
+		Itens = {['Mikey'] = 0,['Dash'] = 0},
+		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
+		Cor = { 
+			Nome = 	  {Letra = {255, 255, 255},  Borda = {0, 228, 255}},
+			Patente = {Letra = {255, 255, 255},  Borda = {0, 228, 255}},
+			Team =    {Letra = {0, 228, 255},    Borda = {255, 255, 255}},
+		},
+	},----------------------------------- Gang ---------------------------------------------
 
-		[35085279] = {   -- [Dono ID: 1928591559 ] (HP AUMENTADO) / MAX 10 
-			Nome = "憎 Black Dragons New Gen 憎",
-			Dono = 1928591559,
-			Vida = 1000,
-			Itens = {['Josef'] = 0,['FireKick'] = 0},
-			Roupa = {Tier = 256,Shirt = 0,Pants = 0},
-			Cor = { 
-				Nome = 	  {Letra = {0, 0, 255},  Borda = {153, 0, 204}},
-				Patente = {Letra = {255, 102, 153},  Borda = {153, 0, 204}},
-				Team =    {Letra = {153, 0, 204},    Borda = {255, 102, 153}},
-			},
-		},----------------------------------- Gang ---------------------------------------------
+	[35085279] = {   -- [Dono ID: 1928591559 ] (HP AUMENTADO) / MAX 10 
+		Nome = "憎 Black Dragons New Gen 憎",
+		Dono = 1928591559,
+		Vida = 1000,
+		Itens = {['Josef'] = 0,['FireKick'] = 0},
+		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
+		Cor = { 
+			Nome = 	  {Letra = {0, 0, 255},  Borda = {153, 0, 204}},
+			Patente = {Letra = {255, 102, 153},  Borda = {153, 0, 204}},
+			Team =    {Letra = {153, 0, 204},    Borda = {255, 102, 153}},
+		},
+	},----------------------------------- Gang ---------------------------------------------
 
-		[841162416] = {   -- [Dono ID: 4016113843 ] (HP AUMENTADO) / MAX 10 
-			Nome = "是~The Lunars~ 度",
-			Dono = 4016113843,
-			Vida = 1000,
-			Itens = {['Josef'] = 0,['FireKick'] = 0,['YinYang'] = 0},
-			Roupa = {Tier = 256,Shirt = 2896576373,Pants = 1458771381},
-			Cor = { 
-				Nome = 	  {Letra = {0, 0, 0},  Borda = {230, 0, 230}},
-				Patente = {Letra = {0, 0, 0},  Borda = {230, 0, 230}},
-				Team =    {Letra = {230, 0, 230},    Borda = {0, 0, 0}},
-			},
-		},----------------------------------- Gang ---------------------------------------------
+	[841162416] = {   -- [Dono ID: 4016113843 ] (HP AUMENTADO) / MAX 10 
+		Nome = "是~The Lunars~ 度",
+		Dono = 4016113843,
+		Vida = 1000,
+		Itens = {['Josef'] = 0,['FireKick'] = 0,['YinYang'] = 0},
+		Roupa = {Tier = 256,Shirt = 2896576373,Pants = 1458771381},
+		Cor = { 
+			Nome = 	  {Letra = {0, 0, 0},  Borda = {230, 0, 230}},
+			Patente = {Letra = {0, 0, 0},  Borda = {230, 0, 230}},
+			Team =    {Letra = {230, 0, 230},    Borda = {0, 0, 0}},
+		},
+	},----------------------------------- Gang ---------------------------------------------
 
-		[0] = {   -- [Dono ID: 33479641 ] (HP AUMENTADO) / MAX 10 -- 33479641
-			Nome = "Caçadores de Hashiras ハシラハンター",
-			Dono = 5274304169,
-			Vida = 1000,
-			Itens = {['Josef'] = 0},
-			Roupa = {Tier = 256,Shirt = 0,Pants = 0},
-			Cor = { 
-				Nome = 	  {Letra = {255, 128, 128},  Borda = {153, 0, 0}},
-				Patente = {Letra = {255, 128, 128},  Borda = {153, 0, 0}},
-				Team =    {Letra = {255, 128, 128},  Borda = {153, 0, 0}},
-			},
-		},----------------------------------- Gang ---------------------------------------------
+	[348893799] = {   -- [Dono ID: 2599454333 ] (HP AUMENTADO) / MAX 10 
+		Nome = "NoCB",
+		Dono = 2599454333,
+		Vida = 1000,
+		Itens = {['Mikey'] = 0,['Susanoo2Swords'] = {Color = {0,0,100}},['Raio'] = 0,['Rinnegan_Push'] = 0,['YinYang'] = 0},
+		Roupa = {Tier = 256,Shirt = 112199752405125,Pants = 13261383162},
+		Cor = { 
+			Nome = 	  {Letra = {0, 0, 0},  Borda = {255, 255, 0}},
+			Patente = {Letra = {0, 0, 0},  Borda = {255, 255, 0}},
+			Team =    {Letra = {0, 0, 0},  Borda = {255, 255, 0}},
+		},
+	},----------------------------------- Gang ---------------------------------------------
 
-		[348893799] = {   -- [Dono ID: 2599454333 ] (HP AUMENTADO) / MAX 10 
-			Nome = "NoCB",
-			Dono = 2599454333,
-			Vida = 1000,
-			Itens = {['Mikey'] = 0,['Susanoo2Swords'] = {Color = {0,0,100}},['Raio'] = 0,['Rinnegan_Push'] = 0,['YinYang'] = 0},
-			Roupa = {Tier = 256,Shirt = 112199752405125,Pants = 13261383162},
-			Cor = { 
-				Nome = 	  {Letra = {0, 0, 0},  Borda = {255, 255, 0}},
-				Patente = {Letra = {0, 0, 0},  Borda = {255, 255, 0}},
-				Team =    {Letra = {0, 0, 0},  Borda = {255, 255, 0}},
-			},
-		},----------------------------------- Gang ---------------------------------------------
+	[837951007] = {   -- [Dono ID: 2407844697 ] (HP AUMENTADO) / MAX 10 
+		Nome = "Caos",
+		Dono = 2407844697,
+		Vida = 1000,
+		Itens = {['Josef'] = 0},
+		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
+		Cor = { 
+			Nome = 	  {Letra = {0, 0, 0},  Borda = {255, 255, 255}},
+			Patente = {Letra = {0, 0, 0},  Borda = {255, 255, 255}},
+			Team =    {Letra = {0, 0, 0},  Borda = {255, 255, 255}},
+		},
+	},----------------------------------- Gang ---------------------------------------------
 
-		[837951007] = {   -- [Dono ID: 2407844697 ] (HP AUMENTADO) / MAX 10 
-			Nome = "Caos",
-			Dono = 2407844697,
-			Vida = 1000,
-			Itens = {['Josef'] = 0},
-			Roupa = {Tier = 256,Shirt = 0,Pants = 0},
-			Cor = { 
-				Nome = 	  {Letra = {0, 0, 0},  Borda = {255, 255, 255}},
-				Patente = {Letra = {0, 0, 0},  Borda = {255, 255, 255}},
-				Team =    {Letra = {0, 0, 0},  Borda = {255, 255, 255}},
-			},
-		},----------------------------------- Gang ---------------------------------------------
+	[34948573] = {   -- [Dono ID: 2407965814 ] (HP AUMENTADO) / MAX 10 
+		Nome = "这 God' Of shadow 这",
+		Dono = 2407965814,
+		Vida = 1000,
+		Itens = {['KokusenKick'] = 0,['Raio'] = 0},
+		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
+		Cor = { 
+			Nome = 	  {Letra = {255, 255, 255},  Borda = {0, 0, 0}},
+			Patente = {Letra = {0, 0, 0},  Borda = {212, 111, 255}},
+			Team =    {Letra = {86, 45, 103},  Borda = {255, 255, 255}},
+		},
+	},----------------------------------- Gang ---------------------------------------------
 
-		[34948573] = {   -- [Dono ID: 2407965814 ] (HP AUMENTADO) / MAX 10 
-			Nome = "这 God' Of shadow 这",
-			Dono = 2407965814,
-			Vida = 1000,
-			Itens = {['KokusenKick'] = 0,['Raio'] = 0},
-			Roupa = {Tier = 256,Shirt = 0,Pants = 0},
-			Cor = { 
-				Nome = 	  {Letra = {255, 255, 255},  Borda = {0, 0, 0}},
-				Patente = {Letra = {0, 0, 0},  Borda = {212, 111, 255}},
-				Team =    {Letra = {86, 45, 103},  Borda = {255, 255, 255}},
-			},
-		},----------------------------------- Gang ---------------------------------------------
+	[353462248] = {   -- [Dono ID: 9714948461 ] (HP AUMENTADO) / MAX 10 
+		Nome = "Los Titan",
+		Dono = 9714948461,
+		Vida = 1000,
+		Itens = {['Josef'] = 0},
+		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
+		Cor = { 
+			Nome = 	  {Letra = {0, 0, 0},  Borda = {255, 255, 255}},
+			Patente = {Letra = {0, 0, 0},  Borda = {255, 255, 255}},
+			Team =    {Letra = {0, 0, 0},  Borda = {255, 255, 255}},
+		},
+	},----------------------------------- Gang ---------------------------------------------
 
-		[353462248] = {   -- [Dono ID: 9714948461 ] (HP AUMENTADO) / MAX 10 
-			Nome = "Los Titan",
-			Dono = 9714948461,
-			Vida = 1000,
-			Itens = {['Josef'] = 0},
-			Roupa = {Tier = 256,Shirt = 0,Pants = 0},
-			Cor = { 
-				Nome = 	  {Letra = {0, 0, 0},  Borda = {255, 255, 255}},
-				Patente = {Letra = {0, 0, 0},  Borda = {255, 255, 255}},
-				Team =    {Letra = {0, 0, 0},  Borda = {255, 255, 255}},
-			},
-		},----------------------------------- Gang ---------------------------------------------
+	[653731889] = {   -- [Dono ID: 9572877873 ] (HP AUMENTADO) / MAX 10 
+		Nome = "爱Angels Syndicate爱",
+		Dono = 9572877873,
+		Vida = 2000,
+		Itens = {['Mikey'] = 0},
+		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
+		Cor = { 
+			Nome = 	  {Letra = {0, 0, 0},  Borda = {255, 255, 255}},
+			Patente = {Letra = {0, 0, 0},  Borda = {255, 255, 255}},
+			Team =    {Letra = {255, 255, 255},  Borda = {0, 0, 0}},
+		},
+	},----------------------------------- Gang ---------------------------------------------
 
-		[653731889] = {   -- [Dono ID: 9572877873 ] (HP AUMENTADO) / MAX 10 
-			Nome = "爱Angels Syndicate爱",
-			Dono = 9572877873,
-			Vida = 2000,
-			Itens = {['Mikey'] = 0},
-			Roupa = {Tier = 256,Shirt = 0,Pants = 0},
-			Cor = { 
-				Nome = 	  {Letra = {0, 0, 0},  Borda = {255, 255, 255}},
-				Patente = {Letra = {0, 0, 0},  Borda = {255, 255, 255}},
-				Team =    {Letra = {255, 255, 255},  Borda = {0, 0, 0}},
-			},
-		},----------------------------------- Gang ---------------------------------------------
 
-	
-		[481298548] = {   -- [Dono ID: 4454840614 ] (HP AUMENTADO) / MAX 10 
-			Nome = " 一族 Kai's Gojo Clan 族一",
-			Dono = 4454840614,
-			Vida = 1000,
-			Itens = {['Josef'] = 0,['FireKick'] = 0},
-			Roupa = {Tier = 256,Shirt = 0,Pants = 0},
-			Cor = { 
-				Nome = 	  {Letra = {255, 0, 0},  Borda = {0, 0, 0}},
-				Patente = {Letra = {0, 0, 0},  Borda = {255, 0, 0}},
-				Team =    {Letra = {0, 0, 0},  Borda = {255, 0, 0}},
-			},
-		},----------------------------------- Gang ---------------------------------------------
+	[481298548] = {   -- [Dono ID: 4454840614 ] (HP AUMENTADO) / MAX 10 
+		Nome = " 一族 Kai's Gojo Clan 族一",
+		Dono = 4454840614,
+		Vida = 1000,
+		Itens = {['Josef'] = 0,['FireKick'] = 0},
+		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
+		Cor = { 
+			Nome = 	  {Letra = {255, 0, 0},  Borda = {0, 0, 0}},
+			Patente = {Letra = {0, 0, 0},  Borda = {255, 0, 0}},
+			Team =    {Letra = {0, 0, 0},  Borda = {255, 0, 0}},
+		},
+	},----------------------------------- Gang ---------------------------------------------
 
-		[572430128] = {   --
-			Nome = "Crimson Disorder",
-			Dono = 5084914166,
-			Vida = 1000,
-			Itens = {['Mikey'] = 0,['Rasteira'] = 0,['Raio'] = 0},
-			Roupa = {Tier = 256,Shirt = 0,Pants = 0},
-			Cor = { 
-				Nome = 	  {Letra = {0, 0, 0},  Borda = {255, 255, 255}},
-				Patente = {Letra = {0, 0, 0},  Borda = {255, 255, 255}},
-				Team =    {Letra = {102, 255, 51},  Borda = {0, 0, 0}},
-			},
-		},----------------------------------- Gang ---------------------------------------------
+	[572430128] = {   --
+		Nome = "Crimson Disorder",
+		Dono = 5084914166,
+		Vida = 1000,
+		Itens = {['Mikey'] = 0,['Rasteira'] = 0,['Raio'] = 0},
+		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
+		Cor = { 
+			Nome = 	  {Letra = {0, 0, 0},  Borda = {255, 255, 255}},
+			Patente = {Letra = {0, 0, 0},  Borda = {255, 255, 255}},
+			Team =    {Letra = {102, 255, 51},  Borda = {0, 0, 0}},
+		},
+	},----------------------------------- Gang ---------------------------------------------
 
-		[1088744406] = {   --
-			Nome = "NoTracK",
-			Dono = 3337736146,
-			Vida = 1000,
-			Itens = {['Josef'] = 0},
-			Roupa = {Tier = 256,Shirt = 0,Pants = 0},
-			Cor = { 
-				Nome = 	  {Letra = {0, 0, 0},  Borda = {255, 215, 0}},
-				Patente = {Letra = {0, 0, 0},  Borda = {255, 215, 0}},
-				Team =    {Letra = {0, 0, 0},  Borda = {255, 215, 0}},
-			},
-		},----------------------------------- Gang ---------------------------------------------
+	[1088744406] = {   --
+		Nome = "NoTracK",
+		Dono = 3337736146,
+		Vida = 1000,
+		Itens = {['Josef'] = 0},
+		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
+		Cor = { 
+			Nome = 	  {Letra = {0, 0, 0},  Borda = {255, 215, 0}},
+			Patente = {Letra = {0, 0, 0},  Borda = {255, 215, 0}},
+			Team =    {Letra = {0, 0, 0},  Borda = {255, 215, 0}},
+		},
+	},----------------------------------- Gang ---------------------------------------------
 
-	
-		[0] = {   -- 33760201 96 pesoas
-			Nome = "Yagyo Catalyst",
-			Dono = 9828582963,
-			Vida = 1000,
-			Itens = {['Mikey'] = 0},
-			Roupa = {Tier = 256,Shirt = 0,Pants = 0},
-			Cor = { 
-				Nome = 	  {Letra = {51, 153, 255},  Borda = {255, 255, 255}},
-				Patente = {Letra = {51, 153, 255},  Borda = {255, 255, 255}},
-				Team =    {Letra = {255, 255, 255},  Borda = {51, 153, 255}},
-			},
-		},----------------------------------- Gang ---------------------------------------------
 
-		[647794796] = {  
-			Nome = "IRON DRAGONS",
-			Dono = 2322814966,
-			Vida = 1000,
-			Itens = {['Mikey'] = 0},
-			Roupa = {Tier = 256,Shirt = 0,Pants = 0},
-			Cor = { 
-				Nome = 	  {Letra = {255, 255, 255},  Borda = {0, 0, 0}},
-				Patente = {Letra = {0, 0, 0},  Borda = {255, 255, 255}},
-				Team =    {Letra = {0, 0, 0},  Borda = {255, 255, 255}},
-			},
-		},----------------------------------- Gang ---------------------------------------------
+	[647794796] = {  
+		Nome = "IRON DRAGONS",
+		Dono = 2322814966,
+		Vida = 1000,
+		Itens = {['Mikey'] = 0},
+		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
+		Cor = { 
+			Nome = 	  {Letra = {255, 255, 255},  Borda = {0, 0, 0}},
+			Patente = {Letra = {0, 0, 0},  Borda = {255, 255, 255}},
+			Team =    {Letra = {0, 0, 0},  Borda = {255, 255, 255}},
+		},
+	},----------------------------------- Gang ---------------------------------------------
 
-		[760836943] = {  
-			Nome = "Yhiens",
-			Dono = 7681638701,
-			Vida = 1000,
-			Itens = {['Mikey'] = 0},
-			Roupa = {Tier = 256,Shirt = 0,Pants = 0},	
-			Cor = { 
-				Nome = 	  {Letra = {0, 0, 0},  Borda = {255, 204, 0}},
-				Patente = {Letra = {0, 0, 0},  Borda = {255, 204, 0}},
-				Team =    {Letra = {0, 0, 0},  Borda = {255, 204, 0}},
-			},
-		},----------------------------------- Gang ---------------------------------------------
+	[760836943] = {  
+		Nome = "Yhiens",
+		Dono = 7681638701,
+		Vida = 1000,
+		Itens = {['Mikey'] = 0},
+		Roupa = {Tier = 256,Shirt = 0,Pants = 0},	
+		Cor = { 
+			Nome = 	  {Letra = {0, 0, 0},  Borda = {255, 204, 0}},
+			Patente = {Letra = {0, 0, 0},  Borda = {255, 204, 0}},
+			Team =    {Letra = {0, 0, 0},  Borda = {255, 204, 0}},
+		},
+	},----------------------------------- Gang ---------------------------------------------
 
-	
-		[66025013] = {  
-			Nome = "Samurai",
-			Dono = 7648333286,
-			Vida = 1000,
-			Aura = 'Dells',
-			Itens = {['Mikey'] = 0},
-			Roupa = {Tier = 256,Shirt = 0,Pants = 0},
-			Cor = { 
-				Nome = 	  {Letra = {255, 255, 255},  Borda = {255, 0, 0}},
-				Patente = {Letra = {255, 255, 255},  Borda = {255, 0, 0}},
-				Team =    {Letra = {255, 255, 255},  Borda = {255, 0, 0}},
-			},
-		},----------------------------------- Gang ---------------------------------------------
 
-		[308629618] = {  
-			Nome = "SoloyWss",
-			Dono = 8923133188,
-			Vida = 1000,
-			Itens = {['Mikey'] = 0},
-			Roupa = {Tier = 256,Shirt = 0,Pants = 0},
-			Cor = { 
-				Nome = 	  {Letra = {0, 0, 0},  Borda = {255, 255, 255}},
-				Patente = {Letra = {0, 0, 0},  Borda = {255, 255, 255}},
-				Team =    {Letra = {255, 0, 0},  Borda = {0, 0, 0}},
-			},
-		},----------------------------------- Gang ---------------------------------------------
+	[66025013] = {  
+		Nome = "Samurai",
+		Dono = 7648333286,
+		Vida = 1000,
+		Aura = 'Dells',
+		Itens = {['Mikey'] = 0},
+		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
+		Cor = { 
+			Nome = 	  {Letra = {255, 255, 255},  Borda = {255, 0, 0}},
+			Patente = {Letra = {255, 255, 255},  Borda = {255, 0, 0}},
+			Team =    {Letra = {255, 255, 255},  Borda = {255, 0, 0}},
+		},
+	},----------------------------------- Gang ---------------------------------------------
 
-		[360105145] = {  
-			Nome = "有 • The Seven Deadly Sins • 有",
-			Dono = 5797408926,
-			Vida = 1000,
-			Itens = {['Mikey'] = 0},
-			Roupa = {Tier = 256,Shirt = 0,Pants = 0},
-			Cor = { 
-				Nome = 	  {Letra = {38, 38, 38},  Borda = {153, 51, 153}},
-				Patente = {Letra = {255, 255, 102},  Borda = {153, 51, 153}},
-				Team =    {Letra = {38, 38, 38},  Borda = {153, 51, 153}},
-			},
-		},----------------------------------- Gang ---------------------------------------------
+	[308629618] = {  
+		Nome = "SoloyWss",
+		Dono = 8923133188,
+		Vida = 1000,
+		Itens = {['Mikey'] = 0},
+		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
+		Cor = { 
+			Nome = 	  {Letra = {0, 0, 0},  Borda = {255, 255, 255}},
+			Patente = {Letra = {0, 0, 0},  Borda = {255, 255, 255}},
+			Team =    {Letra = {255, 0, 0},  Borda = {0, 0, 0}},
+		},
+	},----------------------------------- Gang ---------------------------------------------
 
-	
-		[740521745] = {  
-			Nome = "Astral Legion",
-			Dono = 5325771322,
-			Vida = 1000,
-			Itens = {['Mikey'] = 0},
-			Roupa = {Tier = 256,Shirt = 0,Pants = 0},
-			Cor = { 
-				Nome = 	  {Letra = {0, 0, 0},  Borda = {184, 255, 202}},
-				Patente = {Letra = {0, 0, 0},  Borda = {184, 255, 202}},
-				Team =    {Letra = {0, 0, 0},  Borda = {184, 255, 202}},
-			},
-		},----------------------------------- Gang ---------------------------------------------
+	[360105145] = {  
+		Nome = "有 • The Seven Deadly Sins • 有",
+		Dono = 5797408926,
+		Vida = 1000,
+		Itens = {['Mikey'] = 0},
+		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
+		Cor = { 
+			Nome = 	  {Letra = {38, 38, 38},  Borda = {153, 51, 153}},
+			Patente = {Letra = {255, 255, 102},  Borda = {153, 51, 153}},
+			Team =    {Letra = {38, 38, 38},  Borda = {153, 51, 153}},
+		},
+	},----------------------------------- Gang ---------------------------------------------
 
-		[215623204] = {  	
-			Nome = "噸~Império The Sombras~噸👑", --  tentando dar golpe no rafael
-			Dono = 4693466988,
-			Vida = 1000,
-			Itens = {['Mikey'] = 0,['Yamato'] = 0,['Raio'] = 0},
-			Roupa = {Tier = 256,Shirt = 0,Pants = 0},
-			Cor = { 
-				Nome = 	  {Letra = {0, 0, 0},  Borda = {153, 0, 204}},
-				Patente = {Letra = {0, 0, 0},  Borda = {153, 0, 204}},
-				Team =    {Letra = {0, 0, 0},  Borda = {153, 0, 204}},
-			},
-		},----------------------------------- Gang ---------------------------------------------
 
-		[9942185] = {  
-			Nome = "As branquela",
-			Dono = 1813688196,
-			Vida = 1000,
-			Itens = {['Mikey'] = 0,['Raio'] = 0},
-			Roupa = {Tier = 256,Shirt = 11914339622,Pants = 14132142432},
-			Cor = { 
-				Nome = 	  {Letra = {0, 0, 0},  Borda = {255, 255, 255}},
-				Patente = {Letra = {0, 0, 0},  Borda = {255, 255, 255}},
-				Team =    {Letra = {0, 0, 0},  Borda = {255, 255, 0}},
-			},
-		},----------------------------------- Gang ---------------------------------------------
+	[740521745] = {  
+		Nome = "Astral Legion",
+		Dono = 5325771322,
+		Vida = 1000,
+		Itens = {['Mikey'] = 0},
+		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
+		Cor = { 
+			Nome = 	  {Letra = {0, 0, 0},  Borda = {184, 255, 202}},
+			Patente = {Letra = {0, 0, 0},  Borda = {184, 255, 202}},
+			Team =    {Letra = {0, 0, 0},  Borda = {184, 255, 202}},
+		},
+	},----------------------------------- Gang ---------------------------------------------
 
-		[34910138] = {  
-			Nome = "The Dark Knight’s– 実冥闇",
-			Dono = 5032292144,
-			Vida = 1000,
-			Itens = {['Mikey'] = 0},
-			Roupa = {Tier = 256,Shirt = 0,Pants = 0},
-			Cor = { 
-				Nome = 	  {Letra = {0, 0, 0},  Borda = {153, 0, 204}},
-				Patente = {Letra = {0, 0, 0},  Borda = {153, 0, 204}},
-				Team =    {Letra = {0, 0, 0},  Borda = {153, 0, 204}},
-			},
-		},----------------------------------- Gang ---------------------------------------------
+	[215623204] = {  	
+		Nome = "噸~Império The Sombras~噸👑", --  tentando dar golpe no rafael
+		Dono = 4693466988,
+		Vida = 1000,
+		Itens = {['Mikey'] = 0,['Yamato'] = 0,['Raio'] = 0},
+		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
+		Cor = { 
+			Nome = 	  {Letra = {0, 0, 0},  Borda = {153, 0, 204}},
+			Patente = {Letra = {0, 0, 0},  Borda = {153, 0, 204}},
+			Team =    {Letra = {0, 0, 0},  Borda = {153, 0, 204}},
+		},
+	},----------------------------------- Gang ---------------------------------------------
 
-		[501361938] = {  
-			Nome = "盎 • Dragon' s Blade's • 盎",
-			Dono = 3706008519,
-			Vida = 1000,
-			Itens = {['Mikey'] = 0},
-			Roupa = {Tier = 256,Shirt = 0,Pants = 0},
-			Cor = { 
-				Nome = 	  {Letra = {13, 136, 189},  Borda = {0, 255, 8}},
-				Patente = {Letra = {13, 136, 189},  Borda = {251, 255, 0}},
-				Team =    {Letra = {0, 255, 8},  Borda = {13, 136, 189}},
-			},
-		},----------------------------------- Gang ---------------------------------------------
+	[9942185] = {  
+		Nome = "As branquela",
+		Dono = 1813688196,
+		Vida = 1000,
+		Itens = {['Mikey'] = 0,['Raio'] = 0},
+		Roupa = {Tier = 256,Shirt = 11914339622,Pants = 14132142432},
+		Cor = { 
+			Nome = 	  {Letra = {0, 0, 0},  Borda = {255, 255, 255}},
+			Patente = {Letra = {0, 0, 0},  Borda = {255, 255, 255}},
+			Team =    {Letra = {0, 0, 0},  Borda = {255, 255, 0}},
+		},
+	},----------------------------------- Gang ---------------------------------------------
 
-		[35808299] = {  
-			Nome = "死神 👾NIGHT REAPER 👾夜",
-			Dono = 5690140075,
-			Vida = 1000,
-			Itens = {['Mikey'] = 0},
-			Roupa = {Tier = 256,Shirt = 0,Pants = 0},
-			Cor = { 
-				Nome = 	  {Letra = {255, 0, 0},  Borda = {114,47,55}},
-				Patente = {Letra = {18,10,143},  Borda = {0, 0, 255}},
-				Team =    {Letra = {114,47,55},  Borda = {255, 0, 0}},
-			},
-		},----------------------------------- Gang ---------------------------------------------
+	[34910138] = {  
+		Nome = "The Dark Knight’s– 実冥闇",
+		Dono = 5032292144,
+		Vida = 1000,
+		Itens = {['Mikey'] = 0},
+		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
+		Cor = { 
+			Nome = 	  {Letra = {0, 0, 0},  Borda = {153, 0, 204}},
+			Patente = {Letra = {0, 0, 0},  Borda = {153, 0, 204}},
+			Team =    {Letra = {0, 0, 0},  Borda = {153, 0, 204}},
+		},
+	},----------------------------------- Gang ---------------------------------------------
 
-		[386414658] = {  
-			Nome = "Shadow Garden",
-			Dono = 10339014930,
-			Vida = 1000,
-			Itens = {['Mikey'] = 0},
-			Roupa = {Tier = 256,Shirt = 0,Pants = 0},
-			Cor = { 
-				Nome = 	  {Letra = {0, 0, 0},  Borda = {255,255,255}},
-				Patente = {Letra = {255,255,255},  Borda = {0, 0, 0}},
-				Team =    {Letra = {0,0,0},  Borda = {255, 255, 255}},
-			},
-		},----------------------------------- Gang ---------------------------------------------
+	[501361938] = {  
+		Nome = "盎 • Dragon' s Blade's • 盎",
+		Dono = 3706008519,
+		Vida = 1000,
+		Itens = {['Mikey'] = 0},
+		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
+		Cor = { 
+			Nome = 	  {Letra = {13, 136, 189},  Borda = {0, 255, 8}},
+			Patente = {Letra = {13, 136, 189},  Borda = {251, 255, 0}},
+			Team =    {Letra = {0, 255, 8},  Borda = {13, 136, 189}},
+		},
+	},----------------------------------- Gang ---------------------------------------------
 
-		[205876960] = {  
-			Nome = "黒 Yamikuzu Black Dragons 黒",
-			Dono = 3235802349,
-			Vida = 1000,
-			Itens = {['Mikey'] = 0,['SusanooSlap'] = 0},
-			Roupa = {Tier = 256,Shirt = 10332854578,Pants = 10330371294},
-			Cor = { 
-				Nome = 	  {Letra = {255, 0, 0},  Borda = {0, 0, 0}},
-				Patente = {Letra = {0, 0, 0},    Borda = {255, 0, 0}},
-				Team =    {Letra = {0,0,0},  	 Borda = {0, 0, 0}},
-			},
-		},----------------------------------- Gang ---------------------------------------------
+	[35808299] = {  
+		Nome = "死神 👾NIGHT REAPER 👾夜",
+		Dono = 5690140075,
+		Vida = 1000,
+		Itens = {['Mikey'] = 0},
+		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
+		Cor = { 
+			Nome = 	  {Letra = {255, 0, 0},  Borda = {114,47,55}},
+			Patente = {Letra = {18,10,143},  Borda = {0, 0, 255}},
+			Team =    {Letra = {114,47,55},  Borda = {255, 0, 0}},
+		},
+	},----------------------------------- Gang ---------------------------------------------
 
-		[521458195] = {  
-			Nome = "Gyus Dragons",
-			Dono = 0,
-			Vida = 1000,
-			Itens = {['Mikey'] = 0},
-			Roupa = {Tier = 256,Shirt = 0,Pants = 0},
-			Cor = { 
-				Nome = 	  {Letra = {0, 102, 255},  Borda = {0, 0, 102} },
-				Patente = {Letra = {0, 0, 102},    Borda = {0, 0, 0}},
-				Team =    {Letra = {0, 0, 102},  	 Borda = {0, 102, 255}},
-			},
-		},----------------------------------- Gang ---------------------------------------------
+	[386414658] = {  
+		Nome = "Shadow Garden",
+		Dono = 10339014930,
+		Vida = 1000,
+		Itens = {['Mikey'] = 0},
+		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
+		Cor = { 
+			Nome = 	  {Letra = {0, 0, 0},  Borda = {255,255,255}},
+			Patente = {Letra = {255,255,255},  Borda = {0, 0, 0}},
+			Team =    {Letra = {0,0,0},  Borda = {255, 255, 255}},
+		},
+	},----------------------------------- Gang ---------------------------------------------
 
-		[727311609] = {  
-			Nome = "Os Desempregados",
-			Dono = 3657271029,
-			Vida = 1000,
-			Itens = {['Mikey'] = 0,['Dash'] = 0,['Susanoo_Slap'] = 0},
-			Roupa = {Tier = 256,Shirt = 0,Pants = 0},
-			Cor = { 
-				Nome = 	  {Letra = {0, 0, 0},  Borda = {51, 204, 204} },
-				Patente = {Letra = {0, 0, 0},    Borda = {51, 204, 204}},
-				Team =    {Letra = {0, 0, 0},  	 Borda = {51, 204, 204}},
-			},
-		},----------------------------------- Gang ---------------------------------------------
+	[205876960] = {  
+		Nome = "黒 Yamikuzu Black Dragons 黒",
+		Dono = 3235802349,
+		Vida = 1000,
+		Itens = {['Mikey'] = 0,['SusanooSlap'] = 0},
+		Roupa = {Tier = 256,Shirt = 10332854578,Pants = 10330371294},
+		Cor = { 
+			Nome = 	  {Letra = {255, 0, 0},  Borda = {0, 0, 0}},
+			Patente = {Letra = {0, 0, 0},    Borda = {255, 0, 0}},
+			Team =    {Letra = {0,0,0},  	 Borda = {0, 0, 0}},
+		},
+	},----------------------------------- Gang ---------------------------------------------
 
-		[35622688] = {  
-			Nome = "밤 Night Hunters 밤",
-			Dono = 2285702949,
-			Vida = 1000,
-			Itens = {['Mikey'] = 0},
-			Roupa = {Tier = 256,Shirt = 0,Pants = 0},
-			Cor = { 
-				Nome = 	  {Letra = {0, 0, 0},  Borda = {153, 51, 153} },
-				Patente = {Letra = {0, 0, 0},    Borda = {115, 115, 115}},
-				Team =    {Letra = {0, 0, 0},  	 Borda = {153, 51, 153}},
-			},
-		},----------------------------------- Gang ---------------------------------------------
+	[521458195] = {  
+		Nome = "Gyus Dragons",
+		Dono = 0,
+		Vida = 1000,
+		Itens = {['Mikey'] = 0},
+		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
+		Cor = { 
+			Nome = 	  {Letra = {0, 102, 255},  Borda = {0, 0, 102} },
+			Patente = {Letra = {0, 0, 102},    Borda = {0, 0, 0}},
+			Team =    {Letra = {0, 0, 102},  	 Borda = {0, 102, 255}},
+		},
+	},----------------------------------- Gang ---------------------------------------------
 
-		[978698151] = {  
-			Nome = "Eclipse Crew",
-			Dono = 7409839282,
-			Vida = 1000,
-			Itens = {['Mikey'] = 0},
-			Roupa = {Tier = 256,Shirt = 0,Pants = 0},
-			Cor = { 
-				Nome = 	  {Letra = {0, 0, 0},  Borda = {79, 0, 0} },
-				Patente = {Letra = {194, 81, 71},    Borda = {79, 0, 0}},
-				Team =    {Letra = {184, 0, 0},  	 Borda = {0, 0, 0}},
-			},
-		},----------------------------------- Gang ---------------------------------------------
+	[727311609] = {  
+		Nome = "Os Desempregados",
+		Dono = 3657271029,
+		Vida = 1000,
+		Itens = {['Mikey'] = 0,['Dash'] = 0,['Susanoo_Slap'] = 0},
+		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
+		Cor = { 
+			Nome = 	  {Letra = {0, 0, 0},  Borda = {51, 204, 204} },
+			Patente = {Letra = {0, 0, 0},    Borda = {51, 204, 204}},
+			Team =    {Letra = {0, 0, 0},  	 Borda = {51, 204, 204}},
+		},
+	},----------------------------------- Gang ---------------------------------------------
+
+	[35622688] = {  
+		Nome = "밤 Night Hunters 밤",
+		Dono = 2285702949,
+		Vida = 1000,
+		Itens = {['Mikey'] = 0},
+		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
+		Cor = { 
+			Nome = 	  {Letra = {0, 0, 0},  Borda = {153, 51, 153} },
+			Patente = {Letra = {0, 0, 0},    Borda = {115, 115, 115}},
+			Team =    {Letra = {0, 0, 0},  	 Borda = {153, 51, 153}},
+		},
+	},----------------------------------- Gang ---------------------------------------------
+
+	[978698151] = {  
+		Nome = "Eclipse Crew",
+		Dono = 7409839282,
+		Vida = 1000,
+		Itens = {['Mikey'] = 0},
+		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
+		Cor = { 
+			Nome = 	  {Letra = {0, 0, 0},  Borda = {79, 0, 0} },
+			Patente = {Letra = {194, 81, 71},    Borda = {79, 0, 0}},
+			Team =    {Letra = {184, 0, 0},  	 Borda = {0, 0, 0}},
+		},
+	},----------------------------------- Gang ---------------------------------------------
 
 
 }
 
-
-
-
 return Gangs
 
 
-	
+
 
 
 
