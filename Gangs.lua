@@ -296,7 +296,7 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 	[33277598] = { -- [Dono ID: 7158525435 ] slot 15(HP AUMENTADO)
-		Nome = "Universal Demonic",
+		Nome = "Luas Inferiores",
 		Dono = 7158525435,
 		Vida = 1000,
 		Itens = {['KokusenKick'] = 0,['Yamato'] = 0,['TacoLucille'] = 0,['Rasteira'] = 0,['FireKick'] = 0,['YinYang'] = 0,['CorteDiabolico'] = 0},
