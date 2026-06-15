@@ -697,7 +697,7 @@ local Gangs = {
 		Nome = "Berserk",
 		Dono = 11046767151,
 		Vida = 1000,
-		Animations = {Idle = 104082559959129,Walk = 12433634045,Run = 12433634045},
+		--Animations = {Idle = 104082559959129,Walk = 12433634045,Run = 12433634045},
 		Itens = {['Mikey'] = 0,['Colateral'] = 0,['Rinnegan_Push'] = {Size = 30},['Raio'] = 0,['SusanooSlap'] = {Color = {160, 120, 89}}},
 		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
 		Cor = { 
