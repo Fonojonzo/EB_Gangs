@@ -693,6 +693,20 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
+	[0] = {   -- [Dono ID: 11046767151 ] (HP AUMENTADO) MAX 10 / gang promo por 300 (replica goten) / colateral/rinnegan/raio/susanoo emprestado para o san 5059843
+		Nome = "Berserk",
+		Dono = 11046767151,
+		Vida = 1000,
+		Animations = {Idle = 104082559959129,Walk = 12433634045,Run = 12433634045},
+		Itens = {['Mikey'] = 0,['Colateral'] = 0,['Rinnegan_Push'] = {Size = 30},['Raio'] = 0,['SusanooSlap'] = {Color = {160, 120, 89}}},
+		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
+		Cor = { 
+			Nome = 	  {Letra = {0, 0, 0},Borda = {153, 0, 51}},
+			Patente = {Letra = {0, 0, 0},Borda = {153, 0, 51}},
+			Team =    {Letra = {0, 0, 0},Borda = {153, 0, 51}},
+		},
+	},----------------------------------- Gang ---------------------------------------------
+
 
 	[35407574] = {   -- [Dono ID: 5426598347] (HP AUMENTADO) MAX 15 PLAYER 
 		Nome = "Crimson Nebula",
