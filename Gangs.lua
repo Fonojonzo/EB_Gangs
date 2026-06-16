@@ -756,7 +756,7 @@ local Gangs = {
 		Itens = {['KokusenKick'] = 0,['Dash'] = 0,['ChuteEletrico'] = 0,['Rasteira'] = 0,['FireKick'] = 0,['SusanooSlap'] = {Color = {0,0,0},Knockback = 52},['YinYang'] = 0,['Rinnegan_Push'] = {Size = 32,Knockback = 57},['MundoTransparente'] = 0,
 			['Raio'] = 0,['PisoVento'] = 0,['ShurikenExplosiva'] = 0,['Thunder'] = 0,['Colateral'] = 0,['ChuteCongelante'] = 0,['Hinokami_1'] = 0,['CorteDiabolico'] = 0,
 		},
-		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
+		Roupa = {Tier = 256,Shirt = 7602845081,Pants = 108311724406011},
 		Cor = { 
 			Nome = 	  {Letra = {0,0,0},Borda = {255, 255, 255}},
 			Patente = {Letra = {0,0,0},Borda = {255, 255, 255}},
