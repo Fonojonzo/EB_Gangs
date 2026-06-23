@@ -242,7 +242,7 @@ local Gangs = {
 
 	[34427514] = {   -- [Dono ID:2468759752 ] slot 15 /  ID GANG/ matheusprogamer_123 vendendo cargo -- 34008520 Odyssey Klaw's II 乡 / raio parcelado 11/11 84 reais(HP AUMENTADO) /  venda de cargo dnv
 		Nome = "炎 Os Hashiras",
-		Dono = 2468759752,
+		Dono = 3207378051,
 		Vida = 1000,
 		Itens = {['KokusenKick'] = 0,['Dash'] = 0,['TacoLucille'] = 0,['Rasteira'] = 0,['FireKick'] = 0,['Raio'] = 0,['MundoTransparente'] = 0,['Susanoo2Swords'] = 0,['Rinnegan_Push'] = 0,
 			['ChuteEletrico'] = 0},
