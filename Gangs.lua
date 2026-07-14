@@ -1758,7 +1758,7 @@ local Gangs = {
 		Nome = "Hiroshi Gang",
 		Dono = 5191460868,
 		Vida = 1000,
-		Itens = {['YinYang'] = 0},
+		Itens = {['YinYang'] = 0,['SusanooSlap'] = 0},
 		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
 		Cor = { 
 			Nome = 	  {Letra = {255, 255, 255},  Borda = {0, 0, 0} },
