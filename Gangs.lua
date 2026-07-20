@@ -1360,7 +1360,7 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 
-	[0] = {   -- [Dono ID: 2515682546 ] (HP AUMENTADO) / MAX 10 / 1 buff susanoo / ['FireKick'] = 0 pediu pra tirar atrapalhando / 32352281 / excesso tabela 18 de 254 vou contar não
+	[32352281] = {   -- [Dono ID: 2515682546 ] (HP AUMENTADO) / MAX 10 / 1 buff susanoo / ['FireKick'] = 0 pediu pra tirar atrapalhando / 
 		Nome = "ㅊ Hunters ㅊ",
 		Dono = 2515682546,
 		Vida = 3000,
