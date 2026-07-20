@@ -428,7 +428,7 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[35000398] = { -- [Dono ID: 2999322831] slot 10(HP AUMENTADO)
+	[0] = { -- [Dono ID: 2999322831] slot 10(HP AUMENTADO) 35000398 excesso tabela 20 e gang invisivel
 		Nome = "King's Of Heavens",
 		Dono = 2999322831,
 		Vida = 1000,
@@ -1360,7 +1360,7 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 
-	[32352281] = {   -- [Dono ID: 2515682546 ] (HP AUMENTADO) / MAX 10 / 1 buff susanoo / ['FireKick'] = 0 pediu pra tirar atrapalhando
+	[0] = {   -- [Dono ID: 2515682546 ] (HP AUMENTADO) / MAX 10 / 1 buff susanoo / ['FireKick'] = 0 pediu pra tirar atrapalhando / 32352281 / excesso tabela 18 de 254 vou contar não
 		Nome = "ㅊ Hunters ㅊ",
 		Dono = 2515682546,
 		Vida = 3000,
@@ -1373,7 +1373,7 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[34765514] = {   -- [Dono ID: 2582280278 ] (HP AUMENTADO) / MAX 10 
+	[0] = {   -- [Dono ID: 2582280278 ] (HP AUMENTADO) / MAX 10  34765514 excesso na tabela/ 7 com 50 cargos
 		Nome = "☯ Tenjiku Gang ☯",
 		Dono = 2582280278,
 		Vida = 2000,
@@ -1728,7 +1728,7 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[727311609] = {  
+	[0] = {  -- 727311609 excesso tabela 7 com 20 cargos
 		Nome = "Os Desempregados",
 		Dono = 3657271029,
 		Vida = 1000,
