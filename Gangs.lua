@@ -693,7 +693,7 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[5059843] = {   -- [Dono ID: 11046767151 ] (HP AUMENTADO) MAX 10 / gang promo por 300 (replica goten) / colateral/rinnegan/raio/susanoo emprestado para o san 
+	[0] = {   -- [Dono ID: 11046767151 ] (HP AUMENTADO) MAX 10 / gang promo por 300 (replica goten) / colateral/rinnegan/raio/susanoo emprestado para o san  5059843 venda de gang
 		Nome = "Berserk",
 		Dono = 11046767151,
 		Vida = 1000,
