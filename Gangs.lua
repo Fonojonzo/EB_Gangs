@@ -173,11 +173,11 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[33803150] = {   -- [Dono ID:4700176285 ] slot 15 (HP AUMENTADO)
+	[33803150] = {   -- [Dono ID:4700176285 ] slot 15 (HP AUMENTADO) / ['Yamato'] = 0 solicitou tirar
 		Nome = 'Yamaguchi Gumi',
 		Dono = 4700176285,
 		Vida = 2000,
-		Itens = {['KokusenKick'] = 0,['Dash'] = 0,['TacoLucille'] = 0,['Yamato'] = 0,['Rasteira'] = 0,['FireKick'] = 0,['ShurikenExplosiva'] = 0,['SusanooSlap'] = 0,['ChuteCongelante'] = 0,['ChuteVoadorJ7'] = 0,
+		Itens = {['KokusenKick'] = 0,['Dash'] = 0,['TacoLucille'] = 0,['Rasteira'] = 0,['FireKick'] = 0,['ShurikenExplosiva'] = 0,['SusanooSlap'] = 0,['ChuteCongelante'] = 0,['ChuteVoadorJ7'] = 0,
 			['Rinnegan_Push'] = {Button = 'R',Size = 26},['Colateral'] = 0,['DoubleJump'] = 0},	
 		Roupa = {Tier = 255,Shirt = 2413916203,Pants = 386498921},
 		Cor = { 
@@ -1529,15 +1529,15 @@ local Gangs = {
 
 
 	[647794796] = {  
-		Nome = "IRON DRAGONS",
+		Nome = "Demonic Onyx",
 		Dono = 2322814966,
 		Vida = 1000,
 		Itens = {['Mikey'] = 0},
 		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
 		Cor = { 
-			Nome = 	  {Letra = {255, 255, 255},  Borda = {0, 0, 0}},
-			Patente = {Letra = {0, 0, 0},  Borda = {255, 255, 255}},
-			Team =    {Letra = {0, 0, 0},  Borda = {255, 255, 255}},
+			Nome = 	  {Letra = {0, 0, 0},  Borda = {255, 0, 0}},
+			Patente = {Letra = {0, 0, 0},  Borda = {0, 0, 0}},
+			Team =    {Letra = {0, 0, 0},  Borda = {0, 0, 0}},
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
