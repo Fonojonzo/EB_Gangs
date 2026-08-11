@@ -1529,11 +1529,11 @@ local Gangs = {
 
 
 	[647794796] = {  
-		Nome = "Demonic Onyx",
+		Nome = "Máfia Argentina",
 		Dono = 2322814966,
 		Vida = 1000,
 		Itens = {['Mikey'] = 0},
-		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
+		Roupa = {Tier = 256,Shirt = 12369372858,Pants = 14978977923},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},  Borda = {255, 0, 0}},
 			Patente = {Letra = {0, 0, 0},  Borda = {0, 0, 0}},
