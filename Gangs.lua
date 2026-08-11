@@ -1346,15 +1346,15 @@ local Gangs = {
 
 
 	[32352281] = {   -- [Dono ID: 2515682546 ] (HP AUMENTADO) / MAX 10 / 1 buff susanoo / ['FireKick'] = 0 pediu pra tirar atrapalhando / 
-		Nome = "ㅊ Hunters ㅊ",
+		Nome = "Qako 초",
 		Dono = 2515682546,
 		Vida = 3000,
 		Itens = {['Dash'] = 0,['SusanooSlap'] = {Knockback = 65,Color = {0,0,0}},['Raio'] = 0,['Rinnegan_Push'] = 0,['YinYang'] = 0,['Colateral'] = 0,['FP_Thunder'] = 0},
 		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
 		Cor = { 
-			Nome = 	  {Letra = {255, 255, 255},  Borda = {255, 0, 0}},
-			Patente = {Letra = {255, 255, 255},  Borda = {255, 0, 0}},
-			Team =    {Letra = {255, 255, 255},  Borda = {255, 0, 0}},
+			Nome = 	  {Letra = {0, 0, 0},  Borda = {255, 255, 255}},
+			Patente = {Letra = {0, 0, 0},  Borda = {255, 255, 255}},
+			Team =    {Letra = {0, 0, 0},  Borda = {0, 0, 0}},
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
@@ -1541,7 +1541,7 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[760836943] = {  
+	[0] = {  -- 760836943 desativou 
 		Nome = "Yhiens",
 		Dono = 7681638701,
 		Vida = 1000,
