@@ -1529,7 +1529,7 @@ local Gangs = {
 
 
 	[647794796] = {  
-		Nome = "Máfia Argentina",
+		Nome = "Demonic Onyx",
 		Dono = 2322814966,
 		Vida = 1000,
 		Itens = {['Mikey'] = 0},
