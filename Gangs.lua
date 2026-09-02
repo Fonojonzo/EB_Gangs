@@ -108,7 +108,7 @@ local Gangs = {
 
 	[110195232] = {   -- [Dono ID:239558369 ] slot 15 (HP AUMENTADO)
 		Nome = 'Heiwa',
-		Dono = 239558369,
+		Dono = 9774128883,
 		Vida = 2000,
 		Itens = {['SocoEletrico'] = 0,['TacoLucille'] = {255,254,100},['CrowDash'] = 0,['FireKick'] = 0,['DoubleJump'] = 255,['Raio'] = {255, 254, 100},['YinYang'] = 0,['SusanooSlap'] = 0,['Rinnegan_Push'] = {Size = 75,Color = {255,0,0},Button = 'R'},['Hinokami_1'] = 0,['CorteDiabolico'] = 0,['YinColateral'] = 0,['MinatoKunai'] = 0},
 		Roupa = {Tier = 95,Shirt = 0,Pants = 0},
