@@ -935,7 +935,7 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 
-	[643133494] = {   -- [Dono ID: 4422049102 ] (HP AUMENTADO) / MAX 10 
+	[0] = {   -- [Dono ID: 4422049102 ] (HP AUMENTADO) / MAX 10  643133494 150 membros flw desgraça
 		Nome = "The New Sun 🉐️🌀",
 		Dono = 5806380717,
 		Vida = 1000,
