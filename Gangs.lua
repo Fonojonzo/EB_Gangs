@@ -1713,7 +1713,7 @@ local Gangs = {
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
-	[0] = {  -- 727311609 excesso tabela 7 com 20 cargos
+	[727311609] = {  --  excesso tabela 7 com 20 cargos
 		Nome = "Os Desempregados",
 		Dono = 3657271029,
 		Vida = 1000,
