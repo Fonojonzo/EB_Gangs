@@ -1753,16 +1753,16 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 
-	[0] = {  -- 1040790170 trocou por kaioshin+uchiha
-		Nome = "Astral Fury 勇气",
-		Dono = 9774128883,
+	[35105220] = {  -- 11075508543 dono / 14 boosts / gang do rafa
+		Nome = "Máfia Mexicana",
+		Dono = 11075508543,
 		Vida = 1000,
-		Itens = {['ChuteCongelante'] = 0,['Susanoo2Swords'] = 0,['Raio'] = 0},
+		Itens = {['Mikey'] = 0},
 		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
 		Cor = { 
-			Nome = 	  {Letra = {0, 0, 0},        Borda = {255, 255, 255} },
-			Patente = {Letra = {0, 0, 0},        Borda = {255, 255, 255}},
-			Team =    {Letra = {255, 255, 0},  	 Borda = {0, 0, 0}},
+			Nome = 	  {Letra = {245, 241, 232},       Borda = {255, 255, 255} },
+			Patente = {Letra = {212, 175, 55},        Borda = {255, 255, 255}},
+			Team =    {Letra = {10, 10, 10},  	 	  Borda = {166, 124, 0}},
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
