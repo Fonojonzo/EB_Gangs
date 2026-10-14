@@ -1531,7 +1531,7 @@ local Gangs = {
 	[647794796] = {  
 		Nome = "Demonic Onyx",
 		Dono = 2322814966,
-		Vida = 1000,
+		Vida = 1,
 		Itens = {['Mikey'] = 0},
 		Roupa = {Tier = 256,Shirt = 12369372858,Pants = 14978977923},
 		Cor = { 
