@@ -1757,7 +1757,7 @@ local Gangs = {
 		Nome = "Máfia Mexicana",
 		Dono = 11075508543,
 		Vida = 1000,
-		Itens = {['Mikey'] = 0},
+		Itens = {['Raio_FP'] = 0,['Rinnegan_Push'] = 0,['SwordSlash'] = 0,['PisoLuas'] = 0},
 		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
 		Cor = { 
 			Nome = 	  {Letra = {245, 241, 232},       Borda = {10, 10, 10} },
