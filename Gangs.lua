@@ -188,15 +188,15 @@ local Gangs = {
 	},----------------------------------- Gang ---------------------------------------------
 
 	[34137261] = {   -- [Dono ID: 7400006582 ] slot 15 (HP AUMENTADO) | bufalo bil evento
-		Nome = 'Fúria dos Ventos',
+		Nome = 'Noprime',
 		Dono = 7400006582,
 		Vida = 1500,
 		Itens = {['KokusenKick'] = 0,['Dash'] = 0,['TacoLucille'] = 10,['Rasteira'] = 0,['FireKick'] = 0,['PisoVento'] = 0},
 		Roupa = {Tier = 255,Shirt = 14835712865,Pants = 7473725443},
 		Cor = { 
-			Nome = 	  {Letra = {0, 0, 0},Borda = {192, 0, 0}},
-			Patente = {Letra = {0, 0, 0},Borda = {192, 0, 0}},
-			Team =    {Letra = {0, 0, 0},Borda = {255, 255, 255}},
+			Nome = 	  {Letra = {0, 0, 0},Borda = {0, 0, 128}},
+			Patente = {Letra = {0, 0, 0},Borda = {0, 0, 128}},
+			Team =    {Letra = {0, 0, 0},Borda = {0, 0, 128}},
 		},
 	},----------------------------------- Gang ---------------------------------------------
 
@@ -207,7 +207,7 @@ local Gangs = {
 		Itens = {['Rinnegan_Push'] = 0,['Rasteira'] = 0,['SusanooSlap'] = 0,['Raio'] = 0},
 		Roupa = {Tier = 255,Shirt = 7535774077,Pants = 7535774954},
 		Cor = { 
-			Nome = 	  {Letra = {255 , 255, 255},Borda = {0, 0, 0}},
+			Nome = 	  {Letra = {0 , 0, 0},Borda = {0, 0, 0}},
 			Patente = {Letra = {0, 0, 0},Borda = {255, 255, 255}},
 			Team =    {Letra = {0, 0, 0},Borda = {255, 255, 255}},
 		},
