@@ -192,7 +192,7 @@ local Gangs = {
 		Dono = 7400006582,
 		Vida = 1500,
 		Itens = {['KokusenKick'] = 0,['Dash'] = 0,['TacoLucille'] = 10,['Rasteira'] = 0,['FireKick'] = 0,['PisoVento'] = 0},
-		Roupa = {Tier = 255,Shirt = 14835712865,Pants = 7473725443},
+		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},Borda = {0, 0, 128}},
 			Patente = {Letra = {0, 0, 0},Borda = {0, 0, 128}},
