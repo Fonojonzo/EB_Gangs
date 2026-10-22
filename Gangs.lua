@@ -193,6 +193,7 @@ local Gangs = {
 		Vida = 1500,
 		Itens = {['KokusenKick'] = 0,['Dash'] = 0,['TacoLucille'] = 10,['Rasteira'] = 0,['FireKick'] = 0,['PisoVento'] = 0},
 		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
+		Animations = {Idle = 96146892010712,Walk = 104390802869990,Run = 104390802869990},
 		Cor = { 
 			Nome = 	  {Letra = {0, 0, 0},Borda = {0, 0, 128}},
 			Patente = {Letra = {0, 0, 0},Borda = {0, 0, 128}},
