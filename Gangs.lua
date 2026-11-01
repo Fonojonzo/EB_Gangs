@@ -191,7 +191,7 @@ local Gangs = {
 		Nome = 'Noprime',
 		Dono = 7400006582,
 		Vida = 1500,
-		Itens = {['KokusenKick'] = 0,['Dash'] = 0,['TacoLucille'] = 10,['Rasteira'] = 0,['FireKick'] = 0,['PisoVento'] = 0},
+		Itens = {['KokusenKick'] = 0,['Dash'] = 0,['TacoLucille'] = 10,['Rasteira'] = 0,['FireKick'] = 0,['PisoVento'] = 0,['SusanooSlap'] = 0},
 		Roupa = {Tier = 255,Shirt = 0,Pants = 0},
 		Animations = {Idle = 96146892010712,Walk = 104390802869990,Run = 104390802869990},
 		Cor = { 
@@ -1692,7 +1692,7 @@ local Gangs = {
 		Nome = "黒 Yamikuzu Black Dragons 黒",
 		Dono = 3235802349,
 		Vida = 1000,
-		Itens = {['Mikey'] = 0,['SusanooSlap'] = 0},
+		Itens = {['Mikey'] = 0},
 		Roupa = {Tier = 256,Shirt = 10332854578,Pants = 10330371294},
 		Cor = { 
 			Nome = 	  {Letra = {255, 0, 0},  Borda = {0, 0, 0}},
