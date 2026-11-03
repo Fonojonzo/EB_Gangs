@@ -1771,7 +1771,7 @@ local Gangs = {
 		Nome = "Saint Seiya",
 		Dono = 8216866980,
 		Vida = 1000,
-		Itens = {['Mikey'] = 0},
+		Itens = {['Mikey'] = 0,['YinYang'] = 0},
 		Roupa = {Tier = 256,Shirt = 0,Pants = 0},
 		Cor = { 
 			Nome = 	  {Letra = {136, 8, 8},      		  Borda = {255, 255, 255} },
